@@ -1,0 +1,51 @@
+{
+    "name": "We are 花粉フェアリー☆ぽりのーしす！",
+    "url": "We-are-花粉フェアリー☆ぽりのーしす！",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "KOKO/ココ [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:27",
+    "albums": [
+        {
+            "albumName": "Love Chu! 2/らぶちゅ！２",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2015-04-26",
+            "albumReleaseEvent": "M3-35",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "We are 花粉フェアリー☆ぽりのーしす！",
+            "link": "https://youtu.be/rnF3DQLYYxA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "We are 花粉フェアリー☆ぽりのーしす！",
+            "link": "https://open.spotify.com/track/5oVcwJXpeWkxGoNcKsbwf9?si=28bd11ef8ba44690",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "We are 花粉フェアリー☆ぽりのーしす！",
+            "link": "https://music.apple.com/jp/album/we-are-pollen-fairies-pollino-sis/1554983155?i=1554983317&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "らぶちゅ！２.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

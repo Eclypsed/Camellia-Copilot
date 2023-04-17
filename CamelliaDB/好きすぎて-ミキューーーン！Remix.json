@@ -1,0 +1,47 @@
+{
+    "name": "好きすぎて(ミキューーーン！Remix)",
+    "url": "好きすぎて-ミキューーーン！Remix",
+    "altNames": null,
+    "artists": [
+        "LamazeP/ラマーズP [C]",
+        "Haruka Nana/春歌ナナ [V]",
+        "Hatsune Miku/初音ミク [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "好きすぎて",
+        "originalSongArtists": [
+            "春歌ナナ"
+        ],
+        "originalSongLink": "https://www.nicovideo.jp/watch/sm9828957"
+    },
+    "duration": "4:03",
+    "albums": [
+        {
+            "albumName": "ミキューーーン！",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2010-05-05",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "好きすぎて(ミキューーーン！Remix)",
+            "link": "https://youtu.be/XabdNIvCD9Y",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Mikyuuuun!.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

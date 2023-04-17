@@ -1,0 +1,96 @@
+{
+    "name": "ハードベース・フェスタ",
+    "url": "ハードベース・フェスタ",
+    "altNames": [
+        "Hardbass festa"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:03",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2019-06-05",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 26 Rootage",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2018-11-07"
+        },
+        {
+            "gameName": "beatmania IIDX ULTIMATE MOBILE",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-06-02"
+        },
+        {
+            "gameName": "beatmania IIDX INFINITAS (2020)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-05-18"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ハードベース・フェスタ",
+            "link": "https://youtu.be/VIVu3wuDq2k",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 26 Rootage OST.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "ハードベース・フェスタ (Длинная версия)",
+            "url": "ハードベース・フェスタ-Длинная-версия",
+            "altNames": [
+                "Hardbass festa (Long Version)"
+            ],
+            "artists": [
+                "Nanahira/ななひら [V]"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:03",
+            "albums": [
+                {
+                    "albumName": "beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK",
+                    "albumPublisher": "Konami",
+                    "albumReleaseDate": "2019-06-05",
+                    "albumReleaseEvent": null,
+                    "albumType": "OST"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "ハードベース・フェスタ (Длинная версия)",
+                    "link": "https://youtu.be/QeywEVgXK4c",
+                    "unofficial": true
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "beatmania IIDX 26 Rootage OST.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

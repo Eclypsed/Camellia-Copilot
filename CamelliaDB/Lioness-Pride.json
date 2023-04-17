@@ -1,0 +1,50 @@
+{
+    "name": "Lioness' Pride",
+    "url": "Lioness-Pride",
+    "altNames": null,
+    "artists": [
+        "Shishiro Botan/獅白ぼたん [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:48",
+    "albums": [
+        {
+            "albumName": "Lioness' Pride",
+            "albumPublisher": "COVER Corporation/カバー株式会社",
+            "albumReleaseDate": "2021-08-15",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Lioness' Pride",
+            "link": "https://youtu.be/npVP58NvdQ8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Lioness' Pride",
+            "link": "https://open.spotify.com/track/3uUqVWJfaRpaj3b0EgrOsS?si=9231796a3ee34fbe",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Lioness' Pride",
+            "link": "https://music.apple.com/us/album/lioness-pride/1580884997?i=1580884999",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Lioness Pride.png",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on the release.",
+    "variations": null
+}

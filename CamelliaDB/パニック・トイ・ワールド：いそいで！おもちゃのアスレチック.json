@@ -1,0 +1,48 @@
+{
+    "name": "パニック・トイ・ワールド：いそいで！おもちゃのアスレチック",
+    "url": "パニック・トイ・ワールド：いそいで！おもちゃのアスレチック",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:32",
+    "albums": [
+        {
+            "albumName": "STARSHIP'S TOY BOX",
+            "albumPublisher": "djgenki.net",
+            "albumReleaseDate": "2018-08-10",
+            "albumReleaseEvent": "Comiket 94",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "パニック・トイ・ワールド：いそいで！おもちゃのアスレチック",
+            "link": "https://youtu.be/Qr-TaV_AXUg",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "パニック・トイ・ワールド：いそいで！おもちゃのアスレチック",
+            "link": "https://genkianamei.bandcamp.com/track/--22",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "STARSHIP'S TOY BOX",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001626&search=STARSHIP%27S+TOYBOX&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Starship's Toybox.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

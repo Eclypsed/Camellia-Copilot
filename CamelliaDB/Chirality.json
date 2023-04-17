@@ -1,0 +1,99 @@
+{
+    "name": "Chirality",
+    "url": "Chirality",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:41",
+    "albums": [
+        {
+            "albumName": "REFLEC BEAT groovin'!! + colette ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2014-10-08",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "REFLEC BEAT groovin'!!",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-07-08"
+        },
+        {
+            "gameName": "REFLEC BEAT plus",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-11-13"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Chirality",
+            "link": "https://youtu.be/e92L2TVxXLw",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Chirality.png",
+            "caption": null
+        },
+        {
+            "filename": "REFLEC BEAT groovin!! + colette ORIGINAL SOUNDTRACK.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Chirality (Dissymmetric Long ver.)",
+            "url": "Chirality-Dissymmetric-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:20",
+            "albums": [
+                {
+                    "albumName": "GALAXY BURST",
+                    "albumPublisher": "EXIT TUNES",
+                    "albumReleaseDate": "2018-03-21",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Chirality (Dissymmetric Long ver.)",
+                    "link": "https://youtu.be/og6dZKAJ9pU",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "GALAXY BURST",
+                    "link": "https://diverse.direct/edp/qwce-90016/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "GALAXY BURST",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001441&search=GALAXY+BURST&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "GALAXY BURST.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

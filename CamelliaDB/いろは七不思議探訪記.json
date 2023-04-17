@@ -1,0 +1,62 @@
+{
+    "name": "いろは七不思議探訪記",
+    "url": "いろは七不思議探訪記",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:22",
+    "albums": [
+        {
+            "albumName": "いろは七不思議探訪記",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2021-04-25",
+            "albumReleaseEvent": "M3-47",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "いろは七不思議探訪記",
+            "link": "https://youtu.be/WAakwxxXupU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "いろは七不思議探訪記",
+            "link": "https://open.spotify.com/track/1MlB5pOjFdVlDFpLbQBvVF?si=dffd2f596f7f4414",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "いろは七不思議探訪記",
+            "link": "https://music.apple.com/us/album/iroha-seven-wonders-expedition/1571225756?i=1571225758",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "いろは七不思議探訪記 (Album)",
+            "link": "https://diverse.direct/confetto/cfcd-0024/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "いろは七不思議探訪記 (Album)",
+            "link": "https://www.tanocstore.net/shopdetail/000000002703/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "いろは七不思議探訪記.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

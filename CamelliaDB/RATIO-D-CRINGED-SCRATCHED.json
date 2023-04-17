@@ -1,0 +1,60 @@
+{
+    "name": "RATIO'D + CRINGED + SCRATCHED",
+    "url": "RATIO-D-CRINGED-SCRATCHED",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:53",
+    "albums": [
+        {
+            "albumName": "灰の羽搏",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2023-02-15",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "RATIO'D + CRINGED + SCRATCHED",
+            "link": "https://youtu.be/hBJpyu5Z8JI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "RATIO'D + CRINGED + SCRATCHED",
+            "link": "https://open.spotify.com/track/4ZRnZPBLGoRZQKZhFvTc7S?si=750ebaa1cab44d94",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "RATIO'D + CRINGED + SCRATCHED",
+            "link": "https://music.apple.com/us/album/ratiod-cringed-scratched/1669477071?i=1669477076",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "灰の羽搏",
+            "link": "https://diverse.direct/edp/pcca-06182/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "灰の羽搏",
+            "link": "https://www.tanocstore.net/shopdetail/000000003212",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "灰の羽搏.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

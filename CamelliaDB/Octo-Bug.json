@@ -1,0 +1,73 @@
+{
+    "name": "Octo-Bug",
+    "url": "Octo-Bug",
+    "altNames": null,
+    "artists": [
+        "Massive New Krew [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:13",
+    "albums": [
+        {
+            "albumName": "SUPREMACY",
+            "albumPublisher": "Massive CircleZ",
+            "albumReleaseDate": "2014-04-27",
+            "albumReleaseEvent": "M3-33",
+            "albumType": "C"
+        },
+        {
+            "albumName": "Massive CircleZ Best",
+            "albumPublisher": "Massive CircleZ",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Octo-Bug",
+            "link": "https://youtu.be/eRdxgcmIEWY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Octo-Bug",
+            "link": "https://open.spotify.com/track/61mP3AvY9OSVyDioQ5zHbi?si=8d68b874249e4dab",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Octo-Bug",
+            "link": "https://music.apple.com/jp/album/octo-bug/1607725641?i=1607725650&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Octo-Bug",
+            "link": "https://massivenewkrew.bandcamp.com/track/octo-bug-2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Massive CircleZ Best",
+            "link": "https://diverse.direct/massive-circlez/mnfk-018/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Supremacy.jpg",
+            "caption": null
+        },
+        {
+            "filename": "Massive CircleZ Best.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

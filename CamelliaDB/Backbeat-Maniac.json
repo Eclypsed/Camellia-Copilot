@@ -1,0 +1,54 @@
+{
+    "name": "Backbeat Maniac",
+    "url": "Backbeat-Maniac",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:46",
+    "albums": [
+        {
+            "albumName": "TF40K E.P.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2017-08-01",
+            "albumReleaseEvent": null,
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Backbeat Maniac",
+            "link": "https://youtu.be/slnvW6W-3GE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Backbeat Maniac",
+            "link": "https://open.spotify.com/track/1d3jAFQCacRImn8jNjozbV?si=6e37f6d0d94c4a90",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Backbeat Maniac",
+            "link": "https://music.apple.com/us/album/backbeat-maniac/1573551665?i=1573551884",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Backbeat Maniac",
+            "link": "https://cametek.bandcamp.com/track/backbeat-maniac",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "TF40KEP.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,62 @@
+{
+    "name": "re:||BIRTH",
+    "url": "re-BIRTH",
+    "altNames": null,
+    "artists": [
+        "Mayumi Morinaga (moimoi) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:13",
+    "albums": [
+        {
+            "albumName": "NOISZ re​:​|​|​VERSE OST",
+            "albumPublisher": "Anarch Entertainment",
+            "albumReleaseDate": "2021-01-17",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "NOISZ re​:​|​|​VERSE",
+            "gamePublisher": "Anarch Entertainment",
+            "gameReleaseDate": "2021-01-17"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "re:||BIRTH",
+            "link": "https://youtu.be/Qrq1n-xMIPo",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "re:||BIRTH",
+            "link": "https://open.spotify.com/track/7k7adEkqIOhLPWRN2exxfK?si=6afd62600162435c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "re:||BIRTH",
+            "link": "https://music.apple.com/us/album/re-birth/1557534751?i=1557534877",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "re:||BIRTH",
+            "link": "https://anarchgames.bandcamp.com/track/re-birth-instrumental",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "NOISZ reVERSE OST.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "Intrumental version included on release",
+    "variations": null
+}

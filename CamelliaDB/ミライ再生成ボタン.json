@@ -1,0 +1,46 @@
+{
+    "name": "ミライ再生成ボタン",
+    "url": "ミライ再生成ボタン",
+    "altNames": [
+        "Future-Respawning Button"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:15",
+    "albums": [
+        {
+            "albumName": "Magical Mirai 10th Anniversary/マジカルミライ 10th Anniversary",
+            "albumPublisher": "Crypton Future Media",
+            "albumReleaseDate": "2022-11-18",
+            "albumReleaseEvent": null,
+            "albumType": "L"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Crash Fever/クラッシュフィーバー",
+            "gamePublisher": "Wonder Planet",
+            "gameReleaseDate": "2022-11-18"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ミライ再生成ボタン",
+            "link": "https://youtu.be/lBZeMeZrDEE",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "虹輝の響創姫.png",
+            "caption": null
+        }
+    ],
+    "description": "Released as part of a collaboration event between the mobile puzzle game Crash Fever (クラッシュフィーバー) and the live concert event Magical Mirai, which at the time of release is celebrating it's 10th anniversary.",
+    "variations": null
+}

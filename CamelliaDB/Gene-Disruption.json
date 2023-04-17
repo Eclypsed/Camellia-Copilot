@@ -1,0 +1,60 @@
+{
+    "name": "Gene Disruption",
+    "url": "Gene-Disruption",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:46",
+    "albums": [
+        {
+            "albumName": "ISACCA",
+            "albumPublisher": "Japanese Stream Hardcore",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Gene Disruption",
+            "link": "https://youtu.be/k0jioMAhXuc",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Gene Disruption",
+            "link": "https://music.apple.com/jp/album/gene-disruption/1108897645?i=1108898294&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Gene Disruption",
+            "link": "https://japanesestreamhardcore.bandcamp.com/track/gene-disruption",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ISACCA",
+            "link": "https://diverse.direct/japanese-stream-hardcore/jshex-003/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "ISACCA",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000795&search=ISACCA&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Isacca.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

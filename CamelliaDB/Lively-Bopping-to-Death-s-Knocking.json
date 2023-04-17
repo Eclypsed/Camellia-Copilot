@@ -1,0 +1,50 @@
+{
+    "name": "Lively Bopping to Death's Knocking",
+    "url": "Lively-Bopping-to-Death-s-Knocking",
+    "altNames": null,
+    "artists": [
+        "Mori Calliope [?]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:42",
+    "albums": [
+        {
+            "albumName": "Hololive English -Myth- Image Soundtrack",
+            "albumPublisher": "COVER Corporation/カバー株式会社",
+            "albumReleaseDate": "2021-03-14",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Lively Bopping to Death's Knocking",
+            "link": "https://youtu.be/H8_LUZGNA2c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Lively Bopping to Death's Knocking",
+            "link": "https://open.spotify.com/track/5FNTCdB75khaBJcaMqdohc?si=cfad6716cc6941fc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Lively Bopping to Death's Knocking",
+            "link": "https://music.apple.com/us/album/lively-bopping-to-deaths-knocking/1557415273?i=1557415275",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Hololive English -Myth- Image Soundtrack.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

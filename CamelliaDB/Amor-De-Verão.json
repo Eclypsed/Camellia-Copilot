@@ -1,0 +1,50 @@
+{
+    "name": "Amor De Verão",
+    "url": "Amor-De-Verão",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:59",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2018-03-07",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 25 CANNON BALLERS",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-12-21"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Amor De Verão",
+            "link": "https://youtu.be/rd6k78b-xcc",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Amor De Verão",
+            "link": "https://music.apple.com/us/album/amor-de-ver%C3%A3o-feat-nanahira/1353258276?i=1353259020",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 25 CANNON BALLERS OST.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

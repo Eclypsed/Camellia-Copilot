@@ -1,0 +1,102 @@
+{
+    "name": "R.A.D.I.U.S.",
+    "url": "R-A-D-I-U-S",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:51",
+    "albums": [
+        {
+            "albumName": "To The All Corners Of The World :Entropia/四​荒​八​極​エ​ン​ト​ロ​ピ​ア",
+            "albumPublisher": "Binzokomegane Girls Union/瓶底眼鏡女子同盟",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "R.A.D.I.U.S.",
+            "link": "https://youtu.be/8LZKDR9uVIE",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "R.A.D.I.U.S.",
+            "link": "https://binzoko.bandcamp.com/track/r-a-d-i-u-s",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "四​荒​八​極​エ​ン​ト​ロ​ピ​ア",
+            "link": "https://diverse.direct/binzokomegane-girls-union/mgncd-001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "四​荒​八​極​エ​ン​ト​ロ​ピ​ア",
+            "link": "https://www.tanocstore.net/shopdetail/000000000288/Binzokomegane/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "四​荒​八​極​エ​ン​ト​ロ​ピ​ア.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "R.A.D.I.U.S. (Techdance VIP)",
+            "url": "R-A-D-I-U-S-Techdance-VIP",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:04",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2017-04-30",
+                    "albumReleaseEvent": "M3-39",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "R.A.D.I.U.S. (Techdance VIP)",
+                    "link": "https://youtu.be/n1wJ7H-wsAk",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0015/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001152&search=Camellia+%22Guest+Tracks%22+Summary+%26+VIPs+01&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Guest Tracks Summary VIPs 01.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

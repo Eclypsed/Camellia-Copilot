@@ -1,0 +1,62 @@
+{
+    "name": "flow arrow",
+    "url": "flow-arrow",
+    "altNames": null,
+    "artists": [
+        "Hatsune Miku/初音ミク [V]",
+        "Rei-tan/れいたん [L]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:36",
+    "albums": [
+        {
+            "albumName": "flow arrow",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2013-04-29",
+            "albumReleaseEvent": "M3-31",
+            "albumType": "S"
+        },
+        {
+            "albumName": "Stance On Wave",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2013-08-12",
+            "albumReleaseEvent": "Comiket 84",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "flow arrow",
+            "link": "https://youtu.be/r9UD01ZPie4",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Stance On Wave",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0006/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Stance On Wave",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002261&search=stance+on+wave&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "flow arrow.jpg",
+            "caption": null
+        },
+        {
+            "filename": "Stance on Wave.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on the release.  The original release of flow arrow as a single was mistakenly labeled CTCD004 on its jacket, when in actuallity it is CTCD005. The song was included on Stance On Wave (CTCD006) later that year.",
+    "variations": null
+}

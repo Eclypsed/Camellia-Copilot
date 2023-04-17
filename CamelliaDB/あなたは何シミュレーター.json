@@ -1,0 +1,44 @@
+{
+    "name": "あなたは何シミュレーター??",
+    "url": "あなたは何シミュレーター",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "魔法少女達の百年祭",
+            "touhouGame": "東方紅魔郷　～ the Embodiment of Scarlet Devil"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:11",
+    "albums": [
+        {
+            "albumName": "Touhou Police Department/東方警察",
+            "albumPublisher": "Innocent Key",
+            "albumReleaseDate": "2014-08-16",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "あなたは何シミュレーター??",
+            "link": "https://youtu.be/C_jGetzRUgk",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Touhou Police Department.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

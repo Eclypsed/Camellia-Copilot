@@ -1,0 +1,34 @@
+{
+    "name": "すべてが幻になった後で",
+    "url": "すべてが幻になった後で",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:02",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX EXCEED GEAR",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-07-14"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "すべてが幻になった後で",
+            "link": "https://youtu.be/7LU9E3dLnkU",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "すべてが幻になった後で.png",
+            "caption": null
+        }
+    ],
+    "description": "Much like Rhapsody ⚙f Triumph, despite the artist 超機装幻楽隊 being listed, this is just another alias of Camellia.",
+    "variations": null
+}

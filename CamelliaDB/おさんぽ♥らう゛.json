@@ -1,0 +1,56 @@
+{
+    "name": "おさんぽ♥らう゛",
+    "url": "おさんぽ♥らう゛",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:28",
+    "albums": [
+        {
+            "albumName": "Replay!/りぷれい！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "おさんぽ♥らう゛",
+            "link": "https://youtu.be/Nbuwhf9b40s",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "おさんぽ♥らう゛",
+            "link": "https://open.spotify.com/track/0IpGDluo2CmGZJySH4oOAl?si=1e0750974b51487a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "おさんぽ♥らう゛",
+            "link": "https://music.apple.com/jp/album/love-strolling/1553655872?i=1553656217&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "りぷれい！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-003/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Replay!.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

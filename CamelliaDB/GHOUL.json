@@ -1,0 +1,120 @@
+{
+    "name": "GHOUL",
+    "url": "GHOUL",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:31",
+    "albums": [
+        {
+            "albumName": "U.U.F.O.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2021-07-11",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "GHOUL",
+            "link": "https://youtu.be/45lv6T0YkCA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "GHOUL",
+            "link": "https://open.spotify.com/track/0ycAPiJ2of5da8WL4kENIz?si=9bdb51a28c83430e",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "GHOUL",
+            "link": "https://music.apple.com/jp/album/ghoul/1572224128?i=1572224620&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "GHOUL",
+            "link": "https://cametek.bandcamp.com/track/ghoul",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "U.U.F.O.",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0021-0022/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "U.U.F.O.",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002743&search=U.U.F.O.&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "U.U.F.O..jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "GHOST VS. GHOUL Mashup",
+            "url": "GHOST-VS-GHOUL-Mashup",
+            "altNames": null,
+            "artists": null,
+            "songType": "Mashup",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:56",
+            "albums": [
+                {
+                    "albumName": "GHOST VS. GHOUL Mashup",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2022-02-05",
+                    "albumReleaseEvent": null,
+                    "albumType": "S"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "GHOST VS. GHOUL Mashup",
+                    "link": "https://youtu.be/pH7-g9X6PwQ",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "GHOST VS. GHOUL Mashup",
+                    "link": "https://open.spotify.com/track/7wfTYtfelL54VIXKjeISKa?si=c822daae9fc1483c",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "GHOST VS. GHOUL Mashup",
+                    "link": "https://music.apple.com/jp/album/ghost-vs-ghoul-mashup/1623593210?i=1623593485&l=en",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Bandcamp",
+                    "displayName": "GHOST VS. GHOUL Mashup",
+                    "link": "https://cametek.bandcamp.com/track/ghost-vs-ghoul-mashup",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "GHOST VS. GHOUL Mashup.jpg",
+                    "caption": null
+                }
+            ],
+            "description": "Mashup between GHOST and GHOUL made for TANO*C Stream #4"
+        }
+    ]
+}

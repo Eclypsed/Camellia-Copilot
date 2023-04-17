@@ -1,0 +1,56 @@
+{
+    "name": "β (Camellia's \"βlAst-Ωff\" Remix)",
+    "url": "β-Camellia-s-βlAst-Ωff-Remix",
+    "altNames": null,
+    "artists": [
+        "BlackY [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "β",
+        "originalSongArtists": [
+            "BlackY"
+        ],
+        "originalSongLink": "https://youtu.be/ezA1kBRhngY"
+    },
+    "duration": "4:30",
+    "albums": [
+        {
+            "albumName": "ΑΩ (Bonus Track)",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2017-07-19",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        },
+        {
+            "albumName": "EDP presents Premium Music Collection",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2021-03-17",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "β (Camellia's \"βlAst-Ωff\" Remix)",
+            "link": "https://youtu.be/XXiErRHBjW8",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "AΩ.jpg",
+            "caption": null
+        },
+        {
+            "filename": "EDP presents Premium Music Collection.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Bonus track recieved if you preordered ΑΩ from とらのあな",
+    "variations": null
+}

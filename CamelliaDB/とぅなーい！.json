@@ -1,0 +1,38 @@
+{
+    "name": "とぅなーい！",
+    "url": "とぅなーい！",
+    "altNames": null,
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:39",
+    "albums": [
+        {
+            "albumName": "Rewrite School Life/上書きスクールライフ",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2012-04-29",
+            "albumReleaseEvent": "VOC@LOiD M@STER 20",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "とぅなーい！",
+            "link": "https://youtu.be/16OMDs9Y35k",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Rewrite School Life.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

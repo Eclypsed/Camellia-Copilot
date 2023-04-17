@@ -1,0 +1,45 @@
+{
+    "name": "Plan 8 (Camellia's \"From Inner Cosmos\" Remix)",
+    "url": "Plan-8-Camellia-s-From-Inner-Cosmos-Remix",
+    "altNames": null,
+    "artists": [
+        "Ryu☆ [C A]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Plan 8",
+        "originalSongArtists": [
+            "Ryu☆"
+        ],
+        "originalSongLink": "https://youtu.be/FjmoooG3O-E"
+    },
+    "duration": "4:00",
+    "albums": [
+        {
+            "albumName": "Ryu☆Best -Sunlight-",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-03-07",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Plan 8 (Camellia's \"From Inner Cosmos\" Remix)",
+            "link": "https://youtu.be/5AP0LUHGab8",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Ryu☆Best -Sunlight-.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

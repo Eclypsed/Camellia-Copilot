@@ -1,0 +1,42 @@
+{
+    "name": "A:XOVER",
+    "url": "A-XOVER",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:07",
+    "albums": [
+        {
+            "albumName": "あげぽよ！ に！",
+            "albumPublisher": "SKETCH UP! Recordings",
+            "albumReleaseDate": "2013-04-29",
+            "albumReleaseEvent": "M3-31",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "A:XOVER",
+            "link": "https://youtu.be/K_V9EckkMaw",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "A:XOVER",
+            "link": "https://genkianamei.bandcamp.com/track/a-xover",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "あげぽよ！ に！.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

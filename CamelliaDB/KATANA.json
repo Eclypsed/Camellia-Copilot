@@ -1,0 +1,44 @@
+{
+    "name": "KATANA",
+    "url": "KATANA",
+    "altNames": null,
+    "artists": [
+        "GAT (Genki aran Tachibana) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:27",
+    "albums": [
+        {
+            "albumName": "GAT03",
+            "albumPublisher": "GAT",
+            "albumReleaseDate": "2014-04-27",
+            "albumReleaseEvent": "M3-33",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "KATANA",
+            "link": "https://youtu.be/w4MXnsUlvDo",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "GAT03",
+            "link": "https://diverse.direct/gat/gatcd-003/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GAT03.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

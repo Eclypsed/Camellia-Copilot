@@ -1,0 +1,45 @@
+{
+    "name": "Mare Nectaris (かめりあ's \"Ingenii\" Remix)",
+    "url": "Mare-Nectaris-かめりあ-s-Ingenii-Remix",
+    "altNames": null,
+    "artists": [
+        "神楽 [C A]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Mare Nectaris",
+        "originalSongArtists": [
+            "神楽"
+        ],
+        "originalSongLink": "https://youtu.be/VYkL145cXH0"
+    },
+    "duration": "4:32",
+    "albums": [
+        {
+            "albumName": "starmine 2020 : Mare Nectaris",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2020-04-29",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Mare Nectaris (かめりあ's \"Ingenii\" Remix)",
+            "link": "https://youtu.be/w1CE4W44CSE",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Starmine 2020 Mare Nectaris.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,52 @@
+{
+    "name": "ライフゲーム",
+    "url": "ライフゲーム",
+    "altNames": [
+        "Life Game"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:59",
+    "albums": [
+        {
+            "albumName": "honeyginjerale/ハニージンジャーエール",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2010-10-31",
+            "albumReleaseEvent": "M3-26",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ライフゲーム",
+            "link": "https://youtu.be/4qACeuTQYFw",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ハニージンジャーエール",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "ハニージンジャーエール",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002257&search=%A5%CF%A5%CB%A1%BC%A5%B8%A5%F3%A5%B8%A5%E3%A1%BC%A5%A8%A1%BC%A5%EB&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ハニージンジャーエール.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

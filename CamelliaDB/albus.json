@@ -1,0 +1,87 @@
+{
+    "name": "{albus}",
+    "url": "albus",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:59",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "MÚSECA",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-03-24"
+        },
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-11-17"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "{albus}",
+            "link": "https://youtu.be/WWnMiKRe1iQ",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "{albus}.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "{albus} (\"Silver\" Long ver.)",
+            "url": "albus-Silver-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:29",
+            "albums": [
+                {
+                    "albumName": "GALAXY BURST",
+                    "albumPublisher": "EXIT TUNES",
+                    "albumReleaseDate": "2018-03-21",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "{albus} (\"Silver\" Long ver.)",
+                    "link": "https://youtu.be/lvtcVY8SPKY",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "GALAXY BURST",
+                    "link": "https://diverse.direct/edp/qwce-90016/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "GALAXY BURST",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001441&search=GALAXY+BURST&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "GALAXY BURST.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

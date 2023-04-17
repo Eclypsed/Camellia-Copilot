@@ -1,0 +1,57 @@
+{
+    "name": "Diorama",
+    "url": "Diorama",
+    "altNames": null,
+    "artists": [
+        "kradness [C A L V]",
+        "Camellia [A]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:42",
+    "albums": [
+        {
+            "albumName": "Memento",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2021-02-17",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Diorama",
+            "link": "https://youtu.be/jpSqGY2STVY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Diorama",
+            "link": "https://open.spotify.com/track/1R2zhsKvrSVqhxSImIPJey?si=96025b80ee49436b",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Diorama",
+            "link": "https://music.apple.com/jp/album/diorama/1552666113?i=1552666114&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Memento",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002657&search=Memento&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Memento.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

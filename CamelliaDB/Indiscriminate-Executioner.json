@@ -1,0 +1,62 @@
+{
+    "name": "Indiscriminate Executioner",
+    "url": "Indiscriminate-Executioner",
+    "altNames": null,
+    "artists": [
+        "DJ Myosuke [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:30",
+    "albums": [
+        {
+            "albumName": "qualm",
+            "albumPublisher": "Japanese Stream Hardcore",
+            "albumReleaseDate": "2014-12-30",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Indiscriminate Executioner",
+            "link": "https://youtu.be/sDGx1kRJVUg",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Indiscriminate Executioner",
+            "link": "https://music.apple.com/us/album/indiscriminate-executioner/962226969?i=962226975",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Indiscriminate Executioner",
+            "link": "https://japanesestreamhardcore.bandcamp.com/track/indiscriminate-executioner",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "qualm",
+            "link": "https://diverse.direct/japanese-stream-hardcore/jshsa-002/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "qualm",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000160&search=Qualm&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Qualm.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

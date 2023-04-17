@@ -1,0 +1,114 @@
+{
+    "name": "Fastest Crash",
+    "url": "Fastest-Crash",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:13",
+    "albums": [
+        {
+            "albumName": "paroxysm",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2013-12-31",
+            "albumReleaseEvent": "Comiket 85",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Fastest Crash",
+            "link": "https://youtu.be/ndgCOggizxg",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Fastest Crash",
+            "link": "https://open.spotify.com/track/4ayTg1qoc0lRk3dlglbHMw?si=8c3b0592890e4eb4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Fastest Crash",
+            "link": "https://music.apple.com/us/album/fastest-crash/1049635578?i=1049635583",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Fastest Crash",
+            "link": "https://cametek.bandcamp.com/track/fastest-crash",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "paroxysm",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0007/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "paroxysm",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002262&search=paroxysm&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "paroxysm.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "fastest crash (かめりあ's \"paroxysmal\" Hitech Remix)",
+            "url": "fastest-crash-かめりあ-s-paroxysmal-Hitech-Remix",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "6:08",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2018-08-10",
+                    "albumReleaseEvent": "Comiket 94",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "fastest crash (かめりあ's \"paroxysmal\" Hitech Remix)",
+                    "link": "https://youtu.be/PndwXAhiNcI",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Remixes Summary VIPs 02.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Gusty Beatline",
+    "url": "Gusty-Beatline",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "始原のビート　～ Pristine Beat",
+            "touhouGame": "東方輝針城　～ Double Dealing Character"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:52",
+    "albums": [
+        {
+            "albumName": "ENGAGED DANCEHALL",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2016-08-13",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "C"
+        },
+        {
+            "albumName": "\"PODIUM\" EPISODE01 - IN THE MIX -",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2019-08-12",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Gusty Beatline",
+            "link": "https://youtu.be/GrrjgkZILEA",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Gusty Beatline",
+            "link": "https://open.spotify.com/track/3ygjWUUQ8wmYPcEmnt1PIf?si=3bc1f18c7d504735",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Gusty Beatline",
+            "link": "https://music.apple.com/us/album/gusty-beatline/1437628726?i=1437628728",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ENGAGED DANCEHALL",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0051/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ENGAGED DANCEHALL.jpg",
+            "caption": null
+        },
+        {
+            "filename": "PODIUM EPISODE01 - IN THE MIX -.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

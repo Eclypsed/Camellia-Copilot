@@ -1,0 +1,44 @@
+{
+    "name": "キラキラ☆スマイル",
+    "url": "キラキラ☆スマイル",
+    "altNames": null,
+    "artists": [
+        "Genki-kun Band/元気くんバンド (DJ Genki [Guitar] Camellia [Bass] JAVELIN [Drums] Yukacco [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:01",
+    "albums": [
+        {
+            "albumName": "Genki-kun Band EP/元気くんバンドEP",
+            "albumPublisher": "djgenki.net",
+            "albumReleaseDate": "2015-04-26",
+            "albumReleaseEvent": "M3-35",
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "キラキラ☆スマイル",
+            "link": "https://youtu.be/YwQ_shAd8WQ",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "キラキラ☆スマイル",
+            "link": "https://genkianamei.bandcamp.com/track/--33",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "元気くんバンドEP.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

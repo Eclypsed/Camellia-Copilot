@@ -1,0 +1,94 @@
+{
+    "name": "Treaty of Peace between GlitchHop and Moombahcore",
+    "url": "Treaty-of-Peace-between-GlitchHop-and-Moombahcore",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:26",
+    "albums": [
+        {
+            "albumName": "sudden shower",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Treaty of Peace between GlitchHop and Moombahcore",
+            "link": "https://youtu.be/J6_-9mzMSos",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Treaty of Peace between GlitchHop and Moombahcore",
+            "link": "https://open.spotify.com/track/5ug4hgzjTLnkHHVhcNlWGD?si=1d1a5de275f44665",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Treaty of Peace between GlitchHop and Moombahcore",
+            "link": "https://music.apple.com/jp/album/treaty-of-peace-between-glitchhop-and-moombahcore/1049647153?i=1049647668&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Treaty of Peace between GlitchHop and Moombahcore",
+            "link": "https://cametek.bandcamp.com/track/treaty-of-peace-between-glitchhop-and-moombahcore",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "sudden shower",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-009/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "sudden shower",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002264&search=sudden+shower&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sudden Shower.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Treaty of Peace between GlitchHop and Moombahcore (Dubstep VIP)",
+            "url": "Treaty-of-Peace-between-GlitchHop-and-Moombahcore-Dubstep-VIP",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "3:29",
+            "albums": null,
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "SoundCloud",
+                    "displayName": "Treaty of Peace between GlitchHop and Moombahcore (Dubstep VIP)",
+                    "link": "https://soundcloud.com/cametek/freedlmirror-linkcamellia-treaty-of-peace-between-glitchhop-and-moombahcoredubstep-vip",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Treaty Of Peace Between GlitchHop And Moombahcore(Dubstep VIP).jpg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

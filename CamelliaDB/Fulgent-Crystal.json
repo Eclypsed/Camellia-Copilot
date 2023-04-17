@@ -1,0 +1,54 @@
+{
+    "name": "Fulgent Crystal",
+    "url": "Fulgent-Crystal",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:40",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Fulgent Crystal",
+            "link": "https://youtu.be/mXH1unBPgME",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Fulgent Crystal",
+            "link": "https://open.spotify.com/track/4M6l3jG0QlQAx7q1zC7Vrx?si=c29e5405e12b4f6a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Fulgent Crystal",
+            "link": "https://music.apple.com/us/album/fulgent-crystal/1522112127?i=1522112716",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Fulgent Crystal",
+            "link": "https://dwellersemptypath.bandcamp.com/track/fulgent-crystal",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

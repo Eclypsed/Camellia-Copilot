@@ -1,0 +1,68 @@
+{
+    "name": "Villain Virus",
+    "url": "Villain-Virus",
+    "altNames": null,
+    "artists": [
+        "Kobaryo [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:28",
+    "albums": [
+        {
+            "albumName": "MIXPEED ACTION",
+            "albumPublisher": "Psycho Filth Records",
+            "albumReleaseDate": "2018-04-29",
+            "albumReleaseEvent": "M3-41",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Villain Virus",
+            "link": "https://youtu.be/Ka70HI4orCg",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Villain Virus",
+            "link": "https://open.spotify.com/track/5aYgIXcNGNg0QRYO2vYXak?si=0a057abb0b674d90",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Villain Virus",
+            "link": "https://music.apple.com/us/album/villain-virus-feat-kameria/1387451656?i=1387451662",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Villain Virus",
+            "link": "https://psychofilthrecords.bandcamp.com/track/villain-virus-feat",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MIXPEED ACTION",
+            "link": "https://diverse.direct/psycho-filth-records/pfsa003/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MIXPEED ACTION",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001520&search=MIXPEED+ACTION&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Mixpeed Action.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

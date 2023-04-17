@@ -1,0 +1,30 @@
+{
+    "name": "Mysta Megamix",
+    "url": "Mysta-Megamix",
+    "altNames": null,
+    "artists": [
+        "Mysta Rias [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:12",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Mysta Megamix",
+            "link": "https://youtu.be/hKL18REyEUU",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Mysta Megamix.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

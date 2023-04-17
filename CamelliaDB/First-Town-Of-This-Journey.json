@@ -1,0 +1,66 @@
+{
+    "name": "First Town Of This Journey",
+    "url": "First-Town-Of-This-Journey",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:43",
+    "albums": [
+        {
+            "albumName": "crystallized",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2015-12-31",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "First Town Of This Journey",
+            "link": "https://youtu.be/Fuo230G--iQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "First Town Of This Journey",
+            "link": "https://open.spotify.com/track/10B0XidWqJbw3JaYtgGyTH?si=958b7c01edff47ac",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "First Town Of This Journey",
+            "link": "https://music.apple.com/jp/album/first-town-of-this-journey/1080230292?i=1080230320&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "First Town Of This Journey",
+            "link": "https://cametek.bandcamp.com/track/first-town-of-this-journey",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "crystallized",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0012/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "crystallized",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000671&search=crystallized&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "crystallized.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

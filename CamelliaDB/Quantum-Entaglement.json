@@ -1,0 +1,56 @@
+{
+    "name": "Quantum Entaglement",
+    "url": "Quantum-Entaglement",
+    "altNames": null,
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:10",
+    "albums": [
+        {
+            "albumName": "Stance On Wave",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2013-08-12",
+            "albumReleaseEvent": "Comiket 84",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Quantum Entaglement",
+            "link": "https://youtu.be/QCBSC85p9Lg",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "Quantum Entaglement",
+            "link": "https://www.nicovideo.jp/watch/sm19005609",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Stance On Wave",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0006/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Stance On Wave",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002261&search=stance+on+wave&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Stance on Wave.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

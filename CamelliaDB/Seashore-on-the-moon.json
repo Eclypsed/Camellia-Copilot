@@ -1,0 +1,68 @@
+{
+    "name": "Seashore on the moon",
+    "url": "Seashore-on-the-moon",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "竹取飛翔　～ Lunatic Princess",
+            "touhouGame": "東方永夜抄　～ Imperishable Night"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:13",
+    "albums": [
+        {
+            "albumName": "POP|CULTURE 6",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Seashore on the moon",
+            "link": "https://youtu.be/6k0HtHvGpy0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Seashore on the moon",
+            "link": "https://open.spotify.com/track/72YqoGVJq1g1V9xlBImQFl?si=bb9adccf7bdb48e3",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Seashore on the moon",
+            "link": "https://music.apple.com/us/album/seashore-on-the-moon/1437623199?i=1437623333",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "POP|CULTURE 6",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0059/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "POP|CULTURE 6",
+            "link": "https://www.tanocstore.net/shopdetail/000000001270/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "POP CULTURE 6.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

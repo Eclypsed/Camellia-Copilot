@@ -1,0 +1,50 @@
+{
+    "name": "あままま叶えてここんこん",
+    "url": "あままま叶えてここんこん",
+    "altNames": null,
+    "artists": [
+        "Amama Nia/天満ニア [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:29",
+    "albums": [
+        {
+            "albumName": "Magical Starry Wishes",
+            "albumPublisher": null,
+            "albumReleaseDate": "2022-09-28",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "あままま叶えてここんこん",
+            "link": "https://youtu.be/5XgKFwioEZU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "あままま叶えてここんこん",
+            "link": "https://open.spotify.com/track/2ClEV0NQlewLFMGRR302AE?si=b23fbec221864334",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "あままま叶えてここんこん",
+            "link": "https://music.apple.com/us/album/amamama-kanaete-kokonkon/1646380983?i=1646380985",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Magical Starry Wishes.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Amama Nia self-released the whole album and was (from what I can tell) solely in charge of managing distribution with tunecore Japan. So no label, company, or circle to identify.",
+    "variations": null
+}

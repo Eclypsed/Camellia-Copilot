@@ -1,0 +1,51 @@
+{
+    "name": "神よ、ニャンコを与えたまえ！",
+    "url": "神よ、ニャンコを与えたまえ！",
+    "altNames": [
+        "God, give me a cat!"
+    ],
+    "artists": [
+        "謎の黒猫神 W/wac [V]",
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:59",
+    "albums": [
+        {
+            "albumName": "REFLEC BEAT 悠久のリフレシア＋VOLZZA ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2017-04-12",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "REFLEC BEAT VOLZZA",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-12-18"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "神よ、ニャンコを与えたまえ!",
+            "link": "https://youtu.be/qi7b7AGj95U",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "神よ、ニャンコを与えたまえ!.png",
+            "caption": null
+        },
+        {
+            "filename": "REFLEC BEAT 悠久のリフレシア.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

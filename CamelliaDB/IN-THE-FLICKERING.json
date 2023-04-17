@@ -1,0 +1,62 @@
+{
+    "name": "IN THE FLICKERING",
+    "url": "IN-THE-FLICKERING",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Toriko Takanashi/タカナシトリコ [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "夢消失　～ Lost Dream",
+            "touhouGame": "東方夢時空　～ Phantasmagoria of Dim.Dream"
+        }
+    ],
+    "originalSong": null,
+    "duration": "6:20",
+    "albums": [
+        {
+            "albumName": "THE WORLD DESTINATION",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2012-08-11",
+            "albumReleaseEvent": "Comiket 82",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "IN THE FLICKERING",
+            "link": "https://youtu.be/E0300vP82PA",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "IN THE FLICKERING",
+            "link": "https://open.spotify.com/track/5DYchGvlSnMZw4gTE9CJIY?si=0a260baea98549bc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "IN THE FLICKERING",
+            "link": "https://music.apple.com/us/album/in-the-flickering-feat-toriko-takanashi/1545328582?i=1545328587",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "IN THE FLICKERING",
+            "link": "https://www.tanocstore.net/shopdetail/000000000310/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "THE WORLD DESTINATION.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

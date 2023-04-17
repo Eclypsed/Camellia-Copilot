@@ -1,0 +1,46 @@
+{
+    "name": "ひゆるりらゝ",
+    "url": "ひゆるりらゝ",
+    "altNames": [
+        "Hiyururira"
+    ],
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:32",
+    "albums": [
+        {
+            "albumName": "Indulgence Mirage-ism [Regular Edition]/耽溺ミラアジュイズム【通常盤】",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "Spotify",
+            "displayName": "ひゆるりらゝ",
+            "link": "https://open.spotify.com/track/2YJrW3KuUJY0KX95oz4UH5?si=6ef2216069dc4497",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ひゆるりらゝ",
+            "link": "https://music.apple.com/jp/album/hyururirara/1389666121?i=1389666125&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "耽溺ミラアジュイズム.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on the release.  When the album Mira was released an CD called 耽溺ミラアジュイズム was released at the same time with it. This CD notably featured the song 耽溺ミラアジュイズム (Same name), which was the OP for the Anime ニル・アドミラリの天秤, but also featured a second song (as well as instrumentals for both). Two versions of the CD were released and the second song was determined by which version you bought. ひゆるりらゝ was the second song on the \"Regular Edition\" of the CD (as opposed to the Anime Version).",
+    "variations": null
+}

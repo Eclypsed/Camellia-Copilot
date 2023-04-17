@@ -1,0 +1,52 @@
+{
+    "name": "FULLFLAVOR音頭",
+    "url": "FULLFLAVOR音頭",
+    "altNames": [
+        "FULLFLAVOR ONDO"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:05",
+    "albums": [
+        {
+            "albumName": "FULLFLAVOR音頭",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2022-10-30",
+            "albumReleaseEvent": "M3-50",
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "FULLFLAVOR音頭",
+            "link": "https://youtu.be/S5uUMWOsjdw",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "FULLFLAVOR音頭",
+            "link": "https://open.spotify.com/track/4n3aW8rwrT83iZvbQzFCip?si=b93b0116f9614f3c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "FULLFLAVOR音頭",
+            "link": "https://music.apple.com/jp/album/fullflavor-ondo/1651599311?i=1651599771&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "FULLFLAVOR音頭.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

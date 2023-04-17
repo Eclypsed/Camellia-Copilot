@@ -1,0 +1,62 @@
+{
+    "name": "MADD BLEEPP",
+    "url": "MADD-BLEEPP",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:56",
+    "albums": [
+        {
+            "albumName": "Xroniàl Xéro",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2020-03-18",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "MADD BLEEPP",
+            "link": "https://youtu.be/apajTddjxUs",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "MADD BLEEPP",
+            "link": "https://open.spotify.com/track/1f1uBcU78Iyh7GpkcBZxD1?si=e169794c377d49a1",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "MADD BLEEPP",
+            "link": "https://music.apple.com/us/album/madd-bleepp/1501314614?i=1501314625",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Xroniàl Xéro",
+            "link": "https://diverse.direct/edp/pcca-04883/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Xroniàl Xéro",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002383&search=Xroni%26%23224%3Bl+X%26%23233%3Bro&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Xronial Xero.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

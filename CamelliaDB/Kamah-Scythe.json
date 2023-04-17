@@ -1,0 +1,58 @@
+{
+    "name": "Kamah (Scythe)",
+    "url": "Kamah-Scythe",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:46",
+    "albums": [
+        {
+            "albumName": "60+3+10kE.P.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2019-02-20",
+            "albumReleaseEvent": null,
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Kamah (Scythe)",
+            "link": "https://youtu.be/fKpqh26or-k",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Kamah (Scythe)",
+            "link": "https://open.spotify.com/track/53ZdzsRj9supd5oEeF9ePB?si=53c91abf9c514d0e",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Kamah (Scythe)",
+            "link": "https://music.apple.com/us/album/kamah-scythe/1573239663?i=1573239906",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Kamah (Scythe)",
+            "link": "https://cametek.bandcamp.com/track/kamah-scythe",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Kamah (Scythe).png",
+            "caption": null
+        },
+        {
+            "filename": "60+3+10kE.P..jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

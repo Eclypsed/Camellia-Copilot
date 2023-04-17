@@ -1,0 +1,63 @@
+{
+    "name": "CRYSTAL GLACIER",
+    "url": "CRYSTAL-GLACIER",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C] kradness [V])",
+        "SOUND HOLIC [C]",
+        "Nana Takahashi/高橋菜々 [L V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:20",
+    "albums": [
+        {
+            "albumName": "焔 -MAGMA-",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-12-21",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        },
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Crystal Glacier",
+            "link": "https://youtu.be/60OkWaWEWAQ",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Crystal Glacier",
+            "link": "https://open.spotify.com/track/53Yp048wUpKxp6RB0mKgVm?si=8312b8e661994b2e",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Crystal Glacier",
+            "link": "https://music.apple.com/vn/album/crystal-glacier-feat-nana-takahashi/1389666121?i=1389666341",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "焔 -MAGMA-.jpg",
+            "caption": null
+        },
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

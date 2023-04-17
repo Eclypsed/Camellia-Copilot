@@ -1,0 +1,69 @@
+{
+    "name": "Knight Rider (Camellia's \"Knightstyle Razor-psy-harp\" Remix)",
+    "url": "Knight-Rider-Camellia-s-Knightstyle-Razor-psy-harp-Remix",
+    "altNames": null,
+    "artists": [
+        "USAO [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Knight Rider",
+        "originalSongArtists": [
+            "USAO"
+        ],
+        "originalSongLink": "https://youtu.be/uNM3cwhwYxU"
+    },
+    "duration": "4:30",
+    "albums": [
+        {
+            "albumName": "XTREME",
+            "albumPublisher": "UOM Records",
+            "albumReleaseDate": "2021-01-04",
+            "albumReleaseEvent": "スーパーリリース21",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Knight Rider (Camellia's \"Knightstyle Razor-psy-harp\" Remix)",
+            "link": "https://youtu.be/xN-eCnqvlRA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Knight Rider (Camellia's \"Knightstyle Razor-psy-harp\" Remix)",
+            "link": "https://open.spotify.com/track/0Jb710D00T9T73pfWT2NMW?si=211f27bea9454016",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Knight Rider (Camellia's \"Knightstyle Razor-psy-harp\" Remix)",
+            "link": "https://music.apple.com/us/album/knight-rider-camellias-knightstyle-razor-psy-harp-remix/1546058259?i=1546059235",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Knight Rider (Camellia's \"Knightstyle Razor-psy-harp\" Remix)",
+            "link": "https://usao.bandcamp.com/track/knight-rider-camellias-knightstyle-razor-psy-harp-remix",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "XTREME",
+            "link": "https://www.tanocstore.net/shopdetail/000000002634",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "XTREME.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

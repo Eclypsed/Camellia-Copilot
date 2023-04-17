@@ -1,0 +1,42 @@
+{
+    "name": "Bloody Kiss",
+    "url": "Bloody-Kiss",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:37",
+    "albums": [
+        {
+            "albumName": "THX30KFOLLOWERS",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2016-01-06",
+            "albumReleaseEvent": null,
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Bloody Kiss",
+            "link": "https://youtu.be/6ZD-RPvrWc4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Bloody Kiss",
+            "link": "https://cametek.bandcamp.com/track/bloody-kiss",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "THX30KFOLLOWERS.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Illegal Trap",
+    "url": "Illegal-Trap",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:59",
+    "albums": [
+        {
+            "albumName": "INVAIDAS FROM DA JUNGLE",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Illegal Trap",
+            "link": "https://youtu.be/p-db-N_ER5g",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Illegal Trap",
+            "link": "https://open.spotify.com/track/2GO9Ns7q4uBFIn2fjmWfI1?si=c31a94aca0de40bb",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Illegal Trap",
+            "link": "https://music.apple.com/jp/album/illegal-trap/1278213773?i=1278214302&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Illegal Trap",
+            "link": "https://cametek.bandcamp.com/track/illegal-trap",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0016/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001208&search=INVAIDAS+FROM+DA+JUNGLE&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "INVAIDAS FROM DA JUNGLE.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

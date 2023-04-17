@@ -1,0 +1,66 @@
+{
+    "name": "SAMPLING REVOLVER",
+    "url": "SAMPLING-REVOLVER",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:23",
+    "albums": [
+        {
+            "albumName": "sudden shower",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "SAMPLING REVOLVER",
+            "link": "https://youtu.be/t-3RAtCMt2o",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "SAMPLING REVOLVER",
+            "link": "https://open.spotify.com/track/3Y068ojma0cudRf37839Nj?si=699f9dbf36914ff0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "SAMPLING REVOLVER",
+            "link": "https://music.apple.com/us/album/sampling-revolver/1049647153?i=1049647159",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "SAMPLING REVOLVER",
+            "link": "https://cametek.bandcamp.com/track/sampling-revolver",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "sudden shower",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-009/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "sudden shower",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002264&search=sudden+shower&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sudden Shower.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,50 @@
+{
+    "name": "LOUDERR",
+    "url": "LOUDERR",
+    "altNames": null,
+    "artists": [
+        "Axelight [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:34",
+    "albums": [
+        {
+            "albumName": "futurist",
+            "albumPublisher": "we-B studios",
+            "albumReleaseDate": "2022-05-11",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "LOUDERR",
+            "link": "https://youtu.be/LqI54NOmqho",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "LOUDERR",
+            "link": "https://open.spotify.com/track/2ueLrZwFzC3IF8hZ08uO4V?si=9bbd34b13f964725",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "LOUDERR",
+            "link": "https://music.apple.com/us/album/louderr/1623030965?i=1623031167",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "futurist.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

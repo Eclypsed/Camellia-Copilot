@@ -1,0 +1,66 @@
+{
+    "name": "MAKAFUKA feat.PARED (Camellia Remix)",
+    "url": "MAKAFUKA-feat-PARED-Camellia-Remix",
+    "altNames": null,
+    "artists": [
+        "RAD WIMPS",
+        "PARED [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix, Cover",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "MAKAFUKA",
+        "originalSongArtists": [
+            "RAD WIMPS"
+        ],
+        "originalSongLink": "https://youtu.be/oKrexpXBkH4"
+    },
+    "duration": "3:25",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "MAKAFUKA feat.PARED (Camellia Remix)",
+            "link": "https://youtu.be/B2mcS5Rz8Ms",
+            "unofficial": false
+        }
+    ],
+    "imgs": null,
+    "description": "I'm a bit unclear as to what this song actually is but here is what I have gathered. Gran Saga is and MMORPG that used RAD WIMPS's song MAKAFUKA in some of their promotional material. Since then the artist PARED has released a cover of MAKAFUKA that was remixed by Camellia. In addition, kradness and くろくも also released covers of MAKAFUKA, remixed by lapix and MK respectively and 松下 released a cover of a rearranged version of MAKAFUKA by 大和. Based on the descriptions of these songs they seem to be promoting Gran Saga and a tweet by Gran Saga appears to confirm that these were commisioned by them. All of these were initially released as special MVs in November 2021, each around three and a half minutes in length. In December PARED, くろくも, and 松下 released full versions of their covers which were around 5-6 minutes. I have not been able to find a full version from kradness.",
+    "variations": [
+        {
+            "name": "MAKAFUKA feat.PARED (Camellia Remix) Full Version",
+            "url": "MAKAFUKA-feat-PARED-Camellia-Remix-Full-Version",
+            "altNames": null,
+            "artists": [
+                "RAD WIMPS",
+                "PARED [V]",
+                "Camellia [R]"
+            ],
+            "songType": "Remix, Cover, Extension",
+            "touhouOrigin": null,
+            "originalSong": {
+                "originalSongName": "MAKAFUKA",
+                "originalSongArtists": [
+                    "RAD WIMPS"
+                ],
+                "originalSongLink": "https://youtu.be/oKrexpXBkH4"
+            },
+            "duration": "6:16",
+            "albums": null,
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "MAKAFUKA feat.PARED (Camellia Remix) Full Version",
+                    "link": "https://youtu.be/ql6815bVpIE",
+                    "unofficial": false
+                }
+            ],
+            "imgs": null,
+            "description": null
+        }
+    ]
+}

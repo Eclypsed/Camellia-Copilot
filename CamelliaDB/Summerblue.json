@@ -1,0 +1,98 @@
+{
+    "name": "Summerblue",
+    "url": "Summerblue",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:05",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 30 RESIDENT ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2023-03-15",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 30 RESIDENT",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-10-19"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Summerblue",
+            "link": "https://youtu.be/R0M-ITdAcxk",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Summerblue",
+            "link": "https://music.apple.com/jp/album/summerblue/1676169704?i=1676170610&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 30 RESIDENT.jpg",
+            "caption": null
+        },
+        {
+            "filename": "beatmania IIDX 30 RESIDENT ORIGINAL SOUNDTRACK.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Summerblue (Extended Vacation)",
+            "url": "Summerblue-Extended-Vacation",
+            "altNames": null,
+            "artists": [
+                "Toby Fox [C]"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:45",
+            "albums": [
+                {
+                    "albumName": "beatmania IIDX 30 RESIDENT ORIGINAL SOUNDTRACK",
+                    "albumPublisher": "Konami",
+                    "albumReleaseDate": "2023-03-15",
+                    "albumReleaseEvent": null,
+                    "albumType": "OST"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Summerblue (Extended Vacation)",
+                    "link": "https://youtu.be/kqiwHFSG11M",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "Summerblue (Extended Vacation)",
+                    "link": "https://music.apple.com/jp/album/summerblue-extended-vacation/1676169704?i=1676170624&l=en",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "beatmania IIDX 30 RESIDENT ORIGINAL SOUNDTRACK.jpg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

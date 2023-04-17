@@ -1,0 +1,66 @@
+{
+    "name": "まんまんみてちんちんおっきおっき",
+    "url": "まんまんみてちんちんおっきおっき",
+    "altNames": [
+        "Manman Mite Chinchin Okkiokki"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]",
+        "Satsuki ga Tenkomori/さつき が てんこもり [Mouth Harp/口琴]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:52",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "niconico",
+            "displayName": "まんまんみてちんちんおっきおっき",
+            "link": "https://www.nicovideo.jp/watch/nm9510204",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Manman Mite Chinchin Okkiokki.png",
+            "caption": null
+        }
+    ],
+    "description": "Camellia's first original song",
+    "variations": [
+        {
+            "name": "まんまんみてちんちんおっきおっき（かめりあ's DouteiStep Remix)",
+            "url": "まんまんみてちんちんおっきおっき（かめりあ-s-DouteiStep-Remix",
+            "altNames": [
+                "Manman Mite Chinchin Okkiokki (Camellia's DouteiStep Remix)"
+            ],
+            "artists": [
+                "Hatsune Miku/初音ミク [V]",
+                "Satsuki ga Tenkomori/さつき が てんこもり [Mouth Harp/口琴]"
+            ],
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:52",
+            "albums": null,
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "SoundCloud",
+                    "displayName": "まんまんみてちんちんおっきおっき（かめりあ's DouteiStep Remix)",
+                    "link": "https://soundcloud.com/cametek/s-douteistep-remix",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Manman Mite Chinchin Okkiokki.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

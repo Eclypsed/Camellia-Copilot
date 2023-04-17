@@ -1,0 +1,56 @@
+{
+    "name": "Buy Something Will You (Can't)",
+    "url": "Buy-Something-Will-You-Can-t",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:01",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Buy Something Will You (Can't)",
+            "link": "https://youtu.be/JtalKjXXQ3g",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Buy Something Will You (Can't)",
+            "link": "https://open.spotify.com/track/1CtjlkXJg3s9DHViOmygkl?si=e5129f98b8494936",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Buy Something Will You (Can't)",
+            "link": "https://music.apple.com/us/album/buy-something-will-you-cant/1522112127?i=1522112458",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Buy Something Will You (Can't)",
+            "link": "https://dwellersemptypath.bandcamp.com/track/buy-something-will-you-cant",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

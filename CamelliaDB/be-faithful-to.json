@@ -1,0 +1,61 @@
+{
+    "name": "be faithful to",
+    "url": "be-faithful-to",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "Yuuno Yoshimi/夕野ヨシミ [L]",
+        "Chihiro Aihara/愛原千尋 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 少女さとり　～ 3rd eye",
+            "touhouGame": "Subterranean Animism/東方地霊殿 "
+        },
+        {
+            "touhouSong": " ハルトマンの妖怪少女",
+            "touhouGame": "Subterranean Animism/東方地霊殿"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:50",
+    "albums": [
+        {
+            "albumName": "ENCYCLOPEDIA <妖> monstrous beings",
+            "albumPublisher": "ユウノウミ",
+            "albumReleaseDate": "2012-08-11",
+            "albumReleaseEvent": "Comiket 82",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "be faithful to",
+            "link": "https://youtu.be/M1Ow2h-8UM4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "be faithful to",
+            "link": "https://open.spotify.com/track/5rEZIUbjbpON6yNWc4BLEh?si=6dae0c61c7ec4162",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "be faithful to",
+            "link": "https://music.apple.com/us/album/be-faithful-to/1455309066?i=1455309072",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ENCYCLOPEDIA 妖 monstrous beings.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Off vocal version included in the release",
+    "variations": null
+}

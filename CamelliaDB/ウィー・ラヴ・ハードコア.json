@@ -1,0 +1,58 @@
+{
+    "name": "ウィー・ラヴ・ハードコア",
+    "url": "ウィー・ラヴ・ハードコア",
+    "altNames": [
+        "We Love Hardcore"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:55",
+    "albums": [
+        {
+            "albumName": "MEGANTO METEOR",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-07-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ウィー・ラヴ・ハードコア",
+            "link": "https://youtu.be/Vx4UgQ-BNlc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ウィー・ラヴ・ハードコア",
+            "link": "https://music.apple.com/jp/album/%E3%82%A6%E3%82%A3%E3%83%BC-%E3%83%A9%E3%83%B4-%E3%83%8F%E3%83%BC%E3%83%89%E3%82%B3%E3%82%A2/1127337029?i=1127337080&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://diverse.direct/edp/qwce-90001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000813&search=Bass+Weapon+LAZERFLAME&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "MEGANTO METEOR.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

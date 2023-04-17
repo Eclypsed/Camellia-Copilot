@@ -1,0 +1,51 @@
+{
+    "name": "うにゃうにゃ＊ぱっぱ",
+    "url": "うにゃうにゃ＊ぱっぱ",
+    "altNames": null,
+    "artists": [
+        "PHQUASE [C]",
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:44",
+    "albums": [
+        {
+            "albumName": "LOP STEP RABBITS!",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2014-12-30",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "うにゃうにゃ＊ぱっぱ",
+            "link": "https://youtu.be/UhO_NR9-alQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "うにゃうにゃ＊ぱっぱ",
+            "link": "https://open.spotify.com/track/0rttDZqAP2G0rioazvXyIs?si=969f5974ceef4751",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "うにゃうにゃ＊ぱっぱ",
+            "link": "https://music.apple.com/us/album/oonya-oonya-pappa/1554088641?i=1554088982",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Lop Step Rabbits!.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

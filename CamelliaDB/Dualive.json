@@ -1,0 +1,76 @@
+{
+    "name": "Dualive",
+    "url": "Dualive",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:08",
+    "albums": [
+        {
+            "albumName": "Dualive",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "A"
+        },
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "REFLEC BEAT VOLZZA 2",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-04-28"
+        },
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-04-28"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Dualive",
+            "link": "https://youtu.be/y9YBIGzJTP8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Dualive",
+            "link": "https://open.spotify.com/track/2LKrkQKyP22DtodMTb1aZF?si=4448ea311d4347a5",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Dualive",
+            "link": "https://music.apple.com/us/album/dualive/1389666121?i=1389666347",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dualive.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "Dualive (short).png",
+            "caption": "Dualive's jacket in REFLEC BEAT and SOUND VOLTEX"
+        }
+    ],
+    "description": "A shortened version of Dualive was trimmed down to 2:07 and released for REFLEC BEAT VOLZZA 2 and SOUND VOLTEX III four days after the official release of Dualive on its Mini-Album.",
+    "variations": null
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Ta-Ti-Tu-Teatime!",
+    "url": "Ta-Ti-Tu-Teatime",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:47",
+    "albums": [
+        {
+            "albumName": "4orce!/ふぉーす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2017-12-29",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Ta-Ti-Tu-Teatime!",
+            "link": "https://youtu.be/RwzdKTAbZaA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Ta-Ti-Tu-Teatime!",
+            "link": "https://open.spotify.com/track/464FU6ADJH2UZYAopWAYdY?si=ae5747cf44044f0c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Ta-Ti-Tu-Teatime!",
+            "link": "https://music.apple.com/us/album/ta-ti-tu-teatime/1552865093?i=1552865097",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ふぉーす！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-006/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "4orce!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

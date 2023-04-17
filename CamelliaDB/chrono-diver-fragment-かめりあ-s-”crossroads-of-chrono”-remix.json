@@ -1,0 +1,46 @@
+{
+    "name": "chrono diver -fragment- (かめりあ's ”crossroads of chrono” remix)",
+    "url": "chrono-diver-fragment-かめりあ-s-”crossroads-of-chrono”-remix",
+    "altNames": null,
+    "artists": [
+        "猫叉Master [C A]",
+        "Aki Misawa/三澤秋 [L V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "chrono diver -fragment-",
+        "originalSongArtists": [
+            "猫叉Master feat.三澤秋"
+        ],
+        "originalSongLink": "https://youtu.be/saZuu-C3NRQ"
+    },
+    "duration": "5:23",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2015-09-16",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "chrono diver -fragment- (かめりあ's ”crossroads of chrono” remix)",
+            "link": "https://youtu.be/nb-D7z_KVh0",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 22 PENDUAL OST vol2.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Come to Life (かめりあ's \"Not on your life though!\" Remix)",
+    "url": "Come-to-Life-かめりあ-s-Not-on-your-life-though-Remix",
+    "altNames": null,
+    "artists": [
+        "ARM [C A]",
+        "Janelle Akina Hirakawa [L]",
+        "Nicole Curry [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Come to Life",
+        "originalSongArtists": [
+            "ARM (IOSYS) feat. Nicole Curry"
+        ],
+        "originalSongLink": "https://youtu.be/Tzmf938z8j0"
+    },
+    "duration": "4:33",
+    "albums": [
+        {
+            "albumName": "Animal Strike!/アニマル・ストライク！",
+            "albumPublisher": "IOSYS",
+            "albumReleaseDate": "2019-10-27",
+            "albumReleaseEvent": "M3-44",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Come to Life (かめりあ's \"Not on your life though!\" Remix)",
+            "link": "https://youtu.be/DX7PJgi0ETw",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "アニマル・ストライク！",
+            "link": "https://diverse.direct/iosys/io-0327/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "アニマル・ストライク！.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

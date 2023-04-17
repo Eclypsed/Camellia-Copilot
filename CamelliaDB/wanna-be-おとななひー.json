@@ -1,0 +1,44 @@
+{
+    "name": "wanna be おとななひー",
+    "url": "wanna-be-おとななひー",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "上海紅茶館　～ Chinese Tea",
+            "touhouGame": "東方紅魔郷　～ the Embodiment of Scarlet Devil"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:07",
+    "albums": [
+        {
+            "albumName": "Shooting Snow 2012",
+            "albumPublisher": "Forestpireo/ふぉれすとぴれお",
+            "albumReleaseDate": "2012-10-07",
+            "albumReleaseEvent": "Touhou Kouroumu 8/東方紅楼夢8",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "wanna be おとななひー",
+            "link": "https://youtu.be/3TOTojuUjs0",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Shooting Snow 2012.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

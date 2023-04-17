@@ -1,0 +1,65 @@
+{
+    "name": "MEGANTO METEOR",
+    "url": "MEGANTO-METEOR",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:56",
+    "albums": [
+        {
+            "albumName": "MEGANTO METEOR",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-07-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "jubeat plus + jubeat plus (Android)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-01-18"
+        },
+        {
+            "gameName": "REFLEC BEAT plus",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-01-18"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://youtu.be/v31biX0VxOU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://music.apple.com/jp/album/meganto-meteor/1127337029?i=1127337058&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MEGANTO METEOR (Album)",
+            "link": "https://diverse.direct/edp/qwce-90001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MEGANTO METEOR (Album)",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000813&search=Bass+Weapon+LAZERFLAME&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "MEGANTO METEOR.png",
+            "caption": null
+        }
+    ],
+    "description": "Shortened down to 1:58 for the Camellia pack in jubeat plus and REFLEC BEAT plus",
+    "variations": null
+}

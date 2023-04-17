@@ -1,0 +1,38 @@
+{
+    "name": "ドジっ娘ポロッと本音デル",
+    "url": "ドジっ娘ポロッと本音デル",
+    "altNames": null,
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:57",
+    "albums": [
+        {
+            "albumName": "Rewrite School Life/上書きスクールライフ",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2012-04-29",
+            "albumReleaseEvent": "VOC@LOiD M@STER 20",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ドジっ娘ポロッと本音デル",
+            "link": "https://youtu.be/ygVLCQp2R3w",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Rewrite School Life.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

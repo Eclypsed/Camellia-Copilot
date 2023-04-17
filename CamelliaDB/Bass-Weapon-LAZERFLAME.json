@@ -1,0 +1,65 @@
+{
+    "name": "Bass Weapon LAZERFLAME",
+    "url": "Bass-Weapon-LAZERFLAME",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:09",
+    "albums": [
+        {
+            "albumName": "MEGANTO METEOR",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-07-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "jubeat plus + jubeat plus (Android)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-01-18"
+        },
+        {
+            "gameName": "REFLEC BEAT plus",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-01-18"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Bass Weapon LAZERFLAME",
+            "link": "https://youtu.be/kujM3VCXT-k",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Bass Weapon LAZERFLAME",
+            "link": "https://music.apple.com/jp/album/bass-weapon-lazerflame/1127337029?i=1127337052&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://diverse.direct/edp/qwce-90001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000813&search=Bass+Weapon+LAZERFLAME&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "MEGANTO METEOR.png",
+            "caption": null
+        }
+    ],
+    "description": "Bass Weapon LAZERFLAME was trimmed down to 1:45 for the Camellia pack in jubeat plus and REFLEC BEAT plus",
+    "variations": null
+}

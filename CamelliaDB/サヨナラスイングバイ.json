@@ -1,0 +1,90 @@
+{
+    "name": "サヨナラスイングバイ",
+    "url": "サヨナラスイングバイ",
+    "altNames": [
+        "Sayonara Swing-by"
+    ],
+    "artists": [
+        "Mew/ミウ [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:05",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "サヨナラスイングバイ",
+            "link": "https://youtu.be/83-2DomWIJI",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "サヨナラスイングバイ",
+            "link": "https://www.nicovideo.jp/watch/sm15947521",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "サヨナラスイングバイ.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "サヨナラスイングバイ (electrical flowlight remix)",
+            "url": "サヨナラスイングバイ-electrical-flowlight-remix",
+            "altNames": [
+                "Sayonara Swing-by (electrical flowlight remix)"
+            ],
+            "artists": [
+                "Mew/ミウ [V]"
+            ],
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "6:20",
+            "albums": [
+                {
+                    "albumName": "Michno-Sequence",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2012-07-08",
+                    "albumReleaseEvent": "VOC@LOiD M@STER 21",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "サヨナラスイングバイ (electrical flowlight remix)",
+                    "link": "https://youtu.be/meNQtHhaVMA",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Michno-Sequence",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0004/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Michno-Sequence",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002260&search=michno-sequence&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Michno-sequence.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "name": "Bangin' Burst",
+    "url": "Bangin-Burst",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:59",
+    "albums": [
+        {
+            "albumName": "SOUND VOLTEX ULTIMATE TRACKS -LEGEND OF KAC-",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2015-03-04",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        },
+        {
+            "albumName": "SOUND VOLTEX PERFECT ULTIMATE COMPLETE TRACKS ～Legend of KAC with Ω～",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2023-02-15",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX II -infinite infection-",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2013-12-13"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Bangin' Burst",
+            "link": "https://youtu.be/Nd3rQ5o5jJA",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Bangin' Burst.png",
+            "caption": null
+        },
+        {
+            "filename": "SOUND VOLTEX ULTIMATE TRACKS -LEGEND OF KAC-.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Bangin' Burst (\"Outburst\" Long ver.)",
+            "url": "Bangin-Burst-Outburst-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:37",
+            "albums": [
+                {
+                    "albumName": "GALAXY BURST",
+                    "albumPublisher": "EXIT TUNES",
+                    "albumReleaseDate": "2018-03-21",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Bangin' Burst (\"Outburst\" Long ver.)",
+                    "link": "https://youtu.be/KhDaggdaxuk",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "GALAXY BURST",
+                    "link": "https://diverse.direct/edp/qwce-90016/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "GALAXY BURST",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001441&search=GALAXY+BURST&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "GALAXY BURST.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Krispy Fry-fry Party",
+    "url": "Krispy-Fry-fry-Party",
+    "altNames": null,
+    "artists": [
+        "Takanashi Kiara [?]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:11",
+    "albums": [
+        {
+            "albumName": "Hololive English -Myth- Image Soundtrack",
+            "albumPublisher": "COVER Corporation/カバー株式会社",
+            "albumReleaseDate": "2021-03-14",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Krispy Fry-fry Party",
+            "link": "https://youtu.be/YSlVTCeG3Sw",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Krispy Fry-fry Party",
+            "link": "https://open.spotify.com/track/4XF880SewA3IC1i7h9CIeP?si=5b58f9a8724f4eb2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Krispy Fry-fry Party",
+            "link": "https://music.apple.com/us/album/krispy-fry-fry-party/1557415273?i=1557415276",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Hololive English -Myth- Image Soundtrack.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

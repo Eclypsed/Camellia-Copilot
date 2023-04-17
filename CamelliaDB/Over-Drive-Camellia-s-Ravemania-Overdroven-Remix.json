@@ -1,0 +1,38 @@
+{
+    "name": "Over Drive (Camellia's \"Ravemania\" Overdroven Remix)",
+    "url": "Over-Drive-Camellia-s-Ravemania-Overdroven-Remix",
+    "altNames": null,
+    "artists": [
+        "Ryu☆ [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Over Drive",
+        "originalSongArtists": [
+            "Ryu☆"
+        ],
+        "originalSongLink": "https://youtu.be/xAg0CdkmG_k"
+    },
+    "duration": "?",
+    "albums": [
+        {
+            "albumName": "EDP presents ravemania speed (Bonus Track)",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2017-03-15",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": null,
+    "imgs": [
+        {
+            "filename": "Ravemania Speed.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "No links again? It's like force of quartz all over again.",
+    "variations": null
+}

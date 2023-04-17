@@ -1,0 +1,50 @@
+{
+    "name": "HUGE W",
+    "url": "HUGE-W",
+    "altNames": null,
+    "artists": [
+        "Mori Calliope [L V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:09",
+    "albums": [
+        {
+            "albumName": "UnAlive",
+            "albumPublisher": "COVER Corporation/カバー株式会社",
+            "albumReleaseDate": "2022-03-21",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "HUGE W",
+            "link": "https://youtu.be/tuTSmrDwyLw",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "HUGE W",
+            "link": "https://open.spotify.com/track/3v28Meo8cBnnfDUzpF6Art?si=d750d44e509840a4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "HUGE W",
+            "link": "https://music.apple.com/jp/album/huge-w/1614987607?i=1614987614&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "UnAlive.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

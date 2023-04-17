@@ -1,0 +1,56 @@
+{
+    "name": "Small Steps",
+    "url": "Small-Steps",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:34",
+    "albums": [
+        {
+            "albumName": "DANCERUSH STARDOM Original Soundtrack vol.1",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2021-11-17",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "DANCERUSH STARDOM",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2018-03-23"
+        },
+        {
+            "gameName": "DanceDanceRevolution A20",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-08-08"
+        },
+        {
+            "gameName": "DANCE aROUND",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-03-15"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Small Steps",
+            "link": "https://youtu.be/4OCTlS9N2sg",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Small Steps.png",
+            "caption": null
+        },
+        {
+            "filename": "DANCERUSH STARDOM Original Soundtrack vol.1.jpg",
+            "caption": null
+        }
+    ],
+    "description": "There is a \"full\" version of this song that has been uploaded to YouTube, however I have not been able to find a single refrence to this extended version outside of this video and a reupload on soundcloud (which again does not provide any sources). I have reason to believe that this is actually just someone's fan extension because 1. the video only credits the games Small Steps originated from, each of which only feature the short version, and 2. from what I can tell there is not a single second of new audio in this \"full\" version; after listening to it, it seems that to make this \"full\" version the original small steps was made to repeat two of the verses an additional time, and then the song just repeates itself entirely once. So, I have decided to omit this version as I don't think it is an actual extended version.",
+    "variations": null
+}

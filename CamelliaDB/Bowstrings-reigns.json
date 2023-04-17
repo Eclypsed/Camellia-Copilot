@@ -1,0 +1,36 @@
+{
+    "name": "Bowstrings' reigns",
+    "url": "Bowstrings-reigns",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:18",
+    "albums": [
+        {
+            "albumName": "Rhapso+dear",
+            "albumPublisher": "Rhapso+dear",
+            "albumReleaseDate": "2010-07-09",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Bowstrings' reigns",
+            "link": "https://youtu.be/R0Sng2ix-zk",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Rhapso+dear.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "One of the few songs from Rhapso+dear that does not feature any Vocaloid singers.",
+    "variations": null
+}

@@ -1,0 +1,64 @@
+{
+    "name": "ヒアソビ",
+    "url": "ヒアソビ",
+    "altNames": [
+        "Haisobi / Play With Fire"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:05",
+    "albums": [
+        {
+            "albumName": "Play-With-Fire / Hiasobi",
+            "albumPublisher": "KARENT",
+            "albumReleaseDate": "2022-05-18",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ヒアソビ",
+            "link": "https://www.youtube.com/watch?v=od4QcDPpNVk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "ヒアソビ",
+            "link": "https://www.nicovideo.jp/watch/sm40160903",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "ヒアソビ",
+            "link": "https://open.spotify.com/track/6TaOHCEjas8b3Mm4tNZ31g?si=bee7d8b5401c4509",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ヒアソビ",
+            "link": "https://music.apple.com/us/album/play-with-fire-hiasobi-feat-hatsune-miku/1621482899?i=1621482900",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "ヒアソビ",
+            "link": "https://cametek.bandcamp.com/track/hiasobi-play-with-fire",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Play With Fire.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "Originally made by Camellia as his entry into the プロセカNEXT 9 contest. Later it seems the song was picked up by Crypton Future Media's music label KARENT and re-released as a single across various streaming services.",
+    "variations": null
+}

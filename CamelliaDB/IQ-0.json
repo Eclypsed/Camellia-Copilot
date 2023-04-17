@@ -1,0 +1,54 @@
+{
+    "name": "IQ = 0",
+    "url": "IQ-0",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:08",
+    "albums": [
+        {
+            "albumName": "STUFFF",
+            "albumPublisher": "Madstiff Tracks (R135TRACKS)",
+            "albumReleaseDate": "2015-04-26",
+            "albumReleaseEvent": "M3-35",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "IQ = 0",
+            "link": "https://youtu.be/THklX_yqd-k",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "IQ = 0",
+            "link": "https://shop.attackthemusic.com/track/iq-0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "STUFFF",
+            "link": "https://diverse.direct/r135tracks/mtii-001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "STUFFF",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000282&search=STUFFF&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Stufff.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,54 @@
+{
+    "name": "NEURO ROCK-OUT",
+    "url": "NEURO-ROCK-OUT",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:31",
+    "albums": [
+        {
+            "albumName": "MEGANTO METEOR",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-07-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "NEURO ROCK-OUT",
+            "link": "https://youtu.be/luJ7tDV22x0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "NEURO ROCK-OUT",
+            "link": "https://music.apple.com/jp/album/neuro-rock-out/1127337029?i=1127337055&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://diverse.direct/edp/qwce-90001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000813&search=Bass+Weapon+LAZERFLAME&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "MEGANTO METEOR.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

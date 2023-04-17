@@ -1,0 +1,44 @@
+{
+    "name": "スウィートタイム (Camellia's Love between me and sequences remix)",
+    "url": "スウィートタイム-Camellia-s-Love-between-me-and-sequences-remix",
+    "altNames": null,
+    "artists": [
+        "EasyPop [C]",
+        "Megurine Luka/巡音ルカ [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "スウィートタイム",
+        "originalSongArtists": [
+            "EasyPop"
+        ],
+        "originalSongLink": "https://youtu.be/3GXGnq7gNg4"
+    },
+    "duration": "6:53",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "スウィートタイム (Camellia's Love between me and sequences remix)",
+            "link": "https://youtu.be/ZOIIdSrFaSY",
+            "unofficial": true
+        },
+        {
+            "linkSource": "SoundCloud",
+            "displayName": "スウィートタイム (Camellia's Love between me and sequences remix)",
+            "link": "https://soundcloud.com/cametek/sweet_time_remix",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "スウィートタイム.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

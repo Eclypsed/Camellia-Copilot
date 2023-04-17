@@ -1,0 +1,68 @@
+{
+    "name": "Drenched in Air",
+    "url": "Drenched-in-Air",
+    "altNames": null,
+    "artists": [
+        "Ninomae Ina'nis [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:54",
+    "albums": [
+        {
+            "albumName": "灰の羽搏",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2023-02-15",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "jubeat Ave.",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2023-04-05"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Drenched in Air",
+            "link": "https://youtu.be/5k6IQQdgfnE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Drenched in Air",
+            "link": "https://open.spotify.com/track/4bPm3lZKdEasTlpe60YuvL?si=3b2d6ba444f246d4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Drenched in Air",
+            "link": "https://music.apple.com/us/album/drenched-in-air-feat-ninomae-inanis/1669477071?i=1669477085",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "灰の羽搏",
+            "link": "https://diverse.direct/edp/pcca-06182/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "灰の羽搏",
+            "link": "https://www.tanocstore.net/shopdetail/000000003212",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "灰の羽搏.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Drenched in Air trimmed down to 1:52 in jubeat Ave.",
+    "variations": null
+}

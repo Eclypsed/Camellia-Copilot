@@ -1,0 +1,50 @@
+{
+    "name": "時の終着点",
+    "url": "時の終着点",
+    "altNames": null,
+    "artists": [
+        "YURiCa/花たん [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:08",
+    "albums": [
+        {
+            "albumName": "Flower Rail",
+            "albumPublisher": "Subcul-rise Record",
+            "albumReleaseDate": "2015-10-21",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "時の終着点",
+            "link": "https://youtu.be/brnzOvq26Wo",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "時の終着点",
+            "link": "https://open.spotify.com/track/172sVEFeMYb0nREKysb8le?si=2d074fbef3d04f98",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "時の終着点",
+            "link": "https://music.apple.com/us/album/toki-no-syutyakuten/1046824907?i=1046825145",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Flower Rail.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

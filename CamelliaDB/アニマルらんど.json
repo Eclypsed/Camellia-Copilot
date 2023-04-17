@@ -1,0 +1,58 @@
+{
+    "name": "アニマルらんど",
+    "url": "アニマルらんど",
+    "altNames": [
+        "Animal Land"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:48",
+    "albums": [
+        {
+            "albumName": "Sleep!/すりーぷ！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "アニマルらんど",
+            "link": "https://youtu.be/goA3TXoAfrI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "アニマルらんど",
+            "link": "https://open.spotify.com/track/2Sep4Rep7fvC5K0Oprr3JT?si=1d26533f44ed40db",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "アニマルらんど",
+            "link": "https://music.apple.com/us/album/animal-land/1554742814?i=1554742824",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "すりーぷ！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-004-2/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sleep!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

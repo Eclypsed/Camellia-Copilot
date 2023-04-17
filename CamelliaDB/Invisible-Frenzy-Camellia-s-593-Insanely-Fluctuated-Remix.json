@@ -1,0 +1,69 @@
+{
+    "name": "Invisible Frenzy (Camellia's \"593: Insanely Fluctuated\" Remix)",
+    "url": "Invisible-Frenzy-Camellia-s-593-Insanely-Fluctuated-Remix",
+    "altNames": null,
+    "artists": [
+        "Kobaryo [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Invisible Frenzy",
+        "originalSongArtists": [
+            "Kobaryo"
+        ],
+        "originalSongLink": "https://youtu.be/rtqMLFfBGak"
+    },
+    "duration": "4:55",
+    "albums": [
+        {
+            "albumName": "SUPER DREAM ZONE",
+            "albumPublisher": "HiTNEX TRAX",
+            "albumReleaseDate": "2021-01-04",
+            "albumReleaseEvent": "スーパーリリース21",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Invisible Frenzy (Camellia's \"593: Insanely Fluctuated\" Remix)",
+            "link": "https://youtu.be/_DnFiOTVzpE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Invisible Frenzy (Camellia's \"593: Insanely Fluctuated\" Remix)",
+            "link": "https://open.spotify.com/track/45QTtvdj5qLlpQoevpfXzZ?si=1d0429bf4ac942c1",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Invisible Frenzy (Camellia's \"593: Insanely Fluctuated\" Remix)",
+            "link": "https://music.apple.com/us/album/invisible-frenzy-camellias-remix/1546093565?i=1546093865",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Invisible Frenzy (Camellia's \"593: Insanely Fluctuated\" Remix)",
+            "link": "https://hitnex.bandcamp.com/track/invisible-frenzy-camellias-593-insanely-fluctuated-remix",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "SUPER DREAM ZONE",
+            "link": "https://www.tanocstore.net/shopdetail/000000002633",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "SUPER DREAM ZONE.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

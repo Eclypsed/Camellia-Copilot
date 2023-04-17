@@ -1,0 +1,61 @@
+{
+    "name": "$100 Bills (Camellia's \"215$-Step\" - Remix)",
+    "url": "100-Bills-Camellia-s-215-Step-Remix",
+    "altNames": null,
+    "artists": [
+        "Jaroslav Beck [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "$100 Bills",
+        "originalSongArtists": [
+            "Jaroslav Beck"
+        ],
+        "originalSongLink": "https://youtu.be/VOI84XDVyn8"
+    },
+    "duration": "3:31",
+    "albums": [
+        {
+            "albumName": "Beat Saber: Extras",
+            "albumPublisher": "Beat Games",
+            "albumReleaseDate": "2022-10-30",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "$100 Bills (Camellia's \"215$-Step\" - Remix)",
+            "link": "https://youtu.be/qdTAlioq8pQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "$100 Bills (Camellia's \"215$-Step\" - Remix)",
+            "link": "https://open.spotify.com/track/18m0uC1IMDlPfSWHbYU8c6?si=0e0c08dbbc4a4816",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "$100 Bills (Camellia's \"215$-Step\" - Remix)",
+            "link": "https://music.apple.com/us/album/%24100-bills-215%24-step-remix/1630970338?i=1630970339",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "$100 Bills (Camellia's $215-Step - Remix).jpg",
+            "caption": null
+        },
+        {
+            "filename": "Beat Saber Extras.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

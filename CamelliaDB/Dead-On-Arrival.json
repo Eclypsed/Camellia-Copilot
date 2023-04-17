@@ -1,0 +1,50 @@
+{
+    "name": "Dead On Arrival",
+    "url": "Dead-On-Arrival",
+    "altNames": null,
+    "artists": [
+        "Mori Calliope [L V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:03",
+    "albums": [
+        {
+            "albumName": "UnAlive",
+            "albumPublisher": "COVER Corporation/カバー株式会社",
+            "albumReleaseDate": "2022-03-21",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Dead On Arrival",
+            "link": "https://youtu.be/SwOat0JYPAY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Dead On Arrival",
+            "link": "https://open.spotify.com/track/4Ri7HgYsTqCoNqHI2S7wVB?si=b3c4d6d834ac43a5",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Dead On Arrival",
+            "link": "https://music.apple.com/us/album/dead-on-arrival/1614987607?i=1614987611",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "UnAlive.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

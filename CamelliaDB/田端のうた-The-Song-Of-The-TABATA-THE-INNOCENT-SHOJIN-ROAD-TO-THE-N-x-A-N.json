@@ -1,0 +1,54 @@
+{
+    "name": "田端のうた(The Song Of The TABATA) - THE INNOCENT SHOJIN ROAD TO THE N.x.A.N. -",
+    "url": "田端のうた-The-Song-Of-The-TABATA-THE-INNOCENT-SHOJIN-ROAD-TO-THE-N-x-A-N",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:15",
+    "albums": [
+        {
+            "albumName": "TABATA BURST!!/田端バースト！！",
+            "albumPublisher": "MINAMOTRANCE",
+            "albumReleaseDate": "2014-12-30",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "田端のうた(The Song Of The TABATA) - THE INNOCENT SHOJIN ROAD TO THE N.x.A.N. -",
+            "link": "https://youtu.be/Uc2Vw8m1Y6M",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "田端のうた(The Song Of The TABATA) - THE INNOCENT SHOJIN ROAD TO THE N.x.A.N. -",
+            "link": "https://shop.attackthemusic.com/track/camellia-the-song-of-the-tabata-the-innocent-shojin-road-to-the-n-x-a-n",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "田端バースト！！",
+            "link": "https://diverse.direct/%E7%94%B0%E7%AB%AF%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88/tbtb-0001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "田端バースト！！",
+            "link": "https://www.tanocstore.net/shopdetail/000000000370/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Tabata Burst!!.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

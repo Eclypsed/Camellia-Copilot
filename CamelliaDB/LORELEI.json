@@ -1,0 +1,34 @@
+{
+    "name": "LORELEI",
+    "url": "LORELEI",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:24",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "LORELEI",
+            "link": "https://youtu.be/bef23j792eE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "LORELEI",
+            "link": "https://open.spotify.com/track/7cEZld0rEQoHv1wcdnoOj1?si=be69a4a8aa54480f",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "LORELEI.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Song commisioned for the A Dance of Fire And Ice Championship 2023 Finals Tiebreaker.",
+    "variations": null
+}

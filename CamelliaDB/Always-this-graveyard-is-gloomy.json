@@ -1,0 +1,56 @@
+{
+    "name": "Always this graveyard is gloomy",
+    "url": "Always-this-graveyard-is-gloomy",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:12",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Always this graveyard is gloomy",
+            "link": "https://youtu.be/T4ryNz4S2Vk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Always this graveyard is gloomy",
+            "link": "https://open.spotify.com/track/5hYna3DfSwFpPMEO4KYwCz?si=c3b84fd866ae4bb0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Always this graveyard is gloomy",
+            "link": "https://music.apple.com/us/album/always-this-graveyard-is-gloomy/1522112127?i=1522112465",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Always this graveyard is gloomy",
+            "link": "https://dwellersemptypath.bandcamp.com/track/always-this-graveyard-is-gloomy",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Yoki's House",
+    "url": "Yoki-s-House",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:56",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Yoki's House",
+            "link": "https://youtu.be/XNYUq8Davhk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Yoki's House",
+            "link": "https://open.spotify.com/track/477dkSTbQ7jYtmfNdJydcN?si=e4a950c7200941ec",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Yoki's House",
+            "link": "https://music.apple.com/us/album/yokis-house/1522112127?i=1522112440",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Yoki's House",
+            "link": "https://dwellersemptypath.bandcamp.com/track/yokis-house",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,58 @@
+{
+    "name": "your own beautiful world",
+    "url": "your-own-beautiful-world",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "Yuuno Yoshimi/夕野ヨシミ [L]",
+        "オミ織葉 [L]",
+        "miko [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "ネクロファンタジア",
+            "touhouGame": "東方妖々夢　～ Perfect Cherry Blossom"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:12",
+    "albums": [
+        {
+            "albumName": "Phantasmagoria of Immorality/背徳のファンタスマゴリア",
+            "albumPublisher": "IOSYS",
+            "albumReleaseDate": "2013-04-29",
+            "albumReleaseEvent": "M3-31",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "your own beautiful world",
+            "link": "https://youtu.be/bRGQTmZI4UM",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "your own beautiful world",
+            "link": "https://open.spotify.com/track/5MHIJOS2aXifTMkPysACBF?si=d5fd9fc971e14473",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "your own beautiful world",
+            "link": "https://music.apple.com/us/album/your-own-beautiful-world/1437867894?i=1437868006",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Phantasmagoria of Immorality.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

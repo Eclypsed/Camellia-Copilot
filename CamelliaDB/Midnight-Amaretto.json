@@ -1,0 +1,94 @@
+{
+    "name": "Midnight Amaretto",
+    "url": "Midnight-Amaretto",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:45",
+    "albums": [
+        {
+            "albumName": "DANCERUSH STARDOM Original Soundtrack vol.1",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2021-11-17",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "DANCERUSH STARDOM",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2018-08-02"
+        },
+        {
+            "gameName": "DanceDanceRevolution A20 PLUS",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2020-07-07"
+        },
+        {
+            "gameName": "DANCE aROUND",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-07-13"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Midnight Amaretto",
+            "link": "https://youtu.be/qOMNjauMVso",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Midnight Amaretto.png",
+            "caption": null
+        },
+        {
+            "filename": "DANCERUSH STARDOM Original Soundtrack vol.1.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Midnight Amaretto",
+            "url": "Midnight-Amaretto-2",
+            "altNames": null,
+            "artists": [
+                "Camellia [C V]"
+            ],
+            "songType": "Cover",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "1:47",
+            "albums": [
+                {
+                    "albumName": "灰の羽搏",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2023-02-15",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Midnight Amaretto",
+                    "link": "https://youtu.be/xdhWtOBfJ3g",
+                    "unofficial": true
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "灰の羽搏.jpg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

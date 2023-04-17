@@ -1,0 +1,48 @@
+{
+    "name": "花ハ踊レヤいろはにほ",
+    "url": "花ハ踊レヤいろはにほ",
+    "altNames": null,
+    "artists": [
+        "田中秀和 [C A L]",
+        "畑亞貴 [C L]",
+        "花舞少女隊 [V]",
+        "Nanahira/ななひら [V]",
+        "Camellia [A]"
+    ],
+    "songType": "Cover",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "花ハ踊レヤいろはにほ",
+        "originalSongArtists": [
+            "チーム\"ハナヤマタ\""
+        ],
+        "originalSongLink": "https://youtu.be/WPLgMbvK-tg"
+    },
+    "duration": "4:10",
+    "albums": [
+        {
+            "albumName": "La La Fav!",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "花ハ踊レヤいろはにほ",
+            "link": "https://youtu.be/hubdLO24VRw",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "La La Fav!.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,67 @@
+{
+    "name": "「あれボスじゃね！ぶっ倒してやるぜ！」",
+    "url": "「あれボスじゃね！ぶっ倒してやるぜ！」",
+    "altNames": [
+        "\"Isn't That the Boss!? I'm Gonna Beat It Up!\""
+    ],
+    "artists": [
+        "Camellia [A L]",
+        "Nanahira/ななひら [V]",
+        "みぃしゃ [V]",
+        "津軽りんご [Voice]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 妖々跋扈",
+            "touhouGame": "東方妖々夢　～ Perfect Cherry Blossom "
+        },
+        {
+            "touhouSong": " 少女幻葬　～ Necro-Fantasy",
+            "touhouGame": "東方妖々夢　～ Perfect Cherry Blossom "
+        },
+        {
+            "touhouSong": " ネクロファンタジア",
+            "touhouGame": "東方妖々夢　～ Perfect Cherry Blossom"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:39",
+    "albums": [
+        {
+            "albumName": "東方レイマリQUEST",
+            "albumPublisher": "とらのあな",
+            "albumReleaseDate": "2012-08-10",
+            "albumReleaseEvent": "Comiket 82",
+            "albumType": "C"
+        },
+        {
+            "albumName": "東方幻奏響Revival弐 ～魔法少女vs魔王勇者～",
+            "albumPublisher": "とらのあな",
+            "albumReleaseDate": "2015-05-10",
+            "albumReleaseEvent": "Reitaisai 12",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "「あれボスじゃね！ぶっ倒してやるぜ！」",
+            "link": "https://youtu.be/53YzORdy9gg",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "東方レイマリQUEST.jpg",
+            "caption": null
+        },
+        {
+            "filename": "東方幻奏響Revival弐 ～魔法少女vs魔王勇者～.png",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on 東方レイマリQUEST",
+    "variations": null
+}

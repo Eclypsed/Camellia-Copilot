@@ -1,0 +1,44 @@
+{
+    "name": "世界の果てに約束の凱歌を -jubeat edition-",
+    "url": "世界の果てに約束の凱歌を-jubeat-edition",
+    "altNames": null,
+    "artists": [
+        "Zutt (Jun Wakita [C] PON [A V])",
+        "NU-KO [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix, Cover",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "世界の果てに約束の凱歌を",
+        "originalSongArtists": [
+            "Zutt feat.NU-KO"
+        ],
+        "originalSongLink": "https://youtu.be/leUrYG4nn5w"
+    },
+    "duration": "2:03",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "jubeat festo",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2020-12-23"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "世界の果てに約束の凱歌を -jubeat edition-",
+            "link": "https://youtu.be/8Orw4YcjIuI",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "世界の果てに約束の凱歌を -jubeat edition-.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

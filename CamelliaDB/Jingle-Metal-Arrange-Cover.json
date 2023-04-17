@@ -1,0 +1,57 @@
+{
+    "name": "Jingle (Metal Arrange / Cover)",
+    "url": "Jingle-Metal-Arrange-Cover",
+    "altNames": null,
+    "artists": [
+        "DJ Noriken [C]",
+        "Camellia [A V]"
+    ],
+    "songType": "Arrangement, Cover",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Jingle",
+        "originalSongArtists": [
+            "DJ Noriken"
+        ],
+        "originalSongLink": "https://youtu.be/Oy44ShFZw3c"
+    },
+    "duration": "4:43",
+    "albums": [
+        {
+            "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2018-08-10",
+            "albumReleaseEvent": "Comiket 94",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Jingle (Metal Arrange / Cover)",
+            "link": "https://youtu.be/vsr66ys5KI0",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Remixes Summary VIPs 02.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

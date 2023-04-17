@@ -1,0 +1,48 @@
+{
+    "name": "Speedrun",
+    "url": "Speedrun",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:28",
+    "albums": [
+        {
+            "albumName": "EDP presents ravemania speed",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2017-03-15",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Speedrun",
+            "link": "https://youtu.be/wzE4Xuu7oCI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Speedrun",
+            "link": "https://music.apple.com/us/album/speedrun/1214281054?i=1214281133",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "EDP presents ravemania speed",
+            "link": "https://diverse.direct/edp/qwce-90008/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Ravemania Speed.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

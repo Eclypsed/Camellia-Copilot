@@ -1,0 +1,66 @@
+{
+    "name": "Maze of Vignere Square",
+    "url": "Maze-of-Vignere-Square",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:59",
+    "albums": [
+        {
+            "albumName": "Cyphisonia E.P.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2016-10-30",
+            "albumReleaseEvent": "M3-38",
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Maze of Vignere Square",
+            "link": "https://youtu.be/NjFj_ALNGQw",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Maze of Vignere Square",
+            "link": "https://open.spotify.com/track/1rSP3gZRD4pZpe8I9fPCG7?si=e1e11e8ad4da4483",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Maze of Vignere Square",
+            "link": "https://music.apple.com/us/album/maze-of-vignere-square/1176411990?i=1176412470",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Maze of Vignere Square",
+            "link": "https://cametek.bandcamp.com/track/maze-of-vignere-square",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Cyphisonia E.P.",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0014/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Cyphisonia E.P.",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000958&search=cyphisonia&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Cyphisonia E.P.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

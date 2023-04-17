@@ -1,0 +1,42 @@
+{
+    "name": "Where is the God",
+    "url": "Where-is-the-God",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:53",
+    "albums": [
+        {
+            "albumName": "Omnifarious2",
+            "albumPublisher": "Omni Force Records",
+            "albumReleaseDate": "2013-04-29",
+            "albumReleaseEvent": "M3-31",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Where is the God",
+            "link": "https://youtu.be/pc9xLM4LS-g",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Where is the God",
+            "link": "https://usao.bandcamp.com/track/camellia-where-is-the-god",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Omnifarious II.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

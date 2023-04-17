@@ -1,0 +1,64 @@
+{
+    "name": "∞度寝",
+    "url": "∞度寝",
+    "altNames": [
+        "Mugendai Done",
+        "Infinite Sleep"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "6:37",
+    "albums": [
+        {
+            "albumName": "Michno-Sequence",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2012-07-08",
+            "albumReleaseEvent": "VOC@LOiD M@STER 21",
+            "albumType": "A"
+        },
+        {
+            "albumName": "Party Junkie",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2012-12-31",
+            "albumReleaseEvent": "Comiket 83",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "∞度寝",
+            "link": "https://youtu.be/K6T9sibLlnA",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Michno-Sequence",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0004/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Michno-Sequence",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002260&search=michno-sequence&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Michno-sequence.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "Party Junkie.jpg",
+            "caption": null
+        }
+    ],
+    "description": "∞度寝 was first released on the Camellia’s fourth Vocaloid album, Michno-Sequence in July of 2012 at VOC@LOiD M@STER 21. Later that year ∞度寝 was one of three Camellia songs included on the compilation album Party Junkie, along with a remastered version of \\ - Backslash, and システマティック・ラヴ. Like every other song from Michno-Sequence, ∞度寝 features the Vocaloid singer 初音ミク (Hatsune Miku).",
+    "variations": null
+}

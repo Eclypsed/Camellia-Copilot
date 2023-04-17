@@ -1,0 +1,66 @@
+{
+    "name": "HELIXFOSSIL",
+    "url": "HELIXFOSSIL",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:01",
+    "albums": [
+        {
+            "albumName": "[diffraction]",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-04-27",
+            "albumReleaseEvent": "M3-33",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "HELIXFOSSIL",
+            "link": "https://youtu.be/eCRFreud2LQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "HELIXFOSSIL",
+            "link": "https://open.spotify.com/track/3F4mZgnVRzXZfHXtbGzs6E?si=dff314d8ea6d4ec9",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "HELIXFOSSIL",
+            "link": "https://music.apple.com/us/album/helixfossil/1049609666?i=1049610506",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "HELIXFOSSIL",
+            "link": "https://cametek.bandcamp.com/track/helixfossil",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "[diffraction]",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0008/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "[diffraction]",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002263&search=diffraction&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "[diffraction].jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

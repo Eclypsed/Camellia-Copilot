@@ -1,0 +1,107 @@
+{
+    "name": "オリガミカル・スウィートラヴ",
+    "url": "オリガミカル・スウィートラヴ",
+    "altNames": [
+        "Origamical Sweet Love"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:02",
+    "albums": [
+        {
+            "albumName": "4orce!/ふぉーす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2017-12-29",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "MÚSECA 1+1/2",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-07-27"
+        },
+        {
+            "gameName": "SOUND VOLTEX EXCEED GEAR",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-12-16"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "オリガミカル・スウィートラヴ",
+            "link": "https://youtu.be/RURwIlyJIzk",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ふぉーす！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-006/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "オリガミカル・スウィートラヴ.png",
+            "caption": null
+        },
+        {
+            "filename": "4orce!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "オリガミカル・スウィートラヴ (Long Ver.)",
+            "url": "オリガミカル・スウィートラヴ-Long-Ver",
+            "altNames": [
+                "Origamical Sweet Love (Long Ver.)"
+            ],
+            "artists": [
+                "Nanahira/ななひら [V]"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:30",
+            "albums": [
+                {
+                    "albumName": "4orce!/ふぉーす！",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+                    "albumReleaseDate": "2017-12-29",
+                    "albumReleaseEvent": "Comiket 93",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "オリガミカル・スウィートラヴ (Long Ver.)",
+                    "link": "https://youtu.be/NAWMKD1NsVc",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "ふぉーす！",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-006/",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "4orce!.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

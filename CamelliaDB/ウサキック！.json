@@ -1,0 +1,50 @@
+{
+    "name": "ウサキック！",
+    "url": "ウサキック！",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:09",
+    "albums": [
+        {
+            "albumName": "LOP STEP RABBITS!",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2014-12-30",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ウサキック！",
+            "link": "https://youtu.be/hzIZU4a_NAA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "ウサキック！",
+            "link": "https://open.spotify.com/track/6IYornhrZuLNH3imca0MTr?si=5b063d2332d549e6",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ウサキック！",
+            "link": "https://music.apple.com/us/album/bunnykick/1554088641?i=1554088649",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Lop Step Rabbits!.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

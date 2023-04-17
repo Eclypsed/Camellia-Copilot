@@ -1,0 +1,42 @@
+{
+    "name": "FunkyShit",
+    "url": "FunkyShit",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:49",
+    "albums": [
+        {
+            "albumName": "GAT Friends",
+            "albumPublisher": "GAT",
+            "albumReleaseDate": "2014-10-26",
+            "albumReleaseEvent": "M3-34",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "FunkyShit",
+            "link": "https://youtu.be/81QbuivpJfo",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "GAT Friends",
+            "link": "https://diverse.direct/gat/gatcd-004/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GAT Friends.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

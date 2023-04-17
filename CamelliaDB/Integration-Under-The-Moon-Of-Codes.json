@@ -1,0 +1,56 @@
+{
+    "name": "Integration Under The Moon Of Codes",
+    "url": "Integration-Under-The-Moon-Of-Codes",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Mei Ayakura/綾倉盟 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "東方妖々夢 ～ Ancient Temple",
+            "touhouGame": "東方妖々夢　～ Perfect Cherry Blossom"
+        }
+    ],
+    "originalSong": null,
+    "duration": "6:36",
+    "albums": [
+        {
+            "albumName": "ABANDONED DANCEHALL",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2012-05-27",
+            "albumReleaseEvent": "Reitaisai 9",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Integration Under The Moon Of Codes",
+            "link": "https://youtu.be/dSbVZ-bBeXM",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Integration Under The Moon Of Codes",
+            "link": "https://open.spotify.com/track/4FfC8fRt8UMBrztN5RT1C0?si=3ead1b32dc2142b8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Integration Under The Moon Of Codes",
+            "link": "https://music.apple.com/us/album/integration-under-the-moon-of-codes-feat-mei/1613283500?i=1613283504",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ABANDONED DANCEHALL.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

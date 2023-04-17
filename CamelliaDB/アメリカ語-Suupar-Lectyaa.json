@@ -1,0 +1,53 @@
+{
+    "name": "アメリカ語 Suupar Lectyaa",
+    "url": "アメリカ語-Suupar-Lectyaa",
+    "altNames": [
+        "American Suupar Lectyaa"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "KOKO/ココ [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:00",
+    "albums": [
+        {
+            "albumName": "Love Chu!/らぶちゅ！",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2015-04-26",
+            "albumReleaseEvent": "VOC@LOiD M@STER 28",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "アメリカ語 Suupar Lectyaa",
+            "link": "https://youtu.be/NgHTwQcL_fo",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "アメリカ語 Suupar Lectyaa",
+            "link": "https://open.spotify.com/track/3mgJLVrxVf0F8YLdnO03bd?si=e149cb3bf9f849d6",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "アメリカ語 Suupar Lectyaa",
+            "link": "https://music.apple.com/us/album/engulish-supar-lectyaa/1554987573?i=1554987733",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "らぶちゅ！.jpg",
+            "caption": null
+        }
+    ],
+    "description": "In the context of the original Japanese, \"American\" in the translated name does not mean \"from America\", but rather refering to a non-existent language called \"American\", i.e. \"I don't speak English, I speak 'murican\". Also, and I find this to be quite weird, but despite this being an album with vocals done solely by Nanahira and KOKO, the album was first released on the 26th of April, 2014 during VOC@LOiD M@STER 28. M3-33 started the very next day where again this album was sold, which makes sense, but idk why they went a day earlier during a Vocaloid Event. Also worth noting is that the circle that produced the album was indeed POYAHCHIO, but was released on Nanahira's label Confetto.",
+    "variations": null
+}

@@ -1,0 +1,47 @@
+{
+    "name": "サードアイや！",
+    "url": "サードアイや！",
+    "altNames": [
+        "Third Eye!"
+    ],
+    "artists": [
+        "Camellia [A]",
+        "七条レタス [L] ",
+        "KOKO/ココ [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "少女さとり ～ 3rd eye",
+            "touhouGame": "東方地霊殿　～ Subterranean Animism"
+        }
+    ],
+    "originalSong": null,
+    "duration": "5:00",
+    "albums": [
+        {
+            "albumName": "Nothing but the TOHO EDM",
+            "albumPublisher": "IOSYS",
+            "albumReleaseDate": "2014-03-30",
+            "albumReleaseEvent": "Touhou Meikasai 8/東方名華祭8",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "サードアイや！",
+            "link": "https://youtu.be/0LFb9S32AoY",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "NOTHING BUT THE TOHO EDM.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Bonfire, is that you?  Honestly, I don't know whether or not I should tag this as a remix/cover because I haven't found any source that actually lists this as a remix of Knife Party's song, not the album's official page nor any wiki. This goes far beyond sampling, Bonfire is so obviously presnet throughtout this whole song that it kinda feels wrong not to give them credit in some way. In fact, the album's official page specifically has credit sections for both composers and remixers, and not only is Camellia not listed under remixers, but Knife Party is not credited at all anywhere. I guess this is the reason why サードアイや！ is the ONLY song absent from Nothing but the TOHO EDM on Spotify isn't it IOSYS? Not assigning blame to any individual because a lot of people were involved in the production and this decision could've been made at any level, but I mean c'mon, give the guys some credit, this is more their song than it is the original Touhou song.",
+    "variations": null
+}

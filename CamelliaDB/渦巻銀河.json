@@ -1,0 +1,40 @@
+{
+    "name": "渦巻銀河",
+    "url": "渦巻銀河",
+    "altNames": [
+        "Spiral Galaxy"
+    ],
+    "artists": [
+        "GUMI/グミ [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:49",
+    "albums": [
+        {
+            "albumName": "VM@",
+            "albumPublisher": "VR+",
+            "albumReleaseDate": "2013-04-27",
+            "albumReleaseEvent": "VOC@LOiD M@STER 24",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "渦巻銀河",
+            "link": "https://youtu.be/yqQnGJ_7xYQ",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "VM@.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

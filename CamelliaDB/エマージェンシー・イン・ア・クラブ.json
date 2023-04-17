@@ -1,0 +1,52 @@
+{
+    "name": "エマージェンシー・イン・ア・クラブ",
+    "url": "エマージェンシー・イン・ア・クラブ",
+    "altNames": [
+        "Emergency in a Club"
+    ],
+    "artists": [
+        "Axelight [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:47",
+    "albums": [
+        {
+            "albumName": "futurist",
+            "albumPublisher": "we-B studios",
+            "albumReleaseDate": "2022-05-11",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "エマージェンシー・イン・ア・クラブ",
+            "link": "https://youtu.be/Zt26buch1Rw",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "エマージェンシー・イン・ア・クラブ",
+            "link": "https://open.spotify.com/track/1BUHkSe8duNlbvh0CqK59z?si=7be3df5c7dde4418",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "エマージェンシー・イン・ア・クラブ",
+            "link": "https://music.apple.com/us/album/emergency-in-a-club/1623030965?i=1623031148",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "futurist.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

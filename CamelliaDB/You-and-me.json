@@ -1,0 +1,61 @@
+{
+    "name": "You and me",
+    "url": "You-and-me",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:42",
+    "albums": [
+        {
+            "albumName": "Dualive",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "A"
+        },
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "You and me",
+            "link": "https://youtu.be/l1nPtR471hE",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "You and me",
+            "link": "https://open.spotify.com/track/1xYZSIH5vAxuUQZUr3uWJf?si=d081339af17742b5",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "You and me",
+            "link": "https://music.apple.com/jp/album/you-and-me/1389666121?i=1389666351&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dualive.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

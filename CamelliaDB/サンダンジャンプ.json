@@ -1,0 +1,46 @@
+{
+    "name": "サンダンジャンプ",
+    "url": "サンダンジャンプ",
+    "altNames": [
+        "Sandan Jump"
+    ],
+    "artists": [
+        "pomme'tto (Nanahira/ななひら KOKO/ココ MOMO/桃箱) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:52",
+    "albums": [
+        {
+            "albumName": "Apprism",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "サンダンジャンプ",
+            "link": "https://youtu.be/0js50LWQp94",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "サンダンジャンプ",
+            "link": "https://open.spotify.com/track/3jYMFgJEBB3849ABAgFCoq?si=cb427cb36a7a45a8",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Apprism.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,66 @@
+{
+    "name": "BLOWN WITH THE GLARE",
+    "url": "BLOWN-WITH-THE-GLARE",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:08",
+    "albums": [
+        {
+            "albumName": "sudden shower",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "BLOWN WITH THE GLARE",
+            "link": "https://youtu.be/95sQ6w3RiFs",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "BLOWN WITH THE GLARE",
+            "link": "https://open.spotify.com/track/3ieJ51ZUas2xphWt11U19W?si=3f3fc630d1b14eab",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "BLOWN WITH THE GLARE",
+            "link": "https://music.apple.com/us/album/blown-with-the-glare/1049647153?i=1049647157",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "BLOWN WITH THE GLARE",
+            "link": "https://cametek.bandcamp.com/track/blown-with-the-glare",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "sudden shower",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-009/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "sudden shower",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002264&search=sudden+shower&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sudden Shower.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,47 @@
+{
+    "name": "動く、動く (\"A&M Chillin'\" Electro Remix)",
+    "url": "動く、動く-A-M-Chillin-Electro-Remix",
+    "altNames": null,
+    "artists": [
+        "kegani [C L]",
+        "チト [V]",
+        "ユーリ [V]",
+        "Camellia [R]",
+        "響木アオ [V]",
+        "虹乃まほろ [V]"
+    ],
+    "songType": "Remix, Cover",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "動く、動く",
+        "originalSongArtists": [
+            "チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)"
+        ],
+        "originalSongLink": "https://youtu.be/CocEAA4idEU"
+    },
+    "duration": "2:04",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX VIVID WAVE",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-12-19"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "動く、動く (\"A&M Chillin'\" Electro Remix)",
+            "link": "https://youtu.be/-gGmVqps9C4",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "動く、動く (A&M Chillin' Electro Remix).png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

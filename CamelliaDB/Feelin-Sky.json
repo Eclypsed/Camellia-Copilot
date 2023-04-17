@@ -1,0 +1,107 @@
+{
+    "name": "Feelin Sky",
+    "url": "Feelin-Sky",
+    "altNames": null,
+    "artists": [
+        "DJ Genki [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:51",
+    "albums": [
+        {
+            "albumName": "Starry Orange",
+            "albumPublisher": "SKETCH UP! Recordings",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Feelin Sky",
+            "link": "https://youtu.be/JrjP5pZX26g",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Feelin Sky",
+            "link": "https://genkianamei.bandcamp.com/track/feelin-sky",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Starry Orange",
+            "link": "https://diverse.direct/sketch-up-recordings/gecd-011/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Starry Orange",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000391&search=starry+orange&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Starry Orange.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Feelin Sky (Camellia's \"200step\" Self-remix)",
+            "url": "Feelin-Sky-Camellia-s-200step-Self-remix",
+            "altNames": null,
+            "artists": [
+                "DJ Genki [C]",
+                "Camellia [C R]"
+            ],
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "6:29",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2017-04-30",
+                    "albumReleaseEvent": "M3-39",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Feelin Sky (Camellia's \"200step\" Self-remix)",
+                    "link": "https://youtu.be/4HXCM3mmgto",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0015/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001152&search=Camellia+%22Guest+Tracks%22+Summary+%26+VIPs+01&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Guest Tracks Summary VIPs 01.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

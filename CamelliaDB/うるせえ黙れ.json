@@ -1,0 +1,48 @@
+{
+    "name": "うるせえ黙れ",
+    "url": "うるせえ黙れ",
+    "altNames": [
+        "Shut the Fuck Up"
+    ],
+    "artists": [
+        "Satsuki ga Tenkomori/さつき が てんこもり [C L]",
+        "Masaya Oya/大箭マサヤ [A]",
+        "末広アンテナ (Nanahira/ななひら Iku Arino/有野いく) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:04",
+    "albums": [
+        {
+            "albumName": "Love Gigahertz/ラブギガヘルツ",
+            "albumPublisher": "Subcul-rise Record",
+            "albumReleaseDate": "2014-04-23",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "うるせえ黙れ",
+            "link": "https://youtu.be/XSs-DCadjrw",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "うるせえ黙れ",
+            "link": "https://music.apple.com/jp/album/%E3%81%86%E3%82%8B%E3%81%9B%E3%81%88%E9%BB%99%E3%82%8C/858276917?i=858276928",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Love Gigahertz.jpg",
+            "caption": null
+        }
+    ],
+    "description": "The ラブギガヘルツ single is the only work that I have found where Camellia is credited by his real name.",
+    "variations": null
+}

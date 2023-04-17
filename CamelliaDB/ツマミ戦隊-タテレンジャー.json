@@ -1,0 +1,43 @@
+{
+    "name": "ツマミ戦隊 タテレンジャー",
+    "url": "ツマミ戦隊-タテレンジャー",
+    "altNames": [
+        "Tsumami sentai Tateranger"
+    ],
+    "artists": [
+        "Tateranger Red (Hommarju)",
+        "Tateranger Black (BlackY)",
+        "Tateranger Yellow (C-Show)",
+        "Tateranger Blue (Camellia)",
+        "Tateranger Pink (Nanahira)",
+        "Kaijin kyouki jidou (MAD CHILD)"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:03",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX VIVID WAVE",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-04-26"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ツマミ戦隊 タテレンジャー",
+            "link": "https://youtu.be/0QgfE7kpWsU",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Tsumami sentai Tateranger.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

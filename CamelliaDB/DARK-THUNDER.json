@@ -1,0 +1,66 @@
+{
+    "name": "DARK THUNDER",
+    "url": "DARK-THUNDER",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:01",
+    "albums": [
+        {
+            "albumName": "sudden shower",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "DARK THUNDER",
+            "link": "https://youtu.be/ttqq-Upyusk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "DARK THUNDER",
+            "link": "https://open.spotify.com/track/2sKUIwIcbCBl2yVhsKVURf?si=61b3255c22bd4d8a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "DARK THUNDER",
+            "link": "https://music.apple.com/vn/album/dark-thunder/1049647153?i=1049647679",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "DARK THUNDER",
+            "link": "https://cametek.bandcamp.com/track/dark-thunder",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "sudden shower",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-009/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "sudden shower",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002264&search=sudden+shower&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sudden Shower.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

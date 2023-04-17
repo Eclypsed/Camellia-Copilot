@@ -1,0 +1,48 @@
+{
+    "name": "せかいのはて",
+    "url": "せかいのはて",
+    "altNames": [
+        "Ends of the World"
+    ],
+    "artists": [
+        "Satsuki ga Tenkomori/さつき が てんこもり [A]",
+        "Camellia [A]",
+        "小川ハリ [L]",
+        "KOKO/ココ [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "風神少女",
+            "touhouGame": "東方文花帖　～ Shoot the Bullet"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:19",
+    "albums": [
+        {
+            "albumName": "Happy Rule Garden 3R",
+            "albumPublisher": "Iemitsu",
+            "albumReleaseDate": "2010-08-14",
+            "albumReleaseEvent": "Comiket 78",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "せかいのはて",
+            "link": "https://youtu.be/OhGn_wffljc",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Happy Rule Garden 3R.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Happy Rule Garden 3R was part of a larger release of Happy Rule Garden, which was composed of three distinct albums, Happy Rule Garden 1L, Happy Rule Garden 2C, and Happy Rule Garden 3R, all of which were released on the same day at Comiket 78. The album arts of each can be combined to form one larger image.",
+    "variations": null
+}

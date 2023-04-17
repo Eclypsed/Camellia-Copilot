@@ -1,0 +1,45 @@
+{
+    "name": "Valanga -かめりあ's \"RBc-GB\" Arrangement-",
+    "url": "Valanga-かめりあ-s-RBc-GB-Arrangement",
+    "altNames": null,
+    "artists": [
+        "DJ TOTTO [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Valanga",
+        "originalSongArtists": [
+            "DJ TOTTO"
+        ],
+        "originalSongLink": "https://youtu.be/Cz8s5oIhW34"
+    },
+    "duration": "4:06",
+    "albums": [
+        {
+            "albumName": "BEMANI 8bit collection",
+            "albumPublisher": "KONAMI Digital Entertainment",
+            "albumReleaseDate": "2020-07-15",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Valanga -かめりあ's \"RBc-GB\" Arrangement-",
+            "link": "https://youtu.be/j98RrtIgmZo",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "BEMANI 8bit collection.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

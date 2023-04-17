@@ -1,0 +1,56 @@
+{
+    "name": "Frozen Palace",
+    "url": "Frozen-Palace",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:45",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Frozen Palace",
+            "link": "https://youtu.be/XTHs2wDV3YU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Frozen Palace",
+            "link": "https://open.spotify.com/track/0STDqgQl9Hg6cGvmbkMn7t?si=5f7d1f2c635d4532",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Frozen Palace",
+            "link": "https://music.apple.com/us/album/frozen-palace/1522112127?i=1522112718",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Frozen Palace",
+            "link": "https://dwellersemptypath.bandcamp.com/track/frozen-palace",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

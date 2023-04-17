@@ -1,0 +1,99 @@
+{
+    "name": "BAYONEX",
+    "url": "BAYONEX",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:03",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS コナステ",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-08-05"
+        },
+        {
+            "gameName": "SOUND VOLTEX EXCEED GEAR",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-08-05"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "BAYONEX",
+            "link": "https://youtu.be/hdW-McaHj-Q",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "BAYONEX.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "BAYONEX (“Xtrablast / V1.1” Long ver.)",
+            "url": "BAYONEX-“Xtrablast-V1-1”-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:01",
+            "albums": [
+                {
+                    "albumName": "灰の羽搏",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2023-02-15",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "BAYONEX (“Xtrablast / V1.1” Long ver.)",
+                    "link": "https://youtu.be/oWKOqNcy4ck",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "BAYONEX (“Xtrablast / V1.1” Long ver.)",
+                    "link": "https://open.spotify.com/track/17dbDQ8kJAYLm8rjXH1seE?si=1e94e96189bc41ac",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "BAYONEX (“Xtrablast / V1.1” Long ver.)",
+                    "link": "https://music.apple.com/us/album/bayonex-xtrablast-v1-1-long-ver/1669477071?i=1669477079",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "灰の羽搏",
+                    "link": "https://diverse.direct/edp/pcca-06182/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "灰の羽搏",
+                    "link": "https://www.tanocstore.net/shopdetail/000000003212",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "灰の羽搏.jpg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "name": "That Full Moon Over The Haunted Ship",
+    "url": "That-Full-Moon-Over-The-Haunted-Ship",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Mei Ayakura/綾倉盟 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 幽霊客船の時空を越えた旅",
+            "touhouGame": "東方星蓮船　～ Undefined Fantastic Object "
+        },
+        {
+            "touhouSong": " キャプテン・ムラサ",
+            "touhouGame": "東方星蓮船　～ Undefined Fantastic Object"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:43",
+    "albums": [
+        {
+            "albumName": "POP|CULTURE 5",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2015-12-30",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "C"
+        },
+        {
+            "albumName": "\"PODIUM\" EPISODE01 - IN THE MIX -",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2019-08-12",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "That Full Moon Over The Haunted Ship",
+            "link": "https://youtu.be/1zTZBGwxYoA",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "That Full Moon Over The Haunted Ship",
+            "link": "https://open.spotify.com/track/4XiDKq6qk7NA6ZF5FY8znH?si=8812c67121cd40bd",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "That Full Moon Over The Haunted Ship",
+            "link": "https://music.apple.com/us/album/that-full-moon-over-the-haunted-ship/1437629238?i=1437629244",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "POP|CULTURE 5",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0049/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "POP|CULTURE 5",
+            "link": "https://www.tanocstore.net/shopdetail/000000000720/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "POP CULTURE 5.jpg",
+            "caption": null
+        },
+        {
+            "filename": "PODIUM EPISODE01 - IN THE MIX -.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

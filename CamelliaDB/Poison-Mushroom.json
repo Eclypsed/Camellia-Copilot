@@ -1,0 +1,66 @@
+{
+    "name": "Poison Mushroom",
+    "url": "Poison-Mushroom",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:38",
+    "albums": [
+        {
+            "albumName": "INVAIDAS FROM DA JUNGLE",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Poison Mushroom",
+            "link": "https://youtu.be/esSSVyzjZcI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Poison Mushroom",
+            "link": "https://open.spotify.com/track/3Y9U0jt3plWv8kO1sZmILp?si=5db11b4592db494b",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Poison Mushroom",
+            "link": "https://music.apple.com/us/album/poison-mushroom/1278213773?i=1278213780",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Poison Mushroom",
+            "link": "https://cametek.bandcamp.com/track/poison-mushroom",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0016/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001208&search=INVAIDAS+FROM+DA+JUNGLE&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "INVAIDAS FROM DA JUNGLE.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

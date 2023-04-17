@@ -1,0 +1,34 @@
+{
+    "name": "New Challenger Approaching",
+    "url": "New-Challenger-Approaching",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:57",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "Cytus II",
+            "gamePublisher": "Rayark",
+            "gameReleaseDate": "2019-03-05"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "New Challenger Approaching",
+            "link": "https://youtu.be/yy1NSk5TrhA",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "New Challenger Approaching.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

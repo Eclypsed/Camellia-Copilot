@@ -1,0 +1,102 @@
+{
+    "name": "Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)",
+    "url": "Sqlupp-Camellia-s-Sqleipd-Hiytex-Remix",
+    "altNames": null,
+    "artists": [
+        "owl＊tree [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Sqlupp",
+        "originalSongArtists": [
+            "owl＊tree"
+        ],
+        "originalSongLink": "https://youtu.be/7WZGUJv3H8k"
+    },
+    "duration": "5:08",
+    "albums": [
+        {
+            "albumName": "pvq",
+            "albumPublisher": "owl＊tree",
+            "albumReleaseDate": "2020-02-08",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        },
+        {
+            "albumName": "maimai でらっくす ベストアルバムちほー",
+            "albumPublisher": "SEGA",
+            "albumReleaseDate": "2021-12-03",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "maimai でらっくす Splash",
+            "gamePublisher": "SEGA",
+            "gameReleaseDate": "2021-09-17"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)",
+            "link": "https://youtu.be/9l7NCYzucD8",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)",
+            "link": "https://open.spotify.com/track/6gFasEsH8NcjLvrkFQiQFY?si=5914043b3cc44cb3",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)",
+            "link": "https://music.apple.com/us/album/sqlupp-camellias-sqleipd-hiytex-remix-long-version/1633605199?i=1633605984",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "pvq",
+            "link": "https://diverse.direct/owl_tree/owtr-0001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "maimai でらっくす ベストアルバムちほー",
+            "link": "https://diverse.direct/%e3%82%a6%e3%82%a7%e3%83%bc%e3%83%96%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bcsega/wm-0832/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "pvq",
+            "link": "https://www.tanocstore.net/shopdetail/000000002362",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "maimai でらっくす ベストアルバムちほー",
+            "link": "https://www.tanocstore.net/shopdetail/000000002882",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "pvq.jpg",
+            "caption": null
+        },
+        {
+            "filename": "maimai でらっくす ベストアルバムちほー.jpg",
+            "caption": null
+        },
+        {
+            "filename": "Sqlupp (Camellia's SqleipdHiytex Remix).png",
+            "caption": "The song's jacket in maimai"
+        }
+    ],
+    "description": "Trimmed down to 2:47 in game appearances. Trimmed version also available on maimai でらっくす ベストアルバムちほー. Despite the fact that the longer version is the original, the OST distinguished the track as Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)【Long Version】",
+    "variations": null
+}

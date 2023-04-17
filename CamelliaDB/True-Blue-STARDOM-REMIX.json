@@ -1,0 +1,44 @@
+{
+    "name": "True Blue (STARDOM REMIX)",
+    "url": "True-Blue-STARDOM-REMIX",
+    "altNames": null,
+    "artists": [
+        "dj TAKA [C]",
+        "AiMEE [L V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "True Blue",
+        "originalSongArtists": [
+            "dj TAKA feat.AiMEE"
+        ],
+        "originalSongLink": "https://youtu.be/3bOqbR3MxFE"
+    },
+    "duration": "2:02",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "DANCERUSH STARDOM",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-11-20"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "True Blue (STARDOM REMIX)",
+            "link": "https://youtu.be/yvQWoGIxsU8",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "True Blue (STARDOM Remix).png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

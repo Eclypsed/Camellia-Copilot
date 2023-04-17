@@ -1,0 +1,43 @@
+{
+    "name": "Subterranean Envy",
+    "url": "Subterranean-Envy",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "渡る者の途絶えた橋",
+            "touhouGame": "東方地霊殿　～ Subterranean Animism"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:52",
+    "albums": [
+        {
+            "albumName": "Underefined",
+            "albumPublisher": "Take It Happy!!",
+            "albumReleaseDate": "2011-03-13",
+            "albumReleaseEvent": "Reitaisai 8",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Subterranean Envy",
+            "link": "https://youtu.be/CWblu50YtkE",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Underefined.jpg",
+            "caption": null
+        }
+    ],
+    "description": "If you're confused as to why there is an almost 2 month difference between the release date of some Reitaisai 8 albums, it is because that on March 11th, 2011 Japan was hit by the Tōhoku earthquake and tsunami. The most severe earthquake in Japan's history, it was a magnitude 9.1 and the resultant tsunami caused the Fukushima Daiichi nuclear disaster. Because of this event, Reitaisai 8 was canceled and later rescheduled for May.",
+    "variations": null
+}

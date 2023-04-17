@@ -1,0 +1,56 @@
+{
+    "name": "Small Village",
+    "url": "Small-Village",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:19",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Small Village",
+            "link": "https://youtu.be/_sH64gUOVZY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Small Village",
+            "link": "https://open.spotify.com/track/5q29iCqy2ISl9FP4LQsnAa?si=9a0a08b61b454418",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Small Village",
+            "link": "https://music.apple.com/us/album/small-village/1522112127?i=1522112446",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Small Village",
+            "link": "https://dwellersemptypath.bandcamp.com/track/small-village",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

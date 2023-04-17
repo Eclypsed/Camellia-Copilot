@@ -1,0 +1,66 @@
+{
+    "name": "Rain of Amethyst",
+    "url": "Rain-of-Amethyst",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "7:21",
+    "albums": [
+        {
+            "albumName": "crystallized",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2015-12-31",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Rain of Amethyst",
+            "link": "https://youtu.be/wFNaR2Hx_sI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Rain of Amethyst",
+            "link": "https://open.spotify.com/track/15ktwi9QE0nz7r1yuWfbzO?si=05e65ac226f8428b",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Rain of Amethyst",
+            "link": "https://music.apple.com/us/album/rain-of-amethyst/1080230292?i=1080230299",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Rain of Amethyst",
+            "link": "https://cametek.bandcamp.com/track/rain-of-amethyst",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "crystallized",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0012/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "crystallized",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000671&search=crystallized&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "crystallized.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

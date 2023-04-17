@@ -1,0 +1,132 @@
+{
+    "name": "Blast your headz with the railgun",
+    "url": "Blast-your-headz-with-the-railgun",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:37",
+    "albums": [
+        {
+            "albumName": "[diffraction]",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-04-27",
+            "albumReleaseEvent": "M3-33",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Blast your headz with the railgun",
+            "link": "https://youtu.be/-pUW8Pk5LXA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Blast your headz with the railgun",
+            "link": "https://open.spotify.com/track/29V05rGMuT53z9QUJCRo2w?si=d7de53dcd6db48dc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Blast your headz with the railgun",
+            "link": "https://music.apple.com/us/album/blast-your-headz-with-the-railgun/1049609666?i=1049609673",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Blast your headz with the railgun",
+            "link": "https://cametek.bandcamp.com/track/blast-your-headz-with-the-railgun",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "[diffraction]",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0008/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "[diffraction]",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002263&search=diffraction&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "[diffraction].jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Blast your headz with the railgun (BassHouse VIP)",
+            "url": "Blast-your-headz-with-the-railgun-BassHouse-VIP",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "3:13",
+            "albums": [
+                {
+                    "albumName": "INSANE INFLAME",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2016-04-24",
+                    "albumReleaseEvent": "M3-37",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Blast your headz with the railgun (BassHouse VIP)",
+                    "link": "https://youtu.be/20DL8V-lMtQ",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "Blast your headz with the railgun (BassHouse VIP)",
+                    "link": "https://open.spotify.com/track/0tJjd1NUpDqeZ3PvPrztiE?si=87864b86055447d2",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "Blast your headz with the railgun (BassHouse VIP)",
+                    "link": "https://music.apple.com/us/album/blast-your-headz-with-the-railgun-basshouse-vip/1112554154?i=1112554511",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Bandcamp",
+                    "displayName": "Blast your headz with the railgun (BassHouse VIP)",
+                    "link": "https://cametek.bandcamp.com/track/blast-your-headz-with-the-railgun-basshouse-vip",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "INSANE INFLAME",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0013/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "INSANE INFLAME",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000770&search=insane+inflame&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "INSANE INFLAME.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

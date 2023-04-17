@@ -1,0 +1,38 @@
+{
+    "name": "Solvicious",
+    "url": "Solvicious",
+    "altNames": null,
+    "artists": [
+        "Lapix [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:40",
+    "albums": [
+        {
+            "albumName": "GALAXY BURST, L (Bonus Track)",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-03-21",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Solvicious",
+            "link": "https://youtu.be/DliCUyp9uPo",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GALAXY BURST-L.png",
+            "caption": null
+        }
+    ],
+    "description": "Exclusive Bonus track recieved after purchasing the first prints of both GALAXY BURST and Lapix's album L, which was released at the same time by EXIT TUNES.",
+    "variations": null
+}

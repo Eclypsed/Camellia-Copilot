@@ -1,0 +1,56 @@
+{
+    "name": "カートゥーン ランド: にじを こえて！ かくしコースへ むかえ",
+    "url": "カートゥーン-ランド-にじを-こえて！-かくしコースへ-むかえ",
+    "altNames": [
+        "Cartoon Land: Beyond the bleeding! Back to the hidden course"
+    ],
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:09",
+    "albums": [
+        {
+            "albumName": "Make Some Toy Box/メイクサムトイボックス",
+            "albumPublisher": "SKETCH UP! Recordings",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "カートゥーン ランド: にじを こえて！ かくしコースへ むかえ",
+            "link": "https://youtu.be/SyImfL9QwAU",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "カートゥーン ランド: にじを こえて！ かくしコースへ むかえ",
+            "link": "https://genkianamei.bandcamp.com/track/--21",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Make Some Toy Box",
+            "link": "https://diverse.direct/sketch-up-recordings/gecd-020/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Make Some Toy Box",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000860&search=Make+Some+Toy+Box&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Make Some Toy Box.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

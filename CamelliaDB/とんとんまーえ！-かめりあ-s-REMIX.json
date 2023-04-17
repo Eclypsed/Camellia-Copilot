@@ -1,0 +1,59 @@
+{
+    "name": "とんとんまーえ！(かめりあ's REMIX)",
+    "url": "とんとんまーえ！-かめりあ-s-REMIX",
+    "altNames": null,
+    "artists": [
+        "Satsuki ga Tenkomori/さつき が てんこもり [C]",
+        "Hatsune Miku/初音ミク [V]",
+        "Kagamine Len/鏡音レン [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "とんとんまーえ！",
+        "originalSongArtists": [
+            "さつき が てんこもり feat. 初音ミク & 鏡音レン"
+        ],
+        "originalSongLink": "https://youtu.be/oP2BzZgV_l4"
+    },
+    "duration": "4:56",
+    "albums": [
+        {
+            "albumName": "身辺整理",
+            "albumPublisher": "Subcul-rise Record",
+            "albumReleaseDate": "2014-06-25",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "とんとんまーえ！(かめりあ's REMIX)",
+            "link": "https://youtu.be/_0H1V-AtjvI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "とんとんまーえ！(かめりあ's REMIX)",
+            "link": "https://open.spotify.com/track/6uOIcMM2QUi04YdA8dTlFK?si=376db9242b784739",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "とんとんまーえ！(かめりあ's REMIX)",
+            "link": "https://music.apple.com/us/album/tontonmae-camellias-remix-feat-%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3/955405565?i=955405583",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "身辺整理.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

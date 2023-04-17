@@ -1,0 +1,41 @@
+{
+    "name": "Mazare Dance",
+    "url": "Mazare-Dance",
+    "altNames": null,
+    "artists": [
+        "kradness [V]",
+        "Sekihan/赤飯 [V]",
+        "MeseMoa [V]",
+        "*ChocoLate Bomb!! [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:02",
+    "albums": [
+        {
+            "albumName": "江州盆ダンス2017",
+            "albumPublisher": "Lake Biwa Ōtsu Mazare Festival Executive Committee",
+            "albumReleaseDate": "2017-07-29",
+            "albumReleaseEvent": null,
+            "albumType": "L"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Mazare Dance",
+            "link": "https://youtu.be/SavoAbXPoPo",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "江州盆ダンス2017.png",
+            "caption": null
+        }
+    ],
+    "description": "Mazare Dance was produced for 江州盆ダンス2017 and was performed live by Camellia and the other aforementioned vocalists/performers. Mazare Dance marks Camellia's second and only other appearance at 江州盆ダンス.  The Mazare Festival was established in 2016 as a combination of the Lake Biwa Otsu Summer Festival and the Hamaotsu Summer Festa, which had been held separately in Otsu City. \"Mazare\" is a coined word that combines \"交ざる (Mazaru)\", which means people gather and interact, and \"マザーレイク (mazareiku)\", which means Lake Biwa.",
+    "variations": null
+}

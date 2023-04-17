@@ -1,0 +1,54 @@
+{
+    "name": "Nacreous Snowmelt",
+    "url": "Nacreous-Snowmelt",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "7:20",
+    "albums": [
+        {
+            "albumName": "Nacreous Snowmelt",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2019-011-01",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Nacreous Snowmelt",
+            "link": "https://youtu.be/OU7YFePj3jM",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Nacreous Snowmelt",
+            "link": "https://open.spotify.com/track/5qFqS2zrlkc3ojTdHnJm7m?si=0e804d33026547eb",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Nacreous Snowmelt",
+            "link": "https://music.apple.com/jp/album/nacreous-snowmelt/1524746460?i=1524746465&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Nacreous Snowmelt",
+            "link": "https://cametek.bandcamp.com/track/nacreous-snowmelt-for-thx-70k-twitter-followers",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Nacreous Snowmelt.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

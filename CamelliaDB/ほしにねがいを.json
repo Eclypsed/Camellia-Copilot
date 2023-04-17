@@ -1,0 +1,58 @@
+{
+    "name": "ほしにねがいを",
+    "url": "ほしにねがいを",
+    "altNames": [
+        "I Wish Upon A Star"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:25",
+    "albums": [
+        {
+            "albumName": "Colory Starry",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ほしにねがいを",
+            "link": "https://youtu.be/T09tZv4RDL0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "ほしにねがいを",
+            "link": "https://open.spotify.com/track/3rRzAw8krFCZw6SeJisscS?si=3174241a42944ede",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ほしにねがいを",
+            "link": "https://music.apple.com/us/album/i-wish-upon-a-star/1556697277?i=1556697641",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Colory Starry",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000558&search=colory+starry&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Colory Starry.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

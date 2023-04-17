@@ -1,0 +1,46 @@
+{
+    "name": "Untitled",
+    "url": "Untitled",
+    "altNames": null,
+    "artists": [
+        "kradness [C A L V]",
+        "Serna/センラ [V]",
+        "Camellia [A]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:01",
+    "albums": [
+        {
+            "albumName": "Untitled",
+            "albumPublisher": "XYZ vs XYZ",
+            "albumReleaseDate": "2020-08-15",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Untitled",
+            "link": "https://youtu.be/SLCVRl0b-sU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "Untitled",
+            "link": "https://www.nicovideo.jp/watch/sm37349541",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Untitled.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

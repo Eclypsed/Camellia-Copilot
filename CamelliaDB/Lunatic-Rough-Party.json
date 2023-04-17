@@ -1,0 +1,84 @@
+{
+    "name": "Lunatic Rough Party!!",
+    "url": "Lunatic-Rough-Party",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "Lunate Elf/ルーネイトエルフ",
+            "touhouGame": "東方紅魔郷　～ the Embodiment of Scarlet Devil"
+        }
+    ],
+    "originalSong": null,
+    "duration": "2:00",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX II -infinite infection-",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-01-10"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Lunatic Rough Party!!",
+            "link": "https://youtu.be/B60NlXVH-Tw",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Lunatic Rough Party!!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Lunatic Rough Party!! (Long ver.)",
+            "url": "Lunatic-Rough-Party-Long-ver",
+            "altNames": null,
+            "artists": [
+                "Camellia [A]"
+            ],
+            "songType": "Touhou Arrangement, Extension",
+            "touhouOrigin": [
+                {
+                    "touhouSong": "Lunate Elf/ルーネイトエルフ",
+                    "touhouGame": "東方紅魔郷　～ the Embodiment of Scarlet Devil"
+                }
+            ],
+            "originalSong": null,
+            "duration": "4:38",
+            "albums": [
+                {
+                    "albumName": "SOUND VOLTEX ULTIMATE TRACKS - 東方紅魔郷REMIX",
+                    "albumPublisher": "Konami",
+                    "albumReleaseDate": "2014-07-30",
+                    "albumReleaseEvent": null,
+                    "albumType": "A] -"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Lunatic Rough Party!! (Long ver.)",
+                    "link": "https://youtu.be/8-quoMd3R84",
+                    "unofficial": true
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "SOUND VOLTEX ULTIMATE TRACKS - 東方紅魔郷REMIX.jpg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

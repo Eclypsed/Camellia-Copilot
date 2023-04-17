@@ -1,0 +1,46 @@
+{
+    "name": "擾爛舞讌",
+    "url": "擾爛舞讌",
+    "altNames": [
+        "Jouranbuen"
+    ],
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:48",
+    "albums": [
+        {
+            "albumName": "Indulgence Mirage-ism [Anime Edition]/耽溺ミラアジュイズム【アニメ盤】",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "Spotify",
+            "displayName": "擾爛舞讌",
+            "link": "https://open.spotify.com/track/5N41LXbq6iFGHpV1RoQoWg?si=48e2016d81c445cb",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "擾爛舞讌",
+            "link": "https://music.apple.com/us/album/jouranbuen/1389660156?i=1389660986",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "耽溺ミラアジュイズム Anime Edition.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on the release.",
+    "variations": null
+}

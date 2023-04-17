@@ -1,0 +1,38 @@
+{
+    "name": "Are You LADY?!",
+    "url": "Are-You-LADY",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:00",
+    "albums": [
+        {
+            "albumName": "GIRL'S FESTA! 01",
+            "albumPublisher": "forestpireo",
+            "albumReleaseDate": "2011-12-30",
+            "albumReleaseEvent": "Comiket 81",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Are You LADY?!",
+            "link": "https://youtu.be/rEmwVFoMEMc",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GIRL'S FESTA! 01.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Are you LADY?! marks Camellia and Nanahira's first collaboration together.",
+    "variations": null
+}

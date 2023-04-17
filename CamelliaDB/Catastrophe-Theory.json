@@ -1,0 +1,54 @@
+{
+    "name": "Catastrophe Theory",
+    "url": "Catastrophe-Theory",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:51",
+    "albums": [
+        {
+            "albumName": "fig.2 -Singularity-",
+            "albumPublisher": "Diverse System",
+            "albumReleaseDate": "2015-10-25",
+            "albumReleaseEvent": "M3-36",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Catastrophe Theory",
+            "link": "https://youtu.be/2h1IdhpRqDc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Catastrophe Theory",
+            "link": "https://diversesystem.bandcamp.com/track/catastrophe-theory",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "fig.2 -Singularity-",
+            "link": "https://diverse.direct/diverse-system/dvsp-0139/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "fig.2 -Singularity-",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000626&search=fig.2+-Singularity-&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Fig.2 -Singularity-.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

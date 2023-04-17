@@ -1,0 +1,49 @@
+{
+    "name": "Infinity Rise (Camellia's \"Inf+1\" Remix)",
+    "url": "Infinity-Rise-Camellia-s-Inf-1-Remix",
+    "altNames": null,
+    "artists": [
+        "Ryu [C]",
+        "kradness [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Infinity Rise",
+        "originalSongArtists": [
+            "Ryu",
+            "かなき",
+            "kradness",
+            "Kanae Asaba"
+        ],
+        "originalSongLink": "https://youtu.be/lJjopDDYGpk"
+    },
+    "duration": "4:38",
+    "albums": [
+        {
+            "albumName": "Dualive",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Infinity Rise (Camellia's \"Inf+1\" Remix)",
+            "link": "https://youtu.be/vZ36ijgrznQ",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dualive.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

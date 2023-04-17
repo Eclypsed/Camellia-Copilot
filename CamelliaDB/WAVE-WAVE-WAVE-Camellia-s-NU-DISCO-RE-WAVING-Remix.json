@@ -1,0 +1,51 @@
+{
+    "name": "WAVE WAVE WAVE (Camellia's \"NU-DISCO RE-WAVING\" Remix)",
+    "url": "WAVE-WAVE-WAVE-Camellia-s-NU-DISCO-RE-WAVING-Remix",
+    "altNames": null,
+    "artists": [
+        "隣人 [A L]",
+        "itori [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Touhou Arrangement, Remix",
+    "touhouOrigin": [
+        {
+            "touhouSong": "秘境のマーメイド",
+            "touhouGame": "東方輝針城　～ Double Dealing Character"
+        }
+    ],
+    "originalSong": {
+        "originalSongName": "WAVE WAVE WAVE",
+        "originalSongArtists": [
+            "ZYTOKINE"
+        ],
+        "originalSongLink": "https://www.nicovideo.jp/watch/sm22847026"
+    },
+    "duration": "5:13",
+    "albums": [
+        {
+            "albumName": "OVERFLOW XXXX",
+            "albumPublisher": "ZYTOKINE",
+            "albumReleaseDate": "2015-12-30",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "WAVE WAVE WAVE (Camellia's \"NU-DISCO RE-WAVING\" Remix)",
+            "link": "https://youtu.be/rd7RZO7HoJA",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "OVERFLOW XXXX.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

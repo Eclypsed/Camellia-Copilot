@@ -1,0 +1,39 @@
+{
+    "name": "ドクヘビ",
+    "url": "ドクヘビ",
+    "altNames": [
+        "Dokuhebi",
+        "Venomous Snake"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:46",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ドクヘビ",
+            "link": "https://youtu.be/n1q-R6iNxRE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "ドクヘビ",
+            "link": "https://cametek.bandcamp.com/track/dokuhebi-venomous-snake",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ドクヘビ.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

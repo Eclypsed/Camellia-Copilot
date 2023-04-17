@@ -1,0 +1,66 @@
+{
+    "name": "An artifice (that would have disrupted the far old monarchy in the course of time)",
+    "url": "An-artifice-that-would-have-disrupted-the-far-old-monarchy-in-the-course-of-time",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:36",
+    "albums": [
+        {
+            "albumName": "MEGATON KICK",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2019-12-31",
+            "albumReleaseEvent": "Comiket 97",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "An artifice (that would have disrupted the far old monarchy in the course of time)",
+            "link": "https://youtu.be/bkoNyvu7F9M",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "An artifice (that would have disrupted the far old monarchy in the course of time)",
+            "link": "https://open.spotify.com/track/3UEePuE1bNO20ZDyfSJuaj?si=bfe42f5d009c4aef",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "An artifice (that would have disrupted the far old monarchy in the course of time)",
+            "link": "https://music.apple.com/us/album/an-artifice-that-would-have-disrupted-the-far/1494253385?i=1494253708",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "An artifice (that would have disrupted the far old monarchy in the course of time)",
+            "link": "https://tanoc.bandcamp.com/track/an-artifice-that-would-have-disrupted-the-far-old-monarchy-in-the-course-of-time",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MEGATON KICK",
+            "link": "https://diverse.direct/hardcore-tanoc/tcplus-0039/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MEGATON KICK",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002306&search=megaton+kick&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "MEGATON KICK.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

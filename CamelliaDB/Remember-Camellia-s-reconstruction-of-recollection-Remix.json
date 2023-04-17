@@ -1,0 +1,76 @@
+{
+    "name": "Remember (Camellia's \"reconstruction of recollection\" Remix)",
+    "url": "Remember-Camellia-s-reconstruction-of-recollection-Remix",
+    "altNames": null,
+    "artists": [
+        "DJ Genki [C]",
+        "yukacco [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Remember",
+        "originalSongArtists": [
+            "DJ Genki feat. yukacco"
+        ],
+        "originalSongLink": "https://youtu.be/_vChi50qxzk"
+    },
+    "duration": "4:48",
+    "albums": [
+        {
+            "albumName": "TANO*C REMIXES 3",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2013-12-31",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Remember (Camellia's \"reconstruction of recollection\" Remix)",
+            "link": "https://youtu.be/-q4aIefnosg",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Remember (Camellia's \"reconstruction of recollection\" Remix)",
+            "link": "https://open.spotify.com/track/2pWdcoJR5kbuIpdUYM2c6e?si=cdb527a271f94b45",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Remember (Camellia's \"reconstruction of recollection\" Remix)",
+            "link": "https://music.apple.com/us/album/remember-feat-yukacco-camellias-reconstruction-of/1656433626?i=1656433747",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Remember (Camellia's \"reconstruction of recollection\" Remix)",
+            "link": "https://tanoc.bandcamp.com/track/remember-camellias-reconstruction-of-recollection-remix",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "TANO*C REMIXES 3",
+            "link": "https://diverse.direct/hardcore-tanoc/tcplus-0015/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "TANO*C REMIXES 3",
+            "link": "https://www.tanocstore.net/shopdetail/000000000639",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "TANO​C REMIXES 3.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

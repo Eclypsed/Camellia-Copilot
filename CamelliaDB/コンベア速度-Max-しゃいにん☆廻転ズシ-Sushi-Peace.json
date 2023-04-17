@@ -1,0 +1,102 @@
+{
+    "name": "コンベア速度 Max!? しゃいにん☆廻転ズシ\"Sushi & Peace\"",
+    "url": "コンベア速度-Max-しゃいにん☆廻転ズシ-Sushi-Peace",
+    "altNames": [
+        "Conveyor Sokudo Max!? Shinin'☆Kaitenzushi \"Sushi & Peace\""
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:53",
+    "albums": [
+        {
+            "albumName": "Replay!/りぷれい！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX II -infinite infection-",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-02-06"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "コンベア速度 Max!? しゃいにん☆廻転ズシ\"Sushi & Peace\"",
+            "link": "https://youtu.be/emKKMR1BFkM",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "りぷれい！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-003/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "コンベア速度 Max! しゃいにん☆廻転ズシSushi & Peace.png",
+            "caption": null
+        },
+        {
+            "filename": "Replay!.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "コンベア速度 Max!? しゃいにん☆廻転ズシ\"Sushi & Peace\" (Very Very Long Hosomaki Zushi Ver.)",
+            "url": "コンベア速度-Max-しゃいにん☆廻転ズシ-Sushi-Peace-Very-Very-Long-Hosomaki-Zushi-Ver",
+            "altNames": [
+                "Conveyor Sokudo Max!? Shinin'☆Kaitenzushi \"Sushi & Peace\" (Very Very Long Hosomaki Zushi Ver.)"
+            ],
+            "artists": [
+                "Nanahira/ななひら [V]"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:28",
+            "albums": [
+                {
+                    "albumName": "Replay!/りぷれい！",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+                    "albumReleaseDate": "2015-08-16",
+                    "albumReleaseEvent": "Comiket 88",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "コンベア速度 Max!? しゃいにん☆廻転ズシ\"Sushi & Peace\" (Very Very Long Hosomaki Zushi Ver.)",
+                    "link": "https://youtu.be/OFMijvZJNGs",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "りぷれい！",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-003/",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Replay!.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

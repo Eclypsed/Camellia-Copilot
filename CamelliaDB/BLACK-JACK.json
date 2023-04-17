@@ -1,0 +1,66 @@
+{
+    "name": "BLACK JACK",
+    "url": "BLACK-JACK",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:42",
+    "albums": [
+        {
+            "albumName": "PLANET//SHAPER",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "BLACK JACK",
+            "link": "https://youtu.be/DQiZDq2bnqY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "BLACK JACK",
+            "link": "https://open.spotify.com/track/7kvi2aRMq97HiLlk0zhJUx?si=aca749fc64b04bcf",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "BLACK JACK",
+            "link": "https://music.apple.com/us/album/black-jack/1049686892?i=1049687342",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "BLACK JACK",
+            "link": "https://cametek.bandcamp.com/track/black-jack",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "PLANET//SHAPER",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0011/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "PLANET//SHAPER",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002265&search=planet%2F%2Fshaper&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "PLANET SHAPER.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

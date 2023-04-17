@@ -1,0 +1,58 @@
+{
+    "name": "Welcome To Wobbling Field",
+    "url": "Welcome-To-Wobbling-Field",
+    "altNames": null,
+    "artists": [
+        "Rei-tan/れいたん [L]",
+        "Hatsune Miku/初音ミク [V]",
+        "GUMI/グミ [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:46",
+    "albums": [
+        {
+            "albumName": "Michno-Sequence",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2012-07-08",
+            "albumReleaseEvent": "VOC@LOiD M@STER 21",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Welcome To Wobbling Field",
+            "link": "https://youtu.be/RjqDkzp7p8c",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "Welcome To Wobbling Field",
+            "link": "https://www.nicovideo.jp/watch/sm17783309",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Michno-Sequence",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0004/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Michno-Sequence",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002260&search=michno-sequence&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Michno-sequence.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

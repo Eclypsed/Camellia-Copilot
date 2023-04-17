@@ -1,0 +1,76 @@
+{
+    "name": "Blackmagik Blazing",
+    "url": "Blackmagik-Blazing",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:32",
+    "albums": [
+        {
+            "albumName": "Blackmagik Blazing",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2019-08-12",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "CHUNITHM CRYSTAL PLUS",
+            "gamePublisher": "SEGA",
+            "gameReleaseDate": "2020-10-29"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Blackmagik Blazing",
+            "link": "https://youtu.be/vYGNfiLe0uk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Blackmagik Blazing",
+            "link": "https://open.spotify.com/track/7GxFuGtA1kJKPSsc8WLbrA?si=94d817749941459f",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Blackmagik Blazing",
+            "link": "https://music.apple.com/us/album/blackmagik-blazing/1476530789?i=1476530809",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Blackmagik Blazing",
+            "link": "https://cametek.bandcamp.com/track/blackmagik-blazing",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Blackmagik Blazing (Album)",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0019/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Blackmagik Blazing (Album)",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002092&search=blackmagik&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Blackmagik Blazing.png",
+            "caption": null
+        },
+        {
+            "filename": "Blackmagik Blazing.png",
+            "caption": null
+        }
+    ],
+    "description": "Trimmed down to 2:28 in CHUNITHM",
+    "variations": null
+}

@@ -1,0 +1,120 @@
+{
+    "name": "werewolf howls.",
+    "url": "werewolf-howls",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "孤独なウェアウルフ",
+            "touhouGame": "東方輝針城 ～ Double Dealing Character"
+        }
+    ],
+    "originalSong": null,
+    "duration": "1:56",
+    "albums": [
+        {
+            "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2018-08-10",
+            "albumReleaseEvent": "Comiket 94",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX II -infinite infection-",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-09-26"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "werewolf howls.",
+            "link": "https://youtu.be/o246vydwxeI",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "werewolf howls..png",
+            "caption": null
+        },
+        {
+            "filename": "Remixes Summary VIPs 02.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "werewolf howls. [\"Growling\" Long ver.]",
+            "url": "werewolf-howls-Growling-Long-ver",
+            "altNames": null,
+            "artists": [
+                "Camellia [A]"
+            ],
+            "songType": "Touhou Arrangement, Extension",
+            "touhouOrigin": [
+                {
+                    "touhouSong": "孤独なウェアウルフ",
+                    "touhouGame": "東方輝針城 ～ Double Dealing Character"
+                }
+            ],
+            "originalSong": null,
+            "duration": "4:22",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2018-08-10",
+                    "albumReleaseEvent": "Comiket 94",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "werewolf howls. [\"Growling\" Long ver.]",
+                    "link": "https://youtu.be/h5BUX1jpXWE",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Remixes Summary VIPs 02.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

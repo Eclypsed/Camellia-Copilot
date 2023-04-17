@@ -1,0 +1,51 @@
+{
+    "name": "最速ダウンヒル：ROUTE⇛77",
+    "url": "最速ダウンヒル：ROUTE⇛77",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "Nana Takahashi/高橋菜々 [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:46",
+    "albums": [
+        {
+            "albumName": "Candy Time",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2015-12-31",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "最速ダウンヒル：ROUTE⇛77",
+            "link": "https://youtu.be/aZSvqQRbpOc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "最速ダウンヒル：ROUTE⇛77",
+            "link": "https://open.spotify.com/track/40lNjMEnniMLXDp7ESeBUd?si=793c63dbe1864ebc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "最速ダウンヒル：ROUTE⇛77",
+            "link": "https://music.apple.com/us/album/fastest-downhill-route-77/1554087234?i=1554087651",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Candy Time.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

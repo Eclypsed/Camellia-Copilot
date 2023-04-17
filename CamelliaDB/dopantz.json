@@ -1,0 +1,42 @@
+{
+    "name": "__dopantz__",
+    "url": "dopantz",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:25",
+    "albums": [
+        {
+            "albumName": "Krazy Psycho Bass",
+            "albumPublisher": "Lilium Records",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "__dopantz__",
+            "link": "https://youtu.be/Ku2J3gyJUBM",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Krazy Psycho Bass",
+            "link": "https://diverse.direct/lilium-records/llmr-048/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Krazy Psycho Bass.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

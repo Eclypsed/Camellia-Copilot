@@ -1,0 +1,66 @@
+{
+    "name": "+ERABY+E CONNEC+10N",
+    "url": "ERABY-E-CONNEC-10N",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:11",
+    "albums": [
+        {
+            "albumName": "Tera I/O",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2020-09-27",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "+ERABY+E CONNEC+10N",
+            "link": "https://youtu.be/dnDHpbyqXik",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "+ERABY+E CONNEC+10N",
+            "link": "https://open.spotify.com/track/4sjfACDJGLhTWJohCuoXR8?si=bb66d69f6cc04c1d",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "+ERABY+E CONNEC+10N",
+            "link": "https://music.apple.com/jp/album/eraby-e-connec-10n/1531261866?i=1531261892&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "+ERABY+E CONNEC+10N",
+            "link": "https://cametek.bandcamp.com/track/eraby-e-connec-10n",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Tera I/O",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0020/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Tera I/O",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002544&search=Tera+I%2FO&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Tera IO.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

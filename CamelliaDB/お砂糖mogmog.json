@@ -1,0 +1,40 @@
+{
+    "name": "お砂糖mogmog",
+    "url": "お砂糖mogmog",
+    "altNames": [
+        "Sugar mogmog"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:08",
+    "albums": [
+        {
+            "albumName": "ぼかろってなぁに？",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2010-10-31",
+            "albumReleaseEvent": "VOC@LOiD M@STER 14",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "お砂糖mogmog",
+            "link": "https://youtu.be/3X2UUHXDbjA",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ぼかろってなぁに？.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

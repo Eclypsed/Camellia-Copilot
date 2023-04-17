@@ -1,0 +1,44 @@
+{
+    "name": "Alternative Function",
+    "url": "Alternative-Function",
+    "altNames": null,
+    "artists": [
+        "GAT (DJ Genki aran Tachibana) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:24",
+    "albums": [
+        {
+            "albumName": "GAT02",
+            "albumPublisher": "GAT",
+            "albumReleaseDate": "2013-10-27",
+            "albumReleaseEvent": "M3-32",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Alternative Function",
+            "link": "https://youtu.be/XD4FuwSAE5k",
+            "unofficial": true
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "GAT02",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000402&search=GAT02&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GAT02.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

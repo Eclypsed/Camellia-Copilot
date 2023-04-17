@@ -1,0 +1,62 @@
+{
+    "name": "BIER & WURST & KARTOFFEL",
+    "url": "BIER-WURST-KARTOFFEL",
+    "altNames": null,
+    "artists": [
+        "KASAI HARCORES (DJ Genki Camellia & C-Show) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:26",
+    "albums": [
+        {
+            "albumName": "KASAI HARCORES EP3 Kasai Baseball Classic/葛西ハーコーズEP3 Kasai Baseball Classic",
+            "albumPublisher": "KASAI HARCORES",
+            "albumReleaseDate": "2018-10-28",
+            "albumReleaseEvent": "M3-42",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "BIER & WURST & KARTOFFEL",
+            "link": "https://youtu.be/cEAoY55ShzE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "BIER & WURST & KARTOFFEL",
+            "link": "https://open.spotify.com/track/5QlsW6HgoNKY0tmIWNYliz?si=236d7b582a8c4338",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "BIER & WURST & KARTOFFEL",
+            "link": "https://music.apple.com/us/album/bier-wurst-kartoffel/1479957562?i=1479957818",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "BIER & WURST & KARTOFFEL",
+            "link": "https://genkianamei.bandcamp.com/track/bier-wurst-kartoffel",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "葛西ハーコーズEP3 Kasai Baseball Classic",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001740&search=%B3%EB%C0%BE%A5%CF%A1%BC%A5%B3%A1%BC%A5%BAEP3+Kasai+Baseball+Classic&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Kasai Harcores EP3 Kasai Baseball Classic.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

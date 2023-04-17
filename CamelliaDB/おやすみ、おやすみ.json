@@ -1,0 +1,64 @@
+{
+    "name": "おやすみ、おやすみ",
+    "url": "おやすみ、おやすみ",
+    "altNames": [
+        "Goodnight, Goodnight"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:11",
+    "albums": [
+        {
+            "albumName": "MIDNIGHT FUTURE",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2019-12-31",
+            "albumReleaseEvent": "Comiket 97",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "おやすみ、おやすみ",
+            "link": "https://youtu.be/F0KGLWTn-Ek",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "おやすみ、おやすみ",
+            "link": "https://open.spotify.com/track/1igDWSbdychmlW5ZlQhIqP?si=88a740f6b99b4e9a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "おやすみ、おやすみ",
+            "link": "https://music.apple.com/us/album/good-night-good-night/1494092930?i=1494093651",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MIDNIGHT FUTURE",
+            "link": "https://diverse.direct/confetto/cfcd-0021/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MIDNIGHT FUTURE",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002256&search=MIDNIGHT+FUTURE&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "MIDNIGHT FUTURE.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

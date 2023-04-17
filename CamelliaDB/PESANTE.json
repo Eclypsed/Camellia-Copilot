@@ -1,0 +1,53 @@
+{
+    "name": "PESANTE",
+    "url": "PESANTE",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:00",
+    "albums": [
+        {
+            "albumName": "ANDANTE WEB Novel/アンダンテWEB小説",
+            "albumPublisher": "Akira/日日日, Sakanoharu/坂ノハル",
+            "albumReleaseDate": "2016-04-28",
+            "albumReleaseEvent": null,
+            "albumType": "Novel"
+        },
+        {
+            "albumName": "ANDANTE ORIGINAL SOUNDTRACK/アンダンテ サウンドトラック",
+            "albumPublisher": "views",
+            "albumReleaseDate": "2017-04-27",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "PESANTE",
+            "link": "https://youtu.be/44EmcSmyWQs",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "PESANTE",
+            "link": "https://www.nicovideo.jp/watch/sm28727453",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Project Andante.jpg",
+            "caption": null
+        },
+        {
+            "filename": "ANDANTE ORIGINAL SOUNDTRACK.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Theme song for the 3rd movement of the Andante Web Novel  Note regarding the Andante Web Novel: During my research I notice that Project Andante's page has been dead since around 2019, and viewing the latest working capture on wayback reveals something odd. The latest working capture shows that as of August 8th, 2019 the 9th and final \"Movement\" (basically means chapter) remained unreleased. This is despite the fact that the 8th movement had been released sometime between the 7th movement's release on August 15th 2017 and Jun 4th 2017, right before Sakanoharu's very last tweet on September 12th, 2017. It's also worth noting that the tweet announcing the 7th movement's release on August 15th, 2017 was also the final tweet by Project Andante's official twitter account. Basically it seems as though Sakanoharu ceased all activity sometime between September and December of 2017, and as a result so did Project Andante and the 9th movement was never released. From what I can tell the novelist for Project Andante, 日日日, also never tweeted about the series again after July 27th, 2017, although he is still active to this day. This abrupt stop in all activity has led a couple of people (under a now unavailable Project Andante tweet) to theorise that something (idk what) happened to Sakanoharu which prompted the end of Project Andante before it was ever completed. Leading up to this Sakanoharu never made any indication that the project would be ending or that he was losing enthusiasm for it, and so I am unfortunately assuming the worst and hoping for the best. The worst would sadly explain why the project was never completed, the complete lack of activity for 5 years, and why my messages were never responded to, but like I said, I'm hoping that he is alright.",
+    "variations": null
+}

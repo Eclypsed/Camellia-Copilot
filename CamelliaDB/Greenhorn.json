@@ -1,0 +1,44 @@
+{
+    "name": "Greenhorn",
+    "url": "Greenhorn",
+    "altNames": null,
+    "artists": [
+        "GAT (Genki aran Tachibana) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:24",
+    "albums": [
+        {
+            "albumName": "GAT01",
+            "albumPublisher": "GAT",
+            "albumReleaseDate": "2013-04-29",
+            "albumReleaseEvent": "M3-31",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Greenhorn",
+            "link": "https://youtu.be/RGdgZjIK4ak",
+            "unofficial": true
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "GAT01",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000403&search=GAT01&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GAT01.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

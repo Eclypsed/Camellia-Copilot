@@ -1,0 +1,66 @@
+{
+    "name": "Labyrinth in Kowloon: Walled World",
+    "url": "Labyrinth-in-Kowloon-Walled-World",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:14",
+    "albums": [
+        {
+            "albumName": "U.U.F.O.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2021-07-11",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Labyrinth in Kowloon: Walled World",
+            "link": "https://youtu.be/GerPj12mZ-g",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Labyrinth in Kowloon: Walled World",
+            "link": "https://open.spotify.com/track/5Qivv3ugdHpBpZsVYpRhop?si=1754c1ef92694fda",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Labyrinth in Kowloon: Walled World",
+            "link": "https://music.apple.com/us/album/labyrinth-in-kowloon-walled-world/1572224128?i=1572224135",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Labyrinth in Kowloon: Walled World",
+            "link": "https://cametek.bandcamp.com/track/labyrinth-in-kowloon-walled-world",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "U.U.F.O.",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0021-0022/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "U.U.F.O.",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002743&search=U.U.F.O.&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "U.U.F.O..jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

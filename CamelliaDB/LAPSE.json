@@ -1,0 +1,85 @@
+{
+    "name": "LAPSE",
+    "url": "LAPSE",
+    "altNames": null,
+    "artists": [
+        "Masayoshi Minoshima [A]",
+        "Camellia [L]",
+        "nachi [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "Complete Darkness",
+            "touhouGame": "東方封魔録　～ Story of Eastern Wonderland"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:33",
+    "albums": [
+        {
+            "albumName": "DECADE OF EXPOSE",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2013-12-30",
+            "albumReleaseEvent": "Comiket 85",
+            "albumType": "C"
+        },
+        {
+            "albumName": "東方PARTYBOX 博麗神社ver.",
+            "albumPublisher": "Melonbooks Records",
+            "albumReleaseDate": "2016-05-16",
+            "albumReleaseEvent": "Reitaisai 13",
+            "albumType": "C"
+        },
+        {
+            "albumName": "Nachtansicht",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "LAPSE",
+            "link": "https://youtu.be/Esb_5l9R0uM",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "LAPSE",
+            "link": "https://open.spotify.com/track/2pJ48YKfDDV0U1NuWNo8md?si=4964042d44624b68",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "LAPSE",
+            "link": "https://music.apple.com/us/album/lapse-feat-nachi/1613280846?i=1613280849",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "DECADE OF EXPOSE",
+            "link": "https://www.tanocstore.net/shopdetail/000000000305/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "DECADE OF EXPOSE.jpg",
+            "caption": null
+        },
+        {
+            "filename": "東方PARTYBOX 博麗神社ver..jpg",
+            "caption": null
+        },
+        {
+            "filename": "Nachtansicht.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

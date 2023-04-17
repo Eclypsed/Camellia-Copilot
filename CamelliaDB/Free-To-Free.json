@@ -1,0 +1,73 @@
+{
+    "name": "Free To Free",
+    "url": "Free-To-Free",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:58",
+    "albums": [
+        {
+            "albumName": "MEGANTO METEOR",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-07-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        },
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Free To Free",
+            "link": "https://youtu.be/51WwW1tI8Fg",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Free To Free",
+            "link": "https://open.spotify.com/track/6rZzyvMMbwUkHpcyp2uNcB?si=e572a41b2bcd4428",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Free To Free",
+            "link": "https://music.apple.com/jp/album/free-to-free/1127337029?i=1127337071&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://diverse.direct/edp/qwce-90001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000813&search=Bass+Weapon+LAZERFLAME&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "MEGANTO METEOR.png",
+            "caption": null
+        },
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

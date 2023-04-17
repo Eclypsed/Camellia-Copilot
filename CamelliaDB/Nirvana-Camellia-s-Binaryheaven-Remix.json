@@ -1,0 +1,58 @@
+{
+    "name": "Nirvana (Camellia's \"Binaryheaven\" Remix)",
+    "url": "Nirvana-Camellia-s-Binaryheaven-Remix",
+    "altNames": null,
+    "artists": [
+        "kors k [C]",
+        "ЯIRE [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Nirvana",
+        "originalSongArtists": [
+            "kors k feat. ЯIRE"
+        ],
+        "originalSongLink": "https://youtu.be/NlQ6cVkHDjc"
+    },
+    "duration": "5:01",
+    "albums": [
+        {
+            "albumName": "Let's Do It Again!!",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2015-03-18",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Nirvana (Camellia's \"Binaryheaven\" Remix)",
+            "link": "https://youtu.be/saflU3jCojA",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Nirvana (Camellia's \"Binaryheaven\" Remix)",
+            "link": "https://open.spotify.com/track/7e9ivjmS8NINeEjv41s7Li?si=c1dcfc82c8a3451b",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Nirvana (Camellia's \"Binaryheaven\" Remix)",
+            "link": "https://music.apple.com/us/album/nirvana-camellias-binaryheaven-remix/985163551?i=985163762",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Let's Do It Again!!.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,99 @@
+{
+    "name": "overcomplexification",
+    "url": "overcomplexification",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:56",
+    "albums": [
+        {
+            "albumName": "jubeat prop ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2017-01-11",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "jubeat prop",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-02-20"
+        },
+        {
+            "gameName": "jubeat plus + Android",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-07-17"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "overcomplexification",
+            "link": "https://youtu.be/x21rqKkDRD4",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Overcomplexification.png",
+            "caption": null
+        },
+        {
+            "filename": "jubeat prop ORIGINAL SOUNDTRACK.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "overcomplexification (Quaternion Long ver.)",
+            "url": "overcomplexification-Quaternion-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:37",
+            "albums": [
+                {
+                    "albumName": "GALAXY BURST",
+                    "albumPublisher": "EXIT TUNES",
+                    "albumReleaseDate": "2018-03-21",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "overcomplexification (Quaternion Long ver.)",
+                    "link": "https://youtu.be/xIilwm390Sw",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "GALAXY BURST",
+                    "link": "https://diverse.direct/edp/qwce-90016/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "GALAXY BURST",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001441&search=GALAXY+BURST&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "GALAXY BURST.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Xronièr",
+    "url": "Xronièr",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:10",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX IV HEAVENLY HAVEN",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2018-08-09"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Xronièr",
+            "link": "https://youtu.be/FA3C5wwqkuM",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Xronièr.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Xronièr (\"genèXe\" Long ver.)",
+            "url": "Xronièr-genèXe-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:01",
+            "albums": [
+                {
+                    "albumName": "Xroniàl Xéro",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2020-03-18",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Xronièr (\"genèXe\" Long ver.)",
+                    "link": "https://youtu.be/PkWCWULK9j8",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Xroniàl Xéro",
+                    "link": "https://diverse.direct/edp/pcca-04883/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Xroniàl Xéro",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002383&search=Xroni%26%23224%3Bl+X%26%23233%3Bro&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Xronial Xero.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "SUPER Tornado デラックス",
+    "url": "SUPER-Tornado-デラックス",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:56",
+    "albums": [
+        {
+            "albumName": "MEGA YABAICORE",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "SUPER Tornado デラックス",
+            "link": "https://youtu.be/SgKtJeH7t7g",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "SUPER Tornado デラックス",
+            "link": "https://open.spotify.com/track/6EEEjtEXbdqdpkYEOyTuI7?si=bb93d2837f4a42c7",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "SUPER Tornado デラックス",
+            "link": "https://music.apple.com/jp/album/super-tornado-deluxe/1656483569?i=1656483583&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "SUPER Tornado デラックス",
+            "link": "https://tanoc.bandcamp.com/track/super-tornado",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MEGA YABAICORE",
+            "link": "https://diverse.direct/hardcore-tanoc/tcplus-0030/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MEGA YABAICORE",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001498&search=MEGA+YABAICORE&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "MEGA YABAICORE.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

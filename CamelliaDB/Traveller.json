@@ -1,0 +1,74 @@
+{
+    "name": "Traveller",
+    "url": "Traveller",
+    "altNames": null,
+    "artists": [
+        "DJ Genki [C]",
+        "Moimoi (Mayumi Morinaga) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:53",
+    "albums": [
+        {
+            "albumName": "ULTIMATE HAPPY CARNIVAL",
+            "albumPublisher": "djgenki.net",
+            "albumReleaseDate": "2021-01-04",
+            "albumReleaseEvent": "スーパーリリース21",
+            "albumType": "A"
+        },
+        {
+            "albumName": "TANO*C Short Collection",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2022-08-13",
+            "albumReleaseEvent": "Comiket 100",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Traveller",
+            "link": "https://youtu.be/Pelx5rKKN54",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Traveller",
+            "link": "https://open.spotify.com/track/0qDVuLC6OdSiikNONcbm7F?si=a19b1e32f7964fc8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Traveller",
+            "link": "https://music.apple.com/jp/album/traveller-feat-moimoi/1545826075?i=1545826298&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Traveller",
+            "link": "https://genkianamei.bandcamp.com/track/traveller-feat-moimoi",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "ULTIMATE HAPPY CARNIVAL",
+            "link": "https://www.tanocstore.net/shopdetail/000000002640/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ULTIMATE HAPPY CARNIVAL.jpg",
+            "caption": null
+        },
+        {
+            "filename": "TANOC Short Collection.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

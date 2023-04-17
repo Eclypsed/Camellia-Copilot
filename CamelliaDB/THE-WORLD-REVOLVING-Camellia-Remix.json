@@ -1,0 +1,37 @@
+{
+    "name": "THE WORLD REVOLVING (Camellia Remix)",
+    "url": "THE-WORLD-REVOLVING-Camellia-Remix",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "THE WORLD REVOLVING",
+        "originalSongArtists": [
+            "Toby Fox"
+        ],
+        "originalSongLink": "https://youtu.be/Z01Tsgwe2dQ"
+    },
+    "duration": "5:22",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "THE WORLD REVOLVING (Camellia Remix)",
+            "link": "https://youtu.be/p9ex56FXdSE",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "THE WORLD REVOLVING (Camellia Remix).jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,78 @@
+{
+    "name": "LOST CHILD (Camellia Remix)",
+    "url": "LOST-CHILD-Camellia-Remix",
+    "altNames": null,
+    "artists": [
+        "隣人 [A L]",
+        "Mei Ayakura/綾倉盟 [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Touhou Arrangement, Remix",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 少女さとり　～ 3rd eye",
+            "touhouGame": "東方地霊殿　～ Subterranean Animism "
+        },
+        {
+            "touhouSong": " ハルトマンの妖怪少女",
+            "touhouGame": "東方地霊殿　～ Subterranean Animism"
+        }
+    ],
+    "originalSong": {
+        "originalSongName": "LOST CHILD",
+        "originalSongArtists": [
+            "CYTOKINE"
+        ],
+        "originalSongLink": "https://open.spotify.com/track/36QDA0UVZlMlbDRqfLqCvF?si=95553f4f05cd4225"
+    },
+    "duration": "4:31",
+    "albums": [
+        {
+            "albumName": "THE LEAP // NEXTRA",
+            "albumPublisher": "ZYTOKINE",
+            "albumReleaseDate": "2013-08-12",
+            "albumReleaseEvent": "Comiket 84",
+            "albumType": "C"
+        },
+        {
+            "albumName": "ff -THE BEST of ZYTOKINE/CYTOKINE3- ",
+            "albumPublisher": "ZYTOKINE",
+            "albumReleaseDate": "2018-05-06",
+            "albumReleaseEvent": "Reitaisai 15",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "LOST CHILD (Camellia Remix)",
+            "link": "https://youtu.be/LkCYx8Geeok",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "LOST CHILD (Camellia Remix)",
+            "link": "https://open.spotify.com/track/4gPyOP5nGQW26q6RFRTTbL?si=96e8e6ffdd6f4e5d",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "LOST CHILD (Camellia Remix)",
+            "link": "https://music.apple.com/us/album/lost-child-feat-mei-ayakura-camellia-remix/1481186254?i=1481186263",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "THE LEAP NEXTRA.jpg",
+            "caption": null
+        },
+        {
+            "filename": "ff THE BEST of ZYTOKINECYTOKINE3.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Note: On ff -THE BEST of ZYTOKINE/CYTOKINE3- the song is listed as being a [2018 VIP] or the original remix. However almost all sources do not list this and just from listening to the two versions, I cannot detect any difference between the two.",
+    "variations": null
+}

@@ -1,0 +1,114 @@
+{
+    "name": "LET'S JUMP",
+    "url": "LET-S-JUMP",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "7:07",
+    "albums": [
+        {
+            "albumName": "[diffraction]",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-04-27",
+            "albumReleaseEvent": "M3-33",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "LET'S JUMP",
+            "link": "https://youtu.be/NTMp2flMxQs",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "LET'S JUMP",
+            "link": "https://open.spotify.com/track/2xrUerPKOlUd5HtZle6mBf?si=d0e97a0936ba4766",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "LET'S JUMP",
+            "link": "https://music.apple.com/jp/album/lets-jump/1049609666?i=1049610488&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "LET'S JUMP",
+            "link": "https://cametek.bandcamp.com/track/lets-jump",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "[diffraction]",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0008/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "[diffraction]",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002263&search=diffraction&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "[diffraction].jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "LET'S JUMP (かめりあ's \"diffractive\" Hardcore Remix)",
+            "url": "LET-S-JUMP-かめりあ-s-diffractive-Hardcore-Remix",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:20",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2018-08-10",
+                    "albumReleaseEvent": "Comiket 94",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "LET'S JUMP (かめりあ's \"diffractive\" Hardcore Remix)",
+                    "link": "https://youtu.be/PQal6-mv6W4",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Remixes Summary VIPs 02.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

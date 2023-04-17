@@ -1,0 +1,39 @@
+{
+    "name": "WILD PITCH",
+    "url": "WILD-PITCH",
+    "altNames": null,
+    "artists": [
+        "KASAI HARCORES (DJ Genki Camellia & C-Show) [C]",
+        "Yuta Imai [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:58",
+    "albums": [
+        {
+            "albumName": "WILD PITCH",
+            "albumPublisher": "KASAI HARCORES",
+            "albumReleaseDate": "2022-12-30",
+            "albumReleaseEvent": "Comiket 101",
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "WILD PITCH",
+            "link": "https://youtu.be/8pOfTxlIqUE",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "wildpitch.png",
+            "caption": null
+        }
+    ],
+    "description": "The version uploaded to YouTube is only 3:32, but the full extended mix (which can be downloaded in the description) is 3:58.",
+    "variations": null
+}

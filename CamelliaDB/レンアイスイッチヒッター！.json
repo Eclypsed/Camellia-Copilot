@@ -1,0 +1,44 @@
+{
+    "name": "レンアイスイッチヒッター！",
+    "url": "レンアイスイッチヒッター！",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "GUMI/グミ [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "Bad Apple!!",
+            "touhouGame": "東方幻想郷　～ Lotus Land Story"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:53",
+    "albums": [
+        {
+            "albumName": "妹のおしりが臭いので、戦わせることにした！",
+            "albumPublisher": "ばーどちゅーん vs ほりっくさーびす",
+            "albumReleaseDate": "2012-08-11",
+            "albumReleaseEvent": "Comiket 82",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "レンアイスイッチヒッター！",
+            "link": "https://youtu.be/hWgUnySCaiE",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "妹のおしりが臭いので、戦わせることにした！.jpg",
+            "caption": null
+        }
+    ],
+    "description": "To my knowledge, this is Camellia's only Touhou arrangement that features a Vocaloid.",
+    "variations": null
+}

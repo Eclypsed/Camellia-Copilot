@@ -1,0 +1,48 @@
+{
+    "name": "Everybody Do The Twist (Of Rock'n'Roll)",
+    "url": "Everybody-Do-The-Twist-Of-Rock-n-Roll",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:10",
+    "albums": [
+        {
+            "albumName": "HAPPYNATION #04",
+            "albumPublisher": "pichnopop",
+            "albumReleaseDate": "2016-12-31",
+            "albumReleaseEvent": "Comiket 91",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Everybody Do The Twist (Of Rock'n'Roll)",
+            "link": "https://youtu.be/CXTuaJmiaL8",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "HAPPYNATION #04",
+            "link": "https://diverse.direct/pichnopop/hncd-004/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "HAPPYNATION #04",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001040&search=HAPPYNATION&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Happynation#4.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

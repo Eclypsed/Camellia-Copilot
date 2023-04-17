@@ -1,0 +1,44 @@
+{
+    "name": "戦え、我らが聖白蓮解放軍！",
+    "url": "戦え、我らが聖白蓮解放軍！",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "nanano [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "春の湊に",
+            "touhouGame": "東方星蓮船　～ Undefined Fantastic Object"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:59",
+    "albums": [
+        {
+            "albumName": "Touhou Planet Exploration Group!/東方惑星探検隊！",
+            "albumPublisher": "Birdtune",
+            "albumReleaseDate": "2012-05-27",
+            "albumReleaseEvent": "Reitaisai 9",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "戦え、我らが聖白蓮解放軍！",
+            "link": "https://youtu.be/ZP8I5SIIc_U",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Touhou Planet Exploration Group.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Maboroshi",
+    "url": "Maboroshi",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:40",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "Cytus II",
+            "gamePublisher": "Rayark",
+            "gameReleaseDate": "2019-03-29"
+        },
+        {
+            "gameName": "maimai でらっくす PLUS",
+            "gamePublisher": "SEGA",
+            "gameReleaseDate": "2020-06-11"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Maboroshi",
+            "link": "https://youtu.be/G0A-njg2pHM",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Maboroshi.png",
+            "caption": null
+        }
+    ],
+    "description": "First released in the music pack Game Disc vol.2 in Cytus II and later added to maimai DX+.   Camellia: \"btw maboroshi means a vision, an illusion, or a phantom in japanese, enjoy!\"",
+    "variations": null
+}

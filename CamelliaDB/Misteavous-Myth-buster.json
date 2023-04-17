@@ -1,0 +1,50 @@
+{
+    "name": "Misteavous Myth-buster",
+    "url": "Misteavous-Myth-buster",
+    "altNames": null,
+    "artists": [
+        "Watson Amelia [?]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:17",
+    "albums": [
+        {
+            "albumName": "Hololive English -Myth- Image Soundtrack",
+            "albumPublisher": "COVER Corporation/カバー株式会社",
+            "albumReleaseDate": "2021-03-14",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Misteavous Myth-buster",
+            "link": "https://youtu.be/Oh4JP2IDswA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Misteavous Myth-buster",
+            "link": "https://open.spotify.com/track/4DOn2rVGWjv2cludaoNnLD?si=51d59134673844ba",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Misteavous Myth-buster",
+            "link": "https://music.apple.com/us/album/misteavous-myth-buster/1557415273?i=1557415280",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Hololive English -Myth- Image Soundtrack.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

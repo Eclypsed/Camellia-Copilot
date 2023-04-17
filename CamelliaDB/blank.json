@@ -1,0 +1,66 @@
+{
+    "name": "(blank)",
+    "url": "blank",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:36",
+    "albums": [
+        {
+            "albumName": "sudden shower",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "(blank)",
+            "link": "https://youtu.be/IRpTZb-AF_4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "(blank)",
+            "link": "https://open.spotify.com/track/7cdEDBWU6VxI7wwriQ9uDG?si=0ebaf671784c4780",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "(blank)",
+            "link": "https://music.apple.com/us/album/tr-14-blank/1049647153?i=1049647684",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "(blank)",
+            "link": "https://cametek.bandcamp.com/track/blank",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "sudden shower",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-009/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "sudden shower",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002264&search=sudden+shower&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sudden Shower.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "The actual official name of this track is litterally a blank space with no characters, as seen in the sudden shower crossfade, as well as the album's listings on some online stores. Because of this the track is notably absent from sudden shower's tracklist on Diverse Direct, though this is likely a mistake. The name \"(blank)\" is what is substitued on streaming services where a track name is required (e.g. Spotify, YT Music, etc).",
+    "variations": null
+}

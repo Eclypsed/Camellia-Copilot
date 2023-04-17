@@ -1,0 +1,50 @@
+{
+    "name": "Midnight Showcase",
+    "url": "Midnight-Showcase",
+    "altNames": null,
+    "artists": [
+        "Kanae/叶 [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:59",
+    "albums": [
+        {
+            "albumName": "夜明かし",
+            "albumPublisher": "Lantis",
+            "albumReleaseDate": "2022-12-21",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Midnight Showcase",
+            "link": "https://youtu.be/0_KJiepJf_4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Midnight Showcase",
+            "link": "https://open.spotify.com/track/2Nsyz3A3SsAmTW4ErbnhRV?si=7dde84158bf042af",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Midnight Showcase",
+            "link": "https://music.apple.com/us/album/midnight-showcase/1658809813?i=1658810072",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "夜明かし.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental included on the release",
+    "variations": null
+}

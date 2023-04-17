@@ -1,0 +1,38 @@
+{
+    "name": "A Fascination and Funny Umpteen Novelty",
+    "url": "A-Fascination-and-Funny-Umpteen-Novelty",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]"
+    ],
+    "songType": "Arrangement",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:05",
+    "albums": [
+        {
+            "albumName": "ACアダプターKICK-OFF！",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2009-10-11",
+            "albumReleaseEvent": "M3-24",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "A Fascination and Funny Umpteen Novelty",
+            "link": "https://youtu.be/1UIaSUS9aSo",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ACアダプターKICK-OFF！.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Arrangement of BGM 1 from Mario Paint",
+    "variations": null
+}

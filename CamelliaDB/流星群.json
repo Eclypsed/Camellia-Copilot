@@ -1,0 +1,58 @@
+{
+    "name": "流星群",
+    "url": "流星群",
+    "altNames": [
+        "Meteor Shower"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:33",
+    "albums": [
+        {
+            "albumName": "EXIT TUNES PRESENTS Supernova 8",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2012-10-03",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "流星群",
+            "link": "https://youtu.be/iRFz36EIi50",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "流星群",
+            "link": "https://www.nicovideo.jp/watch/sm18949394",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "流星群",
+            "link": "https://open.spotify.com/track/5gA91dOju8iia9JL4f7WQT?si=e17b90cf435f4c1a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "流星群",
+            "link": "https://music.apple.com/us/album/ryuuseigun/981378864?i=981379449",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Supernova 8.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

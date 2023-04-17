@@ -1,0 +1,58 @@
+{
+    "name": "WE ARE *NOT* CURZED",
+    "url": "WE-ARE-NOT-CURZED",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:25",
+    "albums": [
+        {
+            "albumName": "60+3+10kE.P.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2019-02-20",
+            "albumReleaseEvent": null,
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "WE ARE *NOT* CURZED",
+            "link": "https://youtu.be/jOEJgT7H-8M",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "WE ARE *NOT* CURZED",
+            "link": "https://open.spotify.com/track/72moYQcVX6UAPM0XLkrOOd?si=7f1a6ef8dfda4693",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "WE ARE *NOT* CURZED",
+            "link": "https://music.apple.com/us/album/we-are-not-curzed/1573239663?i=1573239908",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "WE ARE *NOT* CURZED",
+            "link": "https://cametek.bandcamp.com/track/we-are-not-curzed",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "WE ARE NOT CURZED.png",
+            "caption": null
+        },
+        {
+            "filename": "60+3+10kE.P..jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

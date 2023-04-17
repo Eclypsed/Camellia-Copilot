@@ -1,0 +1,57 @@
+{
+    "name": "zero_one (Camellia Remix)",
+    "url": "zero-one-Camellia-Remix",
+    "altNames": null,
+    "artists": [
+        "The Living Tombstone [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "zero_one",
+        "originalSongArtists": [
+            "The Living Tombstone"
+        ],
+        "originalSongLink": "https://youtu.be/ldzk75MBy0w"
+    },
+    "duration": "5:53",
+    "albums": [
+        {
+            "albumName": "zero_one:reloaded",
+            "albumPublisher": "Ghost Pixel Records",
+            "albumReleaseDate": "2021-05-28",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "zero_one (Camellia Remix)",
+            "link": "https://youtu.be/nQSRuUfHG_Y",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "zero_one (Camellia Remix)",
+            "link": "https://open.spotify.com/track/7sruUbgF96auAnBstqL5wG?si=48b7d13ec2a84b77",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "zero_one (Camellia Remix)",
+            "link": "https://music.apple.com/us/album/zero-one-camellia-remix/1568345872?i=1568346244",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "zero one reloaded.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

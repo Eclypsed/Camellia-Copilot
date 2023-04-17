@@ -1,0 +1,66 @@
+{
+    "name": "dreamless wanderer",
+    "url": "dreamless-wanderer",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:24",
+    "albums": [
+        {
+            "albumName": "dreamless wanderer",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-12-30",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "dreamless wanderer",
+            "link": "https://youtu.be/e9sTp2XjqFA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "dreamless wanderer",
+            "link": "https://open.spotify.com/track/7cFUYH9agzOkLii4NdNNyc?si=299b4056821c4bf2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "dreamless wanderer",
+            "link": "https://music.apple.com/us/album/dreamless-wanderer/1049711047?i=1049711068",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "dreamless wanderer",
+            "link": "https://cametek.bandcamp.com/track/dreamless-wanderer",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "dreamless wanderer (Album)",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0010/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "dreamless wanderer (Album)",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000213&search=dreamless+wanderer&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "dreamless wanderer.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

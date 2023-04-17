@@ -1,0 +1,58 @@
+{
+    "name": "Booths of Fighters (Camellia's “Barrage of Flurries”Remix)",
+    "url": "Booths-of-Fighters-Camellia-s-“Barrage-of-Flurries”Remix",
+    "altNames": null,
+    "artists": [
+        "RoughSketch [C]",
+        "DD”ナカタ”Metal [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Booths of Fighters",
+        "originalSongArtists": [
+            "RoughSketch feat. DD”ナカタ”Metal"
+        ],
+        "originalSongLink": "https://youtu.be/G4cijA24x5A"
+    },
+    "duration": "5:33",
+    "albums": [
+        {
+            "albumName": "FORGOTTEN GEARS",
+            "albumPublisher": "Notebook Records",
+            "albumReleaseDate": "2017-10-29",
+            "albumReleaseEvent": "M3-40",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Booths of Fighters (Camellia's “Barrage of Flurries”Remix)",
+            "link": "https://youtu.be/txJZM897JoY",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "FORGOTTEN GEARS",
+            "link": "https://diverse.direct/notebookrecords/nbcd-029/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "FORGOTTEN GEARS",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001304&search=forgotten+gears&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "FORGOTTEN GEARS.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

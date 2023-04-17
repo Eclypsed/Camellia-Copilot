@@ -1,0 +1,99 @@
+{
+    "name": "じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～",
+    "url": "じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～",
+    "altNames": [
+        "Juju yakiniku no hi kara phoenix!?~saitan no sumibiyaki~"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:58",
+    "albums": [
+        {
+            "albumName": "4orce!/ふぉーす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2017-12-29",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-11-13"
+        },
+        {
+            "gameName": "BeatStream アニムトライヴ",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-04-28"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～",
+            "link": "https://youtu.be/4h8NtnnI_EU",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～.png",
+            "caption": null
+        },
+        {
+            "filename": "4orce!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ -ver. 《真》-",
+            "url": "じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～-ver-《真》",
+            "altNames": null,
+            "artists": [
+                "Nanahira/ななひら [V]"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:46",
+            "albums": [
+                {
+                    "albumName": "4orce!/ふぉーす！",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+                    "albumReleaseDate": "2017-12-29",
+                    "albumReleaseEvent": "Comiket 93",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ -ver. 《真》-",
+                    "link": "https://youtu.be/GdYY-FZ21PU",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "ふぉーす！",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-006/",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "4orce!.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

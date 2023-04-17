@@ -1,0 +1,34 @@
+{
+    "name": "Sweet Bordeaux Nightmare",
+    "url": "Sweet-Bordeaux-Nightmare",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:02",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "DANCERUSH STARDOM",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-08-18"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Sweet Bordeaux Nightmare",
+            "link": "https://youtu.be/GGaIzK3xK4k",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sweet Bordeaux Nightmare.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

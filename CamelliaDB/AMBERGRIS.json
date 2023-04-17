@@ -1,0 +1,66 @@
+{
+    "name": "AMBERGRIS",
+    "url": "AMBERGRIS",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:01",
+    "albums": [
+        {
+            "albumName": "灰の羽搏",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2023-02-15",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "jubeat Ave.",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2023-03-29"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "AMBERGRIS",
+            "link": "https://youtu.be/a2qjSnIFWX8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "AMBERGRIS",
+            "link": "https://open.spotify.com/track/0uI7MhOi8CgPswtdlScSR0?si=09fbbc1cf58b45a5",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "AMBERGRIS",
+            "link": "https://music.apple.com/us/album/ambergris/1669477071?i=1669477074",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "灰の羽搏",
+            "link": "https://diverse.direct/edp/pcca-06182/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "灰の羽搏",
+            "link": "https://www.tanocstore.net/shopdetail/000000003212",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "灰の羽搏.jpg",
+            "caption": null
+        }
+    ],
+    "description": "AMBERGRIS trimmed down to 2:12 in jubeat Ave.",
+    "variations": null
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Nebula Dysorder",
+    "url": "Nebula-Dysorder",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:06",
+    "albums": [
+        {
+            "albumName": "SOUND VOLTEX PERFECT ULTIMATE COMPLETE TRACKS ～Legend of KAC with Ω～",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2023-02-15",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Nebula Dysorder",
+            "link": "https://youtu.be/Aukqpjx5pOo",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "SOUND VOLTEX PERFECT ULTIMATE COMPLETE TRACKS ~Legend of KAC with Ω~.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

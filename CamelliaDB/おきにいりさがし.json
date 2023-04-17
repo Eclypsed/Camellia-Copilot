@@ -1,0 +1,51 @@
+{
+    "name": "おきにいりさがし",
+    "url": "おきにいりさがし",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "p19 [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:03",
+    "albums": [
+        {
+            "albumName": "ふわもふはぴねす 24/7!!",
+            "albumPublisher": "practice",
+            "albumReleaseDate": "2018-12-31",
+            "albumReleaseEvent": "Comiket 95",
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "おきにいりさがし",
+            "link": "https://youtu.be/7USh7gQ-HFY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "おきにいりさがし",
+            "link": "https://open.spotify.com/track/1m3RmBhcpz0qFG4xhMTRCQ?si=cb2dfd986ef34669",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "おきにいりさがし",
+            "link": "https://music.apple.com/us/album/okini-iri-sagashi-feat-nanahira/1483898055?i=1483898062",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ふわもふはぴねす 24_7!!.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

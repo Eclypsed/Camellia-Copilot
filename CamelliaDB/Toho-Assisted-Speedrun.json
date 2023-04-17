@@ -1,0 +1,49 @@
+{
+    "name": "Toho-Assisted-Speedrun!!!",
+    "url": "Toho-Assisted-Speedrun",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Nanahira/ななひら [V]",
+        "KOKO/ココ [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 月まで届け、不死の煙",
+            "touhouGame": "東方永夜抄　～ Imperishable Night "
+        },
+        {
+            "touhouSong": " 竹取飛翔　～ Lunatic Princess",
+            "touhouGame": "東方永夜抄　～ Imperishable Night"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:30",
+    "albums": [
+        {
+            "albumName": "Innocent Key VS Tora/イノセントキーVS虎",
+            "albumPublisher": "Innocent Key",
+            "albumReleaseDate": "2013-12-30",
+            "albumReleaseEvent": "Comiket 85",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Toho-Assisted-Speedrun!!!",
+            "link": "https://youtu.be/dJdAqYLvc4k",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Innocent Key VS Tora.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

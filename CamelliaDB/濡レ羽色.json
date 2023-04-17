@@ -1,0 +1,38 @@
+{
+    "name": "濡レ羽色",
+    "url": "濡レ羽色",
+    "altNames": [
+        "Jet Black"
+    ],
+    "artists": [
+        "VY2V3 [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:50",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "濡レ羽色",
+            "link": "https://youtu.be/0p8c0j_AuMg",
+            "unofficial": false
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "濡レ羽色",
+            "link": "https://www.nicovideo.jp/watch/sm19128693",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Jet Black.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

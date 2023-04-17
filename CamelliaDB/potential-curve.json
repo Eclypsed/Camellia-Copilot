@@ -1,0 +1,83 @@
+{
+    "name": "potential curve",
+    "url": "potential-curve",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "運命のダークサイド",
+            "touhouGame": "東方風神録　～ Mountain of Faith"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:40",
+    "albums": [
+        {
+            "albumName": "FLASHLIGHT",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2014-08-16",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "C"
+        },
+        {
+            "albumName": "NON-STOP INTERCEPT Phase One",
+            "albumPublisher": "Alstroemeria Records, DiGiTAL WiNG",
+            "albumReleaseDate": "2018-10-14",
+            "albumReleaseEvent": "Fall Reitaisai 5",
+            "albumType": "C"
+        },
+        {
+            "albumName": "\"PODIUM\" EPISODE01 - IN THE MIX -",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2019-08-12",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "potential curve",
+            "link": "https://youtu.be/VDQzXFqxLl0",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "potential curve",
+            "link": "https://open.spotify.com/track/5rR2qHPEf0uNvQEX0OJCTl?si=c0981fd81443457a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "potential curve",
+            "link": "https://music.apple.com/us/album/potential-curve-feat-camellia/1613281013?i=1613281017",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "FLASHLIGHT",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0045/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "FLASHLIGHT.jpg",
+            "caption": null
+        },
+        {
+            "filename": "NON-STOP INTERCEPT Phase One.png",
+            "caption": null
+        },
+        {
+            "filename": "PODIUM EPISODE01 - IN THE MIX -.jpg",
+            "caption": null
+        }
+    ],
+    "description": "For some reason the Touhou wiki has FLASHLIGHT listed as being released on 2018-05-06 at Reitaisai 15. I don't know how this happened but that is way off.",
+    "variations": null
+}

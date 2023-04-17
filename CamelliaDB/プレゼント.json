@@ -1,0 +1,59 @@
+{
+    "name": "プレゼント",
+    "url": "プレゼント",
+    "altNames": [
+        "Present"
+    ],
+    "artists": [
+        "Yoshi Tsuko/つこ [Guitar Bass C L]",
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:46",
+    "albums": [
+        {
+            "albumName": "4orce!/ふぉーす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2017-12-29",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "プレゼント",
+            "link": "https://youtu.be/KUSiL4IeeNE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "プレゼント",
+            "link": "https://open.spotify.com/track/4wZuKcVLvHIx9Sh4xgmwcz?si=c27ae82029214390",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "プレゼント",
+            "link": "https://music.apple.com/us/album/present/1552865093?i=1552865566",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ふぉーす！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-006/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "4orce!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

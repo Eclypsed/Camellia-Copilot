@@ -1,0 +1,56 @@
+{
+    "name": "Dragon Temple",
+    "url": "Dragon-Temple",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:08",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Dragon Temple",
+            "link": "https://youtu.be/RYbMrwkEoU8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Dragon Temple",
+            "link": "https://open.spotify.com/track/6wAEsunxxYoRtbRDzfkI4d?si=cbe742a3ea874a99",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Dragon Temple",
+            "link": "https://music.apple.com/us/album/dragon-temple/1522112127?i=1522112590",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Dragon Temple",
+            "link": "https://dwellersemptypath.bandcamp.com/track/dragon-temple",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

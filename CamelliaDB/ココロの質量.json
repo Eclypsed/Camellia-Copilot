@@ -1,0 +1,38 @@
+{
+    "name": "ココロの質量",
+    "url": "ココロの質量",
+    "altNames": [
+        "Mass of the Heart"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:12",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ココロの質量",
+            "link": "https://youtu.be/FAIqruJesbE",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "ココロの質量",
+            "link": "https://www.nicovideo.jp/watch/sm25310351",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Mass of the Heart.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

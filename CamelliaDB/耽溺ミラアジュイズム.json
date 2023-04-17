@@ -1,0 +1,74 @@
+{
+    "name": "耽溺ミラアジュイズム",
+    "url": "耽溺ミラアジュイズム",
+    "altNames": [
+        "Indulgence Mirage-ism"
+    ],
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:03",
+    "albums": [
+        {
+            "albumName": "Libra of Nil Admirari/ニル・アドミラリの天秤",
+            "albumPublisher": "Zero-G/ゼロジー",
+            "albumReleaseDate": "2018-04-08",
+            "albumReleaseEvent": null,
+            "albumType": "Anime"
+        },
+        {
+            "albumName": "Indulgence Mirage-ism [Anime Edition]/耽溺ミラアジュイズム【アニメ盤】",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        },
+        {
+            "albumName": "Indulgence Mirage-ism [Regular Edition]/耽溺ミラアジュイズム【通常盤】",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "耽溺ミラアジュイズム",
+            "link": "https://youtu.be/HkLVQMW4u0Y",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "耽溺ミラアジュイズム",
+            "link": "https://open.spotify.com/track/6yfCs7jGBoKBHMrs9krWmT?si=1940f69971cf4661",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "耽溺ミラアジュイズム",
+            "link": "https://music.apple.com/us/album/tandeki-mirage-ism/1389660156?i=1389660985",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "耽溺ミラアジュイズム Anime Edition.jpg",
+            "caption": null
+        },
+        {
+            "filename": "ニル・アドミラリの天秤.jpg",
+            "caption": null
+        },
+        {
+            "filename": "耽溺ミラアジュイズム.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on the release.  The trimmed-down anime OP version is roughly 1:32 in duration",
+    "variations": null
+}

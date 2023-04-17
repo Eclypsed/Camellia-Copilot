@@ -1,0 +1,58 @@
+{
+    "name": "気づいたら春夏秋冬",
+    "url": "気づいたら春夏秋冬",
+    "altNames": [
+        "Season flies before I knew it"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:55",
+    "albums": [
+        {
+            "albumName": "VERSUS!/ばーさす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "気づいたら春夏秋冬",
+            "link": "https://youtu.be/XRAOSO5m-cY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "気づいたら春夏秋冬",
+            "link": "https://open.spotify.com/track/0gYNGLFPoY9UAE4hhFAW2k?si=3b1a2bc569124d73",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "気づいたら春夏秋冬",
+            "link": "https://music.apple.com/us/album/season-flies-before-i-knew-it/1554743724?i=1554744196",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ばーさす！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-001/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "VERSUS!.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Pink Panik!!",
+    "url": "Pink-Panik",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:47",
+    "albums": [
+        {
+            "albumName": "Replay!/りぷれい！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Pink Panik!!",
+            "link": "https://youtu.be/OiaOudxNSJk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Pink Panik!!",
+            "link": "https://open.spotify.com/track/6i0kJMSAnQBsk5mwHzxH8D?si=c3a53332ea8f4003",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Pink Panik!!",
+            "link": "https://music.apple.com/jp/album/pink-panik/1553655872?i=1553656215&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "りぷれい！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-003/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Replay!.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

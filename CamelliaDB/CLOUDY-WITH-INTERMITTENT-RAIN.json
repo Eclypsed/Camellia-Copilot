@@ -1,0 +1,62 @@
+{
+    "name": "CLOUDY WITH INTERMITTENT RAIN",
+    "url": "CLOUDY-WITH-INTERMITTENT-RAIN",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Mei Ayakura/綾倉盟 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "ミストレイク",
+            "touhouGame": "東方輝針城　～ Double Dealing Character"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:25",
+    "albums": [
+        {
+            "albumName": "DECADE OF EXPOSE",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2013-12-30",
+            "albumReleaseEvent": "Comiket 85",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "CLOUDY WITH INTERMITTENT RAIN",
+            "link": "https://youtu.be/ALyk2M1sHRw",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "CLOUDY WITH INTERMITTENT RAIN",
+            "link": "https://open.spotify.com/track/7nqjIZg2Tv6E4KiDrN9MPf?si=3e03afb55d5a4bf5",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "CLOUDY WITH INTERMITTENT RAIN",
+            "link": "https://music.apple.com/us/album/cloudy-with-intermittent-rain-feat-mei-ayakura-camellia/1613280846?i=1613280851",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "DECADE OF EXPOSE",
+            "link": "https://www.tanocstore.net/shopdetail/000000000305/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "DECADE OF EXPOSE.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

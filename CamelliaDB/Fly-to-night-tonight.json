@@ -1,0 +1,117 @@
+{
+    "name": "Fly to night, tonight",
+    "url": "Fly-to-night-tonight",
+    "altNames": null,
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:35",
+    "albums": [
+        {
+            "albumName": "Circle Jerk Galactic",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2013-12-31",
+            "albumReleaseEvent": "Comiket 85",
+            "albumType": "C"
+        },
+        {
+            "albumName": "Fly to night, tonight",
+            "albumPublisher": "KARENT",
+            "albumReleaseDate": "2014-07-09",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Fly to night, tonight",
+            "link": "https://youtu.be/NvKUOKAgWuc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "Fly to night, tonight",
+            "link": "https://www.nicovideo.jp/watch/sm22520654",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Fly to night, tonight",
+            "link": "https://open.spotify.com/track/3IfUyjBlxIeixyLUlYD5cF?si=8e6498c108e048d4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Fly to night, tonight",
+            "link": "https://music.apple.com/jp/album/fly-to-night-tonight-feat-hatsune-miku/895646695?i=895646716&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Fly to night, tonight.jpg",
+            "caption": null
+        },
+        {
+            "filename": "Circle Jerk Galactic.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Fly to night, tonight",
+            "url": "Fly-to-night-tonight-2",
+            "altNames": null,
+            "artists": [
+                "Hatsune Miku/初音ミク [V]"
+            ],
+            "songType": "Remaster",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:34",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2017-04-30",
+                    "albumReleaseEvent": "M3-39",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Fly to night, tonight",
+                    "link": "https://youtu.be/nt8xsGOQu-o",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0015/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001152&search=Camellia+%22Guest+Tracks%22+Summary+%26+VIPs+01&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Guest Tracks Summary VIPs 01.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

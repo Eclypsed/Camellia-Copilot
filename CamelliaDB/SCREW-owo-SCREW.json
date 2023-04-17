@@ -1,0 +1,102 @@
+{
+    "name": "SCREW // owo // SCREW",
+    "url": "SCREW-owo-SCREW",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:00",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 28 BISTROVER ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2021-03-17",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 27 HEROIC VERSE",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-12-11"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "SCREW // owo // SCREW",
+            "link": "https://youtu.be/AutaMePxWM8",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 28 BISTROVER OST.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "SCREW // owo // SCREW (LÒwÓng version)",
+            "url": "SCREW-owo-SCREW-LÒwÓng-version",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:26",
+            "albums": [
+                {
+                    "albumName": "灰の羽搏",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2023-02-15",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "SCREW // owo // SCREW (LÒwÓng version)",
+                    "link": "https://youtu.be/E6lGyLYuAgU",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "SCREW // owo // SCREW (LÒwÓng version)",
+                    "link": "https://open.spotify.com/track/6JWhtRc5zRT7XY1avQk7cz?si=4f01511b6da74c83",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "SCREW // owo // SCREW (LÒwÓng version)",
+                    "link": "https://music.apple.com/us/album/screw-owo-screw-lowong-version/1669477071?i=1669477082",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "灰の羽搏",
+                    "link": "https://diverse.direct/edp/pcca-06182/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "灰の羽搏",
+                    "link": "https://www.tanocstore.net/shopdetail/000000003212",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "灰の羽搏.jpg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

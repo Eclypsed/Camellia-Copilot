@@ -1,0 +1,46 @@
+{
+    "name": "ぼくらはぼっち",
+    "url": "ぼくらはぼっち",
+    "altNames": [
+        "Bokura wa Bocchi"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:42",
+    "albums": [
+        {
+            "albumName": "Dive In The Garglebasin",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2011-12-31",
+            "albumReleaseEvent": "Comiket 81",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ぼくらはぼっち",
+            "link": "https://youtu.be/B_bMJx2zCo0",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "ぼくらはぼっち",
+            "link": "https://www.nicovideo.jp/watch/sm15833981",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dive In The Garglebasin.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

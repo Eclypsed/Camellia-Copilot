@@ -1,0 +1,98 @@
+{
+    "name": "Cleopatrysm",
+    "url": "Cleopatrysm",
+    "altNames": null,
+    "artists": [
+        "Pyrami°C/ピラミッ℃ (Nekomata Master [C A] Shoccho [C A] Sota Fujimori [A] Akhuta [A] 96 [A] Camellia [C])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:55",
+    "albums": [
+        {
+            "albumName": "発見！よみがえったBEMANI遺跡",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2015-03-04",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 21 SPADA",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-07-24"
+        },
+        {
+            "gameName": "DanceDanceRevolution (2014)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-07-24"
+        },
+        {
+            "gameName": "GITADORA OverDrive",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-07-24"
+        },
+        {
+            "gameName": "jubeat saucer fulfill",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-07-24"
+        },
+        {
+            "gameName": "pop'n music ラピストリア",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-07-24"
+        },
+        {
+            "gameName": "REFLEC BEAT groovin'!!",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-07-24"
+        },
+        {
+            "gameName": "SOUND VOLTEX II -infinite infection-",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-07-24"
+        },
+        {
+            "gameName": "ミライダガッキ FutureTomTom Ver.2",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-07-24"
+        },
+        {
+            "gameName": "jubeat plus",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-06-12"
+        },
+        {
+            "gameName": "REFLEC BEAT plus",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-06-12"
+        },
+        {
+            "gameName": "MÚSECA 1+1/2",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-12-08"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Cleopatrysm",
+            "link": "https://youtu.be/aCofXqyjlKc",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Cleopatrysm.png",
+            "caption": null
+        },
+        {
+            "filename": "発見！よみがえったBEMANI遺跡.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,73 @@
+{
+    "name": "灰の羽搏",
+    "url": "灰の羽搏",
+    "altNames": [
+        "Ashed Wings"
+    ],
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:44",
+    "albums": [
+        {
+            "albumName": "灰の羽搏",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2022-12-21",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        },
+        {
+            "albumName": "灰の羽搏",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2023-02-15",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "灰の羽搏",
+            "link": "https://youtu.be/m_pbO71kIBY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "灰の羽搏",
+            "link": "https://open.spotify.com/track/1n8RaTpMjz9cCyZoHYX8KP?si=7585b7f6212c413f",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "灰の羽搏",
+            "link": "https://music.apple.com/us/album/ashed-wings/1657977166?i=1657977167",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "灰の羽搏 (Album)",
+            "link": "https://diverse.direct/edp/pcca-06182/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "灰の羽搏 (Album)",
+            "link": "https://www.tanocstore.net/shopdetail/000000003212",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "灰の羽搏 (Single).jpg",
+            "caption": null
+        },
+        {
+            "filename": "灰の羽搏.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

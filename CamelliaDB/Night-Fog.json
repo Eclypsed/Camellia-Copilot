@@ -1,0 +1,56 @@
+{
+    "name": "Night Fog",
+    "url": "Night-Fog",
+    "altNames": null,
+    "artists": [
+        "Luschel [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:57",
+    "albums": [
+        {
+            "albumName": "SPD GAR",
+            "albumPublisher": "MEGAREX",
+            "albumReleaseDate": "2018-08-10",
+            "albumReleaseEvent": "Comiket 94",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Night Fog",
+            "link": "https://youtu.be/PKix8awmB3Y",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Night Fog",
+            "link": "https://open.spotify.com/track/4caEaddRaVoR5M666RLsmt?si=c6e04b5961944281",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Night Fog",
+            "link": "https://music.apple.com/jp/album/night-fog-feat-luschel/1462925409?i=1462925425&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "SPD GAR",
+            "link": "https://megarex-jp.bandcamp.com/album/spd-gar-001",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Spd Gar.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

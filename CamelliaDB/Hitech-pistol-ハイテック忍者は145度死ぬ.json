@@ -1,0 +1,60 @@
+{
+    "name": "Hitech pistol -ハイテック忍者は145度死ぬ-",
+    "url": "Hitech-pistol-ハイテック忍者は145度死ぬ",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "6:18",
+    "albums": [
+        {
+            "albumName": "Ultra Hitech 04",
+            "albumPublisher": "MEGAREX",
+            "albumReleaseDate": "2018-12-30",
+            "albumReleaseEvent": "Comiket 95",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Hitech pistol -ハイテック忍者は145度死ぬ-",
+            "link": "https://youtu.be/JFdw0_jAcWs",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Hitech pistol -ハイテック忍者は145度死ぬ-",
+            "link": "https://open.spotify.com/track/7bl9kcVBO8cXD9HgEs7ypv?si=eb78983d5dfc4985",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Hitech pistol -ハイテック忍者は145度死ぬ-",
+            "link": "https://music.apple.com/us/album/hitech-pistol/1469674271?i=1469674274",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Ultra Hitech 04",
+            "link": "https://diverse.direct/megarex/mrx-033/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Ultra Hitech 04",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001818&search=Ultra+Hitech+04&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Ultra Hitech 04.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,68 @@
+{
+    "name": "PLAYBALL",
+    "url": "PLAYBALL",
+    "altNames": null,
+    "artists": [
+        "KASAI HARCORES/葛西ハーコーズ (DJ Genki Camellia & C-Show) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:40",
+    "albums": [
+        {
+            "albumName": "KASAI HARCORES EP/葛西ハーコーズEP",
+            "albumPublisher": "KASAI HARCORES/葛西ハーコーズ",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "PLAYBALL",
+            "link": "https://youtu.be/CKQem0Nch1Y",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "PLAYBALL",
+            "link": "https://open.spotify.com/track/0Pvh3fHmNlD42Tc4nrXthR?si=f48bb5f230c34acf",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "PLAYBALL",
+            "link": "https://music.apple.com/us/album/playball/1479956281?i=1479956286",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "PLAYBALL",
+            "link": "https://genkianamei.bandcamp.com/track/playball",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "葛西ハーコーズEP",
+            "link": "https://diverse.direct/%e8%91%9b%e8%a5%bf%e3%83%8f%e3%83%bc%e3%82%b3%e3%83%bc%e3%82%ba/khcd-001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "葛西ハーコーズEP",
+            "link": "https://www.tanocstore.net/shopdetail/000000000790/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Kasai Harcores EP.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

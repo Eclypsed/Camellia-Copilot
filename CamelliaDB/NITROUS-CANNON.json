@@ -1,0 +1,76 @@
+{
+    "name": "NITROUS CANNON",
+    "url": "NITROUS-CANNON",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:08",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 25 CANNON BALLERS",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2018-03-07"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "NITROUS CANNON",
+            "link": "https://youtu.be/Bxz850QLdDo",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 25 CANNON BALLERS OST.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "NOTE: Despite the Jacket, the shorter game version of NITROUS CANNON was not included on beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK. I just didn't have another jacket I could attribute to the short ver os I put this one.",
+    "variations": [
+        {
+            "name": "NITROUS CANNON",
+            "url": "NITROUS-CANNON-2",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:47",
+            "albums": [
+                {
+                    "albumName": "beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK",
+                    "albumPublisher": "Konami",
+                    "albumReleaseDate": "2018-03-07",
+                    "albumReleaseEvent": null,
+                    "albumType": "OST"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "NITROUS CANNON",
+                    "link": "https://youtu.be/F9Stp0Fq9eA",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "NITROUS CANNON",
+                    "link": "https://music.apple.com/us/album/nitrous-cannon/1353258276?i=1353259104",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "beatmania IIDX 25 CANNON BALLERS OST.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": "An extended version of NITROUS CANNON released on CANNON BALLERS OST."
+        }
+    ]
+}

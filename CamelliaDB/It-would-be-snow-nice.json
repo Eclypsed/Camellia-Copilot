@@ -1,0 +1,44 @@
+{
+    "name": "It would be \"snow\" nice!",
+    "url": "It-would-be-snow-nice",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "kana [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "クリスタライズシルバー",
+            "touhouGame": "東方妖々夢　～ Perfect Cherry Blossom"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:02",
+    "albums": [
+        {
+            "albumName": "Shooting Snow 2013",
+            "albumPublisher": "Forestpireo/ふぉれすとぴれお",
+            "albumReleaseDate": "2013-10-13",
+            "albumReleaseEvent": "Touhou Kouroumu 9/東方紅楼夢9",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "It would be \"snow\" nice!",
+            "link": "https://youtu.be/FmZT0IgnGlE",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Shooting Snow 2013.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

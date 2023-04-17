@@ -1,0 +1,62 @@
+{
+    "name": "合法☆魔法少女 人呼んで！マジカル霊夢&ケミカル魔理沙",
+    "url": "合法☆魔法少女-人呼んで！マジカル霊夢-ケミカル魔理沙",
+    "altNames": [
+        "People call the Legality☆Magical Girls! Magical Reimu & Chemical Marisa"
+    ],
+    "artists": [
+        "Camellia [A L]",
+        "Nanahira/ななひら [V]",
+        "みぃしゃ [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 幻夢界",
+            "touhouGame": "東方封魔録　～ Story of Eastern Wonderland "
+        },
+        {
+            "touhouSong": " 幻視の夜　～ Ghostly Eyes",
+            "touhouGame": "東方永夜抄　～ Imperishable Night"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:21",
+    "albums": [
+        {
+            "albumName": "東方魔法少女 アルティメット☆れいむ",
+            "albumPublisher": "とらのあな",
+            "albumReleaseDate": "2012-12-29",
+            "albumReleaseEvent": "Comiket 83",
+            "albumType": "C"
+        },
+        {
+            "albumName": "東方幻奏響Revival弐 ～魔法少女vs魔王勇者～",
+            "albumPublisher": "とらのあな",
+            "albumReleaseDate": "2015-05-10",
+            "albumReleaseEvent": "Reitaisai 12",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "合法☆魔法少女 人呼んで！マジカル霊夢&ケミカル魔理沙",
+            "link": "https://youtu.be/ukAJ9hBaEzE",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "東方魔法少女 アルティメット☆れいむ.jpg",
+            "caption": null
+        },
+        {
+            "filename": "東方幻奏響Revival弐 ～魔法少女vs魔王勇者～.png",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on 東方魔法少女 アルティメット☆れいむ",
+    "variations": null
+}

@@ -1,0 +1,51 @@
+{
+    "name": "HADES (Camellia's \"Recordatus Mortem\" Remix)",
+    "url": "HADES-Camellia-s-Recordatus-Mortem-Remix",
+    "altNames": null,
+    "artists": [
+        "Massive New Krew [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "HADES",
+        "originalSongArtists": [
+            "Massive New Krew"
+        ],
+        "originalSongLink": "https://youtu.be/JZ-juYtTyJ0"
+    },
+    "duration": "4:55",
+    "albums": [
+        {
+            "albumName": "HADES",
+            "albumPublisher": "Massive CircleZ",
+            "albumReleaseDate": "2018-08-10",
+            "albumReleaseEvent": "Comiket 94",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "HADES (Camellia's \"Recordatus Mortem\" Remix)",
+            "link": "https://youtu.be/Lf0gbVgYcEM",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "HADES",
+            "link": "https://diverse.direct/massive-circlez/mnfk-026/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "HADES.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

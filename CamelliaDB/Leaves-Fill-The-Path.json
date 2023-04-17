@@ -1,0 +1,57 @@
+{
+    "name": "Leaves Fill The Path",
+    "url": "Leaves-Fill-The-Path",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]",
+        "Temmie Chang [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:54",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Leaves Fill The Path",
+            "link": "https://youtu.be/Zb9gZ-5z3kU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Leaves Fill The Path",
+            "link": "https://open.spotify.com/track/2FG8v9MEIDY6OM0ehOb6m8?si=479437476f1b4389",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Leaves Fill The Path",
+            "link": "https://music.apple.com/us/album/leaves-fill-the-path/1522112127?i=1522112444",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Leaves Fill The Path",
+            "link": "https://dwellersemptypath.bandcamp.com/track/leaves-fill-the-path",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

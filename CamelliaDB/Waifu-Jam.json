@@ -1,0 +1,78 @@
+{
+    "name": "Waifu Jam",
+    "url": "Waifu-Jam",
+    "altNames": null,
+    "artists": [
+        "Irom Mouse [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:53",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "Spotify",
+            "displayName": "Waifu Jam",
+            "link": "https://open.spotify.com/track/3ubve1zMtGx535byX2dk6v?si=af2a6e4fbdd34878",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Waifu Jam",
+            "link": "https://music.apple.com/us/album/waifu-jam/1677670880?i=1677670882",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Waifu Jam.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Waifu Jam (Short Version)",
+            "url": "Waifu-Jam-Short-Version",
+            "altNames": null,
+            "artists": [
+                "Irom Mouse [V]"
+            ],
+            "songType": "Trim",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "2:25",
+            "albums": null,
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Waifu Jam",
+                    "link": "https://youtu.be/bdWGBirRpDs",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "Waifu Jam (Short Version)",
+                    "link": "https://open.spotify.com/track/5a76whbt27uxLFuPS8oe5k?si=cfb26e87939a4edc",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "Waifu Jam (Short Version)",
+                    "link": "https://music.apple.com/us/album/waifu-jam-short-version/1677670880?i=1677670883",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Waifu Jam.jpg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

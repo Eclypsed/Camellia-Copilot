@@ -1,0 +1,66 @@
+{
+    "name": "Hello to the your first video game",
+    "url": "Hello-to-the-your-first-video-game",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:40",
+    "albums": [
+        {
+            "albumName": "[diffraction]",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-04-27",
+            "albumReleaseEvent": "M3-33",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Hello to the your first video game",
+            "link": "https://youtu.be/eeuzsoWp5Ik",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Hello to the your first video game",
+            "link": "https://open.spotify.com/track/6VyNM8p8wNe2P05evcg8N5?si=362309bdcee44470",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Hello to the your first video game",
+            "link": "https://music.apple.com/us/album/hello-to-the-your-first-video-game/1049609666?i=1049610490",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Hello to the your first video game",
+            "link": "https://cametek.bandcamp.com/track/hello-to-the-your-first-video-game",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "[diffraction]",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0008/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "[diffraction]",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002263&search=diffraction&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "[diffraction].jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

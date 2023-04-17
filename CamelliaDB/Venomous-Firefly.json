@@ -1,0 +1,41 @@
+{
+    "name": "Venomous Firefly",
+    "url": "Venomous-Firefly",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "蠢々秋月　～ Mooned Insect",
+            "touhouGame": "東方永夜抄　～ Imperishable Night"
+        }
+    ],
+    "originalSong": null,
+    "duration": "2:01",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX IV HEAVENLY HAVEN",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2018-09-13"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Venomous Firefly",
+            "link": "https://youtu.be/F7ZoQ_0Jnu0",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Venomous Firefly.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

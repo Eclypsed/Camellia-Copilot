@@ -1,0 +1,53 @@
+{
+    "name": "Routing",
+    "url": "Routing",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:03",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 23 copula ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2016-02-24",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 22 PENDUAL",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-07-10"
+        },
+        {
+            "gameName": "beatmania IIDX 23 copula",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-11-11"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Routing",
+            "link": "https://youtu.be/AKcGhp-RyLw",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Routing",
+            "link": "https://music.apple.com/us/album/routing/1084256122?i=1084256133",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 23 copula ORIGINAL SOUNDTRACK.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Routing techinally first appeared as a preview song in IIDX 22 to advertise the upcoming IIDX 23, but IIDX 23 is widely considered to be its first game appearance which is why both are specifically listed.",
+    "variations": null
+}

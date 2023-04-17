@@ -1,0 +1,77 @@
+{
+    "name": "WOW!!!!!!!!!!",
+    "url": "WOW",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:05",
+    "albums": [
+        {
+            "albumName": "WOW!!!!!!!!!!",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2021-12-03",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        },
+        {
+            "albumName": "MEGATON KICK 3",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2021-12-31",
+            "albumReleaseEvent": "Comiket 99",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "WOW!!!!!!!!!!",
+            "link": "https://youtu.be/Y6BVvCf0Slk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "WOW!!!!!!!!!!",
+            "link": "https://open.spotify.com/track/0rkBZiFfTC8l3TC6PLnNti?si=313e8998b6bb459c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "WOW!!!!!!!!!!",
+            "link": "https://music.apple.com/jp/album/wow/1601014132?i=1601014142&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "WOW!!!!!!!!!!",
+            "link": "https://tanoc.bandcamp.com/track/wow-2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MEGATON KICK 3",
+            "link": "https://diverse.direct/hardcore-tanoc/tcplus-0046/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MEGATON KICK 3",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002901&search=megaton+kick+3&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "WOW!!!!!!!!!!.jpg",
+            "caption": null
+        },
+        {
+            "filename": "MEGATON KICK 3.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

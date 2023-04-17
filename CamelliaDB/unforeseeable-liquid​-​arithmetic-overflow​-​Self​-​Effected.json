@@ -1,0 +1,54 @@
+{
+    "name": "unforeseeable (liquid​|​arithmetic) overflow​(​Self​-​Effected)",
+    "url": "unforeseeable-liquid​-​arithmetic-overflow​-​Self​-​Effected",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:52",
+    "albums": [
+        {
+            "albumName": "Voltage Ignition",
+            "albumPublisher": "Movement on the FLOOR",
+            "albumReleaseDate": "2012-12-31",
+            "albumReleaseEvent": "Comiket 83",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "unforeseeable (liquid​|​arithmetic) overflow​(​Self​-​Effected)",
+            "link": "https://youtu.be/BuxaBGKZ98o",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "unforeseeable (liquid​|​arithmetic) overflow​(​Self​-​Effected)",
+            "link": "https://tpazolite.bandcamp.com/track/unforeseeable-liquid-arithmetic-overflow-self-effected",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Voltage Ignition",
+            "link": "https://diverse.direct/movement-on-the-floor/voltage-ignition/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Voltage Ignition",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000084&search=Voltage+Ignition&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Voltage Ignition.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Tornado",
+    "url": "Tornado",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:31",
+    "albums": [
+        {
+            "albumName": "YABAICORE",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2017-04-30",
+            "albumReleaseEvent": "M3-39",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Tornado",
+            "link": "https://youtu.be/EBJ29tUQbno",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Tornado",
+            "link": "https://open.spotify.com/track/4Tf0wEovkaFJm5qndAYkd6?si=9c201d0ab8114e61",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Tornado",
+            "link": "https://music.apple.com/jp/album/tornado/1656469354?i=1656469816&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Tornado",
+            "link": "https://tanoc.bandcamp.com/track/tornado",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "YABAICORE",
+            "link": "https://diverse.direct/hardcore-tanoc/tcplus-0024/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "YABAICORE",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001160&search=yabaicore&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "YABAICORE.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

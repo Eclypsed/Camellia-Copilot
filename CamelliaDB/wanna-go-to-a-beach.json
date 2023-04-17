@@ -1,0 +1,114 @@
+{
+    "name": "wanna go to a beach",
+    "url": "wanna-go-to-a-beach",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:48",
+    "albums": [
+        {
+            "albumName": "Super Sonic!!",
+            "albumPublisher": "Massive CircleZ",
+            "albumReleaseDate": "2013-08-12",
+            "albumReleaseEvent": "Comiket 84",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "wanna go to a beach",
+            "link": "https://youtu.be/jc4-E8xnAkQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "wanna go to a beach",
+            "link": "https://open.spotify.com/track/07SgzznzCshlKuDO3pkzan?si=f1e9766591ba4a38",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "wanna go to a beach",
+            "link": "https://music.apple.com/us/album/wanna-go-to-a-beach/1607238463?i=1607238679",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "wanna go to a beach",
+            "link": "https://massivenewkrew.bandcamp.com/track/wanna-go-to-a-beach",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Super Sonic!!",
+            "link": "https://diverse.direct/massive-circlez/mnfk-006/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Super Sonic!!",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000179&search=super+sonic&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Super Sonic!!.jpg",
+            "caption": null
+        }
+    ],
+    "description": "For wanna go to a beach! VS. Resort Sunset, see Resort Sunset  NOTE: Both MNK's Bandcamp and Diverse Direct list Super Sonic!! as being released on 2013-08-13, but viewing the album's page on WayBack Machine shows us that it was actually released on the 12th. This makes sense as Comiket 84 (the event it was released at) only lasted from the 10th to the 12th, but it's really strange how these two seemingly first-hand sources have their own information wrong. Also, fun fact, the model number for this album is MNFK-006. I think the intials, M, N, and K are obviouslly for Massive New Krew, but the F (of course) stands for F-ckin' (fill in the gap), Massive New F-ckin' Krew as listed on the archived album page. ALSO, for some reason, wanna go to a beach! on Bandcamp is 2 seconds shorter than it should be. AND, why can no streaming service get the track name right? It's \"wanna go to a beach\", all lowercase, and no exclamation mark at the end. That exclamation mark only appears at the end of the track's name in the song's mash-up with Resort Sunset on Guest Tracks. I mean, it's really not that hard. Actually the exclamation mark is probably TuneCore's fault, as they were the distributor, but I still hate Apple Music and Spotify for their insistance on Auto-Translating and Auto-Capitalizing every goddamn song title, and their flagrant refusal to bother with characters that need to be encoded. Ok, this doesn't have anything to do with the song anymore, I should stop now.",
+    "variations": [
+        {
+            "name": "wanna go to a beach! VS. Resort Sunset",
+            "url": "wanna-go-to-a-beach-VS-Resort-Sunset",
+            "altNames": null,
+            "artists": null,
+            "songType": "Mashup",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:07",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2017-04-30",
+                    "albumReleaseEvent": "M3-39",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Wanna Go To A Beach! Vs. Resort Sunset",
+                    "link": "https://youtu.be/JeXJBxH5elQ",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0015/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001152&search=Camellia+%22Guest+Tracks%22+Summary+%26+VIPs+01&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Guest Tracks Summary VIPs 01.png",
+                    "caption": null
+                }
+            ],
+            "description": "Mashup between Resort Sunset and camellia's wanna go to a beach from Massive Circlez's album SUPER SONIC."
+        }
+    ]
+}

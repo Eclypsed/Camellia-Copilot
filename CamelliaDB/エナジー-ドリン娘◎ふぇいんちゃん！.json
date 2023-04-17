@@ -1,0 +1,139 @@
+{
+    "name": "エナジー*ドリン娘◎ふぇいんちゃん！",
+    "url": "エナジー-ドリン娘◎ふぇいんちゃん！",
+    "altNames": [
+        "Energy*Drink Girl ◎ Feinchan!"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:12",
+    "albums": [
+        {
+            "albumName": "Voltage Ignition 2",
+            "albumPublisher": "Movement on the FLOOR",
+            "albumReleaseDate": "2013-12-31",
+            "albumReleaseEvent": "Comiket 85",
+            "albumType": "C"
+        },
+        {
+            "albumName": "Replay!/りぷれい！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "エナジー*ドリン娘◎ふぇいんちゃん！",
+            "link": "https://youtu.be/X5kDJHI9qKY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "エナジー*ドリン娘◎ふぇいんちゃん！",
+            "link": "https://open.spotify.com/track/3AMsdvsJj3ndEBdYYeRPWr?si=2b79e046f7a44790",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "エナジー*ドリン娘◎ふぇいんちゃん！",
+            "link": "https://music.apple.com/jp/album/energy-drinkingirl-fein-chang-feat-nanahira/843156687?i=843156804&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "エナジー*ドリン娘◎ふぇいんちゃん！",
+            "link": "https://tpazolite.bandcamp.com/track/--9",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Voltage Ignition 2",
+            "link": "https://diverse.direct/movement-on-the-floor/motf-0002/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "りぷれい！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-003/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Voltage Ignition 2",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000083&search=Voltage+Ignition+2&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Voltage Ignition 2.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "Replay!.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "エナジー＊ドリン娘☆ふぇいんちゃん！ (かめりあ's \"Monsteristic\" Dempa Machinegun Psystyle Remix)",
+            "url": "エナジー＊ドリン娘☆ふぇいんちゃん！-かめりあ-s-Monsteristic-Dempa-Machinegun-Psystyle-Remix",
+            "altNames": [
+                "Energy*Drink Girl ◎ Feinchan! (Camellia's \"Monsteristic\" Dempa Machinegun Psystyle Remix)"
+            ],
+            "artists": [
+                "Nanahira/ななひら [V]"
+            ],
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:41",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2018-08-10",
+                    "albumReleaseEvent": "Comiket 94",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "エナジー＊ドリン娘☆ふぇいんちゃん！ (かめりあ's \"Monsteristic\" Dempa Machinegun Psystyle Remix)",
+                    "link": "https://youtu.be/DKcBSoHb6QU",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Remixes Summary VIPs 02.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

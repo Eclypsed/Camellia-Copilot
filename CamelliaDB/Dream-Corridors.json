@@ -1,0 +1,104 @@
+{
+    "name": "Dream Corridors",
+    "url": "Dream-Corridors",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:29",
+    "albums": [
+        {
+            "albumName": "18edge",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2019-01-16",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "【18】キミトツナガルパズル コラボにて",
+            "gamePublisher": "Mobcast Games",
+            "gameReleaseDate": "2016-10-25"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Dream Corridors",
+            "link": "https://youtu.be/0U-CnFoHAwQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "SoundCloud",
+            "displayName": "Dream Corridors",
+            "link": "https://soundcloud.com/kuraddo/kradness-dream-corridorsquarks-collab-w-camellia",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dream Corridors.jpg",
+            "caption": null
+        },
+        {
+            "filename": "18edge.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Dream Corridors was first released in the Match-3 style game 【18】キミトツナガルパズル コラボにて during the \"1st STAGE kradness\" event which lasted from October 25, 2016 to November 8, 2016. It was later included on \"18edge\", a compilation album containing 10 songs from the game, of which Dream Corridors was the 10th. The album was produced by EXIT TUNES and released January 16th, 2019.",
+    "variations": [
+        {
+            "name": "Dream Corridors (Mira Edit)",
+            "url": "Dream-Corridors-Mira-Edit",
+            "altNames": null,
+            "artists": [
+                "Quarks (Camellia [C L] kradness [V])"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:07",
+            "albums": [
+                {
+                    "albumName": "Mira",
+                    "albumPublisher": "EXIT TUNES",
+                    "albumReleaseDate": "2018-06-06",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Dream Corridors (Mira Edit)",
+                    "link": "https://youtu.be/busEhv2uR8c",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "Dream Corridors (Mira Edit)",
+                    "link": "https://open.spotify.com/track/42u2sHLyltgM4WIdkkgfaB?si=01d0c6e0a260467c",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "Dream Corridors (Mira Edit)",
+                    "link": "https://music.apple.com/us/album/dream-corridors-mira-edit/1389666121?i=1389666348",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "mira.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

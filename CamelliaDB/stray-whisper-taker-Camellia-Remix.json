@@ -1,0 +1,63 @@
+{
+    "name": "stray whisper taker (Camellia Remix)",
+    "url": "stray-whisper-taker-Camellia-Remix",
+    "altNames": null,
+    "artists": [
+        "隣人 [A L]",
+        "Mei Ayakura/綾倉盟 [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Touhou Arrangement, Remix",
+    "touhouOrigin": [
+        {
+            "touhouSong": "アリスマエステラ",
+            "touhouGame": "東方幻想郷　～ Lotus Land Story"
+        }
+    ],
+    "originalSong": {
+        "originalSongName": "stray whisper taker",
+        "originalSongArtists": [
+            "CYTOKINE"
+        ],
+        "originalSongLink": "https://youtu.be/zwBV0THrdzs"
+    },
+    "duration": "4:36",
+    "albums": [
+        {
+            "albumName": "XXX",
+            "albumPublisher": "ZYTOKINE",
+            "albumReleaseDate": "2013-12-30",
+            "albumReleaseEvent": "Comiket 85",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "stray whisper taker (Camellia Remix)",
+            "link": "https://youtu.be/pXnqLRPbv4A",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "stray whisper taker (Camellia Remix)",
+            "link": "https://open.spotify.com/track/44JSwwwRvDKta07xPSUjgk?si=36ff488617524a27",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "stray whisper taker (Camellia Remix)",
+            "link": "https://music.apple.com/us/album/stray-whisper-taker-feat-mei-ayakura-camellia-remix/1481186607?i=1481186610",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "XXX.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

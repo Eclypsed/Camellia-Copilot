@@ -1,0 +1,62 @@
+{
+    "name": "SUPER HYPER MIRACLE FANTASY PARADE",
+    "url": "SUPER-HYPER-MIRACLE-FANTASY-PARADE",
+    "altNames": null,
+    "artists": [
+        "DJ Genki [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:27",
+    "albums": [
+        {
+            "albumName": "REVOLUTION OF HAPPY? #02",
+            "albumPublisher": "djgenki.net",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "SUPER HYPER MIRACLE FANTASY PARADE",
+            "link": "https://youtu.be/8K89Ir9adDk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "SUPER HYPER MIRACLE FANTASY PARADE",
+            "link": "https://music.apple.com/jp/album/super-hyper-miracle-fantasy-parade/1388851623?i=1388852244&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "SUPER HYPER MIRACLE FANTASY PARADE",
+            "link": "https://genkianamei.bandcamp.com/track/super-hyper-miracle-fantasy-parade",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "REVOLUTION OF HAPPY? #02",
+            "link": "https://diverse.direct/djgenki-net/gnkcd-003/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "REVOLUTION OF HAPPY? #02",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001224&search=REVOLUTION+OF+HAPPY%3F+%2302&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Revolution Of Happy #02.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

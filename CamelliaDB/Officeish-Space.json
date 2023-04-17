@@ -1,0 +1,56 @@
+{
+    "name": "Officeish Space",
+    "url": "Officeish-Space",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:36",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Officeish Space",
+            "link": "https://youtu.be/lOGfYllXeKA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Officeish Space",
+            "link": "https://open.spotify.com/track/6y5opaNwWV48jY13HlpD7E?si=8d2c26104c4249e2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Officeish Space",
+            "link": "https://music.apple.com/us/album/officeish-space/1522112127?i=1522112452",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Officeish Space",
+            "link": "https://dwellersemptypath.bandcamp.com/track/officeish-space",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

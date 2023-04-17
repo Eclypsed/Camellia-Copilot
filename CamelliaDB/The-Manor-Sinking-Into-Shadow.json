@@ -1,0 +1,56 @@
+{
+    "name": "The Manor Sinking Into Shadow",
+    "url": "The-Manor-Sinking-Into-Shadow",
+    "altNames": null,
+    "artists": [
+        "Temmie Chang [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:51",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "The Manor Sinking Into Shadow",
+            "link": "https://youtu.be/xMH1PH_2tJY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "The Manor Sinking Into Shadow",
+            "link": "https://open.spotify.com/track/2zgWwFPZlUMujHGCEBw52h?si=79e1cef86a20464e",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "The Manor Sinking Into Shadow",
+            "link": "https://music.apple.com/us/album/the-manor-sinking-into-shadow/1522112127?i=1522112600",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "The Manor Sinking Into Shadow",
+            "link": "https://dwellersemptypath.bandcamp.com/track/the-manor-sinking-into-shadow",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

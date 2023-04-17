@@ -1,0 +1,43 @@
+{
+    "name": "ゔぉるみっくす!!!!",
+    "url": "ゔぉるみっくす",
+    "altNames": [
+        "Volmix!!!!"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:04",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX EXCEED GEAR",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-01-18"
+        },
+        {
+            "gameName": "SOUND VOLTEX EXCEED GEAR コナステ",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-01-18"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ゔぉるみっくす!!!!",
+            "link": "https://youtu.be/8PLNdZHNu_Q",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ゔぉるみっくす!!!!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

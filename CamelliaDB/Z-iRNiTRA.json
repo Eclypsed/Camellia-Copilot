@@ -1,0 +1,60 @@
+{
+    "name": "Z:iRNiTRA",
+    "url": "Z-iRNiTRA",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "6:22",
+    "albums": [
+        {
+            "albumName": "Xroniàl Xéro",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2020-03-18",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Z:iRNiTRA",
+            "link": "https://youtu.be/HCohWnFSN_0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Z:iRNiTRA",
+            "link": "https://open.spotify.com/track/0r6SUC6Twx4xJUvKbcBElt?si=9ea475c7602c42ba",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Z:iRNiTRA",
+            "link": "https://music.apple.com/jp/album/z-irnitra/1501314614?i=1501314620&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Xroniàl Xéro (Album)",
+            "link": "https://diverse.direct/edp/pcca-04883/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Xroniàl Xéro (Album)",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002383&search=Xroni%26%23224%3Bl+X%26%23233%3Bro&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Xronial Xero.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

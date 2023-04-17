@@ -1,0 +1,68 @@
+{
+    "name": "3y3s (かめりあ's \"0p3n Ur 3y3s\" Remix)",
+    "url": "3y3s-かめりあ-s-0p3n-Ur-3y3s-Remix",
+    "altNames": null,
+    "artists": [
+        "青龍 [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "3y3s",
+        "originalSongArtists": [
+            "青龍"
+        ],
+        "originalSongLink": "https://youtu.be/p-iZiiKXJ5E"
+    },
+    "duration": "7:09",
+    "albums": [
+        {
+            "albumName": "Ryu☆BEST -STARLiGHT- (Bonus Track)",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-02-24",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        },
+        {
+            "albumName": "AO-∞",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2017-03-01",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "3y3s (かめりあ's \"0p3n Ur 3y3s\" Remix)",
+            "link": "https://youtu.be/KkutlFsJDmE",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "AO-∞",
+            "link": "https://diverse.direct/edp/qwce-90007/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "AO-∞",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001115&search=AO-%A1%E7&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Ao-∞.jpg",
+            "caption": null
+        },
+        {
+            "filename": "Ryu☆BEST -STARLiGHT-.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Originally a downloadable bonus track available by purchasing Ryu☆BEST -STARLiGHT-, it was later included on AO-∞.",
+    "variations": null
+}

@@ -1,0 +1,43 @@
+{
+    "name": "onslaught -Retaliation of Bahamūt-",
+    "url": "onslaught-Retaliation-of-Bahamūt",
+    "altNames": null,
+    "artists": [
+        "PHQUASE [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "onslaught",
+        "originalSongArtists": [
+            "PHQUASE"
+        ],
+        "originalSongLink": "https://youtu.be/BGol5J8Iqz4"
+    },
+    "duration": "1:59",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX EXCEED GEAR",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-02-17"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "onslaught -Retaliation of Bahamūt-",
+            "link": "https://youtu.be/8tCYmjYwGgg",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "onslaught -Retaliation of Bahamūt-.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Glitch Nerds",
+    "url": "Glitch-Nerds",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:33",
+    "albums": [
+        {
+            "albumName": "EDP presents ravemania",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-01-20",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        },
+        {
+            "albumName": "MEGANTO METEOR",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-07-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "jubeat plus + jubeat plus (Android)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-01-18"
+        },
+        {
+            "gameName": "REFLEC BEAT plus",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-01-18"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Glitch Nerds",
+            "link": "https://youtu.be/y2EgOlwTbJg",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Glitch Nerds",
+            "link": "https://open.spotify.com/track/2zyUgInz6UN9HxHkH6WuNV?si=6f236cd026e74781",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Glitch Nerds",
+            "link": "https://music.apple.com/us/album/glitch-nerds/1072999215?i=1072999226",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://diverse.direct/edp/qwce-90001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000813&search=Bass+Weapon+LAZERFLAME&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "EDP presents ravemania.jpg",
+            "caption": null
+        },
+        {
+            "filename": "MEGANTO METEOR.png",
+            "caption": null
+        }
+    ],
+    "description": "Trimmed down to 2:02 for the Camellia pack in jubeat plus and REFLEC BEAT plus.",
+    "variations": null
+}

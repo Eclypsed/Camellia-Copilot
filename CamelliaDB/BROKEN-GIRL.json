@@ -1,0 +1,44 @@
+{
+    "name": "BROKEN GIRL",
+    "url": "BROKEN-GIRL",
+    "altNames": null,
+    "artists": [
+        "Genki-kun Band/元気くんバンド (DJ Genki [Guitar] Camellia [Bass] JAVELIN [Drums] Yukacco [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:53",
+    "albums": [
+        {
+            "albumName": "Genki-kun Band EP/元気くんバンドEP",
+            "albumPublisher": "djgenki.net",
+            "albumReleaseDate": "2015-04-26",
+            "albumReleaseEvent": "M3-35",
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "BROKEN GIRL",
+            "link": "https://youtu.be/2i9aYGDOIp4",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "BROKEN GIRL",
+            "link": "https://genkianamei.bandcamp.com/track/broken-girl",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "元気くんバンドEP.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

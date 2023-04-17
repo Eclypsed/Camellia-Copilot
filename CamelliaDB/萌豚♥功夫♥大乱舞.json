@@ -1,0 +1,72 @@
+{
+    "name": "萌豚♥功夫♥大乱舞",
+    "url": "萌豚♥功夫♥大乱舞",
+    "altNames": null,
+    "artists": [
+        "娜娜苤來 (Nanahira/ななひら) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:36",
+    "albums": [
+        {
+            "albumName": "CHUNITHM ALL JUSTICE COLLECTION ep. III",
+            "albumPublisher": "maimai music",
+            "albumReleaseDate": "2022-04-28",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "CHUNITHM PARADISE LOST",
+            "gamePublisher": "SEGA",
+            "gameReleaseDate": "2021-12-09"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "萌豚♥功夫♥大乱舞",
+            "link": "https://youtu.be/b05Xtv_ZPFc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "萌豚♥功夫♥大乱舞",
+            "link": "https://open.spotify.com/track/0bASgpUGjNPzJpodnZRFdH?si=521ad825c2b74bb8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "萌豚♥功夫♥大乱舞",
+            "link": "https://music.apple.com/tc/album/moebuta-kunfu-dairanto-feat-nanahira/1634615446?i=1634615467",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "CHUNITHM ALL JUSTICE COLLECTION ep. III",
+            "link": "https://diverse.direct/%e3%82%a6%e3%82%a7%e3%83%bc%e3%83%96%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bcsega/wm-0842/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "CHUNITHM ALL JUSTICE COLLECTION ep. III",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002953&search=CHUNITHM&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "萌豚 功夫 大乱舞.jpg",
+            "caption": null
+        },
+        {
+            "filename": "CHUNITHM ALL JUSTICE COLLECTION ep. III.jpg",
+            "caption": null
+        }
+    ],
+    "description": "In the credits for the song Camellia goes by the alias 李 龟琍椏, and Nanahira goes by the alias 娜娜苤來.",
+    "variations": null
+}

@@ -1,0 +1,52 @@
+{
+    "name": "団体一名True my voice!",
+    "url": "団体一名True-my-voice",
+    "altNames": null,
+    "artists": [
+        "Satsuki ga Tenkomori/さつき が てんこもり [C A L]",
+        "Camellia [A]",
+        "みかりん* [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:08",
+    "albums": [
+        {
+            "albumName": "ニコ生モラルハザード",
+            "albumPublisher": "dmARTS",
+            "albumReleaseDate": "2011-09-07",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "団体一名True my voice!",
+            "link": "https://youtu.be/E7ccR23LxtY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "団体一名True my voice!",
+            "link": "https://open.spotify.com/track/5Xs0DhNSUJCvEDZ0wDkSGx?si=e2f83f6a4db04039&nd=1",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "団体一名True my voice!",
+            "link": "https://music.apple.com/us/album/%E5%9B%A3%E4%BD%93%E4%B8%80%E5%90%8Dtrue-my-voice-feat-%E3%81%BF%E3%81%8B%E3%82%8A%E3%82%93/1519389497?i=1519389505",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ニコ生モラルハザード.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

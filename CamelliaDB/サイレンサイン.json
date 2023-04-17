@@ -1,0 +1,56 @@
+{
+    "name": "サイレンサイン",
+    "url": "サイレンサイン",
+    "altNames": [
+        "Siren Sign"
+    ],
+    "artists": [
+        "Genki-kun Band/元気くんバンド (DJ Genki [C A Guitar] Camellia [Bass] Yukacco [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:00",
+    "albums": [
+        {
+            "albumName": "GITADORA Tri-Boost Original Soundtracks Volume.03",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2018-02-21",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "GITADORA Tri-Boost",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-08-10"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "サイレンサイン",
+            "link": "https://youtu.be/70yYTzVhZIY",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "サイレンサイン",
+            "link": "https://music.apple.com/jp/album/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%B3/1343640737?i=1343640757&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "サイレンサイン.png",
+            "caption": null
+        },
+        {
+            "filename": "GITADORA Tri-Boost Original Soundtracks Volume.03.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

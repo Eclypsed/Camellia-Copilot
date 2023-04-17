@@ -1,0 +1,36 @@
+{
+    "name": "BΛDBΦY",
+    "url": "BΛDBΦY",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:30",
+    "albums": [
+        {
+            "albumName": "PLASMA SPLASH",
+            "albumPublisher": "Riverside",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "BΛDBΦY",
+            "link": "https://youtu.be/HTZIAJjrHKM",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Plasma Splash.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

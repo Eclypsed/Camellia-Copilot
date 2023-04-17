@@ -1,0 +1,36 @@
+{
+    "name": "Mad Rat, Alive?",
+    "url": "Mad-Rat-Alive",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:46",
+    "albums": [
+        {
+            "albumName": "Mad Rat Dead Original Soundtrack",
+            "albumPublisher": "Nippon Ichi Software",
+            "albumReleaseDate": "2020-10-29",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Mad Rat, Alive?",
+            "link": "https://youtu.be/w4KXZgzA60c",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Mad Rat Dead Original Soundtrack.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Beyond the Geostationary Orbit Level",
+    "url": "Beyond-the-Geostationary-Orbit-Level",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:56",
+    "albums": [
+        {
+            "albumName": "heart of android",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2018-12-30",
+            "albumReleaseEvent": "Comiket 95",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Beyond the Geostationary Orbit Level",
+            "link": "https://youtu.be/ydTPi-SxwJk",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Beyond the Geostationary Orbit Level",
+            "link": "https://open.spotify.com/track/5ib1aoddT4tWvUDQM1z4KY?si=015c229d3f6445ac",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Beyond the Geostationary Orbit Level",
+            "link": "https://music.apple.com/us/album/beyond-the-geostationary-orbit-level/1448846900?i=1448847164",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Beyond the Geostationary Orbit Level",
+            "link": "https://cametek.bandcamp.com/track/beyond-the-geostationary-orbit-level",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "heart of android",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0018/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "heart of android",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001805&search=heart+of+android&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "heart of android.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,104 @@
+{
+    "name": "冥 (かめりあ's \"甦\" Remix)",
+    "url": "冥-かめりあ-s-甦-Remix",
+    "altNames": null,
+    "artists": [
+        "DJ Arumo [C]",
+        "DJ Killer [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "冥",
+        "originalSongArtists": [
+            "Arumo vs. DJ Killer"
+        ],
+        "originalSongLink": "https://youtu.be/EcF9k-v5Mng"
+    },
+    "duration": "5:06",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 20th Anniversary Tribute BEST",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2020-03-04",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "冥 (かめりあ's \"甦\" Remix)",
+            "link": "https://youtu.be/QdL6SjJoRSA",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "beatmania IIDX 20th Anniversary Tribute BEST",
+            "link": "https://diverse.direct/edp/pcca-04884/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "beatmania IIDX 20th Anniversary Tribute BEST",
+            "link": "https://www.tanocstore.net/shopdetail/000000002360/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 20th Anniversary Tribute Best.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "冥 (かめりあ's \"甦\" Remix Short ver.)",
+            "url": "冥-かめりあ-s-甦-Remix-Short-ver",
+            "altNames": null,
+            "artists": [
+                "DJ Arumo [C]",
+                "DJ Killer [C]",
+                "Camellia [R]"
+            ],
+            "songType": "Remix, Trim",
+            "touhouOrigin": null,
+            "originalSong": {
+                "originalSongName": "冥",
+                "originalSongArtists": [
+                    "Arumo vs. DJ Killer"
+                ],
+                "originalSongLink": "https://youtu.be/EcF9k-v5Mng"
+            },
+            "duration": "2:08",
+            "albums": [
+                {
+                    "albumName": "灰の羽搏",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2023-02-15",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "冥 (かめりあ's \"甦\" Remix Short ver.)",
+                    "link": "https://youtu.be/sOUB2t_Xor8",
+                    "unofficial": true
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "灰の羽搏.jpg",
+                    "caption": null
+                }
+            ],
+            "description": "Exclusive bonus track available from preordering 灰の羽搏 from the Konami Style store."
+        }
+    ]
+}

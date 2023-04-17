@@ -1,0 +1,37 @@
+{
+    "name": "neogenesis(promptedgenesis mix)",
+    "url": "neogenesis-promptedgenesis-mix",
+    "altNames": null,
+    "artists": [
+        "DM Ashura [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "neogenesis",
+        "originalSongArtists": [
+            "DM Ashura"
+        ],
+        "originalSongLink": "https://youtu.be/rPdUpyEVR68"
+    },
+    "duration": "5:59",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "neogenesis(promptedgenesis mix)",
+            "link": "https://youtu.be/qnn3sxoL8OM",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "neogenesis(promptedgenesis mix).jpg",
+            "caption": null
+        }
+    ],
+    "description": "The first video uploaded to Camellia's YouTube channel",
+    "variations": null
+}

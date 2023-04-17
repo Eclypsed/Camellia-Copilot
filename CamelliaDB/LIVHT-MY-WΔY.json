@@ -1,0 +1,50 @@
+{
+    "name": "LIVHT MY WΔY",
+    "url": "LIVHT-MY-WΔY",
+    "altNames": null,
+    "artists": [
+        "STΔRLIVHT [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:59",
+    "albums": [
+        {
+            "albumName": "LIVHT MY WΔY / galaXXy brain",
+            "albumPublisher": "Anarch Entertainment",
+            "albumReleaseDate": "2020-10-31",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "NOISZ STΔRLIVHT",
+            "gamePublisher": "Anarch Entertainment",
+            "gameReleaseDate": "2021-02-02"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "LIVHT MY WΔY",
+            "link": "https://youtu.be/N-C_VI-gBp8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "LIVHT MY WΔY",
+            "link": "https://anarchgames.bandcamp.com/track/livht-my-w-y",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "LIVHT MY WΔY.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on the release, as well as an official remix by the one and only Kurokotei (黒皇帝)!",
+    "variations": null
+}

@@ -1,0 +1,68 @@
+{
+    "name": "葛西覇亜怒孤亜魂",
+    "url": "葛西覇亜怒孤亜魂",
+    "altNames": null,
+    "artists": [
+        "KASAI HARCORES (DJ Genki Camellia & C-Show) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:26",
+    "albums": [
+        {
+            "albumName": "硬核侍魂 HARDCORE SAMURAI SPIRITS",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2017-10-29",
+            "albumReleaseEvent": "M3-40",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "葛西覇亜怒孤亜魂",
+            "link": "https://youtu.be/wKTwf_zyivU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "葛西覇亜怒孤亜魂",
+            "link": "https://open.spotify.com/track/4nDsFOCOpRh8TooHPzjiJA?si=b2221dd59b5e4b34",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "葛西覇亜怒孤亜魂",
+            "link": "https://music.apple.com/us/album/kasai-hardcore-damashii/1656445809?i=1656446035",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "葛西覇亜怒孤亜魂",
+            "link": "https://tanoc.bandcamp.com/track/--4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "硬核侍魂 HARDCORE SAMURAI SPIRITS",
+            "link": "https://diverse.direct/hardcore-tanoc/tcplus-0026/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "硬核侍魂 HARDCORE SAMURAI SPIRITS",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001310&search=HARDCORE+SAMURAI+SPIRITS&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "HARDCORE SAMURAI SPIRITS.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

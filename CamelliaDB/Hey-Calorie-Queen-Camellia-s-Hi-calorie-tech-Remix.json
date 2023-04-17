@@ -1,0 +1,50 @@
+{
+    "name": "Hey! Calorie Queen (Camellia's \"Hi(calorie|tech)\" Remix)",
+    "url": "Hey-Calorie-Queen-Camellia-s-Hi-calorie-tech-Remix",
+    "altNames": null,
+    "artists": [
+        "Yashikin/やしきん [C L]",
+        "Ayana Taketatsu/竹達 彩奈 [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Hey! Calorie Queen",
+        "originalSongArtists": [
+            "竹達 彩奈"
+        ],
+        "originalSongLink": "https://youtu.be/OoAQLrFyiGo"
+    },
+    "duration": "4:49",
+    "albums": [
+        {
+            "albumName": "Lyrical Concerto",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2016-11-02",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Hey! Calorie Queen (Camellia's \"Hi(calorie|tech)\" Remix)",
+            "link": "https://youtu.be/f7hGT_OVT5U",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Hey! Calorie Queen (Camellia's Hi(calorietech) Remix).jpg",
+            "caption": null
+        },
+        {
+            "filename": "Lyrical Concerto.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Exclusive remix CD recieved for purchasing Ayana Taketatsu's 3rd album Lyrical Concerto from the animate store.",
+    "variations": null
+}

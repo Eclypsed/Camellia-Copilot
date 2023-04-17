@@ -1,0 +1,69 @@
+{
+    "name": "Жужжалка76",
+    "url": "Жужжалка76",
+    "altNames": [
+        "Zhuzhzhalka76",
+        "Buzzsaw76"
+    ],
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:34",
+    "albums": [
+        {
+            "albumName": "U.U.F.O.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2021-07-11",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Жужжалка76",
+            "link": "https://youtu.be/30R9b1fRe-Q",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Жужжалка76",
+            "link": "https://open.spotify.com/track/1alIu7xTLg5lUB1CObSyhq?si=5e6a4b6134a648e5",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Жужжалка76",
+            "link": "https://music.apple.com/us/album/zhuzhzhalka76/1572224128?i=1572224352",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Жужжалка76",
+            "link": "https://cametek.bandcamp.com/track/76",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "U.U.F.O.",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0021-0022/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "U.U.F.O.",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002743&search=U.U.F.O.&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "U.U.F.O..jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

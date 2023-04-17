@@ -1,0 +1,57 @@
+{
+    "name": "Endless Beats ⇔ Endless Parties",
+    "url": "Endless-Beats-⇔-Endless-Parties",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:59",
+    "albums": [
+        {
+            "albumName": "jubeat festo ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2020-07-29",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "jubeat festo",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-03-04"
+        },
+        {
+            "gameName": "jubeat (2021)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-05-07"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Endless Beats ⇔ Endless Parties",
+            "link": "https://youtu.be/yWI5eaxA80Q",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Endless Beats ⇔ Endless Parties",
+            "link": "https://music.apple.com/jp/album/endless-beats-endless-parties/1523966699?i=1523967061",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Endless Beats ⇔ Endless Parties.png",
+            "caption": null
+        },
+        {
+            "filename": "jubeat festo ORIGINAL SOUNDTRACK.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

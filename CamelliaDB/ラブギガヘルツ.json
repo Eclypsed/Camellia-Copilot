@@ -1,0 +1,48 @@
+{
+    "name": "ラブギガヘルツ",
+    "url": "ラブギガヘルツ",
+    "altNames": [
+        "Love Gigahertz"
+    ],
+    "artists": [
+        "Satsuki ga Tenkomori/さつき が てんこもり [C L]",
+        "Masaya Oya/大箭マサヤ [A]",
+        "末広アンテナ (Nanahira/ななひら Iku Arino/有野いく) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:09",
+    "albums": [
+        {
+            "albumName": "Love Gigahertz/ラブギガヘルツ",
+            "albumPublisher": "Subcul-rise Record",
+            "albumReleaseDate": "2014-04-23",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ラブギガヘルツ",
+            "link": "https://youtu.be/oGaqRN8jneI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ラブギガヘルツ",
+            "link": "https://music.apple.com/jp/album/%E3%83%A9%E3%83%96%E3%82%AE%E3%82%AC%E3%83%98%E3%83%AB%E3%83%84/858276917?i=858276925",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Love Gigahertz.jpg",
+            "caption": null
+        }
+    ],
+    "description": "The ラブギガヘルツ single is the only work that I have found where Camellia is credited by his real name.",
+    "variations": null
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Null-view",
+    "url": "Null-view",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:05",
+    "albums": [
+        {
+            "albumName": "Airfoil e.p.",
+            "albumPublisher": "DOWN FORCE RECORDS",
+            "albumReleaseDate": "2012-12-31",
+            "albumReleaseEvent": "Comiket 83",
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Null-view",
+            "link": "https://youtu.be/rQDshNuKqPc",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Airfoil.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

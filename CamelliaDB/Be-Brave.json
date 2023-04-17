@@ -1,0 +1,56 @@
+{
+    "name": "Be Brave!",
+    "url": "Be-Brave",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:58",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Be Brave!",
+            "link": "https://youtu.be/52gyOEuE2AQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Be Brave!",
+            "link": "https://open.spotify.com/track/6VQcWlOySAAstvohnnIo5Z?si=36ce8633bdf24a7e",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Be Brave!",
+            "link": "https://music.apple.com/us/album/be-brave/1522112127?i=1522112723",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Be Brave!",
+            "link": "https://dwellersemptypath.bandcamp.com/track/be-brave",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

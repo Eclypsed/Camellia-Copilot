@@ -1,0 +1,95 @@
+{
+    "name": "Bad Apple!! (Camellia’s \"Bad Psy!!\" Remix)",
+    "url": "Bad-Apple-Camellia’s-Bad-Psy-Remix",
+    "altNames": null,
+    "artists": [
+        "Masayoshi Minoshima [A]",
+        "Haruka [L]",
+        "nomico [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Touhou Arrangement, Remix",
+    "touhouOrigin": [
+        {
+            "touhouSong": "Bad Apple!!",
+            "touhouGame": "東方幻想郷　～ Lotus Land Story"
+        }
+    ],
+    "originalSong": {
+        "originalSongName": "Bad Apple!!",
+        "originalSongArtists": [
+            "Masayoshi Minoshima",
+            "Haruka",
+            "and nomico"
+        ],
+        "originalSongLink": "https://youtu.be/9lNZ_Rnr7Jc"
+    },
+    "duration": "4:55",
+    "albums": [
+        {
+            "albumName": "10th Anniversary Bad Apple!! PHASE 2",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2017-12-29",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "C"
+        },
+        {
+            "albumName": "10th Anniversary Bad Apple!! PHASE 3",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2018-08-10",
+            "albumReleaseEvent": "Comiket 94",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Bad Apple!! (Camellia’s \"Bad Psy!!\" Remix)",
+            "link": "https://youtu.be/gcfqTk60fkE",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Bad Apple!! (Camellia’s \"Bad Psy!!\" Remix)",
+            "link": "https://open.spotify.com/track/3OwSNk7BVwdCYivLzAso7b?si=9469136f3db142b3",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Bad Apple!! (Camellia’s \"Bad Psy!!\" Remix)",
+            "link": "https://music.apple.com/us/album/bad-apple-feat-nomico-camellia-camellias-bad-psy-remix/1437623240?i=1437623244",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "10th Anniversary Bad Apple!! PHASE 2",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0060/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "10th Anniversary Bad Apple!! PHASE 3",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0065/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "10th Anniversary Bad Apple!! PHASE 3",
+            "link": "https://www.tanocstore.net/shopdetail/000000001644/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "10th Anniversary Bad Apple!! PHASE 2.jpg",
+            "caption": null
+        },
+        {
+            "filename": "10th Anniversary Bad Apple!! PHASE 3.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,66 @@
+{
+    "name": "⚠EMARGENCY SIREN⚠",
+    "url": "⚠EMARGENCY-SIREN⚠",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:11",
+    "albums": [
+        {
+            "albumName": "BASS AVENGERS 001",
+            "albumPublisher": "MEGAREX",
+            "albumReleaseDate": "2016-12-31",
+            "albumReleaseEvent": "Comiket 91",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "⚠EMARGENCY SIREN⚠",
+            "link": "https://youtu.be/CiMrAS73u-A",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "⚠EMARGENCY SIREN⚠",
+            "link": "https://open.spotify.com/track/16JohxH7w6fZSMxCo0IlJD?si=83eb0dc076924794",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "⚠EMARGENCY SIREN⚠",
+            "link": "https://music.apple.com/us/album/emargency-siren/1462745634?i=1462745900",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "BASS AVENGERS 001",
+            "link": "https://megarex-jp.bandcamp.com/album/bass-avengers-001",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "BASS AVENGERS 001",
+            "link": "https://diverse.direct/megarex/mrx-013/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "BASS AVENGERS 001",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001005&search=Bass+avengers&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Bass Avengers.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

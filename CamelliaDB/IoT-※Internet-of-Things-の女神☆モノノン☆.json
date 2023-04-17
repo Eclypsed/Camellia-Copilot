@@ -1,0 +1,58 @@
+{
+    "name": "IoT (※Internet of Things) の女神☆モノノン☆",
+    "url": "IoT-※Internet-of-Things-の女神☆モノノン☆",
+    "altNames": [
+        "Mononon the IoT (*Internet of Things) Goddess"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:36",
+    "albums": [
+        {
+            "albumName": "4orce!/ふぉーす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2017-12-29",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "IoT (※Internet of Things) の女神☆モノノン☆",
+            "link": "https://youtu.be/7mgyzv3rp1g",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "IoT (※Internet of Things) の女神☆モノノン☆",
+            "link": "https://open.spotify.com/track/4oReI6GFFj3s59qoB7PSqe?si=88d75ce5351948b9",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "IoT (※Internet of Things) の女神☆モノノン☆",
+            "link": "https://music.apple.com/us/album/mononon-the-iot-internet-of-things-goddess/1552865093?i=1552865558",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ふぉーす！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-006/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "4orce!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

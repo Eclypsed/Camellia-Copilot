@@ -1,0 +1,45 @@
+{
+    "name": "固有値を求めよ！",
+    "url": "固有値を求めよ！",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "みぃしゃ [V]",
+        "津軽りんご [Voice]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "竹取飛翔　～ Lunatic Princess",
+            "touhouGame": "東方永夜抄　～ Imperishable Night"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:49",
+    "albums": [
+        {
+            "albumName": "T★GIRLS.03",
+            "albumPublisher": "Forestpireo/ふぉれすとぴれお",
+            "albumReleaseDate": "2012-05-27",
+            "albumReleaseEvent": "Reitaisai 9",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "固有値を求めよ！",
+            "link": "https://youtu.be/_fi0KCI0ocU",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "T★GIRLS.03.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

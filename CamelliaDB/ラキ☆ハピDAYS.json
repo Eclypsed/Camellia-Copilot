@@ -1,0 +1,56 @@
+{
+    "name": "ラキ☆ハピDAYS!",
+    "url": "ラキ☆ハピDAYS",
+    "altNames": [
+        "Lucky Happy DAYS!"
+    ],
+    "artists": [
+        "Genki-kun Band/元気くんバンド (DJ Genki [C A Guitar] Camellia [Bass] Yukacco [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:50",
+    "albums": [
+        {
+            "albumName": "GITADORA Tri-Boost Original Soundtracks Volume.02",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2016-06-29",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "GITADORA Tri-Boost",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-12-16"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ラキ☆ハピDAYS!",
+            "link": "https://youtu.be/7RxIERsCkGQ",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ラキ☆ハピDAYS!",
+            "link": "https://music.apple.com/jp/album/%E3%83%A9%E3%82%AD-%E3%83%8F%E3%83%94days/1129615947?i=1129616034&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ラキ☆ハピDAYS!.png",
+            "caption": null
+        },
+        {
+            "filename": "GITADORA Tri-Boost Original Soundtracks Volume.02.jpg",
+            "caption": null
+        }
+    ],
+    "description": "It should be noted that even though the artist is 元気くんバンド, JAVELIN apparently did not play a role in the making of this song.",
+    "variations": null
+}

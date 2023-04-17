@@ -1,0 +1,69 @@
+{
+    "name": "Yayey (Camellia's the Yawping Remix)",
+    "url": "Yayey-Camellia-s-the-Yawping-Remix",
+    "altNames": null,
+    "artists": [
+        "Shandy kubota [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Yayey",
+        "originalSongArtists": [
+            "Shandy kubota"
+        ],
+        "originalSongLink": "https://youtu.be/9ZAFXwPHSjQ"
+    },
+    "duration": "5:03",
+    "albums": [
+        {
+            "albumName": "Shandy Bass 2",
+            "albumPublisher": "UOM Records",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Yayey (Camellia's the Yawping Remix)",
+            "link": "https://youtu.be/uO2Sud7Xgq0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Yayey (Camellia's the Yawping Remix)",
+            "link": "https://open.spotify.com/track/7a0nwvHQLzjwsb6HlgPQPt?si=d5dcc7f1ef0b4f19",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Yayey (Camellia's the Yawping Remix)",
+            "link": "https://music.apple.com/us/album/yayey-camellias-the-yawping-remix-feat-camellia/1522475288?i=1522475661",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Yayey (Camellia's the Yawping Remix)",
+            "link": "https://usao.bandcamp.com/track/shandy-kubota-yayey-camellias-the-yawping-remix",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Shandy Bass 2",
+            "link": "https://diverse.direct/uom-records/shandybass-2/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Shandy Bass 2.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

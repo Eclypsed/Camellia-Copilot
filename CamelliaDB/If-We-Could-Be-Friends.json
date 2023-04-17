@@ -1,0 +1,36 @@
+{
+    "name": "If We Could Be Friends",
+    "url": "If-We-Could-Be-Friends",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:45",
+    "albums": [
+        {
+            "albumName": "Mad Rat Dead Original Soundtrack Vol. 2",
+            "albumPublisher": "Nippon Ichi Software",
+            "albumReleaseDate": "2021-06-11",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "If We Could Be Friends",
+            "link": "https://youtu.be/aIswYjsnqck",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Mad Rat Dead Original Soundtrack Vol. 2.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

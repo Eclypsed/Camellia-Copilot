@@ -1,0 +1,63 @@
+{
+    "name": "Revolution (Camellia's \"Levorotary\" Remix)",
+    "url": "Revolution-Camellia-s-Levorotary-Remix",
+    "altNames": null,
+    "artists": [
+        "lapix [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Revolution",
+        "originalSongArtists": [
+            "lapix"
+        ],
+        "originalSongLink": "https://youtu.be/XMp07z9iOjk"
+    },
+    "duration": "4:32",
+    "albums": [
+        {
+            "albumName": "L",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-03-21",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Revolution (Camellia's \"Levorotary\" Remix)",
+            "link": "https://youtu.be/FHZLT777pOs",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Revolution (Camellia's \"Levorotary\" Remix)",
+            "link": "https://music.apple.com/us/album/revolution-camellias-levorotary-remix/1362443483?i=1362443662",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "L",
+            "link": "https://diverse.direct/edp/qwce-90017/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "L",
+            "link": "https://www.tanocstore.net/shopdetail/000000001440/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "L.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

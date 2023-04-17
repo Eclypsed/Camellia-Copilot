@@ -1,0 +1,66 @@
+{
+    "name": "I Can Fly In The Universe",
+    "url": "I-Can-Fly-In-The-Universe",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "6:52",
+    "albums": [
+        {
+            "albumName": "Sensation in the Sky",
+            "albumPublisher": "Movement on the FLOOR",
+            "albumReleaseDate": "2015-12-31",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "I Can Fly In The Universe",
+            "link": "https://youtu.be/-c0dfQBivZw",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "I Can Fly In The Universe",
+            "link": "https://open.spotify.com/track/6qGPJzRS2cCJzecy7Iwy4Q?si=bd3aeea989fe4e8f",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "I Can Fly In The Universe",
+            "link": "https://music.apple.com/us/album/i-can-fly-in-the-universe/1084259526?i=1084260913",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "I Can Fly In The Universe",
+            "link": "https://tpazolite.bandcamp.com/track/i-can-fly-in-the-universe",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Sensation in the Sky",
+            "link": "https://diverse.direct/m-o-t-f/motf-0006/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Sensation in the Sky",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000688&search=Sensation+in+the+Sky&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sensation in the Sky.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

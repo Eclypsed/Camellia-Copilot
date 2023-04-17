@@ -1,0 +1,52 @@
+{
+    "name": "HAVOX (Camellia's \"XATAXLYSM\" Remix)",
+    "url": "HAVOX-Camellia-s-XATAXLYSM-Remix",
+    "altNames": null,
+    "artists": [
+        "BlackY [C]",
+        "Yooh [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "HAVOX",
+        "originalSongArtists": [
+            "BlackY vs. Yooh"
+        ],
+        "originalSongLink": "https://youtu.be/gDLorO0QteQ"
+    },
+    "duration": "5:50",
+    "albums": [
+        {
+            "albumName": "DRAGON",
+            "albumPublisher": "BlackY's BEATFLOOR, Yoohsic Roomz",
+            "albumReleaseDate": "2019-08-12",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "HAVOX (Camellia's \"XATAXLYSM\" Remix)",
+            "link": "https://youtu.be/t0JbNfpt45k",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "DRAGON",
+            "link": "https://diverse.direct/yoohsic-roomz/dragon/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "DRAGON.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

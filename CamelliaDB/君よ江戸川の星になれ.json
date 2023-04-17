@@ -1,0 +1,69 @@
+{
+    "name": "君よ江戸川の星になれ",
+    "url": "君よ江戸川の星になれ",
+    "altNames": null,
+    "artists": [
+        "KASAI HARCORES/葛西ハーコーズ (DJ Genki Camellia & C-Show) [C]",
+        "EDOist [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:09",
+    "albums": [
+        {
+            "albumName": "KASAI HARCORES EP/葛西ハーコーズEP",
+            "albumPublisher": "KASAI HARCORES/葛西ハーコーズ",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "君よ江戸川の星になれ",
+            "link": "https://youtu.be/6RT_UwrnSEY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "君よ江戸川の星になれ",
+            "link": "https://open.spotify.com/track/6h8Q9Z40NZOrkJ11WEaeeI?si=33e893c89e5d482c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "君よ江戸川の星になれ",
+            "link": "https://music.apple.com/us/album/you-become-a-star-of-edogawa-feat-edoist/1479956281?i=1479956298",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "君よ江戸川の星になれ",
+            "link": "https://genkianamei.bandcamp.com/track/--5",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "葛西ハーコーズEP",
+            "link": "https://diverse.direct/%e8%91%9b%e8%a5%bf%e3%83%8f%e3%83%bc%e3%82%b3%e3%83%bc%e3%82%ba/khcd-001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "葛西ハーコーズEP",
+            "link": "https://www.tanocstore.net/shopdetail/000000000790/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Kasai Harcores EP.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Drawing Stars",
+    "url": "Drawing-Stars",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:21",
+    "albums": [
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Drawing Stars",
+            "link": "https://youtu.be/FvOgA6PIQZM",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Drawing Stars",
+            "link": "https://open.spotify.com/track/206ZNVDfc32rxOceN8n7B6?si=07cc8d74856846a2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Drawing Stars",
+            "link": "https://music.apple.com/us/album/drawing-stars/1389666121?i=1389666129",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Drawing Stars.jpg",
+            "caption": null
+        },
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

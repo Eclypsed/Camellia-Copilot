@@ -1,0 +1,57 @@
+{
+    "name": "путь льда​",
+    "url": "путь-льда​",
+    "altNames": [
+        "put' l'da",
+        "Ice Path"
+    ],
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:01",
+    "albums": [
+        {
+            "albumName": "TF40K E.P.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2017-08-01",
+            "albumReleaseEvent": null,
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "путь льда​",
+            "link": "https://youtu.be/2Q-ow8-BipA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "путь льда​",
+            "link": "https://open.spotify.com/track/4Ehs1eXLCQRI0EWwQowJ9y?si=f47273f2b39643de",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "путь льда​",
+            "link": "https://music.apple.com/us/album/ice-path/1573551665?i=1573551904",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "путь льда​",
+            "link": "https://cametek.bandcamp.com/track/put-lda",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "TF40KEP.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

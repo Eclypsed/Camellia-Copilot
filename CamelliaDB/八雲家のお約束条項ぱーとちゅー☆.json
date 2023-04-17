@@ -1,0 +1,55 @@
+{
+    "name": "八雲家のお約束条項ぱーとちゅー☆",
+    "url": "八雲家のお約束条項ぱーとちゅー☆",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "Yuuno Yoshimi/夕野ヨシミ [L]",
+        "Fancymat [L]",
+        "Chihiro Aihara/愛原千尋 [V]",
+        "うたげあんな [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " ティアオイエツォン",
+            "touhouGame": "東方妖々夢　～ Perfect Cherry Blossom "
+        },
+        {
+            "touhouSong": " 少女幻葬　～ Necro-fantasy",
+            "touhouGame": "東方妖々夢　～ Perfect Cherry Blossom "
+        },
+        {
+            "touhouSong": " ネクロファンタジア",
+            "touhouGame": "東方妖々夢　～ Perfect Cherry Blossom"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:29",
+    "albums": [
+        {
+            "albumName": "東方Little Bloom",
+            "albumPublisher": "Tennenjemini",
+            "albumReleaseDate": "2011-12-30",
+            "albumReleaseEvent": "Comiket 81",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "八雲家のお約束条項ぱーとちゅー☆",
+            "link": "https://youtu.be/q2NQSamaphI",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Touhou Little Bloom.jpg",
+            "caption": null
+        }
+    ],
+    "description": "I'm not sure if there is any kind of relation between 八雲家のお約束条項 and 八雲家のお約束条項ぱーとちゅー☆. I haven't seen any documentation establishing either of them as being musically related to the other. It's just strange that these two songs with almost exactly the same name, and made by the exact same people, and with the exact same Touhou sources would not be related in some way. I expected the latter to be a remix of the original or something, but after listening I have to say they don't sound similar at all to me.",
+    "variations": null
+}

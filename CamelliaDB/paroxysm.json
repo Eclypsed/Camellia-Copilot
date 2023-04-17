@@ -1,0 +1,66 @@
+{
+    "name": "paroxysm",
+    "url": "paroxysm",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "6:01",
+    "albums": [
+        {
+            "albumName": "paroxysm",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2013-12-31",
+            "albumReleaseEvent": "Comiket 85",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "paroxysm",
+            "link": "https://youtu.be/oRvX1M3eV-E",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "paroxysm",
+            "link": "https://open.spotify.com/track/21B1AfDu0FGYoznJZoAFB9?si=10dd7d69feb44056",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "paroxysm",
+            "link": "https://music.apple.com/us/album/paroxysm/1049635578?i=1049635584",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "paroxysm",
+            "link": "https://cametek.bandcamp.com/track/paroxysm",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "paroxysm (Album)",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0007/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "paroxysm (Album)",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002262&search=paroxysm&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "paroxysm.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

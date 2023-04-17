@@ -1,0 +1,42 @@
+{
+    "name": "landgridding",
+    "url": "landgridding",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:52",
+    "albums": [
+        {
+            "albumName": "Driven' De:st-ructure 3",
+            "albumPublisher": "Sound Ave.",
+            "albumReleaseDate": "2013-08-12",
+            "albumReleaseEvent": "Comiket 84",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "landgridding",
+            "link": "https://youtu.be/rUBE4LEX5Q4",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "landgridding",
+            "link": "https://sound-ave.bandcamp.com/track/landgridding",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Driven' Dest-ructure 3.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

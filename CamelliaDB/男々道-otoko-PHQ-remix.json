@@ -1,0 +1,63 @@
+{
+    "name": "男々道 -otoko PHQ remix-",
+    "url": "男々道-otoko-PHQ-remix",
+    "altNames": null,
+    "artists": [
+        "Des-ROW [C A V]",
+        "YU [L V]",
+        "PHQUASE [R]",
+        "Camellia [Guitar]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "男々道",
+        "originalSongArtists": [
+            "Des-ROW・組"
+        ],
+        "originalSongLink": "https://youtu.be/SR-OC95XiJU"
+    },
+    "duration": "4:04",
+    "albums": [
+        {
+            "albumName": "REFLEC BEAT groovin'!! Upper ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2015-07-01",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "REFLEC BEAT groovin'!! Upper",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-07-08"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "男々道 -otoko PHQ remix-",
+            "link": "https://youtu.be/JzOnMu4hMkk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "男々道 -otoko PHQ remix-",
+            "link": "https://music.apple.com/jp/album/%E7%94%B7%E3%80%85%E9%81%93-otoko-phq-remix/1005315684?i=1005321557&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "REFLEC BEAT groovin'!! Upper ORIGINAL SOUNDTRACK.jpg",
+            "caption": null
+        },
+        {
+            "filename": "男々道 -otoko PHQ remix-.png",
+            "caption": null
+        }
+    ],
+    "description": "Trimmed down to 1:52 in REFLEC BEAT groovin'!! Upper. For some reason this song was released in the game's OST before it was released in the game itself",
+    "variations": null
+}

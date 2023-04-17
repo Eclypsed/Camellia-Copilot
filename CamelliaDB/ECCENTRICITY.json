@@ -1,0 +1,68 @@
+{
+    "name": "ECCENTRICITY",
+    "url": "ECCENTRICITY",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Toriko Takanashi/タカナシトリコ [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "ネイティブフェイス",
+            "touhouGame": "東方風神録　～ Mountain of Faith"
+        }
+    ],
+    "originalSong": null,
+    "duration": "5:26",
+    "albums": [
+        {
+            "albumName": "CLOUD 9",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2014-05-11",
+            "albumReleaseEvent": "Reitaisai 11",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ECCENTRICITY",
+            "link": "https://youtu.be/wn2W6k5CxAM",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "ECCENTRICITY",
+            "link": "https://open.spotify.com/track/5PwMxnVR9TvY6FpJMrYMHN?si=333f5a0dad2a44f2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ECCENTRICITY",
+            "link": "https://music.apple.com/us/album/eccentricity-feat-toriko-takanashi-camellia/1613280570?i=1613280996",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "CLOUD 9",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0043/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "CLOUD 9",
+            "link": "https://www.tanocstore.net/shopdetail/000000000303/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "CLOUD 9.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

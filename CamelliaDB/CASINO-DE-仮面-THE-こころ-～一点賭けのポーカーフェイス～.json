@@ -1,0 +1,44 @@
+{
+    "name": "CASINO DE 仮面 THE こころ ～一点賭けのポーカーフェイス～",
+    "url": "CASINO-DE-仮面-THE-こころ-～一点賭けのポーカーフェイス～",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "KOKO/ココ [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "亡失のエモーション",
+            "touhouGame": "東方心綺楼　～ Hopeless Masquerade"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:42",
+    "albums": [
+        {
+            "albumName": "Innocent Key the BEST 2/イノキー ザ ベスト2",
+            "albumPublisher": "Innocent Key",
+            "albumReleaseDate": "2014-05-11",
+            "albumReleaseEvent": "Reitaisai 11",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "CASINO DE 仮面 THE こころ ～一点賭けのポーカーフェイス～",
+            "link": "https://youtu.be/CtjRy3-CqGQ",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Innocent Key the BEST 2.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

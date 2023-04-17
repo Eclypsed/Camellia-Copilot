@@ -1,0 +1,37 @@
+{
+    "name": "Proof of a Hero/英雄の証 (Camellia Remix)",
+    "url": "Proof-of-a-Hero-英雄の証-Camellia-Remix",
+    "altNames": null,
+    "artists": [
+        "Masato Kouda [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Proof of a Hero",
+        "originalSongArtists": [
+            "Masato Kouda"
+        ],
+        "originalSongLink": "https://youtu.be/p1fEV6QbCww"
+    },
+    "duration": "3:03",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Proof of a Hero/英雄の証 (Camellia Remix)",
+            "link": "https://youtu.be/o0P1JYJllJM",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Proof of a Hero (Camellia Remix).jpg",
+            "caption": null
+        }
+    ],
+    "description": "According to Camellia, at one point a shorter version of this song was uploaded someplace else for a meme. I don't know where or when this was but I guess that the YouTube upload was really the true first appearance.",
+    "variations": null
+}

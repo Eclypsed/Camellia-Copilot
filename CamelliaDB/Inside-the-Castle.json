@@ -1,0 +1,56 @@
+{
+    "name": "Inside the Castle",
+    "url": "Inside-the-Castle",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:45",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Inside the Castle",
+            "link": "https://youtu.be/kc0AhppWkwU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Inside the Castle",
+            "link": "https://open.spotify.com/track/17cpDxxceFJ6FmOo7cY04D?si=4ab871e6ba114c8a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Inside the Castle",
+            "link": "https://music.apple.com/us/album/inside-the-castle/1522112127?i=1522112464",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Inside the Castle",
+            "link": "https://dwellersemptypath.bandcamp.com/track/inside-the-castle",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

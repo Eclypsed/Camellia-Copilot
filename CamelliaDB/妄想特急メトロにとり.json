@@ -1,0 +1,57 @@
+{
+    "name": "妄想特急メトロにとり",
+    "url": "妄想特急メトロにとり",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "Yuuno Yoshimi/夕野ヨシミ [L]",
+        "Chihiro Aihara/愛原千尋 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "神々が恋した幻想郷",
+            "touhouGame": "東方風神録　～ Mountain of Faith"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:39",
+    "albums": [
+        {
+            "albumName": "東方人妻ようちえん",
+            "albumPublisher": "ユウノウミ",
+            "albumReleaseDate": "2011-12-30",
+            "albumReleaseEvent": "Comiket 81",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "妄想特急メトロにとり",
+            "link": "https://youtu.be/Kjx7UtMnqyY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "妄想特急メトロにとり",
+            "link": "https://open.spotify.com/track/7is0CKnuroNZVcqWgNzFWa?si=664d362f25e74b2f",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "妄想特急メトロにとり",
+            "link": "https://music.apple.com/us/album/moso-tokkyu-metro-nitori/1455311429?i=1455311431",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "東方人妻ようちえん.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on the release",
+    "variations": null
+}

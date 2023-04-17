@@ -1,0 +1,68 @@
+{
+    "name": "Gravy Boat",
+    "url": "Gravy-Boat",
+    "altNames": null,
+    "artists": [
+        "DJ Genki [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:38",
+    "albums": [
+        {
+            "albumName": "IRREGULAR NATION",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2015-04-26",
+            "albumReleaseEvent": "M3-35",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Gravy Boat",
+            "link": "https://youtu.be/e9By5j15gQA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Gravy Boat",
+            "link": "https://open.spotify.com/track/5rjnCYLYwNpsG37HHVkTdc?si=7f7dc82cead643b1",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Gravy Boat",
+            "link": "https://music.apple.com/us/album/gravy-boat/1003142925?i=1003142930",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Gravy Boat",
+            "link": "https://tanoc.bandcamp.com/track/gravy-boat",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "IRREGULAR NATION",
+            "link": "https://diverse.direct/hardcore-tanoc/tcplus-0015-2/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "IRREGULAR NATION",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000058&search=IRREGULAR+NATION&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "IRREGULAR NATION.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

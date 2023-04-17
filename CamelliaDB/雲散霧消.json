@@ -1,0 +1,79 @@
+{
+    "name": "雲散霧消",
+    "url": "雲散霧消",
+    "altNames": [
+        "Unsan-musho"
+    ],
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:55",
+    "albums": [
+        {
+            "albumName": "雲散霧消",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2021-02-26",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        },
+        {
+            "albumName": "GIGA YABAICORE",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2021-04-25",
+            "albumReleaseEvent": "M3-47",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "雲散霧消",
+            "link": "https://youtu.be/XeQbrCPSgek",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "雲散霧消",
+            "link": "https://open.spotify.com/track/4sIrtxdZgj0ilts6EcQidX?si=aeccb90e84a54773",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "雲散霧消",
+            "link": "https://music.apple.com/jp/album/unsan-musho/1554442865?i=1554443110&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "雲散霧消",
+            "link": "https://tanoc.bandcamp.com/track/unsan-musho-2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "GIGA YABAICORE",
+            "link": "https://diverse.direct/hardcore-tanoc/tcplus-0045/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "GIGA YABAICORE",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002715&search=GIGA+YABAICORE&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "雲散霧消.jpg",
+            "caption": null
+        },
+        {
+            "filename": "GIGA YABAICORE.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

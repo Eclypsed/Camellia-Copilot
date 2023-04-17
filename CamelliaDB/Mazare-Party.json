@@ -1,0 +1,101 @@
+{
+    "name": "Mazare Party",
+    "url": "Mazare-Party",
+    "altNames": null,
+    "artists": [
+        "MAZARE (kradness [V] Nanahira/ななひら [V] yukacco [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:02",
+    "albums": [
+        {
+            "albumName": "江州盆ダンス2016",
+            "albumPublisher": "Lake Biwa Ōtsu Mazare Festival Executive Committee",
+            "albumReleaseDate": "2016-07-29",
+            "albumReleaseEvent": null,
+            "albumType": "L"
+        },
+        {
+            "albumName": "MIND HACK",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-09-07",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Mazare Party",
+            "link": "https://youtu.be/sKk2GxvO9NA",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Mazare Party",
+            "link": "https://open.spotify.com/track/0H1318P2O3FfFLrHupVTxV?si=4b692175f93545f4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Mazare Party",
+            "link": "https://music.apple.com/us/album/mazare-party/1147949377?i=1147949480",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "江州盆ダンス2016.png",
+            "caption": null
+        },
+        {
+            "filename": "Mind Hack.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "Mazare Party was the official song for 江州盆ダンス2016, a dance portion of the event マザレ祭 (Mazare Festival) held in 2016. The song features vocalists kradness, Nanahira, and yukacco, and was Camellia's first appearance at 江州盆ダンス.  The Mazare Festival was established in 2016 as a combination of the Lake Biwa Otsu Summer Festival and the Hamaotsu Summer Festa, which had been held separately in Otsu City. \"Mazare\" is a coined word that combines \"交ざる (Mazaru)\", which means people gather and interact, and \"マザーレイク (mazareiku)\", which means Lake Biwa.",
+    "variations": [
+        {
+            "name": "Mazare Party (2017 Remix)",
+            "url": "Mazare-Party-2017-Remix",
+            "altNames": null,
+            "artists": [
+                "kradness [V]",
+                "MeseMoa [V]",
+                "*ChocoLate Bomb!! [V]"
+            ],
+            "songType": "Remix, Cover",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:17",
+            "albums": [
+                {
+                    "albumName": "江州盆ダンス2017",
+                    "albumPublisher": "Lake Biwa Ōtsu Mazare Festival Executive Committee",
+                    "albumReleaseDate": "2017-07-29",
+                    "albumReleaseEvent": null,
+                    "albumType": "L"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Mazare Party (2017 Remix)",
+                    "link": "https://youtu.be/KfMM10zA-4o",
+                    "unofficial": true
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "江州盆ダンス2017.png",
+                    "caption": null
+                }
+            ],
+            "description": "The official remix of the original Mazare Party from 江州盆ダンス2016. Released and played at 江州盆ダンス2017 along with Mazare Dance. The 2017 remix is also covered by kradness, MeseMoa, and *ChocoLate Bomb!!  There is also apparently a vocaloid version of the song made by Lamaze P, however despite what VocaDB says I am fairly certain this is an unofficial remix."
+        }
+    ]
+}

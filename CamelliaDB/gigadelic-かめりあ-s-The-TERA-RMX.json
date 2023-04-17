@@ -1,0 +1,135 @@
+{
+    "name": "gigadelic (かめりあ's \"The TERA\" RMX)",
+    "url": "gigadelic-かめりあ-s-The-TERA-RMX",
+    "altNames": [
+        "gigadelic (Camellia's \"THE TERA\" Remix)"
+    ],
+    "artists": [
+        "teranoid [C]",
+        "MC Natsack [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "gigadelic",
+        "originalSongArtists": [
+            "teranoid",
+            "MC Natsack"
+        ],
+        "originalSongLink": "https://youtu.be/KNd0q8R_k-8"
+    },
+    "duration": "2:01",
+    "albums": [
+        {
+            "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2018-08-10",
+            "albumReleaseEvent": "Comiket 94",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-07-01"
+        },
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS コナステ",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-10-04"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "gigadelic (かめりあ's \"The TERA\" RMX)",
+            "link": "https://youtu.be/bfmt8FZuEBM",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "gigadelic (かめりあ's The TERA RMX).png",
+            "caption": null
+        },
+        {
+            "filename": "Remixes Summary VIPs 02.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "gigadelic (Camellia's \"THE TERA\" Remix) [\"10¹²\" Long Ver.]",
+            "url": "gigadelic-Camellia-s-THE-TERA-Remix-10¹²-Long-Ver",
+            "altNames": null,
+            "artists": [
+                "teranoid [C]",
+                "MC Natsack [V]",
+                "Camellia [R]"
+            ],
+            "songType": "Remix, Extension",
+            "touhouOrigin": null,
+            "originalSong": {
+                "originalSongName": "gigadelic",
+                "originalSongArtists": [
+                    "teranoid",
+                    "MC Natsack"
+                ],
+                "originalSongLink": "https://youtu.be/KNd0q8R_k-8"
+            },
+            "duration": "5:34",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2018-08-10",
+                    "albumReleaseEvent": "Comiket 94",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "gigadelic (Camellia's \"THE TERA\" Remix) [\"10¹²\" Long Ver.]",
+                    "link": "https://youtu.be/6FJxgrUNGo8",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Remixes Summary VIPs 02.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

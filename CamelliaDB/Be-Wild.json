@@ -1,0 +1,38 @@
+{
+    "name": "Be Wild",
+    "url": "Be-Wild",
+    "altNames": null,
+    "artists": [
+        "Yukacco [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:07",
+    "albums": [
+        {
+            "albumName": "MelonBooks Shop BGM Compilations:001 - Nature -",
+            "albumPublisher": "Melonbooks Records",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Be Wild",
+            "link": "https://youtu.be/fLTd92ZqVZQ",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "MelonBooks Shop BGM Compilations 001 - Nature -.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

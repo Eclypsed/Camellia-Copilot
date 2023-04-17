@@ -1,0 +1,112 @@
+{
+    "name": "ニワカ三年オタ八年、インターネッツはforever",
+    "url": "ニワカ三年オタ八年、インターネッツはforever",
+    "altNames": [
+        "Newbies take 3 years",
+        "geeks 8 years",
+        "and internets are forever"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:15",
+    "albums": [
+        {
+            "albumName": "Crystallized, Candy time (Bonus Track)",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2015-12-31",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Muse Dash",
+            "gamePublisher": "PeroPeroGames",
+            "gameReleaseDate": "2019-06-20"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ニワカ三年オタ八年、インターネッツはforever",
+            "link": "https://youtu.be/5UGIbk2Mbow",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ニワカ三年オタ八年、インターネッツはForever.png",
+            "caption": null
+        },
+        {
+            "filename": "crystallized-Candy Time.png",
+            "caption": null
+        }
+    ],
+    "description": "At first glance, it seems like the first appearance of ニワカ三年オタ八年、インターネッツはforever was the \"長文スマソLong ver.\" on すりーぷ！ at Comiket 90, but then if this was the first release then why specifically distiguish it as a Longer Version; what happended to the short version? As it turns out, the original short ニワカ三年オタ八年、インターネッツforever was a downloadable bonus track you recieved if you purchased both Camellia's crystallized album and Nanahira's Candy time album at Comiket 89. The original short version was later added to Muse Dash as part of Nanahira Festival.",
+    "variations": [
+        {
+            "name": "ニワカ三年オタ八年、インターネッツはforever (長文スマソLong ver.)",
+            "url": "ニワカ三年オタ八年、インターネッツはforever-長文スマソLong-ver",
+            "altNames": [
+                "Newbies take 3 years",
+                "geeks 8 years",
+                "and internets are forever (Sorry-for-long-txt Long Ver.)"
+            ],
+            "artists": [
+                "Nanahira/ななひら [V]"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:06",
+            "albums": [
+                {
+                    "albumName": "Sleep!/すりーぷ！",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+                    "albumReleaseDate": "2016-08-14",
+                    "albumReleaseEvent": "Comiket 90",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "ニワカ三年オタ八年、インターネッツはforever (長文スマソLong ver.)",
+                    "link": "https://youtu.be/S6QNtRfWABM",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "ニワカ三年オタ八年、インターネッツはforever (長文スマソLong ver.)",
+                    "link": "https://open.spotify.com/track/5UtX3XvDsqcogKlwPa3Kkq?si=6213db796a7f4627",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "ニワカ三年オタ八年、インターネッツはforever (長文スマソLong ver.)",
+                    "link": "https://music.apple.com/jp/album/you-can-become-a-noob-whoever-but-no-easy-way-to-be/1554742814?i=1554742834&l=en",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "すりーぷ！",
+                    "link": "https://diverse.direct/?s=%E3%81%99%E3%82%8A%E3%83%BC%E3%81%B7%EF%BC%81",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Sleep!.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

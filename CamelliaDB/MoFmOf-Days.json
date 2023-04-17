@@ -1,0 +1,38 @@
+{
+    "name": "MoFmOf Days!",
+    "url": "MoFmOf-Days",
+    "altNames": null,
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:11",
+    "albums": [
+        {
+            "albumName": "Schmick Trigger! -New wave of A-POP-/シュミックトリガ! -New Wave Of A-Pop-",
+            "albumPublisher": "beatlogic",
+            "albumReleaseDate": "2011-08-13",
+            "albumReleaseEvent": "Comiket 80",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "MoFmOf Days!",
+            "link": "https://youtu.be/v-OhcZOwGyE",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Schmick Trigger! -New wave of A-POP-.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Break The Silence",
+    "url": "Break-The-Silence",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:03",
+    "albums": [
+        {
+            "albumName": "INSANE INFLAME",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Break The Silence",
+            "link": "https://youtu.be/muXETzNQG-c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Break The Silence",
+            "link": "https://open.spotify.com/track/3NdXi07wrEzy5Ja5qn2OgN?si=a02d87e4d2164830",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Break The Silence",
+            "link": "https://music.apple.com/us/album/break-the-silence/1112554154?i=1112554439",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Break The Silence",
+            "link": "https://cametek.bandcamp.com/track/break-the-silence",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "INSANE INFLAME",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0013/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "INSANE INFLAME",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000770&search=insane+inflame&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "INSANE INFLAME.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

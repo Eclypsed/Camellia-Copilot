@@ -1,0 +1,65 @@
+{
+    "name": "いんふぃにてぃもふりてぃ",
+    "url": "いんふぃにてぃもふりてぃ",
+    "altNames": [
+        "Infiniti Mofulity"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "p19 [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:00",
+    "albums": [
+        {
+            "albumName": "Infiniti Mofulity/いんふぃにてぃもふりてぃ",
+            "albumPublisher": "practice",
+            "albumReleaseDate": "2017-12-31",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "いんふぃにてぃもふりてぃ",
+            "link": "https://youtu.be/DF9VTtM6dQY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "いんふぃにてぃもふりてぃ",
+            "link": "https://open.spotify.com/track/7eizMsv9B0hpVwH9IIi3JD?si=f3b0b7c815c3493b",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "いんふぃにてぃもふりてぃ",
+            "link": "https://music.apple.com/us/album/infinitymoflity-feat-nanahira/1483897806?i=1483897808",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "いんふぃにてぃもふりてぃ (Album)",
+            "link": "https://diverse.direct/practice/mofu-0001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "いんふぃにてぃもふりてぃ (Album)",
+            "link": "https://www.tanocstore.net/shopdetail/000000001432/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "いんふぃにてぃもふりてぃ！.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

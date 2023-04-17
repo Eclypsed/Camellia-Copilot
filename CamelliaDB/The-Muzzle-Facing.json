@@ -1,0 +1,135 @@
+{
+    "name": "The Muzzle Facing",
+    "url": "The-Muzzle-Facing",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:35",
+    "albums": [
+        {
+            "albumName": "WACCA Lily Original Soundtrack Vol.3",
+            "albumPublisher": "Marvelous!",
+            "albumReleaseDate": "2020-09-17",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        },
+        {
+            "albumName": "WACCA COMPLETE ALBUM",
+            "albumPublisher": "Marvelous!",
+            "albumReleaseDate": "2022-07-08",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "WACCA Lily",
+            "gamePublisher": "Marvelous!",
+            "gameReleaseDate": "2020-09-17"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "The Muzzle Facing",
+            "link": "https://youtu.be/L-Yv4gUyvt4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "The Muzzle Facing",
+            "link": "https://open.spotify.com/track/3rTgoXd49oDgEpmFRXqHgW?si=b02c2bc401fb4c87",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "The Muzzle Facing",
+            "link": "https://music.apple.com/jp/album/the-muzzle-facing/1529992788?i=1529992789&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "THE MUZZLE FACING.jpg",
+            "caption": null
+        },
+        {
+            "filename": "WACCA Lily Original Soundtrack Vol.3.jpg",
+            "caption": null
+        },
+        {
+            "filename": "WACCA COMPLETE ALBUM.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "The Muzzle Facing (Long muzzled version)",
+            "url": "The-Muzzle-Facing-Long-muzzled-version",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:11",
+            "albums": [
+                {
+                    "albumName": "U.U.F.O.",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2021-07-11",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "The Muzzle Facing (Long muzzled version)",
+                    "link": "https://youtu.be/kQ8Z152yuio",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "The Muzzle Facing (Long muzzled version)",
+                    "link": "https://open.spotify.com/track/23YLB3KqsA930iA4Kn6usm?si=d831e5689c014009",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "The Muzzle Facing (Long muzzled version)",
+                    "link": "https://music.apple.com/jp/album/the-muzzle-facing-long-muzzled-version/1572224128?i=1572224625&l=en",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Bandcamp",
+                    "displayName": "The Muzzle Facing (Long muzzled version)",
+                    "link": "https://cametek.bandcamp.com/track/bonus-track-3-the-muzzle-facing-long-muzzled-version",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "U.U.F.O.",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0021-0022/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "U.U.F.O.",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002743&search=U.U.F.O.&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "U.U.F.O..jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Kannabis Kultivation",
+    "url": "Kannabis-Kultivation",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "7:26",
+    "albums": [
+        {
+            "albumName": "Ultra Hitech 02",
+            "albumPublisher": "MEGAREX",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Kannabis Kultivation",
+            "link": "https://youtu.be/zLlSlh0T4m8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Kannabis Kultivation",
+            "link": "https://music.apple.com/us/album/kannabis-kultivation/1462387635?i=1462387636",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Ultra Hitech 02",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000836&search=Ultra+Hitech+02&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Ultra Hitech 02.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,66 @@
+{
+    "name": "farewell to today",
+    "url": "farewell-to-today",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:59",
+    "albums": [
+        {
+            "albumName": "sudden shower",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "farewell to today",
+            "link": "https://youtu.be/XdHujxjZAow",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "farewell to today",
+            "link": "https://open.spotify.com/track/0wqLGboZ9dVZ7upxqmkfzw?si=68698f8ca5d94991",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "farewell to today",
+            "link": "https://music.apple.com/us/album/farewell-to-today/1049647153?i=1049647681",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "farewell to today",
+            "link": "https://cametek.bandcamp.com/track/farewell-to-today",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "sudden shower",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-009/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "sudden shower",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002264&search=sudden+shower&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sudden Shower.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

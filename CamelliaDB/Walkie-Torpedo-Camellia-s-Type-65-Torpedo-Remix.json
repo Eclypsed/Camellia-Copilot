@@ -1,0 +1,132 @@
+{
+    "name": "Walkie Torpedo (Camellia's \"Type 65 Torpedo\" Remix)",
+    "url": "Walkie-Torpedo-Camellia-s-Type-65-Torpedo-Remix",
+    "altNames": null,
+    "artists": [
+        "Mad Child [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Walkie Torpedo (Outro Mix)",
+        "originalSongArtists": [
+            "Mad Child"
+        ],
+        "originalSongLink": "https://youtu.be/MO8KLAl6QgM"
+    },
+    "duration": "4:32",
+    "albums": [
+        {
+            "albumName": "CHILDREN'S MADNESS REMIXIES",
+            "albumPublisher": "Madstiff Tracks (R135TRACKS)",
+            "albumReleaseDate": "2014-12-30",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Walkie Torpedo (Camellia's \"Type 65 Torpedo\" Remix)",
+            "link": "https://youtu.be/p__lpIzGs3I",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Walkie Torpedo (Camellia's \"Type 65 Torpedo\" Remix)",
+            "link": "https://open.spotify.com/track/1Oz7TbMFGQX9DunOpoH2fD?si=e6ed0db4fa0247ba",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Walkie Torpedo (Camellia's \"Type 65 Torpedo\" Remix)",
+            "link": "https://music.apple.com/us/album/walkie-torpedo-camellias-type-65-torpedo-remix/1156002709?i=1156002740",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Walkie Torpedo (Camellia's \"Type 65 Torpedo\" Remix)",
+            "link": "https://shop.attackthemusic.com/track/walkie-torpedo-camellias-type-65-torpedo-remix",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "CHILDREN'S MADNESS REMIXIES",
+            "link": "https://diverse.direct/r135tracks/mstfcd-003/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "CHILDREN'S MADNESS REMIXIES",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000283&search=CHILDREN%27S+MADNESS+REMIXIES&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "CHILDREN'S MADNESS REMIXIES.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Walkie Torpedo (Camellia's \"Type 65 Torpedo\" Remix) [2018VIP]",
+            "url": "Walkie-Torpedo-Camellia-s-Type-65-Torpedo-Remix-2018VIP",
+            "altNames": null,
+            "artists": [
+                "Mad Child [C]",
+                "Camellia [R]"
+            ],
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": {
+                "originalSongName": "Walkie Torpedo (Outro Mix)",
+                "originalSongArtists": [
+                    "Mad Child"
+                ],
+                "originalSongLink": "https://youtu.be/MO8KLAl6QgM"
+            },
+            "duration": "4:36",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2018-08-10",
+                    "albumReleaseEvent": "Comiket 94",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Walkie Torpedo (Camellia's \"Type 65 Torpedo\" Remix) [2018VIP]",
+                    "link": "https://youtu.be/6daSfltViRQ",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Remixes Summary VIPs 02.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

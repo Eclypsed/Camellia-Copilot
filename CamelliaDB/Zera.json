@@ -1,0 +1,56 @@
+{
+    "name": "Zera",
+    "url": "Zera",
+    "altNames": null,
+    "artists": [
+        "Temmie Chang [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:03",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Zera",
+            "link": "https://youtu.be/lFPoAKcgKDg",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Zera",
+            "link": "https://open.spotify.com/track/1rsA57a5nXqKjm6pKlIjP7?si=a9bd666600474540",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Zera",
+            "link": "https://music.apple.com/us/album/zera/1522112127?i=1522112597",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Zera",
+            "link": "https://dwellersemptypath.bandcamp.com/track/zera",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

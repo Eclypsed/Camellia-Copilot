@@ -1,0 +1,42 @@
+{
+    "name": "怪盗Ｓ！",
+    "url": "怪盗Ｓ！",
+    "altNames": [
+        "Mysterious Thief S!"
+    ],
+    "artists": [
+        "Satsuki ga Tenkomori/さつき が てんこもり [C A L]",
+        "Camellia [A]",
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:36",
+    "albums": [
+        {
+            "albumName": "Happy Saturday Festival/ハッピーサタデー フェスティバル",
+            "albumPublisher": "Poyahchio",
+            "albumReleaseDate": "2011-02-12",
+            "albumReleaseEvent": "VOCALOID FESTA 1",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "怪盗Ｓ！",
+            "link": "https://youtu.be/CUqUs_8Xt-s",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Happy Saturday Festival.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,44 @@
+{
+    "name": "ばらんが!!!!",
+    "url": "ばらんが",
+    "altNames": null,
+    "artists": [
+        "DJ TOTTO [C]",
+        "Nanahira/ななひら [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Valanga",
+        "originalSongArtists": [
+            "DJ TOTTO"
+        ],
+        "originalSongLink": "https://youtu.be/Cz8s5oIhW34"
+    },
+    "duration": "1:51",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX EXCEED GEAR",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-04-28"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ばらんが!!!!",
+            "link": "https://youtu.be/nBCcmJk7k2c",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Valanga.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

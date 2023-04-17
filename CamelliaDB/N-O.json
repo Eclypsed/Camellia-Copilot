@@ -1,0 +1,48 @@
+{
+    "name": "N.O.",
+    "url": "N-O",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:04",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 29 CastHour ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2022-03-16",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 29 CastHour",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-10-13"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "N.O.",
+            "link": "https://youtu.be/mzHJGJIJy7Q",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "N.O.",
+            "link": "https://music.apple.com/jp/album/n-o/1613636238?i=1613636397",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 29 CastHour OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

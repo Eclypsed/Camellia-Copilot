@@ -1,0 +1,50 @@
+{
+    "name": "Novaground",
+    "url": "Novaground",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:36",
+    "albums": [
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Novaground",
+            "link": "https://youtu.be/qneJB1qZ018",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Novaground",
+            "link": "https://open.spotify.com/track/3ZtgV8fuswjMfoUlSsHn2W?si=e131b32ef3c04429",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Novaground",
+            "link": "https://music.apple.com/jp/album/novaground/1389666121?i=1389666344&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

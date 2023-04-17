@@ -1,0 +1,44 @@
+{
+    "name": "キャラを取り戻せ!!",
+    "url": "キャラを取り戻せ",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "KOKO/ココ [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "おてんば恋娘の冒険",
+            "touhouGame": "東方花映塚　～ Phantasmagoria of Flower View"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:33",
+    "albums": [
+        {
+            "albumName": "東方ジャンプ",
+            "albumPublisher": "Innocent Key",
+            "albumReleaseDate": "2013-08-12",
+            "albumReleaseEvent": "Comiket 84",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "キャラを取り戻せ!!",
+            "link": "https://youtu.be/w_vrTs7pol4",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "東方ジャンプ.jpg",
+            "caption": null
+        }
+    ],
+    "description": "The original song is credited as おてんば恋娘の冒険 which is Cirno's theme from 東方花映塚　～ Phantasmagoria of Flower View, however on the album's page the game credited is 東方紅魔郷　～ the Embodiment of Scarlet Devil. Idk if this is a mistake, but I feel like the author was more likely to make a mistake on the game, then a mistake on the original song so I decided to put 東方花映塚　～ Phantasmagoria.",
+    "variations": null
+}

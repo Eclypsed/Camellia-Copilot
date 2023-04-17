@@ -1,0 +1,48 @@
+{
+    "name": "ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)",
+    "url": "ASIAN-VIRTUAL-REALITIES-MELTING-TOGETHER-IN-DAZZLING-DARKNESS",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:57",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 29 CastHour ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2022-03-16",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 28 BISTROVER",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-01-14"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)",
+            "link": "https://youtu.be/HmlGJFTwBgE",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)",
+            "link": "https://music.apple.com/jp/album/asian-virtual-realities-melting-together-in-dazzling/1613636238?i=1613636494",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 29 CastHour OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": "ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS) is tied with \"Hands Up feat. kradness BEMANI Sound Team \"Sota Fujimori\" Remix with the record of the longest song title in beatmania IIDX\", with 63 characters. According to Camellia, the title was originally even longer.",
+    "variations": null
+}

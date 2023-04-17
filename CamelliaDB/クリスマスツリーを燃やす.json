@@ -1,0 +1,42 @@
+{
+    "name": "クリスマスツリーを燃やす",
+    "url": "クリスマスツリーを燃やす",
+    "altNames": [
+        "Burning Christmas Trees"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]",
+        "VaNex [VM]",
+        "Yoru-P [VM]",
+        "和猫 [VM]",
+        "風筒P [VM]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:41",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "クリスマスツリーを燃やす",
+            "link": "https://youtu.be/_0wLt0-qmI4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "クリスマスツリーを燃やす",
+            "link": "https://www.nicovideo.jp/watch/sm13121228",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Burning Christmas Trees.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

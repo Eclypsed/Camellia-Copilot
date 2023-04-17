@@ -1,0 +1,52 @@
+{
+    "name": "君に恋したCPU",
+    "url": "君に恋したCPU",
+    "altNames": [
+        "The CPU Fell in Love With You"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:49",
+    "albums": [
+        {
+            "albumName": "mikUbiquity",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2011-10-30",
+            "albumReleaseEvent": "M3-28",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "君に恋したCPU",
+            "link": "https://youtu.be/wM4DXmWMYU0",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "mikUbiquity",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0003/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "mikUbiquity",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002259&search=mikubiquity&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "mikUbiquity.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

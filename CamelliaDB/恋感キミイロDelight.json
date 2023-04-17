@@ -1,0 +1,57 @@
+{
+    "name": "恋感キミイロDelight!",
+    "url": "恋感キミイロDelight",
+    "altNames": null,
+    "artists": [
+        "DJ Genki [C]",
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:34",
+    "albums": [
+        {
+            "albumName": "Replay!/りぷれい！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "恋感キミイロDelight!",
+            "link": "https://youtu.be/0dv_rmUXRDM",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "恋感キミイロDelight!",
+            "link": "https://open.spotify.com/track/5WNoegRbGNLW2JLoAU21JW?si=4af8641f783a401f",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "恋感キミイロDelight!",
+            "link": "https://music.apple.com/jp/album/lovish-your-hue-delights/1553655872?i=1553656220&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "りぷれい！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-003/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Replay!.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

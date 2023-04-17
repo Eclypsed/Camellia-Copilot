@@ -1,0 +1,66 @@
+{
+    "name": "(This track is) NOT EPIC",
+    "url": "This-track-is-NOT-EPIC",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:32",
+    "albums": [
+        {
+            "albumName": "[diffraction]",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-04-27",
+            "albumReleaseEvent": "M3-33",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "(This track is) NOT EPIC",
+            "link": "https://youtu.be/IcwVVS76JKg",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "(This track is) NOT EPIC",
+            "link": "https://open.spotify.com/track/7gWsPWy5zFTgpYWF3shKKI?si=4f89cd655d8d4d11",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "(This track is) NOT EPIC",
+            "link": "https://music.apple.com/us/album/this-track-is-not-epic/1049609666?i=1049609674",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "(This track is) NOT EPIC",
+            "link": "https://cametek.bandcamp.com/track/this-track-is-not-epic",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "[diffraction]",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0008/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "[diffraction]",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002263&search=diffraction&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "[diffraction].jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

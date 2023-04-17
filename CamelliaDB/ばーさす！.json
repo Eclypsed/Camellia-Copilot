@@ -1,0 +1,58 @@
+{
+    "name": "ばーさす！",
+    "url": "ばーさす！",
+    "altNames": [
+        "VERSUS!"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:55",
+    "albums": [
+        {
+            "albumName": "VERSUS!/ばーさす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ばーさす！",
+            "link": "https://youtu.be/ekC_mWxuCJ8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "ばーさす！",
+            "link": "https://open.spotify.com/track/7vNat4TCh0pjHqqSFrQ3k8?si=936c0bf495044d15",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ばーさす！",
+            "link": "https://music.apple.com/us/album/versus/1554743724?i=1554744188",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ばーさす！ (Album)",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-001/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "VERSUS!.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

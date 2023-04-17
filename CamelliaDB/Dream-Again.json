@@ -1,0 +1,68 @@
+{
+    "name": "Dream Again",
+    "url": "Dream-Again",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Mei Ayakura/綾倉盟 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "the Last Judgement",
+            "touhouGame": "東方怪綺談　～ Mystic Square"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:00",
+    "albums": [
+        {
+            "albumName": "IGNITION DANCEHALL",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2016-12-29",
+            "albumReleaseEvent": "Comiket 91",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Dream Again",
+            "link": "https://youtu.be/nbT0t8yjf0w",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Dream Again",
+            "link": "https://open.spotify.com/track/5ULq5hnG9NP1xC3CeNvkmk?si=7a90f828e6d3489b",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Dream Again",
+            "link": "https://music.apple.com/us/album/dream-again/1437626883?i=1437626888",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "IGNITION DANCEHALL",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0054/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "IGNITION DANCEHALL",
+            "link": "https://www.tanocstore.net/shopdetail/000000001051/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "IGNITION DANCEHALL.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

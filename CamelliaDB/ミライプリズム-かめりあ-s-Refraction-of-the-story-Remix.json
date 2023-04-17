@@ -1,0 +1,62 @@
+{
+    "name": "ミライプリズム(かめりあ's \"Refraction of the story\" Remix)",
+    "url": "ミライプリズム-かめりあ-s-Refraction-of-the-story-Remix",
+    "altNames": [
+        "Mirai Prism (Camellia's \"Refraction of the story\" Remix)"
+    ],
+    "artists": [
+        "tilt-six [C A L]",
+        "ここなつ (Cocona Shinonome Natsuhi Shinonome) [V]",
+        "Hatsune Miku/初音ミク [V]",
+        "GUMI/グミ [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix, Cover",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "ミライプリズム",
+        "originalSongArtists": [
+            "ここなつ"
+        ],
+        "originalSongLink": "https://youtu.be/JXNOC93h_qM"
+    },
+    "duration": "4:16",
+    "albums": [
+        {
+            "albumName": "Hope Sound",
+            "albumPublisher": "tilt-six",
+            "albumReleaseDate": "2014-06-03",
+            "albumReleaseEvent": "VOC@LOiD M@STER 33",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ミライプリズム(かめりあ's \"Refraction of the story\" Remix)",
+            "link": "https://youtu.be/-5mGx8zvO8s",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "ミライプリズム(かめりあ's \"Refraction of the story\" Remix)",
+            "link": "https://open.spotify.com/track/49OIrKxEZL9GT1exHYOQZY?si=868b3a0c89e64200",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ミライプリズム(かめりあ's \"Refraction of the story\" Remix)",
+            "link": "https://music.apple.com/us/album/mirai-prism-cameria-remix/1340799176?i=1340799855",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Hope Sound.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

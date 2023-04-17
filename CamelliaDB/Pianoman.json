@@ -1,0 +1,48 @@
+{
+    "name": "Pianoman",
+    "url": "Pianoman",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:32",
+    "albums": [
+        {
+            "albumName": "Neuropolis III",
+            "albumPublisher": "Madstiff Tracks (R135TRACKS)",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Pianoman",
+            "link": "https://youtu.be/M_bCZA0_CyY",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Neuropolis III",
+            "link": "https://diverse.direct/r135tracks/mstfcd-007/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Neuropolis III",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001218&search=Neuropolis+III&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Neuropolis III.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

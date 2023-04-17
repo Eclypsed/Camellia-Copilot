@@ -1,0 +1,123 @@
+{
+    "name": "PAPAYAPA BASS",
+    "url": "PAPAYAPA-BASS",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:02",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 24 SINOBUZ ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2017-03-01",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        },
+        {
+            "albumName": "GOIN'!/ごーいん！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2019-08-12",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 24 SINOBUZ",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-10-26"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "PAPAYAPA BASS",
+            "link": "https://youtu.be/KKK7ZsM2jj8",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "PAPAYAPA BASS",
+            "link": "https://music.apple.com/jp/album/papayapa-bass/1208316207?i=1208316310&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ごーいん！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-007/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "ごーいん！",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002091&search=%A4%B4%A1%BC%A4%A4%A4%F3%A1%AA&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 24 SINOBUZ ORIGINAL SOUNDTRACK.jpg",
+            "caption": null
+        },
+        {
+            "filename": "Goin!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "PAPAYAPA BASS (BASSE DE NANA Long ver.)",
+            "url": "PAPAYAPA-BASS-BASSE-DE-NANA-Long-ver",
+            "altNames": null,
+            "artists": [
+                "Nanahira/ななひら [V]"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:02",
+            "albums": [
+                {
+                    "albumName": "GOIN'!/ごーいん！",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+                    "albumReleaseDate": "2019-08-12",
+                    "albumReleaseEvent": "Comiket 96",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "PAPAYAPA BASS (BASSE DE NANA Long ver.)",
+                    "link": "https://youtu.be/Dmck9pO6Jco",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "ごーいん！",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-007/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "ごーいん！",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002091&search=%A4%B4%A1%BC%A4%A4%A4%F3%A1%AA&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Goin!.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

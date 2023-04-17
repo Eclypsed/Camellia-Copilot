@@ -1,0 +1,50 @@
+{
+    "name": "NYANYOSHI",
+    "url": "NYANYOSHI",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "Fancymat [L]",
+        "Chihiro Aihara/愛原千尋 [V]",
+        "Yuuki Aihara/愛原佑季 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " リジッドパラダイス",
+            "touhouGame": "東方神霊廟　～ Ten Desires "
+        },
+        {
+            "touhouSong": " 古きユアンシェン",
+            "touhouGame": "東方神霊廟　～ Ten Desires"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:37",
+    "albums": [
+        {
+            "albumName": "東方HOT LIMIT",
+            "albumPublisher": "Tennenjemini",
+            "albumReleaseDate": "2012-08-11",
+            "albumReleaseEvent": "Comiket 82",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "NYANYOSHI",
+            "link": "https://youtu.be/DDJzpNh6EPs",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Touhou HOT LIMIT.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

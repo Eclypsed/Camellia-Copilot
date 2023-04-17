@@ -1,0 +1,54 @@
+{
+    "name": "Singularity (The Day When The A.I. Becomes More Human Than Human)",
+    "url": "Singularity-The-Day-When-The-A-I-Becomes-More-Human-Than-Human",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:12",
+    "albums": [
+        {
+            "albumName": "MEGANTO METEOR",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-07-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Singularity (The Day When The A.I. Becomes More Human Than Human)",
+            "link": "https://youtu.be/_ukdZL5Tlv4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Singularity (The Day When The A.I. Becomes More Human Than Human)",
+            "link": "https://music.apple.com/jp/album/singularity-the-day-when-the-a-i-becomes-more/1127337029?i=1127337054&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://diverse.direct/edp/qwce-90001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000813&search=Bass+Weapon+LAZERFLAME&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "MEGANTO METEOR.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

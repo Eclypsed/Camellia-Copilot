@@ -1,0 +1,74 @@
+{
+    "name": "Sunshine",
+    "url": "Sunshine",
+    "altNames": null,
+    "artists": [
+        "DJ Genki [C]",
+        "Moimoi (Mayumi Morinaga) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:04",
+    "albums": [
+        {
+            "albumName": "ULTRA HAPPY COLLECTION!!!",
+            "albumPublisher": "djgenki.net",
+            "albumReleaseDate": "2017-12-29",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "A"
+        },
+        {
+            "albumName": "TANO*C Short Collection",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2022-08-13",
+            "albumReleaseEvent": "Comiket 100",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Sunshine",
+            "link": "https://youtu.be/mIoFdwimdkY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Sunshine",
+            "link": "https://open.spotify.com/track/5KFtLLbpU6PZ5YNklI1x0t?si=e56d65af7c9e4dfc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Sunshine",
+            "link": "https://music.apple.com/jp/album/sunshine-feat-moimoi/1388806336?i=1388807377&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Sunshine",
+            "link": "https://genkianamei.bandcamp.com/track/sunshine",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ULTRA HAPPY COLLECTION!!!",
+            "link": "https://diverse.direct/djgenki-net/gnkcd-005/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Ultra Happy Collection!!!.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "TANOC Short Collection.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

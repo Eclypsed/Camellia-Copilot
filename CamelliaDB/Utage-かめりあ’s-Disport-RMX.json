@@ -1,0 +1,57 @@
+{
+    "name": "Utage -かめりあ’s \"Disport\" RMX-",
+    "url": "Utage-かめりあ’s-Disport-RMX",
+    "altNames": null,
+    "artists": [
+        "PHQUASE [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Utage -import-",
+        "originalSongArtists": [
+            "PHQUASE"
+        ],
+        "originalSongLink": "https://youtu.be/y7FUPIilHPk"
+    },
+    "duration": "5:28",
+    "albums": [
+        {
+            "albumName": "QUARNIVAL",
+            "albumPublisher": "PHQUASE PHRASE",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Utage -かめりあ’s \"Disport\" RMX-",
+            "link": "https://youtu.be/h1XAssGa8HI",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "QUARNIVAL",
+            "link": "https://diverse.direct/phquase-phrase/pqcd-0002/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "QUARNIVAL",
+            "link": "https://www.tanocstore.net/shopdetail/000000000353/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Quarnival.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

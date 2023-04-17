@@ -1,0 +1,66 @@
+{
+    "name": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+    "url": "Compute-It-With-Some-Devilish-Alcoholic-Steampunk-Engines",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:27",
+    "albums": [
+        {
+            "albumName": "Tera I/O",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2020-09-27",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+            "link": "https://youtu.be/nbv84ixqiio",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+            "link": "https://open.spotify.com/track/0lLNQUXKhQiwppDbr6D5z8?si=78b4816924194b9e",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+            "link": "https://music.apple.com/us/album/compute-it-with-some-devilish-alcoholic-steampunk-engines/1531261866?i=1531261872",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+            "link": "https://cametek.bandcamp.com/track/compute-it-with-some-devilish-alcoholic-steampunk-engines",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Tera I/O",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0020/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Tera I/O",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002544&search=Tera+I%2FO&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Tera IO.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

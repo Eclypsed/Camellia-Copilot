@@ -1,0 +1,44 @@
+{
+    "name": "Fly Dream",
+    "url": "Fly-Dream",
+    "altNames": null,
+    "artists": [
+        "Genki-kun Band/元気くんバンド (DJ Genki [Guitar] Camellia [Bass] JAVELIN [Drums] Yukacco [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:31",
+    "albums": [
+        {
+            "albumName": "Genki-kun Band EP2/元気くんバンドEP2",
+            "albumPublisher": "djgenki.net",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Fly Dream",
+            "link": "https://youtu.be/7nVXg1xfjl8",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Fly Dream",
+            "link": "https://genkianamei.bandcamp.com/track/fly-dream",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "元気くんバンドEP2.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,59 @@
+{
+    "name": "SKY FULL of MAGIC",
+    "url": "SKY-FULL-of-MAGIC",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:09",
+    "albums": [
+        {
+            "albumName": "SKY FULL of MAGIC",
+            "albumPublisher": "JVCKENWOOD Victor Entertainment",
+            "albumReleaseDate": "2020-12-23",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        },
+        {
+            "albumName": "Everlasting Magic",
+            "albumPublisher": "JVCKENWOOD Victor Entertainment",
+            "albumReleaseDate": "2022-10-26",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "SKY FULL of MAGIC",
+            "link": "https://youtu.be/whUiga58Kck",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "SKY FULL of MAGIC",
+            "link": "https://open.spotify.com/track/2tyxoBW0DZ5LLg3BSZm5WR?si=f421d9ced8c340e0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "SKY FULL of MAGIC",
+            "link": "https://music.apple.com/jp/album/sky-full-of-magic/1543367231?i=1543367232&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "SKY FULL of MAGIC.png",
+            "caption": null
+        },
+        {
+            "filename": "Everlasting Magic.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

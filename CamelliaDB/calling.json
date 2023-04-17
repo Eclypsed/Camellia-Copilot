@@ -1,0 +1,93 @@
+{
+    "name": "calling",
+    "url": "calling",
+    "altNames": null,
+    "artists": [
+        "+α/Alfakyun/あるふぁきゅん [V]",
+        "Sakanoharu/坂ノハル [L]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:00",
+    "albums": [
+        {
+            "albumName": "ANDANTE WEB Novel/アンダンテWEB小説",
+            "albumPublisher": "Akira/日日日, Sakanoharu/坂ノハル",
+            "albumReleaseDate": "2016-02-05",
+            "albumReleaseEvent": null,
+            "albumType": "Novel"
+        },
+        {
+            "albumName": "Abikyoukan/αβ叫喚",
+            "albumPublisher": "JVCKENWOOD Victor Entertainment",
+            "albumReleaseDate": "2016-01-27",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        },
+        {
+            "albumName": "ANDANTE ORIGINAL SOUNDTRACK/アンダンテ サウンドトラック",
+            "albumPublisher": "views",
+            "albumReleaseDate": "2017-04-27",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "calling",
+            "link": "https://youtu.be/gRoYo5OClM4",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Project Andante.jpg",
+            "caption": null
+        },
+        {
+            "filename": "αβ叫喚.jpg",
+            "caption": null
+        },
+        {
+            "filename": "ANDANTE ORIGINAL SOUNDTRACK.jpg",
+            "caption": null
+        }
+    ],
+    "description": "You may notice that despite the fact that this song was originally made for the Andante web novel, this is actually not the first place it appears, that being Alfakyun's album αβ叫喚. From what I can tell from reading through several translated articles, Camellia and Alfakyun were commissioned to produce calling as the OP song for the WEB Novel \"Andante\", which was first published on Feburary 5th, 2016. On that same day Alfakyun posted the song to Youtube. However, calling had already been featured on Alfakyun's album αβ叫喚 as a limited bonus track, which released a bit over a week earlier. It's unclear when the song was first commissioned, but it can be assumed that the producers of the novel allowed Alfakyun to release the song on αβ叫喚 before its \"official\" release as the Andante OP. The jacket I used however is still of its first appearance on αβ叫喚. Later the Andante OST was released which also featured calling.  Note regarding the Andante Web Novel: During my research I notice that Project Andante's page has been dead since around 2019, and viewing the latest working capture on wayback reveals something odd. The latest working capture shows that as of August 8th, 2019 the 9th and final \"Movement\" (basically means chapter) remained unreleased. This is despite the fact that the 8th movement had been released sometime between the 7th movement's release on August 15th 2017 and Jun 4th 2017, right before Sakanoharu's very last tweet on September 12th, 2017. It's also worth noting that the tweet announcing the 7th movement's release on August 15th, 2017 was also the final tweet by Project Andante's official twitter account. Basically it seems as though Sakanoharu ceased all activity sometime between September and December of 2017, and as a result so did Project Andante and the 9th movement was never released. From what I can tell the novelist for Project Andante, 日日日, also never tweeted about the series again after July 27th, 2017, although he is still active to this day. This abrupt stop in all activity has led a couple of people (under a now unavailable Project Andante tweet) to theorise that something (idk what) happened to Sakanoharu which prompted the end of Project Andante before it was ever completed. Leading up to this Sakanoharu never made any indication that the project would be ending or that he was losing enthusiasm for it, and so I am unfortunately assuming the worst and hoping for the best. The worst would sadly explain why the project was never completed, the complete lack of activity for 5 years, and why my messages were never responded to, but like I said, I'm hoping that he is alright.",
+    "variations": [
+        {
+            "name": "calling (Another ver.)",
+            "url": "calling-Another-ver",
+            "altNames": null,
+            "artists": [
+                "+α/Alfakyun/あるふぁきゅん [V]",
+                "Sakanoharu/坂ノハル [L]"
+            ],
+            "songType": "Remaster",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "?",
+            "albums": [
+                {
+                    "albumName": "ANDANTE ORIGINAL SOUNDTRACK/アンダンテ サウンドトラック",
+                    "albumPublisher": "views",
+                    "albumReleaseDate": "2017-04-27",
+                    "albumReleaseEvent": null,
+                    "albumType": "OST"
+                }
+            ],
+            "gameAppearances": null,
+            "links": null,
+            "imgs": [
+                {
+                    "filename": "ANDANTE ORIGINAL SOUNDTRACK.jpg",
+                    "caption": null
+                }
+            ],
+            "description": "Alternate version of calling exclusive to the first release of the OST."
+        }
+    ]
+}

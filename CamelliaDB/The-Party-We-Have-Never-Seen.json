@@ -1,0 +1,71 @@
+{
+    "name": "The Party We Have Never Seen",
+    "url": "The-Party-We-Have-Never-Seen",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Nana Takahashi/高橋菜々 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 見た事も無い悪夢の世界",
+            "touhouGame": "東方紺珠伝　～ Legacy of Lunatic Kingdom "
+        },
+        {
+            "touhouSong": " パンデモニックプラネット",
+            "touhouGame": "東方紺珠伝　～ Legacy of Lunatic Kingdom"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:25",
+    "albums": [
+        {
+            "albumName": "紺 -KAN-",
+            "albumPublisher": "SOUND HOLIC",
+            "albumReleaseDate": "2015-12-30",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "C"
+        },
+        {
+            "albumName": "NANA HOLIC III",
+            "albumPublisher": "SOUND HOLIC",
+            "albumReleaseDate": "2019-05-05",
+            "albumReleaseEvent": "Reitaisai 16",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "The Party We Have Never Seen",
+            "link": "https://youtu.be/PYStx39WsXw",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "The Party We Have Never Seen",
+            "link": "https://open.spotify.com/track/5tsttXE4NdBTGOoDL32iHv?si=2d72700bcad647fd",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "The Party We Have Never Seen",
+            "link": "https://music.apple.com/us/album/the-party-we-have-never-seen-feat-nana-takahashi-camellia/1545319514?i=1545319518",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "紺 -KAN-.jpg",
+            "caption": null
+        },
+        {
+            "filename": "NANA HOLIC III.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

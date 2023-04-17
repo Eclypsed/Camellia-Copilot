@@ -1,0 +1,54 @@
+{
+    "name": "!​!​FEVERTIME​!​!",
+    "url": "​-​FEVERTIME​-​",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:36",
+    "albums": [
+        {
+            "albumName": "Capri Princess",
+            "albumPublisher": "SKETCH UP! Recordings",
+            "albumReleaseDate": "2015-12-31",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "!​!​FEVERTIME​!​!",
+            "link": "https://youtu.be/3wU-tRZli4M",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "!​!​FEVERTIME​!​!",
+            "link": "https://genkianamei.bandcamp.com/track/fevertime",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Capri Princess",
+            "link": "https://diverse.direct/sketch-up-recordings/gecd-018/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Capri Princess",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000672&search=capri+princes&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Capri Princess.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

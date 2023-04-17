@@ -1,0 +1,59 @@
+{
+    "name": "Critical Line (Quarks Remix)",
+    "url": "Critical-Line-Quarks-Remix",
+    "altNames": null,
+    "artists": [
+        "Ryu [C]",
+        "Quarks (Camellia kradness [V]) [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Critical Line",
+        "originalSongArtists": [
+            "Ryu",
+            "かなき",
+            "kradness"
+        ],
+        "originalSongLink": "https://youtu.be/0G7ii6hFpM8"
+    },
+    "duration": "4:41",
+    "albums": [
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Critical Line (Quarks Remix)",
+            "link": "https://youtu.be/iCDorNEP79c",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Critical Line (Quarks Remix)",
+            "link": "https://open.spotify.com/track/6vbMg9o32N0WWeoSSMtZom?si=e3d701e776d84d6c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Critical Line (Quarks Remix)",
+            "link": "https://music.apple.com/vn/album/critical-line-feat-kradness-quarks-remix/1389666121?i=1389666352",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

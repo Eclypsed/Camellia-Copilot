@@ -1,0 +1,75 @@
+{
+    "name": "Drag The Ground",
+    "url": "Drag-The-Ground",
+    "altNames": null,
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:30",
+    "albums": [
+        {
+            "albumName": "Hatsune Miku GT Project 2014/初音ミクGTプロジェクト2014",
+            "albumPublisher": null,
+            "albumReleaseDate": "2014-04-04",
+            "albumReleaseEvent": null,
+            "albumType": "L"
+        },
+        {
+            "albumName": "Drag The Ground",
+            "albumPublisher": "KARENT",
+            "albumReleaseDate": "2014-04-05",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        },
+        {
+            "albumName": "MIKU EXPO 2021 Online",
+            "albumPublisher": "Crypton Future Media",
+            "albumReleaseDate": "2021-06-05",
+            "albumReleaseEvent": null,
+            "albumType": "L"
+        },
+        {
+            "albumName": "MIKU EXPO 2021 Online Live Arrangement",
+            "albumPublisher": "Crypton Future Media",
+            "albumReleaseDate": "2021-07-08",
+            "albumReleaseEvent": "HATSUNE MIKU EXPO 2021 Online",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Drag The Ground",
+            "link": "https://youtu.be/cbcRrkVTeC0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Drag The Ground",
+            "link": "https://open.spotify.com/track/13DViwRuyaOQJlgLWxwCi0?si=f78f5e359202420b",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Drag The Ground",
+            "link": "https://music.apple.com/us/album/drag-the-ground-feat-hatsune-miku/854843128?i=854843150",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Drag the Ground.jpg",
+            "caption": null
+        },
+        {
+            "filename": "MIKU EXPO 2021 Online.jpg",
+            "caption": null
+        }
+    ],
+    "description": "So you know those weeb cars that are just covered with anime? That's basically what you should think of when thinking about where this song came from. It was made as the theme song for the Hatsune Miku GT Project in 2014, which was a literal Racing Team by Good Smile Racing with a Hatsune Miku themed car driven at several races across Japan. Camellia really has done everything hasn't he? Also, I just tagged the GT Project as a live event because I didn't know what else to tag it as.",
+    "variations": null
+}

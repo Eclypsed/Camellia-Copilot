@@ -1,0 +1,46 @@
+{
+    "name": "本体が4000円安くなるクーポン",
+    "url": "本体が4000円安くなるクーポン",
+    "altNames": [
+        "Coupon that makes the main unit 4000 yen cheaper"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:40",
+    "albums": [
+        {
+            "albumName": "Bubblegum Mimic!!/バブルガムミミック！！",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2011-10-30",
+            "albumReleaseEvent": "VOC@LOiD M@STER 13",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "本体が4000円安くなるクーポン",
+            "link": "https://youtu.be/L-xoqVNw8ng",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "本体が4000円安くなるクーポン",
+            "link": "https://www.nicovideo.jp/watch/sm11393852",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Bubblegum Mimic!!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,40 @@
+{
+    "name": "ひとりぼっちで眠るLED",
+    "url": "ひとりぼっちで眠るLED",
+    "altNames": [
+        "LED sleeping alone"
+    ],
+    "artists": [
+        "Yuzuki Yukari/結月ゆかり [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:14",
+    "albums": [
+        {
+            "albumName": "Moon's Song II - Moon's Song -/月の詩 II - ツキノウタ -",
+            "albumPublisher": "Team Makets/マケッツ団",
+            "albumReleaseDate": "2012-12-31",
+            "albumReleaseEvent": "Comiket 83",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ひとりぼっちで眠るLED",
+            "link": "https://youtu.be/jOwheSL0WKc",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Moon Song II.png",
+            "caption": null
+        }
+    ],
+    "description": "The second portion of the of the album's name, 'ツキノウタ' is spoken the exact same as the first portion of the album's name, '月の詩', but written in katakana. Both can be romanized as 'tsuki no uta' which roughly translates to song/poem of the moon. When wrtitten in katakana 'tsuki no uta' doesn't really have any meaning but we can interpret the album name to litterally be 'Moon's Song II - Moon's Song - '.",
+    "variations": null
+}

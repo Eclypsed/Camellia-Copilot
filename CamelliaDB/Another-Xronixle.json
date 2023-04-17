@@ -1,0 +1,54 @@
+{
+    "name": "Another Xronixle",
+    "url": "Another-Xronixle",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:44",
+    "albums": [
+        {
+            "albumName": "Another Xronixle",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2020-03-18",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Another Xronixle",
+            "link": "https://youtu.be/_qH3nrEptHI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Another Xronixle",
+            "link": "https://open.spotify.com/track/7ctoIcc3neTecHrC7ykgWs?si=8b819afaa6ac4992",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Another Xronixle",
+            "link": "https://music.apple.com/us/album/another-xronixle/1503320898?i=1503321008",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Another Xronixle",
+            "link": "https://cametek.bandcamp.com/track/another-xronixle",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Another Xronixle.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

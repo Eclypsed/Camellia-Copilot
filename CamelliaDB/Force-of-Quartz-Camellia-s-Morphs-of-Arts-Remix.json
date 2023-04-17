@@ -1,0 +1,38 @@
+{
+    "name": "Force of Quartz (Camellia's \"Morphs of Arts\" Remix)",
+    "url": "Force-of-Quartz-Camellia-s-Morphs-of-Arts-Remix",
+    "altNames": null,
+    "artists": [
+        "The 4th [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Force of Quartz",
+        "originalSongArtists": [
+            "The 4th"
+        ],
+        "originalSongLink": "https://youtu.be/9utyR4SrHss"
+    },
+    "duration": "?",
+    "albums": [
+        {
+            "albumName": "Force of the 4th (Bonus Track)",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2020-10-07",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": null,
+    "imgs": [
+        {
+            "filename": "Force of the 4th.jpg",
+            "caption": null
+        }
+    ],
+    "description": "It's all the bonus tracks that are impossible to find",
+    "variations": null
+}

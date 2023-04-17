@@ -1,0 +1,51 @@
+{
+    "name": "See You in Nowhere",
+    "url": "See-You-in-Nowhere",
+    "altNames": null,
+    "artists": [
+        "Camellia [C A L]",
+        "Amatsuka Uto [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:17",
+    "albums": [
+        {
+            "albumName": "UTOPIA",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2021-12-15",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "See You in Nowhere",
+            "link": "https://youtu.be/FpgxiKzX7Ck",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "See You in Nowhere",
+            "link": "https://open.spotify.com/track/5aMfAOd0Y3oGBUzD7MMdBL?si=c2e29ec755c64b01",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "See You in Nowhere",
+            "link": "https://music.apple.com/us/album/see-you-in-nowhere/1597713511?i=1597713756",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Utopia.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

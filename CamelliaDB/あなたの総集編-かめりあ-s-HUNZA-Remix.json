@@ -1,0 +1,58 @@
+{
+    "name": "あなたの総集編 (かめりあ's HUNZA Remix)",
+    "url": "あなたの総集編-かめりあ-s-HUNZA-Remix",
+    "altNames": null,
+    "artists": [
+        "Hommarju [C A L]",
+        "シャアたん [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "あなたの総集編",
+        "originalSongArtists": [
+            "シャアたん"
+        ],
+        "originalSongLink": "https://youtu.be/NOxkYnxktRU"
+    },
+    "duration": "4:34",
+    "albums": [
+        {
+            "albumName": "THE BEST of ETOTAMAX~最強プロデュース!今夜はわがにゃのクライマックス~",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2016-10-19",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "あなたの総集編 (かめりあ's HUNZA Remix)",
+            "link": "https://youtu.be/spKGwKrlols",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "あなたの総集編 (かめりあ's HUNZA Remix)",
+            "link": "https://open.spotify.com/track/3e5nd8tXsoFuKfRTQFhW3L?si=5ddd71c259ab4492",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "あなたの総集編 (かめりあ's HUNZA Remix)",
+            "link": "https://music.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E7%B7%8F%E9%9B%86%E7%B7%A8-%E3%81%8B%E3%82%81%E3%82%8A%E3%81%82s-hunza-remix/1165245101?i=1165245865",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "The Best of Etotamax.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

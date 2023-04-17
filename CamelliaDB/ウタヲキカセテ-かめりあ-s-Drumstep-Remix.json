@@ -1,0 +1,44 @@
+{
+    "name": "ウタヲキカセテ (かめりあ's Drumstep Remix)",
+    "url": "ウタヲキカセテ-かめりあ-s-Drumstep-Remix",
+    "altNames": null,
+    "artists": [
+        "KazkunP/かずくんP [C]",
+        "Hatsune Miku/初音ミク [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "ウタヲキカセテ",
+        "originalSongArtists": [
+            "初音ミク"
+        ],
+        "originalSongLink": "https://www.nicovideo.jp/watch/sm16772925"
+    },
+    "duration": "5:00",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ウタヲキカセテ (かめりあ's Drumstep Remix)",
+            "link": "https://youtu.be/jlSzA2NFgCU",
+            "unofficial": true
+        },
+        {
+            "linkSource": "SoundCloud",
+            "displayName": "ウタヲキカセテ (かめりあ's Drumstep Remix)",
+            "link": "https://soundcloud.com/cametek/uta_wo_kikasete",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ウタヲキカセテ.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

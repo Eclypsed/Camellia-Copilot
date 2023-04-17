@@ -1,0 +1,57 @@
+{
+    "name": "Max Burning!! (かめりあ’s “ReflΑmmatiΩn!!” Remix)",
+    "url": "Max-Burning-かめりあ’s-“ReflΑmmatiΩn-”-Remix",
+    "altNames": null,
+    "artists": [
+        "BlackY [C A]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Max Burning!!",
+        "originalSongArtists": [
+            "BlackY"
+        ],
+        "originalSongLink": "https://youtu.be/0cGcBXw654o"
+    },
+    "duration": "4:03",
+    "albums": [
+        {
+            "albumName": "GODHEART",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2019-12-19",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Mare Nectaris (かめりあ's \"Ingenii\" Remix)",
+            "link": "https://youtu.be/w1CE4W44CSE",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "GODHEART",
+            "link": "https://diverse.direct/edp/pcca-04871/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "GODHEART",
+            "link": "https://www.tanocstore.net/shopdetail/000000002241/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GODHEART.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

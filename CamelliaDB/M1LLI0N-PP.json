@@ -1,0 +1,66 @@
+{
+    "name": "M1LLI0N PP",
+    "url": "M1LLI0N-PP",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "7:10",
+    "albums": [
+        {
+            "albumName": "Tera I/O",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2020-09-27",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "M1LLI0N PP",
+            "link": "https://youtu.be/pSDZveD8ZGQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "M1LLI0N PP",
+            "link": "https://open.spotify.com/track/3AtQwAbQ9c9KfSFBRah5i8?si=bdacba3f6bdf4ede",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "M1LLI0N PP",
+            "link": "https://music.apple.com/jp/album/m1lli0n-pp/1531261866?i=1531261986&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "M1LLI0N PP",
+            "link": "https://cametek.bandcamp.com/track/m1lli0n-pp",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Tera I/O",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0020/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Tera I/O",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002544&search=Tera+I%2FO&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Tera IO.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

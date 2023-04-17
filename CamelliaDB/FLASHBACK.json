@@ -1,0 +1,51 @@
+{
+    "name": "FLASHBACK",
+    "url": "FLASHBACK",
+    "altNames": null,
+    "artists": [
+        "梅とら/Umetora [C L]",
+        "Reol [V]",
+        "Camellia [A]"
+    ],
+    "songType": "Cover, Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "FLASHBACK",
+        "originalSongArtists": [
+            "梅とら/Umetora",
+            "Hatsune Miku/初音ミク",
+            "Megurine Luka/巡音ルカ",
+            "GUMI/グミ",
+            "Kagamine Rin/鏡音リン",
+            "IA"
+        ],
+        "originalSongLink": "https://www.nicovideo.jp/watch/sm22799924"
+    },
+    "duration": "4:20",
+    "albums": [
+        {
+            "albumName": "極彩色 (初回限定盤B) (Bonus Track)",
+            "albumPublisher": "Victor",
+            "albumReleaseDate": "2015-07-29",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "FLASHBACK",
+            "link": "https://youtu.be/Co3iQx5s3YM",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "極彩色 (初回限定盤B).jpg",
+            "caption": null
+        }
+    ],
+    "description": "Just fyi, yes Victor is a label under JVCKenwood Victor Entertainment. It's kind of hard to keep track of which company in the corporate heirarchy the albums were technically released under because JVCKenwood Victor Entertainment is actually a merger of 3 seperate companies, each with their own child-companies.  極彩色 (初回限定盤B) is the second version of the limited edition release of Reol's album 極彩色. FLASHBACK is not included on the tracklist as it was a bonus downloadable song recieved for purchasing this edition of the album.  Despite the titles of pretty much every upload/play of this song, Camellia did NOT make this song. Camellia arranged Umetora's original vocaloid song for Reol's cover.",
+    "variations": null
+}

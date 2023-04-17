@@ -1,0 +1,77 @@
+{
+    "name": "Möbius",
+    "url": "Möbius",
+    "altNames": null,
+    "artists": [
+        "USAO [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:25",
+    "albums": [
+        {
+            "albumName": "Möbius",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2022-04-28",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        },
+        {
+            "albumName": "WACCA COMPLETE ALBUM",
+            "albumPublisher": "Marvelous!",
+            "albumReleaseDate": "2022-07-08",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "WACCA REVERSE",
+            "gamePublisher": "Marvelous!",
+            "gameReleaseDate": "2022-04-28"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Möbius",
+            "link": "https://youtu.be/2VD1HTfY1jE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Möbius",
+            "link": "https://open.spotify.com/track/5lCjiWAyjWjVElyxw79TCn?si=a39df9f73190446c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Möbius",
+            "link": "https://music.apple.com/jp/album/m%C3%B6bius/1620277320?i=1620277322&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Möbius",
+            "link": "https://tanoc.bandcamp.com/track/m-bius",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Mobius.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "Mobius.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "WACCA COMPLETE ALBUM.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

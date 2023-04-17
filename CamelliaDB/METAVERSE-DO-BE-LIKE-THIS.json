@@ -1,0 +1,34 @@
+{
+    "name": "METAVERSE DO BE LIKE THIS",
+    "url": "METAVERSE-DO-BE-LIKE-THIS",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:35",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "MUSIC DIVER",
+            "gamePublisher": "Taito/タイトー",
+            "gameReleaseDate": "2023-02-16"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "METAVERSE DO BE LIKE THIS",
+            "link": "https://youtu.be/VFDpIJiupw8",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "METAVERSE DO BE LIKE THIS.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Mekeyeen",
+    "url": "Mekeyeen",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]"
+    ],
+    "songType": "Arrangement",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:31",
+    "albums": [
+        {
+            "albumName": "ACアダプターKICK-OFF！2",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2010-05-05",
+            "albumReleaseEvent": "M3-25",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": null,
+    "imgs": [
+        {
+            "filename": "ACアダプターKICK-OFF！2.png",
+            "caption": null
+        }
+    ],
+    "description": "Arangement of Battleship Halbred: Deck (Kirby Super Deluxe)",
+    "variations": null
+}

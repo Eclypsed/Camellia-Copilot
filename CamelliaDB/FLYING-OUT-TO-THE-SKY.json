@@ -1,0 +1,124 @@
+{
+    "name": "FLYING OUT TO THE SKY",
+    "url": "FLYING-OUT-TO-THE-SKY",
+    "altNames": null,
+    "artists": [
+        "ZOLA PROJECT (KYO WIL YUU) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:59",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX II -infinite infection-",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-03-14"
+        },
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS コナステ",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-08-01"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "FLYING OUT TO THE SKY",
+            "link": "https://youtu.be/XN-BgfxDWmU",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "FLYING OUT TO THE SKY.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "FLYING OUT TO THE SKY",
+            "url": "FLYING-OUT-TO-THE-SKY-2",
+            "altNames": null,
+            "artists": [
+                "Nanahira/ななひら [V]",
+                "moimoi (Mayumi Morinaga) [V]",
+                "Nana Takahashi/高橋菜々 [V]"
+            ],
+            "songType": "Cover",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:25",
+            "albums": [
+                {
+                    "albumName": "Sleep!/すりーぷ！",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+                    "albumReleaseDate": "2016-08-14",
+                    "albumReleaseEvent": "Comiket 90",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "FLYING OUT TO THE SKY",
+                    "link": "https://youtu.be/zrAUfgESlcI",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "すりーぷ！",
+                    "link": "https://diverse.direct/?s=%E3%81%99%E3%82%8A%E3%83%BC%E3%81%B7%EF%BC%81",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Sleep!.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        },
+        {
+            "name": "FLYING OUT TO THE SKY",
+            "url": "FLYING-OUT-TO-THE-SKY-3",
+            "altNames": null,
+            "artists": [
+                "Camellia [C V]"
+            ],
+            "songType": "Cover",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "2:01",
+            "albums": [
+                {
+                    "albumName": "灰の羽搏",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2023-02-15",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Flying out to the sky",
+                    "link": "https://youtu.be/32MKRnKJ8M4",
+                    "unofficial": true
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "灰の羽搏.jpg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

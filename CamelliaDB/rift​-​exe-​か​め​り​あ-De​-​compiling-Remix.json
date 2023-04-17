@@ -1,0 +1,75 @@
+{
+    "name": "rift​.​exe (​か​め​り​あ 'De​-​compiling' Remix)",
+    "url": "rift​-​exe-​か​め​り​あ-De​-​compiling-Remix",
+    "altNames": null,
+    "artists": [
+        "Akira Complex [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Rift.exe",
+        "originalSongArtists": [
+            "Akira Complex"
+        ],
+        "originalSongLink": "https://youtu.be/oqGMPaTOWCo"
+    },
+    "duration": "4:12",
+    "albums": [
+        {
+            "albumName": "Reality Distortion",
+            "albumPublisher": "S2TB Recording",
+            "albumReleaseDate": "2016-12-31",
+            "albumReleaseEvent": "Comiket 91",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "rift​.​exe (​か​め​り​あ 'De​-​compiling' Remix)",
+            "link": "https://youtu.be/BsYsP5u5xDo",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "rift​.​exe (​か​め​り​あ 'De​-​compiling' Remix)",
+            "link": "https://open.spotify.com/track/42ZuTKPOw2TrlMVgKW2EiA?si=0865546bc2ce4fd0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "rift​.​exe (​か​め​り​あ 'De​-​compiling' Remix)",
+            "link": "https://music.apple.com/us/album/rift-exe-%E3%81%8B%E3%82%81%E3%82%8A%E3%81%82-de-compiling-remix/1634838924?i=1634838935",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "rift​.​exe (​か​め​り​あ 'De​-​compiling' Remix)",
+            "link": "https://shop.attackthemusic.com/track/rift-exe-de-compiling-remix",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Reality Distortion",
+            "link": "https://diverse.direct/s2tb-recording/s2tb-0019/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Reality Distortion",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001026&search=reality+distortion&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Reality Distortion.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

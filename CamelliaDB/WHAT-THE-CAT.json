@@ -1,0 +1,64 @@
+{
+    "name": "WHAT THE CAT!?",
+    "url": "WHAT-THE-CAT",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:40",
+    "albums": [
+        {
+            "albumName": "TF40K E.P.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2017-08-01",
+            "albumReleaseEvent": null,
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Beat Saber Camellia Pack",
+            "gamePublisher": "Beat Games",
+            "gameReleaseDate": "2019-07-25"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "WHAT THE CAT!?",
+            "link": "https://youtu.be/Q-_4Rd2wMRc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "WHAT THE CAT!?",
+            "link": "https://open.spotify.com/track/6QvRMmzmNooeoJzigWH0jL?si=c32b29a6a69e417f",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "WHAT THE CAT!?",
+            "link": "https://music.apple.com/us/album/what-the-cat/1573551665?i=1573551889",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "WHAT THE CAT!?",
+            "link": "https://cametek.bandcamp.com/track/what-the-cat",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "TF40KEP.png",
+            "caption": null
+        },
+        {
+            "filename": "Beat Saber Camellia Pack.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

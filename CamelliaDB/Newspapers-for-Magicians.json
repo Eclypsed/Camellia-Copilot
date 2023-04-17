@@ -1,0 +1,58 @@
+{
+    "name": "Newspapers for Magicians",
+    "url": "Newspapers-for-Magicians",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:52",
+    "albums": [
+        {
+            "albumName": "60+3+10kE.P.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2019-02-20",
+            "albumReleaseEvent": null,
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Newspapers for Magicians",
+            "link": "https://youtu.be/QJwCMmNV5_A",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Newspapers for Magicians",
+            "link": "https://open.spotify.com/track/537jI7Ha0VRBaZPG4jD0JO?si=5a6b1c4570954f8c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Newspapers for Magicians",
+            "link": "https://music.apple.com/jp/album/newspapers-for-magicians/1573239663?i=1573239914&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Newspapers for Magicians",
+            "link": "https://cametek.bandcamp.com/track/newspapers-for-magicians",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Newspapers for Magicians.png",
+            "caption": null
+        },
+        {
+            "filename": "60+3+10kE.P..jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

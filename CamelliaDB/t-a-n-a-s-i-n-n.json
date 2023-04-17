@@ -1,0 +1,66 @@
+{
+    "name": "t/a/n/a/s/i/n/n",
+    "url": "t-a-n-a-s-i-n-n",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:24",
+    "albums": [
+        {
+            "albumName": "U.U.F.O.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2021-07-11",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "t/a/n/a/s/i/n/n",
+            "link": "https://youtu.be/TvxIvREPgZA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "t/a/n/a/s/i/n/n",
+            "link": "https://open.spotify.com/track/0Bu0xzj6Y3DP4sr0t53x2C?si=f3053947fc534760",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "t/a/n/a/s/i/n/n",
+            "link": "https://music.apple.com/jp/album/t-a-n-a-s-i-n-n/1572224128?i=1572224616&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "t/a/n/a/s/i/n/n",
+            "link": "https://cametek.bandcamp.com/track/t-a-n-a-s-i-n-n",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "U.U.F.O.",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0021-0022/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "U.U.F.O.",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002743&search=U.U.F.O.&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "U.U.F.O..jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

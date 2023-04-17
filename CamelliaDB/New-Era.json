@@ -1,0 +1,66 @@
+{
+    "name": "New Era",
+    "url": "New-Era",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:52",
+    "albums": [
+        {
+            "albumName": "heart of android",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2018-12-30",
+            "albumReleaseEvent": "Comiket 95",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "New Era",
+            "link": "https://youtu.be/dZ2l_WiPRmI",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "New Era",
+            "link": "https://open.spotify.com/track/5ySFD3u90EKzI7aUJxyYrQ?si=2319124c9cf14edb",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "New Era",
+            "link": "https://music.apple.com/jp/album/new-era/1448846900?i=1448847062&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "New Era",
+            "link": "https://cametek.bandcamp.com/track/new-era",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "heart of android",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0018/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "heart of android",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001805&search=heart+of+android&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "heart of android.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

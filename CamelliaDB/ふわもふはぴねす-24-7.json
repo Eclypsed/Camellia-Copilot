@@ -1,0 +1,51 @@
+{
+    "name": "ふわもふはぴねす 24/7!!",
+    "url": "ふわもふはぴねす-24-7",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "p19 [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:14",
+    "albums": [
+        {
+            "albumName": "ふわもふはぴねす 24/7!!",
+            "albumPublisher": "practice",
+            "albumReleaseDate": "2018-12-31",
+            "albumReleaseEvent": "Comiket 95",
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ふわもふはぴねす 24/7!!",
+            "link": "https://youtu.be/iyocMAP53j4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "ふわもふはぴねす 24/7!!",
+            "link": "https://open.spotify.com/track/2Nwp3dE7pEX4r7qvcmLNYG?si=95beb933aaae4b6f",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ふわもふはぴねす 24/7!!",
+            "link": "https://music.apple.com/us/album/fuwamofuhappiness24-7-feat-nanahira/1483898055?i=1483898057",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ふわもふはぴねす 24_7!!.jpg",
+            "caption": null
+        }
+    ],
+    "description": "A short version was published on YT as teaser for the release, this version does not appear on the single.",
+    "variations": null
+}

@@ -1,0 +1,87 @@
+{
+    "name": "朝色の紙飛行機",
+    "url": "朝色の紙飛行機",
+    "altNames": [
+        "Morning-colored Paper Plane"
+    ],
+    "artists": [
+        "GUMI/グミ [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:42",
+    "albums": [
+        {
+            "albumName": "EXIT TUNES PRESENTS Entrance Dream Music",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2015-04-15",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "DanceDanceRevolution (2014)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-04-15"
+        },
+        {
+            "gameName": "jubeat prop",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-04-15"
+        },
+        {
+            "gameName": "REFLEC BEAT groovin'!! Upper",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-04-15"
+        },
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-04-15"
+        },
+        {
+            "gameName": "jubeat plus + (Android)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-11-11"
+        },
+        {
+            "gameName": "REFLEC BEAT plus",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-11-11"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "朝色の紙飛行機",
+            "link": "https://youtu.be/mq0XCSeMGMQ",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "流星群",
+            "link": "https://open.spotify.com/track/25TuZfGLP8NAHXTfQiNnnY?si=dda5cc83cf3946b1",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "流星群",
+            "link": "https://music.apple.com/us/album/asa-iro-no-kami-hikouki/983596670?i=983596678",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Entrance Dream Music.jpg",
+            "caption": null
+        },
+        {
+            "filename": "朝色の紙飛行機.png",
+            "caption": null
+        }
+    ],
+    "description": "Trimmed down to 1:49 in game appearances",
+    "variations": null
+}

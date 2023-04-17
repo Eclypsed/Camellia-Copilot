@@ -1,0 +1,82 @@
+{
+    "name": "Blastix Riotz",
+    "url": "Blastix-Riotz",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:08",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-08-21"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Blastix Riotz",
+            "link": "https://youtu.be/-8qcGWz44sE",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Blastix Riotz.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Blastix Riotz (Fullblast Long ver.)",
+            "url": "Blastix-Riotz-Fullblast-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:35",
+            "albums": [
+                {
+                    "albumName": "GALAXY BURST",
+                    "albumPublisher": "EXIT TUNES",
+                    "albumReleaseDate": "2018-03-21",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Blastix Riotz (Fullblast Long ver.)",
+                    "link": "https://youtu.be/Dncv7GJt5oY",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "GALAXY BURST",
+                    "link": "https://diverse.direct/edp/qwce-90016/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "GALAXY BURST",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001441&search=GALAXY+BURST&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "GALAXY BURST.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

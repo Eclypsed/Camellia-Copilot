@@ -1,0 +1,44 @@
+{
+    "name": "WHA",
+    "url": "WHA",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:00",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 30 RESIDENT ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2023-03-15",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 29 CastHour",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-05-12"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "WHA",
+            "link": "https://youtu.be/JAbvVTus5KY",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 30 RESIDENT ORIGINAL SOUNDTRACK.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

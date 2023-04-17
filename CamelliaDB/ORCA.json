@@ -1,0 +1,99 @@
+{
+    "name": "ORCA",
+    "url": "ORCA",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:00",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "DanceDanceRevolution A20",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-03-20"
+        },
+        {
+            "gameName": "beatmania IIDX 27 HEROIC VERSE",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2020-08-26"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ORCA",
+            "link": "https://youtu.be/aRGXGQqmex0",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ORCA.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "ORCA (“A-Special” Long ver.)",
+            "url": "ORCA-“A-Special”-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:30",
+            "albums": [
+                {
+                    "albumName": "灰の羽搏",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2023-02-15",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "ORCA (“A-Special” Long ver.)",
+                    "link": "https://youtu.be/CRm6a4wAFJM",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "ORCA (“A-Special” Long ver.)",
+                    "link": "https://open.spotify.com/track/4r7zVBlEkdSKU4HPZtm36S?si=c1668f1236994e91",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "ORCA (“A-Special” Long ver.)",
+                    "link": "https://music.apple.com/us/album/orca-a-special-long-ver/1669477071?i=1669477084",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "灰の羽搏",
+                    "link": "https://diverse.direct/edp/pcca-06182/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "灰の羽搏",
+                    "link": "https://www.tanocstore.net/shopdetail/000000003212",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "灰の羽搏.jpg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Lay",
+    "url": "Lay",
+    "altNames": null,
+    "artists": [
+        "kradness [C A L V]",
+        "Camellia [A]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:02",
+    "albums": [
+        {
+            "albumName": "Memento",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2021-02-17",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Lay",
+            "link": "https://youtu.be/hTNekJ13tOY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Lay",
+            "link": "https://open.spotify.com/track/1lJA6IPD6xFh4Ktvo9SFXa?si=a21c5d47649f4e53",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Lay",
+            "link": "https://music.apple.com/jp/album/lay/1552666113?i=1552666302&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Memento",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002657&search=Memento&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Memento.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

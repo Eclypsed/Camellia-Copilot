@@ -1,0 +1,61 @@
+{
+    "name": "goddess regina",
+    "url": "goddess-regina",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "Yuuno Yoshimi/夕野ヨシミ [L]",
+        "Marina Fujiwara/藤原鞠菜 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 世界の果て　～ World's End",
+            "touhouGame": "東方怪綺談　～ Mystic Square "
+        },
+        {
+            "touhouSong": " 神話幻想　～ Infinite Being",
+            "touhouGame": "東方怪綺談　～ Mystic Square"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:06",
+    "albums": [
+        {
+            "albumName": "ENCYCLOPEDIA <魔> magical beings",
+            "albumPublisher": "ユウノウミ",
+            "albumReleaseDate": "2012-05-27",
+            "albumReleaseEvent": "Reitaisai 9",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "goddess regina",
+            "link": "https://youtu.be/E2yJ97JX4sY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "goddess regina",
+            "link": "https://open.spotify.com/track/3wGabqWqwVBg8O3nrMngoW?si=48cbcf5a34e448c7",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "goddess regina",
+            "link": "https://music.apple.com/us/album/goddess-regina/1455309007?i=1455309010",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ENCYCLOPEDIA 魔 magical beings.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

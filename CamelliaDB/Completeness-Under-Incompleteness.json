@@ -1,0 +1,82 @@
+{
+    "name": "Completeness Under Incompleteness",
+    "url": "Completeness-Under-Incompleteness",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:00",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-08-04"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Completeness Under Incompleteness",
+            "link": "https://youtu.be/t7WtJmvRr5U",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Completeness Under Incompleteness.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Completeness Under Incompleteness (“true prooF” Long ver.)",
+            "url": "Completeness-Under-Incompleteness-“true-prooF”-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:53",
+            "albums": [
+                {
+                    "albumName": "Xroniàl Xéro",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2020-03-18",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Completeness Under Incompleteness (“true prooF” Long ver.)",
+                    "link": "https://youtu.be/YhdmLj-zlvw",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Xroniàl Xéro",
+                    "link": "https://diverse.direct/edp/pcca-04883/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Xroniàl Xéro",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002383&search=Xroni%26%23224%3Bl+X%26%23233%3Bro&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Xronial Xero.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

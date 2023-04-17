@@ -1,0 +1,59 @@
+{
+    "name": "Shining world (A-Style-Happy-Core Remix!!)",
+    "url": "Shining-world-A-Style-Happy-Core-Remix",
+    "altNames": null,
+    "artists": [
+        "DJ Genki [C]",
+        "yukacco [V]",
+        "Nanahira/ななひら [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Shining world",
+        "originalSongArtists": [
+            "DJ Genki feat. yukacco"
+        ],
+        "originalSongLink": "https://youtu.be/G6z_0erNtAY"
+    },
+    "duration": "4:03",
+    "albums": [
+        {
+            "albumName": "Realize",
+            "albumPublisher": "SKETCH UP! Recordings",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Shining world (A-Style-Happy-Core Remix!!)",
+            "link": "https://youtu.be/xExMJZirJj8",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Realize",
+            "link": "https://diverse.direct/sketch-up-recordings/gecd-015/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Realize",
+            "link": "https://www.tanocstore.net/shopdetail/000000000563",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Realize.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

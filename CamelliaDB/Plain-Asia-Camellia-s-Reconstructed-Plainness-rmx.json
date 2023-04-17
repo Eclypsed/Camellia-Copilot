@@ -1,0 +1,64 @@
+{
+    "name": "Plain Asia (Camellia's Reconstructed Plainness rmx.)",
+    "url": "Plain-Asia-Camellia-s-Reconstructed-Plainness-rmx",
+    "altNames": null,
+    "artists": [
+        "Masayoshi Minoshima [A]",
+        "Haruka [L]",
+        "Mei Ayakura/綾倉盟 [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Touhou Arrangement, Remix",
+    "touhouOrigin": [
+        {
+            "touhouSong": "プレインエイジア",
+            "touhouGame": "東方永夜抄　～ Imperishable Night"
+        }
+    ],
+    "originalSong": {
+        "originalSongName": "Plain Asia",
+        "originalSongArtists": [
+            "Masayoshi Minoshima feat. 綾倉盟"
+        ],
+        "originalSongLink": "https://youtu.be/ShGvuNqtb8g"
+    },
+    "duration": "5:22",
+    "albums": [
+        {
+            "albumName": "HAUNTED DANCEHALL",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2011-08-13",
+            "albumReleaseEvent": "Comiket 80",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Plain Asia (Camellia's Reconstructed Plainness rmx.)",
+            "link": "https://youtu.be/MBeM8mdUIcM",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Plain Asia (Camellia's Reconstructed Plainness rmx.)",
+            "link": "https://open.spotify.com/track/77o9Drv0VOYWKsY7eo6JuL?si=9d80430da96a4516",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Plain Asia (Camellia's Reconstructed Plainness rmx.)",
+            "link": "https://music.apple.com/us/album/plain-asia-camellias-reconstructet-plainness-remix/1613279588?i=1613279599",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "HAUNTED DANCEHALL.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,56 @@
+{
+    "name": "BLACK DREAM DAY",
+    "url": "BLACK-DREAM-DAY",
+    "altNames": null,
+    "artists": [
+        "Uki Mizusaki/水崎うき [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:53",
+    "albums": [
+        {
+            "albumName": "BLACK DREAM DAY",
+            "albumPublisher": "TRAFICK HAND MUSIC",
+            "albumReleaseDate": "2020-08-31",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "BLACK DREAM DAY",
+            "link": "https://youtu.be/F7r-p0Hv1u4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "BLACK DREAM DAY",
+            "link": "https://www.nicovideo.jp/watch/sm37657303",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "BLACK DREAM DAY",
+            "link": "https://open.spotify.com/track/3ZvsLgdAVmzimTQdFMrUGS?si=4b9a9e2e9f064e85",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "BLACK DREAM DAY",
+            "link": "https://music.apple.com/us/album/black-dream-day/1612225540?i=1612225541",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "BLACK DREAM DAY.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

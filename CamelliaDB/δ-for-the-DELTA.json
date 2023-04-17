@@ -1,0 +1,114 @@
+{
+    "name": "δ:for the DELTA",
+    "url": "δ-for-the-DELTA",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:33",
+    "albums": [
+        {
+            "albumName": "PLANET//SHAPER",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "δ:for the DELTA",
+            "link": "https://youtu.be/Y9qCiAYUcac",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "δ:for the DELTA",
+            "link": "https://open.spotify.com/track/6F5vUbyHKA9fZcSuMdyVJ1?si=6c28a1a226ca4ba4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "δ:for the DELTA",
+            "link": "https://music.apple.com/vn/album/delta-for-the-delta/1049686892?i=1049687424",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "δ:for the DELTA",
+            "link": "https://cametek.bandcamp.com/track/for-the-delta",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "PLANET//SHAPER",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0011/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "PLANET//SHAPER",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002265&search=planet%2F%2Fshaper&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "PLANET SHAPER.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "δ:for the DELTA (かめりあ's \"PLANETARY//DUBSTEP\" Remix)",
+            "url": "δ-for-the-DELTA-かめりあ-s-PLANETARY-DUBSTEP-Remix",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:50",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2018-08-10",
+                    "albumReleaseEvent": "Comiket 94",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "δ:for the DELTA (かめりあ's \"PLANETARY//DUBSTEP\" Remix)",
+                    "link": "https://youtu.be/7VfdZK4R5fc",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Remixes Summary VIPs 02.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

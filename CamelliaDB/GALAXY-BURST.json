@@ -1,0 +1,60 @@
+{
+    "name": "GALAXY BURST",
+    "url": "GALAXY-BURST",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:08",
+    "albums": [
+        {
+            "albumName": "GALAXY BURST",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-03-21",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX VIVID WAVE",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-02-28"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "GALAXY BURST",
+            "link": "https://youtu.be/dl3cSLu_n64",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "GALAXY BURST",
+            "link": "https://music.apple.com/jp/album/galaxy-burst/1362448097?i=1362449253&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "GALAXY BURST (Album)",
+            "link": "https://diverse.direct/edp/qwce-90016/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "GALAXY BURST (Album)",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001441&search=GALAXY+BURST&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GALAXY BURST.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "Trimmed down to 2:32 in SOUND VOLTEX",
+    "variations": null
+}

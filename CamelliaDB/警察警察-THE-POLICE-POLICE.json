@@ -1,0 +1,63 @@
+{
+    "name": "警察警察 ~THE POLICE POLICE~",
+    "url": "警察警察-THE-POLICE-POLICE",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "花柚 [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:09",
+    "albums": [
+        {
+            "albumName": "To be shining!",
+            "albumPublisher": "Confetto, flower87box",
+            "albumReleaseDate": "2020-03-01",
+            "albumReleaseEvent": "M3-45",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "警察警察 ~THE POLICE POLICE~",
+            "link": "https://youtu.be/AcqC_4AYHZQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "警察警察 ~THE POLICE POLICE~",
+            "link": "https://open.spotify.com/track/2dENveHBD1LHSEyGvZCVyq?si=b51c200cc8f24219",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "警察警察 ~THE POLICE POLICE~",
+            "link": "https://music.apple.com/jp/album/keisatsu-keisatsu-the-police-police/1502714101?i=1502714359&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "To be shining!",
+            "link": "https://diverse.direct/confetto/confettoflower87box/cofb-0001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "To be shining!",
+            "link": "https://www.tanocstore.net/shopdetail/000000002403/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "To be shining!.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

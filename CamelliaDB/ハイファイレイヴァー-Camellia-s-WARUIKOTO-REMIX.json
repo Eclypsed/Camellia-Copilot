@@ -1,0 +1,46 @@
+{
+    "name": "ハイファイレイヴァー(Camellia's WARUIKOTO REMIX)",
+    "url": "ハイファイレイヴァー-Camellia-s-WARUIKOTO-REMIX",
+    "altNames": null,
+    "artists": [
+        "EasyPop [C]",
+        "Megurine Luka/巡音ルカ [V]",
+        "Hatsune Miku/初音ミク [V]",
+        "GUMI/グミ [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "ハイファイレイヴァー",
+        "originalSongArtists": [
+            "EasyPop"
+        ],
+        "originalSongLink": "https://youtu.be/19so4AYK3xc"
+    },
+    "duration": "5:14",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "niconico",
+            "displayName": "ハイファイレイヴァー(Camellia's WARUIKOTO REMIX)",
+            "link": "https://www.nicovideo.jp/watch/sm16803987",
+            "unofficial": false
+        },
+        {
+            "linkSource": "SoundCloud",
+            "displayName": "ハイファイレイヴァー(Camellia's WARUIKOTO REMIX)",
+            "link": "https://soundcloud.com/cametek/high_fi_raver",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ハイファイレイヴァー.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,66 @@
+{
+    "name": "reach the deepest one",
+    "url": "reach-the-deepest-one",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:13",
+    "albums": [
+        {
+            "albumName": "[diffraction]",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-04-27",
+            "albumReleaseEvent": "M3-33",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "reach the deepest one",
+            "link": "https://youtu.be/T49PuDZ9Wio",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "reach the deepest one",
+            "link": "https://open.spotify.com/track/1beRcrDt8z1foLLZSpd6W3?si=e7db8d204aa342e1",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "reach the deepest one",
+            "link": "https://music.apple.com/jp/album/reach-the-deepest-one/1049609666?i=1049610495&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "reach the deepest one",
+            "link": "https://cametek.bandcamp.com/track/reach-the-deepest-one",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "[diffraction]",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0008/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "[diffraction]",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002263&search=diffraction&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "[diffraction].jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

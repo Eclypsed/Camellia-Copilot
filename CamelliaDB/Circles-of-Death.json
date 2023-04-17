@@ -1,0 +1,66 @@
+{
+    "name": "Circles of Death",
+    "url": "Circles-of-Death",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:40",
+    "albums": [
+        {
+            "albumName": "Blackmagik Blazing",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2019-08-12",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Circles of Death",
+            "link": "https://youtu.be/b9_b140wIUU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Circles of Death",
+            "link": "https://open.spotify.com/track/6GCWSowkxKFTyqNjvpqZ3H?si=dd2ba60e14ae4946",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Circles of Death",
+            "link": "https://music.apple.com/us/album/circles-of-death/1476530789?i=1476530792",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Circles of Death",
+            "link": "https://cametek.bandcamp.com/track/circles-of-death",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Blackmagik Blazing",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0019/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Blackmagik Blazing",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002092&search=blackmagik&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Blackmagik Blazing.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

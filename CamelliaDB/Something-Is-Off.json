@@ -1,0 +1,56 @@
+{
+    "name": "Something Is Off",
+    "url": "Something-Is-Off",
+    "altNames": null,
+    "artists": [
+        "Temmie Chang [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:05",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Something Is Off",
+            "link": "https://youtu.be/s4lZsvNfVs4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Something Is Off",
+            "link": "https://open.spotify.com/track/38sxnZHif13WONhbFunvfh?si=f391f1e686e74d36",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Something Is Off",
+            "link": "https://music.apple.com/us/album/something-is-off/1522112127?i=1522112709",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Something Is Off",
+            "link": "https://dwellersemptypath.bandcamp.com/track/something-is-off",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

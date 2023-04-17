@@ -1,0 +1,65 @@
+{
+    "name": "What wonderful treasure!",
+    "url": "What-wonderful-treasure",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "Yuuno Yoshimi/夕野ヨシミ [L]",
+        "Chihiro Aihara/愛原千尋 [V]",
+        "Yuuki Aihara/愛原佑季 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 神々が恋した幻想郷",
+            "touhouGame": "東方風神録　～ Mountain of Faith "
+        },
+        {
+            "touhouSong": " 芥川龍之介の河童　～ Candid Friend",
+            "touhouGame": "東方風神録　～ Mountain of Faith "
+        },
+        {
+            "touhouSong": " メイガスナイト",
+            "touhouGame": "妖精大戦争　～ 東方三月精"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:29",
+    "albums": [
+        {
+            "albumName": "東方レイマリQUEST",
+            "albumPublisher": "とらのあな",
+            "albumReleaseDate": "2012-08-10",
+            "albumReleaseEvent": "Comiket 82",
+            "albumType": "C"
+        },
+        {
+            "albumName": "東方幻奏響Revival弐 ～魔法少女vs魔王勇者～",
+            "albumPublisher": "とらのあな",
+            "albumReleaseDate": "2015-05-10",
+            "albumReleaseEvent": "Reitaisai 12",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "What wonderful treasure!",
+            "link": "https://youtu.be/wWE6fr5V418",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "東方レイマリQUEST.jpg",
+            "caption": null
+        },
+        {
+            "filename": "東方幻奏響Revival弐 ～魔法少女vs魔王勇者～.png",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on 東方レイマリQUEST",
+    "variations": null
+}

@@ -1,0 +1,41 @@
+{
+    "name": "微分積分いい気分",
+    "url": "微分積分いい気分",
+    "altNames": [
+        "Bibun sekibun I kibun",
+        "Good Mood Calculus"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:08",
+    "albums": [
+        {
+            "albumName": "ぼかろってなぁに？",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2010-10-31",
+            "albumReleaseEvent": "VOC@LOiD M@STER 14",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "微分積分いい気分",
+            "link": "https://youtu.be/n95Eo7nJclk",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ぼかろってなぁに？.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

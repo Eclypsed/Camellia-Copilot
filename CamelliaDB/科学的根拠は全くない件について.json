@@ -1,0 +1,52 @@
+{
+    "name": "科学的根拠は全くない件について",
+    "url": "科学的根拠は全くない件について",
+    "altNames": [
+        "Regarding this Case the Scientific Base isn't Complete"
+    ],
+    "artists": [
+        "Camellia [A]",
+        "Yuuno Yoshimi/夕野ヨシミ [L]",
+        "Fancymat [L]",
+        "Chihiro Aihara/愛原千尋 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 芥川龍之介の河童　～ Candid Friend",
+            "touhouGame": "東方風神録　～ Mountain of Faith "
+        },
+        {
+            "touhouSong": " 神々が恋した幻想郷",
+            "touhouGame": "東方風神録　～ Mountain of Faith"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:14",
+    "albums": [
+        {
+            "albumName": "東方多目的多世界",
+            "albumPublisher": "Tennenjemini",
+            "albumReleaseDate": "2011-08-13",
+            "albumReleaseEvent": "Comiket 80",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "科学的根拠は全くない件について",
+            "link": "https://youtu.be/sgg5dv-1CVQ",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Touhou Multipurpose of Many Worlds.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

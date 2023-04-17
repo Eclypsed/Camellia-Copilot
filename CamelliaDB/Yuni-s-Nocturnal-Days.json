@@ -1,0 +1,39 @@
+{
+    "name": "Yuni's Nocturnal Days",
+    "url": "Yuni-s-Nocturnal-Days",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:58",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "DanceDanceRevolution A20 PLUS",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-04-14"
+        },
+        {
+            "gameName": "DANCE aROUND",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-09-15"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Yuni's Nocturnal Days",
+            "link": "https://youtu.be/WVW0a16BX7w",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Yuni's Nocturnal Days.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

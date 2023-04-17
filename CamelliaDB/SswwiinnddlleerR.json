@@ -1,0 +1,60 @@
+{
+    "name": "SswwiinnddlleerR!!",
+    "url": "SswwiinnddlleerR",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:16",
+    "albums": [
+        {
+            "albumName": "灰の羽搏",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2023-02-15",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "SswwiinnddlleerR!!",
+            "link": "https://youtu.be/IdvOuaoTEIE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "SswwiinnddlleerR!!",
+            "link": "https://open.spotify.com/track/0D6nxVnZR6JUdesot7X7jJ?si=a91e2912ac844152",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "SswwiinnddlleerR!!",
+            "link": "https://music.apple.com/us/album/sswwiinnddlleerr/1669477071?i=1669477078",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "灰の羽搏",
+            "link": "https://diverse.direct/edp/pcca-06182/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "灰の羽搏",
+            "link": "https://www.tanocstore.net/shopdetail/000000003212",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "灰の羽搏.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

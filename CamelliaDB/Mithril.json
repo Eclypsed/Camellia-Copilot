@@ -1,0 +1,66 @@
+{
+    "name": "Mithril",
+    "url": "Mithril",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:05",
+    "albums": [
+        {
+            "albumName": "paroxysm",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2013-12-31",
+            "albumReleaseEvent": "Comiket 85",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Mithril",
+            "link": "https://youtu.be/cU36DFI4n8Q",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Mithril",
+            "link": "https://open.spotify.com/track/3IYHHerniKuHWnGmlDuf9U?si=83a54702dbcb439f",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Mithril",
+            "link": "https://music.apple.com/jp/album/mithril/1049635578?i=1049635582&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Mithril",
+            "link": "https://cametek.bandcamp.com/track/mithril",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "paroxysm",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0007/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "paroxysm",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002262&search=paroxysm&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "paroxysm.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

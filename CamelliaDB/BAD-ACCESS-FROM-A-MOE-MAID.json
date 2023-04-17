@@ -1,0 +1,66 @@
+{
+    "name": "BAD ACCESS (FROM A MOE MAID)",
+    "url": "BAD-ACCESS-FROM-A-MOE-MAID",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:11",
+    "albums": [
+        {
+            "albumName": "Tera I/O",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2020-09-27",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "BAD ACCESS (FROM A MOE MAID)",
+            "link": "https://youtu.be/2gLpUVYyYGk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "BAD ACCESS (FROM A MOE MAID)",
+            "link": "https://open.spotify.com/track/6Ml6PAxcqdZJMI3VpGMWn4?si=74372dc4a66d4112",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "BAD ACCESS (FROM A MOE MAID)",
+            "link": "https://music.apple.com/us/album/bad-access-from-a-moe-maid/1531261866?i=1531261993",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "BAD ACCESS (FROM A MOE MAID)",
+            "link": "https://cametek.bandcamp.com/track/bad-access-from-a-moe-maid",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Tera I/O",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0020/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Tera I/O",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002544&search=Tera+I%2FO&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Tera IO.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

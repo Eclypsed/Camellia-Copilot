@@ -1,0 +1,50 @@
+{
+    "name": "contourless",
+    "url": "contourless",
+    "altNames": null,
+    "artists": [
+        "kradness [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:45",
+    "albums": [
+        {
+            "albumName": "KRAD MATRiX",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2015-03-04",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "contourless",
+            "link": "https://youtu.be/KOZfYxFztzQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "contourless",
+            "link": "https://open.spotify.com/track/2M2DRyzzKJRZibIDWOe2nO?si=4a69aa3ae5384015",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "contourless",
+            "link": "https://music.apple.com/us/album/contourless-feat-kradness/976473353?i=976473610",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "KRAD MATRIX.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

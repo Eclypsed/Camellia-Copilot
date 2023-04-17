@@ -1,0 +1,50 @@
+{
+    "name": "Kanalumi",
+    "url": "Kanalumi",
+    "altNames": null,
+    "artists": [
+        "Ninomae Ina'nis [?]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:21",
+    "albums": [
+        {
+            "albumName": "Hololive English -Myth- Image Soundtrack",
+            "albumPublisher": "COVER Corporation/カバー株式会社",
+            "albumReleaseDate": "2021-03-14",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Kanalumi",
+            "link": "https://youtu.be/mRmNPlrUAh4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Kanalumi",
+            "link": "https://open.spotify.com/track/2MNHXl3V9GeHwJpzTsvVHi?si=e060fe9168be41b1",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Kanalumi",
+            "link": "https://music.apple.com/us/album/kanalumi/1557415273?i=1557415277",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Hololive English -Myth- Image Soundtrack.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

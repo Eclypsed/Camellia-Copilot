@@ -1,0 +1,34 @@
+{
+    "name": "Rhapsody ⚙f Triumph",
+    "url": "Rhapsody-⚙f-Triumph",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:02",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX EXCEED GEAR",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-03-10"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Rhapsody ⚙f Triumph",
+            "link": "https://youtu.be/3Jg3u07tnvk",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Rhapsody ⚙f Triumph.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "Despite the artist 超機裝旋楽隊 being listed, this is just another alias of Camellia. Camellia has also referred to the alias as 超機装旋音隊 but this name does not appear in any official refrences.",
+    "variations": null
+}

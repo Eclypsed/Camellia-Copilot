@@ -1,0 +1,63 @@
+{
+    "name": "TANO*C TOUR 2013 the Anthem (Camellia's Clamorous Basses Remix)",
+    "url": "TANO-C-TOUR-2013-the-Anthem-Camellia-s-Clamorous-Basses-Remix",
+    "altNames": null,
+    "artists": [
+        "HARDCORE TANO*C Allstars [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "TANO*C TOUR 2013 the Anthem",
+        "originalSongArtists": [
+            "HARDCORE TANO*C Allstars"
+        ],
+        "originalSongLink": "https://youtu.be/LsTSSDayfng"
+    },
+    "duration": "5:13",
+    "albums": [
+        {
+            "albumName": "TANO​*​C TOUR 2013 the Anthem",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2013-04-29",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "TANO*C TOUR 2013 the Anthem (Camellia's Clamorous Basses Remix)",
+            "link": "https://youtu.be/JEVka_TGhEE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "TANO*C TOUR 2013 the Anthem (Camellia's Clamorous Basses Remix)",
+            "link": "https://open.spotify.com/track/5qF4H8RcHTABQJWDMh5USw?si=ed06d1e2632841dc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "TANO*C TOUR 2013 the Anthem (Camellia's Clamorous Basses Remix)",
+            "link": "https://music.apple.com/us/album/tano-c-tour-2013-the-anthem-camellias-clamorous/1656875637?i=1656875930",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "TANO*C TOUR 2013 the Anthem (Camellia's Clamorous Basses Remix)",
+            "link": "https://tanoc.bandcamp.com/track/tano-c-tour-2013-the-anthem-camellias-clamorous-basses-remix",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "TANO​​C TOUR 2013 the Anthem.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

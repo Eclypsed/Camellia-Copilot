@@ -1,0 +1,136 @@
+{
+    "name": "Railgun Roulette",
+    "url": "Railgun-Roulette",
+    "altNames": null,
+    "artists": [
+        "Akira Complex [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:37",
+    "albums": [
+        {
+            "albumName": "Reality Distortion",
+            "albumPublisher": "S2TB Recording",
+            "albumReleaseDate": "2016-12-31",
+            "albumReleaseEvent": "Comiket 91",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Railgun Roulette",
+            "link": "https://youtu.be/L7EtNg0jkH0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Railgun Roulette",
+            "link": "https://open.spotify.com/track/2uDgXqm0rJY25Cy7lmWeGE?si=53ede55a48f14f74",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Railgun Roulette",
+            "link": "https://music.apple.com/us/album/railgun-roulette/1634838924?i=1634838933",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Railgun Roulette",
+            "link": "https://shop.attackthemusic.com/track/railgun-roulette",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Reality Distortion",
+            "link": "https://diverse.direct/s2tb-recording/s2tb-0019/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Reality Distortion",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001026&search=reality+distortion&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Reality Distortion.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Railgun Roulette (VIP)",
+            "url": "Railgun-Roulette-VIP",
+            "altNames": null,
+            "artists": [
+                "Akira Complex [C]"
+            ],
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:08",
+            "albums": [
+                {
+                    "albumName": "Reality Distortion",
+                    "albumPublisher": "S2TB Recording",
+                    "albumReleaseDate": "2016-12-31",
+                    "albumReleaseEvent": "Comiket 91",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Railgun Roulette (VIP)",
+                    "link": "https://youtu.be/mv9BmrzkiJc",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "Railgun Roulette (VIP)",
+                    "link": "https://open.spotify.com/track/2dvAGCPSeterFsH9iXinyt?si=7efaf4d86cc045e2",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "Railgun Roulette (VIP)",
+                    "link": "https://music.apple.com/us/album/railgun-roulette-vip/1634838924?i=1634838939",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Bandcamp",
+                    "displayName": "Railgun Roulette (VIP)",
+                    "link": "https://shop.attackthemusic.com/track/railgun-roulette-vip",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Reality Distortion",
+                    "link": "https://diverse.direct/s2tb-recording/s2tb-0019/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Reality Distortion",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001026&search=reality+distortion&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Reality Distortion.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

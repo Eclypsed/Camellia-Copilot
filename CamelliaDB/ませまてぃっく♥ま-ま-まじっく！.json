@@ -1,0 +1,83 @@
+{
+    "name": "ませまてぃっく♥ま+ま=まじっく！",
+    "url": "ませまてぃっく♥ま-ま-まじっく！",
+    "altNames": [
+        "Mathematic ♥ ma+ma = magic!"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:52",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX II -infinite infection-",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2013-07-03"
+        },
+        {
+            "gameName": "pop'n music Sunny Park",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2013-08-21"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ませまてぃっく♥ま+ま=まじっく！",
+            "link": "https://youtu.be/A5h_fsHj-Ts",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ませまてぃっく♥ま＋ま＝まじっく！.png",
+            "caption": null
+        }
+    ],
+    "description": "ませまてぃっく♥ま＋ま＝まじっく！ marks both Camellia's and nanahira's first appearances in the pop'n music series.",
+    "variations": [
+        {
+            "name": "ませまてぃっく♥ま+ま=まじっく！ (L×o÷n＝g♥V±e∽r!)",
+            "url": "ませまてぃっく♥ま-ま-まじっく！-L×o÷n＝g♥V±e∽r",
+            "altNames": [
+                "Mathematic ♥ ma+ma = magic! (L×o÷n＝g♥V±e∽r!)"
+            ],
+            "artists": [
+                "Nanahira/ななひら [V]"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "3:53",
+            "albums": [
+                {
+                    "albumName": "VERSUS!/ばーさす！",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+                    "albumReleaseDate": "2014-08-17",
+                    "albumReleaseEvent": "Comiket 86",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "ませまてぃっく♥ま+ま=まじっく！(L×o÷n＝g♥V±e∽r!)",
+                    "link": "https://youtu.be/_bBV8nqmPrc",
+                    "unofficial": true
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "VERSUS!.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

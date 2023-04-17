@@ -1,0 +1,84 @@
+{
+    "name": "yamabiko",
+    "url": "yamabiko",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:06",
+    "albums": [
+        {
+            "albumName": "EDP presents ravemania 2016 summer",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-07-06",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "yamabiko",
+            "link": "https://youtu.be/B_Vem5WmxcE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "yamabiko",
+            "link": "https://music.apple.com/jp/album/yamabiko/1127350770?i=1127352092&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Ravemania 2016 Summer.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "yamabiko (SINOBUZ Edition)",
+            "url": "yamabiko-SINOBUZ-Edition",
+            "altNames": null,
+            "artists": null,
+            "songType": "Trim",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "2:04",
+            "albums": [
+                {
+                    "albumName": "beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK",
+                    "albumPublisher": "Konami",
+                    "albumReleaseDate": "2018-03-07",
+                    "albumReleaseEvent": null,
+                    "albumType": "OST"
+                }
+            ],
+            "gameAppearances": [
+                {
+                    "gameName": "beatmania IIDX 24 SINOBUZ",
+                    "gamePublisher": "Konami",
+                    "gameReleaseDate": "2017-01-12"
+                }
+            ],
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "yamabiko (SINOBUZ Edition)",
+                    "link": "https://youtu.be/mFW6Ja3_kWA",
+                    "unofficial": true
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "beatmania IIDX 25 CANNON BALLERS OST.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

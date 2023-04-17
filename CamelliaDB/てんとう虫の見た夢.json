@@ -1,0 +1,50 @@
+{
+    "name": "てんとう虫の見た夢",
+    "url": "てんとう虫の見た夢",
+    "altNames": null,
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:03",
+    "albums": [
+        {
+            "albumName": "mikUbiquity",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2011-10-30",
+            "albumReleaseEvent": "M3-28",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "てんとう虫の見た夢",
+            "link": "https://youtu.be/SNTIfMui0Mc",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "mikUbiquity",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0003/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "mikUbiquity",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002259&search=mikubiquity&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "mikUbiquity.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Bombout!",
+    "url": "Bombout",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:35",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Bombout!",
+            "link": "https://youtu.be/TE3CP9tKZmY",
+            "unofficial": true
+        },
+        {
+            "linkSource": "SoundCloud",
+            "displayName": "Bombout!",
+            "link": "https://soundcloud.com/cametek/bombout",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "SoundCloud Logo.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

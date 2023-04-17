@@ -1,0 +1,66 @@
+{
+    "name": "Ring",
+    "url": "Ring",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:11",
+    "albums": [
+        {
+            "albumName": "paroxysm",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2013-12-31",
+            "albumReleaseEvent": "Comiket 85",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Ring",
+            "link": "https://youtu.be/x0q6IQ3F9RU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Ring",
+            "link": "https://open.spotify.com/track/0qVrbQXMmF4EbjV024ztvK?si=4e90d8a4d9894ee9",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Ring",
+            "link": "https://music.apple.com/us/album/ring/1049635578?i=1049635579",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Ring",
+            "link": "https://cametek.bandcamp.com/track/ring",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "paroxysm",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0007/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "paroxysm",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002262&search=paroxysm&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "paroxysm.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Baby Maniacs (Camellia Remix)",
+    "url": "Baby-Maniacs-Camellia-Remix",
+    "altNames": null,
+    "artists": [
+        "Hachiouji-P/八王子P [C]",
+        "Hatsune Miku/初音ミク [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Baby Maniacs",
+        "originalSongArtists": [
+            "八王子P feat. 初音ミク"
+        ],
+        "originalSongLink": "https://youtu.be/ca7QqLHEiLA"
+    },
+    "duration": "3:53",
+    "albums": [
+        {
+            "albumName": "ELECTROLL",
+            "albumPublisher": "Tsutaya",
+            "albumReleaseDate": "2013-06-19",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Baby Maniacs (Camellia Remix)",
+            "link": "https://youtu.be/YCeDyAXwPOw",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "Baby Maniacs (Camellia Remix)",
+            "link": "https://www.nicovideo.jp/watch/sm21153771",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Baby Maniacs (Camellia Remix).jpg",
+            "caption": null
+        },
+        {
+            "filename": "electroll.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Trimmed down to 2:11 in ELECTROLL",
+    "variations": null
+}

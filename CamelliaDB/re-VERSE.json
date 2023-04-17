@@ -1,0 +1,62 @@
+{
+    "name": "re:||VERSE",
+    "url": "re-VERSE",
+    "altNames": null,
+    "artists": [
+        "Hanabi/花火/chiisana [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:26",
+    "albums": [
+        {
+            "albumName": "NOISZ re​:​|​|​VERSE OST",
+            "albumPublisher": "Anarch Entertainment",
+            "albumReleaseDate": "2021-01-17",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "NOISZ re​:​|​|​VERSE",
+            "gamePublisher": "Anarch Entertainment",
+            "gameReleaseDate": "2021-01-17"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "re:||VERSE",
+            "link": "https://youtu.be/nSNTgr4145I",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "re:||VERSE",
+            "link": "https://open.spotify.com/track/0BFHazbSu6XIa49QogEv2W?si=ae268931eed04f82",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "re:||VERSE",
+            "link": "https://music.apple.com/us/album/re-verse/1557534751?i=1557534876",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "re:||VERSE",
+            "link": "https://anarchgames.bandcamp.com/track/re-verse",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "NOISZ reVERSE OST.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on release.  I have seen this track credited to both Hanabi and chiisana on official sources and yet I can't seem to find any information about who they are or if they are even the same person.",
+    "variations": null
+}

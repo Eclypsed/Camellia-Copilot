@@ -1,0 +1,132 @@
+{
+    "name": "The Night Is On Fire",
+    "url": "The-Night-Is-On-Fire",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:05",
+    "albums": [
+        {
+            "albumName": "dreamless wanderer",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-12-30",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "The Night Is On Fire",
+            "link": "https://youtu.be/OfFGPoexWVc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "The Night Is On Fire",
+            "link": "https://open.spotify.com/track/3rEAqzB0hkyeQpvbkRzsIl?si=96bcbe12457e4781",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "The Night Is On Fire",
+            "link": "https://music.apple.com/jp/album/the-night-is-on-fire/1049711047?i=1049711070&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "The Night Is On Fire",
+            "link": "https://cametek.bandcamp.com/track/the-night-is-on-fire",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "dreamless wanderer",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0010/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "dreamless wanderer",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000213&search=dreamless+wanderer&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "dreamless wanderer.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "The Night Is On Fire (VIP)",
+            "url": "The-Night-Is-On-Fire-VIP",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:33",
+            "albums": [
+                {
+                    "albumName": "Reality Distortion",
+                    "albumPublisher": "S2TB Recording",
+                    "albumReleaseDate": "2016-12-31",
+                    "albumReleaseEvent": "Comiket 91",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "The Night Is On Fire (VIP)",
+                    "link": "https://youtu.be/jcgX6ToHpvk",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "The Night Is On Fire (VIP)",
+                    "link": "https://open.spotify.com/track/6C3VsxTkbV8onDqVjpMkuH?si=29fa612a9658462a",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "The Night Is On Fire (VIP)",
+                    "link": "https://music.apple.com/jp/album/night-is-on-fire-vip/1634838924?i=1634838940&l=en",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Bandcamp",
+                    "displayName": "The Night Is On Fire (VIP)",
+                    "link": "https://shop.attackthemusic.com/track/night-is-on-fire-vip",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Reality Distortion",
+                    "link": "https://diverse.direct/s2tb-recording/s2tb-0019/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Reality Distortion",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001026&search=reality+distortion&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Reality Distortion.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

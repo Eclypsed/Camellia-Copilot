@@ -1,0 +1,50 @@
+{
+    "name": "Dead Music",
+    "url": "Dead-Music",
+    "altNames": null,
+    "artists": [
+        "Lapix [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "6:34",
+    "albums": [
+        {
+            "albumName": "Beyond The Limits",
+            "albumPublisher": "MEGAREX",
+            "albumReleaseDate": "2014-12-30",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Dead Music",
+            "link": "https://youtu.be/YPTRkY8wv_8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Dead Music",
+            "link": "https://open.spotify.com/track/3rIeKTnglK6Ko38GUIxFCw?si=9a603553b99545c9",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Dead Music",
+            "link": "https://music.apple.com/vn/album/dead-music/1462181377?i=1462181392",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Beyond the Limits.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

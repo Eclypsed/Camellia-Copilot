@@ -1,0 +1,58 @@
+{
+    "name": "Λzure Vixen",
+    "url": "Λzure-Vixen",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:45",
+    "albums": [
+        {
+            "albumName": "CHUNITHM NEW ORIGINAL SOUND TRACK",
+            "albumPublisher": "maimai music",
+            "albumReleaseDate": "2022-10-12",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "CHUNITHM NEW PLUS",
+            "gamePublisher": "SEGA",
+            "gameReleaseDate": "2022-08-04"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Λzure Vixen",
+            "link": "https://youtu.be/tbTClz7caXg",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Λzure Vixen",
+            "link": "https://open.spotify.com/track/4EAYjkDwRr6GKl98TgDj7M?si=bd2aee4251994a2c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Λzure Vixen",
+            "link": "https://music.apple.com/us/album/%CE%BBzure-vixen/1648492381?i=1648495106",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Λzure Vixen.jpg",
+            "caption": null
+        },
+        {
+            "filename": "CHUNITHM NEW ORIGINAL SOUND TRACK.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

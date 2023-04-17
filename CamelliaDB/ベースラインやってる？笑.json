@@ -1,0 +1,129 @@
+{
+    "name": "ベースラインやってる？笑",
+    "url": "ベースラインやってる？笑",
+    "altNames": [
+        "Bassline yatteru?w",
+        "Can I Friend You On Bassbook? Lol"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:46",
+    "albums": [
+        {
+            "albumName": "4orce!/ふぉーす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2017-12-29",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Muse Dash",
+            "gamePublisher": "PeroPeroGames",
+            "gameReleaseDate": "2019-06-20"
+        },
+        {
+            "gameName": "WACCA",
+            "gamePublisher": "Marvelous",
+            "gameReleaseDate": "2020-02-06"
+        },
+        {
+            "gameName": "オンゲキ SUMMER PLUS",
+            "gamePublisher": "SEGA",
+            "gameReleaseDate": "2020-08-13"
+        },
+        {
+            "gameName": "OverRapid",
+            "gamePublisher": "Team ArcStar",
+            "gameReleaseDate": "2021-02-11"
+        },
+        {
+            "gameName": "Arcaea",
+            "gamePublisher": "lowiro",
+            "gameReleaseDate": "2021-04-09"
+        },
+        {
+            "gameName": "maimai でらっくす Splash PLUS",
+            "gamePublisher": "SEGA",
+            "gameReleaseDate": "2021-05-14"
+        },
+        {
+            "gameName": "CHUNITHM PARADISE LOST",
+            "gamePublisher": "SEGA",
+            "gameReleaseDate": "2021-09-16"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ベースラインやってる？笑",
+            "link": "https://youtu.be/D00hlkW0u3U",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "ベースラインやってる？笑",
+            "link": "https://open.spotify.com/track/5wEy787VwmAnA7GGhEzjHR?si=44110996ac2c4638",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ベースラインやってる？笑",
+            "link": "https://music.apple.com/us/album/can-i-friend-you-on-bassbook-lol/1552865093?i=1552865101",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ふぉーす！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-006/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "4orce!.png",
+            "caption": null
+        },
+        {
+            "filename": "Can I Friend You On Bassbook Lol.png",
+            "caption": "Alternate version of the 4orce! album art used as the jacket for ベースラインやってる？笑 in all its game releases"
+        }
+    ],
+    "description": "Bassline yatteru was trimmed down to 2:24 for all game appearances.",
+    "variations": [
+        {
+            "name": "ベースラインやってる？笑 (Hardbassやってる？笑 VIP)",
+            "url": "ベースラインやってる？笑-Hardbassやってる？笑-VIP",
+            "altNames": null,
+            "artists": [
+                "Nanahira/ななひら [V]"
+            ],
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "2:19",
+            "albums": null,
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "ベースラインやってる？笑 (Hardbassやってる？笑 VIP)",
+                    "link": "https://youtu.be/deaDe3Uz4Ns",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Can I Friend You On Bassbook Lol.png",
+                    "caption": null
+                }
+            ],
+            "description": "This version of Bassline yatteru is a special remix Camellia would play for DJ events and such. It never had any official releases but was uploaded to Camellia's YT accound on June 24, 2021."
+        }
+    ]
+}

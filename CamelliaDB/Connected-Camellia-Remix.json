@@ -1,0 +1,77 @@
+{
+    "name": "Connected (Camellia Remix)",
+    "url": "Connected-Camellia-Remix",
+    "altNames": null,
+    "artists": [
+        "Akira Complex [C]",
+        "Hommarju [C]",
+        "Yukacco [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Connected",
+        "originalSongArtists": [
+            "Akira Complex × Hommarju feat. Yukacco"
+        ],
+        "originalSongLink": "https://youtu.be/iOe870ggWbY"
+    },
+    "duration": "4:35",
+    "albums": [
+        {
+            "albumName": "WE ARE CONNECTED",
+            "albumPublisher": "S2TB Recording",
+            "albumReleaseDate": "2015-12-31",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Connected (Camellia Remix)",
+            "link": "https://youtu.be/b24BuikeU_c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Connected (Camellia Remix)",
+            "link": "https://open.spotify.com/track/5gEr7fktohojCNmUm1xQN9?si=23da22e68b004348",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Connected (Camellia Remix)",
+            "link": "https://music.apple.com/us/album/connected-camellia-remix/1634813310?i=1634813317",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Connected (Camellia Remix)",
+            "link": "https://shop.attackthemusic.com/track/connected-remix",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "WE ARE CONNECTED",
+            "link": "https://diverse.direct/s2tb-recording/s2tb-0016/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "WE ARE CONNECTED",
+            "link": "https://www.tanocstore.net/shopdetail/000000000718",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "WE ARE CONNECTED.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

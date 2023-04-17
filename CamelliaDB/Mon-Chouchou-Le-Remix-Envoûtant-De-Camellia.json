@@ -1,0 +1,47 @@
+{
+    "name": "Mon Chouchou (Le Remix \"Envoûtant\" De Camellia)",
+    "url": "Mon-Chouchou-Le-Remix-Envoûtant-De-Camellia",
+    "altNames": null,
+    "artists": [
+        "Tricolore [V]",
+        "Youhei Matsui/松井洋平 [C]",
+        "Hitomi Mieno/三重野瞳 [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Mon Chouchou",
+        "originalSongArtists": [
+            "Tricolore"
+        ],
+        "originalSongLink": "https://youtu.be/1NQU6swIg98"
+    },
+    "duration": "4:34",
+    "albums": [
+        {
+            "albumName": "Pripara Ultra Mega Mix Collection Vol.3",
+            "albumPublisher": "avex pictures",
+            "albumReleaseDate": "2018-01-26",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Mon Chouchou (Le Remix \"Envoûtant\" De Camellia)",
+            "link": "https://youtu.be/HzOZi6EuPq4",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Pripara Ultra Mega Mix Collection Vol.3.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Sorry to my South Korean friends but the Youtube upload is blocked in your country. Also, not a single site can agree on the actual length of the track and I haven't found any official sources so it's anywhere between 4:33 and 4:36.",
+    "variations": null
+}

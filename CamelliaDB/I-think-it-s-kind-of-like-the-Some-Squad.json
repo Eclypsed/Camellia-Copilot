@@ -1,0 +1,66 @@
+{
+    "name": "I think, it's kind of like the Some Squad",
+    "url": "I-think-it-s-kind-of-like-the-Some-Squad",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:27",
+    "albums": [
+        {
+            "albumName": "sudden shower",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "I think, it's kind of like the Some Squad",
+            "link": "https://youtu.be/eK-jwDeULyE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "I think, it's kind of like the Some Squad",
+            "link": "https://open.spotify.com/track/4A8D3UmMqzGx8t8SF5K3hC?si=f51d9622eb3f4120",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "I think, it's kind of like the Some Squad",
+            "link": "https://music.apple.com/us/album/i-think-its-kind-of-like-the-some-squad/1049647153?i=1049647156",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "I think, it's kind of like the Some Squad",
+            "link": "https://cametek.bandcamp.com/track/i-think-its-kind-of-like-the-some-squad",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "sudden shower",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-009/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "sudden shower",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002264&search=sudden+shower&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sudden Shower.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

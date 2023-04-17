@@ -1,0 +1,67 @@
+{
+    "name": "AttraqtiA",
+    "url": "AttraqtiA",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:47",
+    "albums": [
+        {
+            "albumName": "Arcaea Sound Collection - Memories of Myth",
+            "albumPublisher": "lowiro",
+            "albumReleaseDate": "2023-01-26",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Arcaea",
+            "gamePublisher": "lowiro",
+            "gameReleaseDate": "2021-01-21"
+        },
+        {
+            "gameName": "CHUNITHM PARADISE",
+            "gamePublisher": "SEGA",
+            "gameReleaseDate": "2021-01-21"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "AttraqtiA",
+            "link": "https://youtu.be/ENmJj81yDeI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "AttraqtiA",
+            "link": "https://open.spotify.com/track/4TJvbNRus2EvIZIiEXgjdT?si=0063f48359ac47f8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "AttraqtiA",
+            "link": "https://music.apple.com/us/album/attraqtia/1549164247?i=1549164263",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "AttraqtiA.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "AttraqtiA (Game).png",
+            "caption": null
+        },
+        {
+            "filename": "Arcaea Sound Collection - Memories of Myth.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

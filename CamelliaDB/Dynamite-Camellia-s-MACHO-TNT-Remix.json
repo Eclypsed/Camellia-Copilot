@@ -1,0 +1,57 @@
+{
+    "name": "Dynamite (Camellia's MACHO TNT Remix)",
+    "url": "Dynamite-Camellia-s-MACHO-TNT-Remix",
+    "altNames": null,
+    "artists": [
+        "USAO [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Dynamite",
+        "originalSongArtists": [
+            "USAO"
+        ],
+        "originalSongLink": "https://youtu.be/ALVECIUYrGA"
+    },
+    "duration": "4:20",
+    "albums": [
+        {
+            "albumName": "USAO ULTIMATE HYPER BEST",
+            "albumPublisher": "UOM Records",
+            "albumReleaseDate": "2018-08-10",
+            "albumReleaseEvent": "Comiket 94",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Dynamite (Camellia's MACHO TNT Remix)",
+            "link": "https://youtu.be/q2_BnERcWdU",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "USAO ULTIMATE HYPER BEST",
+            "link": "https://diverse.direct/uom-records/usao-015/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "USAO ULTIMATE HYPER BEST",
+            "link": "https://www.tanocstore.net/shopdetail/000000001596",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "USAO ULTIMATE HYPER BEST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

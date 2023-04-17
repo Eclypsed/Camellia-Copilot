@@ -1,0 +1,69 @@
+{
+    "name": "Killing Rhythm (Camellia's \"Khaotic Re-rhythmization\" Remix)",
+    "url": "Killing-Rhythm-Camellia-s-Khaotic-Re-rhythmization-Remix",
+    "altNames": null,
+    "artists": [
+        "DJ Myosuke [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Killing Rhythm",
+        "originalSongArtists": [
+            "DJ Myosuke"
+        ],
+        "originalSongLink": "https://youtu.be/zQy_fT4wFiA"
+    },
+    "duration": "4:09",
+    "albums": [
+        {
+            "albumName": "EXTRA HARD",
+            "albumPublisher": "Japanese Stream Hardcore",
+            "albumReleaseDate": "2021-01-04",
+            "albumReleaseEvent": "スーパーリリース21",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Killing Rhythm (Camellia's \"Khaotic Re-rhythmization\" Remix)",
+            "link": "https://youtu.be/hXbfqehwE2w",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Killing Rhythm (Camellia's \"Khaotic Re-rhythmization\" Remix)",
+            "link": "https://open.spotify.com/track/4yWFDpbnUCGEmLBVHWelFC?si=65cd097cdb1f4b08",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Killing Rhythm (Camellia's \"Khaotic Re-rhythmization\" Remix)",
+            "link": "https://music.apple.com/us/album/killing-rhythm-camellias-khaotic-re-rhythmization-remix/1546482595?i=1546482885",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Killing Rhythm (Camellia's \"Khaotic Re-rhythmization\" Remix)",
+            "link": "https://japanesestreamhardcore.bandcamp.com/track/killing-rhythm-camellias-khaotic-re-rhythmization-remix",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "EXTRA HARD",
+            "link": "https://www.tanocstore.net/shopdetail/000000002639",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "EXTRA HARD.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

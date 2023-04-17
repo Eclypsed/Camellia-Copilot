@@ -1,0 +1,51 @@
+{
+    "name": "Paradoxy (Camellia's \"PERPETUAL\" Remix)",
+    "url": "Paradoxy-Camellia-s-PERPETUAL-Remix",
+    "altNames": null,
+    "artists": [
+        "lapix [C A]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Paradoxy",
+        "originalSongArtists": [
+            "lapix"
+        ],
+        "originalSongLink": "https://youtu.be/7ymXLpwhvwM"
+    },
+    "duration": "4:42",
+    "albums": [
+        {
+            "albumName": "PERFECT COMES",
+            "albumPublisher": "MEGAREX",
+            "albumReleaseDate": "2015-12-31",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Paradoxy (Camellia's \"PERPETUAL\" Remix)",
+            "link": "https://youtu.be/Sct7_oLVRR8",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "PERFECT COMES",
+            "link": "https://diverse.direct/megarex/mrx-009/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Perfect Comes.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

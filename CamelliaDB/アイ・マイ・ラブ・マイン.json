@@ -1,0 +1,53 @@
+{
+    "name": "アイ・マイ・ラブ・マイン",
+    "url": "アイ・マイ・ラブ・マイン",
+    "altNames": [
+        "I - My - Love - Mine"
+    ],
+    "artists": [
+        "Camellia [A]",
+        "Fancymat [L]",
+        "Chizu/千鶴 [L]",
+        "Chihiro Aihara/愛原千尋 [V]",
+        "Yuuki Aihara/愛原佑季 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 亡き王女の為のセプテット",
+            "touhouGame": "東方紅魔郷　～ the Embodiment of Scarlet Devil "
+        },
+        {
+            "touhouSong": " U.N.オーエンは彼女なのか?",
+            "touhouGame": "東方紅魔郷　～ the Embodiment of Scarlet Devil"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:33",
+    "albums": [
+        {
+            "albumName": "Touhou All-night Gensokyo/東方オールナイト幻想郷",
+            "albumPublisher": "Tennenjemini",
+            "albumReleaseDate": "2011-08-13",
+            "albumReleaseEvent": "Comiket 80",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "アイ・マイ・ラブ・マイン",
+            "link": "https://youtu.be/BlVpKuhxW1w",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Touhou All-night Gensokyo.jpg",
+            "caption": null
+        }
+    ],
+    "description": "The Touhou wiki fails to credit Yuuki Aihara/愛原佑季 as a vocalist",
+    "variations": null
+}

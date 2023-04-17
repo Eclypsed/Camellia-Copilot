@@ -1,0 +1,54 @@
+{
+    "name": "ハローストロボ（ELCTRSTP RMX）",
+    "url": "ハローストロボ（ELCTRSTP-RMX）",
+    "altNames": [
+        "Hello Strobe（ELCTRSTP RMX）"
+    ],
+    "artists": [
+        "Powapowa-P/ぽわぽわP [C R]",
+        "Hatsune Miku/初音ミク [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "ハローストロボ",
+        "originalSongArtists": [
+            "ぽわぽわP feat. 初音ミク"
+        ],
+        "originalSongLink": "https://youtu.be/TUN76GkKlFg"
+    },
+    "duration": "5:38",
+    "albums": [
+        {
+            "albumName": "Hoodies Headphones and Cuties",
+            "albumPublisher": "pichnopop",
+            "albumReleaseDate": "2014-06-03",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ハローストロボ（ELCTRSTP RMX）",
+            "link": "https://youtu.be/ATnh-S0XcY4",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "ハローストロボ（ELCTRSTP RMX）",
+            "link": "https://www.nicovideo.jp/watch/sm16648418",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Hoodies Headphones and Cuties.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "R.I.P. ぽわぽわP. This song is Camellia's remix of ぽわぽわP's remix of his own song which is why ぽわぽわP is also tagged as a remixer.",
+    "variations": null
+}

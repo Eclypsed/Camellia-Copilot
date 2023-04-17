@@ -1,0 +1,73 @@
+{
+    "name": "BINARY CATWALK",
+    "url": "BINARY-CATWALK",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Mei Ayakura/綾倉盟 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "もう歌しか聞こえない",
+            "touhouGame": "東方永夜抄　～ Imperishable Night"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:55",
+    "albums": [
+        {
+            "albumName": "POP|CULTURE",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2013-08-12",
+            "albumReleaseEvent": "Comiket 84",
+            "albumType": "C"
+        },
+        {
+            "albumName": "REBIRTH DANCEHALL",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2013-08-12",
+            "albumReleaseEvent": "Comiket 84",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "BINARY CATWALK",
+            "link": "https://youtu.be/ddGXKRZlNh4",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "BINARY CATWALK",
+            "link": "https://open.spotify.com/track/5klPaqK1wutw2tQPbDZZyG?si=90630cf8880f4447",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "BINARY CATWALK",
+            "link": "https://music.apple.com/us/album/binary-catwalk-feat-mei-ayakura/1613280534?i=1613280538",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "POP|CULTURE",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0041/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "POP CULTURE.jpg",
+            "caption": null
+        },
+        {
+            "filename": "REBIRTH DANCEHALL.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

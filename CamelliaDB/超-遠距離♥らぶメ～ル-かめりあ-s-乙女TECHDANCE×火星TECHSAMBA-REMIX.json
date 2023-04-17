@@ -1,0 +1,64 @@
+{
+    "name": "超!!遠距離♥らぶメ～ル (かめりあ's 乙女TECHDANCE×火星TECHSAMBA REMIX)",
+    "url": "超-遠距離♥らぶメ～ル-かめりあ-s-乙女TECHDANCE×火星TECHSAMBA-REMIX",
+    "altNames": null,
+    "artists": [
+        "T.Kakuta [C]",
+        "Nanahira/ななひら [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "超!!遠距離♥らぶメ～ル",
+        "originalSongArtists": [
+            "ななひら"
+        ],
+        "originalSongLink": "https://youtu.be/ooIHoyee-6o"
+    },
+    "duration": "5:27",
+    "albums": [
+        {
+            "albumName": "Meltical Sugar Wave",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2015-10-07",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "超!!遠距離♥らぶメ～ル (かめりあ's 乙女TECHDANCE×火星TECHSAMBA REMIX)",
+            "link": "https://youtu.be/DtrLBxO4FFE",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "超!!遠距離♥らぶメ～ル (かめりあ's 乙女TECHDANCE×火星TECHSAMBA REMIX)",
+            "link": "https://open.spotify.com/track/0auPixXuh7R9tCbwc7xL7J?si=7574385d7be54455",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "超!!遠距離♥らぶメ～ル (かめりあ's 乙女TECHDANCE×火星TECHSAMBA REMIX)",
+            "link": "https://music.apple.com/us/album/chou-enkyori-love-mail-camellias-otome-techdance-kasei/1045478068?i=1045478862",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Meltical Sugar Wave",
+            "link": "https://diverse.direct/edp/qwce-00500/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Meltical Sugar Wave.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

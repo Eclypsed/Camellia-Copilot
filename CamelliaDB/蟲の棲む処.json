@@ -1,0 +1,116 @@
+{
+    "name": "蟲の棲む処",
+    "url": "蟲の棲む処",
+    "altNames": [
+        "Mushi no sumu tokoro",
+        "A place where bugs live"
+    ],
+    "artists": [
+        "Nana Takahashi/高橋菜々 [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:54",
+    "albums": [
+        {
+            "albumName": "pop'n music うさぎと猫と少年の夢 Original Soundtrack",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2018-10-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "BeatStream アニムトライヴ",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-12-21"
+        },
+        {
+            "gameName": "jubeat Quebell",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-03-09"
+        },
+        {
+            "gameName": "pop'n music うさぎと猫と少年の夢",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-07-20"
+        },
+        {
+            "gameName": "SOUND VOLTEX IV HEAVENLY HAVEN",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2018-04-13"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "https://youtu.be/zk5d7Qnnnow",
+            "link": "https://youtu.be/zk5d7Qnnnow",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "蟲の棲む処.png",
+            "caption": null
+        },
+        {
+            "filename": "pop'n music うさぎと猫と少年の夢 Original Soundtrack.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Also on pop'n music うさぎと猫と少年の夢 Original Soundtrack 20th Anniversary Edition, but that was just a special edition of effectively the same album.",
+    "variations": [
+        {
+            "name": "蟲の棲む処 -蠕きは猶潭まる-",
+            "url": "蟲の棲む処-蠕きは猶潭まる",
+            "altNames": null,
+            "artists": [
+                "Nana Takahashi/高橋菜々 [V]"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:36",
+            "albums": [
+                {
+                    "albumName": "Xroniàl Xéro",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2020-03-18",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "蟲の棲む処 -蠕きは猶潭まる-",
+                    "link": "https://youtu.be/oCvv2WPlrBE",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Xroniàl Xéro",
+                    "link": "https://diverse.direct/edp/pcca-04883/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Xroniàl Xéro",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002383&search=Xroni%26%23224%3Bl+X%26%23233%3Bro&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Xronial Xero.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

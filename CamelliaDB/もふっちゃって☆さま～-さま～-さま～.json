@@ -1,0 +1,51 @@
+{
+    "name": "もふっちゃって☆さま～! さま～!! さま～!!!",
+    "url": "もふっちゃって☆さま～-さま～-さま～",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "p19 [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:23",
+    "albums": [
+        {
+            "albumName": "ふわもふはぴねす 24/7!!",
+            "albumPublisher": "practice",
+            "albumReleaseDate": "2018-12-31",
+            "albumReleaseEvent": "Comiket 95",
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "もふっちゃって☆さま～! さま～!! さま～!!!",
+            "link": "https://youtu.be/3rKsjCnp-D0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "もふっちゃって☆さま～! さま～!! さま～!!!",
+            "link": "https://open.spotify.com/track/7gJxT4A3mGLB8FG9Dk99fQ?si=6de24240850e4eb3",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "もふっちゃって☆さま～! さま～!! さま～!!!",
+            "link": "https://music.apple.com/us/album/mofu-summer-summer-summer-feat-nanahira/1483898055?i=1483898058",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ふわもふはぴねす 24_7!!.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

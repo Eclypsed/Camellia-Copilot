@@ -1,0 +1,47 @@
+{
+    "name": "Brightness (Camellia's \"Vividness\" Remix)",
+    "url": "Brightness-Camellia-s-Vividness-Remix",
+    "altNames": null,
+    "artists": [
+        "kors k [C]",
+        "kradness [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Brightness",
+        "originalSongArtists": [
+            "kors k",
+            "kradness"
+        ],
+        "originalSongLink": "https://youtu.be/HoFrD0Epi90"
+    },
+    "duration": "4:45",
+    "albums": [
+        {
+            "albumName": "Dualive",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Brightness (Camellia's \"Vividness\" Remix)",
+            "link": "https://youtu.be/xpiaelKQHwE",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dualive.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

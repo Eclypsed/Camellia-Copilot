@@ -1,0 +1,34 @@
+{
+    "name": "TremENDouS",
+    "url": "TremENDouS",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "7:25",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "TremENDouS",
+            "link": "https://youtu.be/XXDNPX-oYCI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "TremENDouS",
+            "link": "https://cametek.bandcamp.com/track/tremendous",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "TremENDouS.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Made for the Expert Global Taiko Showdown 2021 Grand Finals Tiebreaker",
+    "variations": null
+}

@@ -1,0 +1,66 @@
+{
+    "name": "BRACE FOR FRICKING IMPACT",
+    "url": "BRACE-FOR-FRICKING-IMPACT",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:22",
+    "albums": [
+        {
+            "albumName": "Blackmagik Blazing",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2019-08-12",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "BRACE FOR FRICKING IMPACT",
+            "link": "https://youtu.be/_idaELMWRt8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "BRACE FOR FRICKING IMPACT",
+            "link": "https://open.spotify.com/track/0kJcx34mlP7xz3F97QDYj9?si=8c989785889e4deb",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "BRACE FOR FRICKING IMPACT",
+            "link": "https://music.apple.com/us/album/brace-for-fricking-impact/1476530789?i=1476530791",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "BRACE FOR FRICKING IMPACT",
+            "link": "https://cametek.bandcamp.com/track/brace-for-fricking-impact",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Blackmagik Blazing",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0019/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Blackmagik Blazing",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002092&search=blackmagik&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Blackmagik Blazing.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Wolves Standing Towards Enemies",
+    "url": "Wolves-Standing-Towards-Enemies",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:54",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "Lanota",
+            "gamePublisher": "Noxy Games",
+            "gameReleaseDate": "2020-07-10"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Wolves Standing Towards Enemies",
+            "link": "https://youtu.be/xxpyoMA3Fg0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Wolves Standing Towards Enemies",
+            "link": "https://open.spotify.com/track/5fyejkqyVDFZq3JmOpwHFk?si=7e614315bb8841fb",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Wolves Standing Towards Enemies",
+            "link": "https://music.apple.com/jp/album/wolves-standing-towards-enemies/1523639356?i=1523639360&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Wolves Standing Towards Enemies.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "Added to Lanota as part of the v2.2.0, Main Story Ch. VI \"The Sound of Life\" update.",
+    "variations": null
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Hypnotize",
+    "url": "Hypnotize",
+    "altNames": null,
+    "artists": [
+        "Lapix [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:20",
+    "albums": [
+        {
+            "albumName": "GALAXY BURST, L (Bonus Track)",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-03-21",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Hypnotize",
+            "link": "https://youtu.be/2G50V2JTIOo",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Hypnotize.png",
+            "caption": null
+        },
+        {
+            "filename": "GALAXY BURST-L.png",
+            "caption": null
+        }
+    ],
+    "description": "とらのあな Exclusive Bonus track recieved after purchasing both GALAXY BURST and Lapix's album L, which was released at the same time by EXIT TUNES.",
+    "variations": null
+}

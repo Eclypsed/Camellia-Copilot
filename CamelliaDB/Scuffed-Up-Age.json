@@ -1,0 +1,50 @@
+{
+    "name": "Scuffed Up Age",
+    "url": "Scuffed-Up-Age",
+    "altNames": null,
+    "artists": [
+        "Mori Calliope [L V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:03",
+    "albums": [
+        {
+            "albumName": "UnAlive",
+            "albumPublisher": "COVER Corporation/カバー株式会社",
+            "albumReleaseDate": "2022-03-21",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Scuffed Up Age",
+            "link": "https://youtu.be/sEtUyl7Ryu4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Scuffed Up Age",
+            "link": "https://open.spotify.com/track/6at1OnNumlOOQMc6Nb1sbU?si=640070569ad24d09",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Scuffed Up Age",
+            "link": "https://music.apple.com/jp/album/scuffed-up-age/1614987607?i=1614987617&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "UnAlive.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

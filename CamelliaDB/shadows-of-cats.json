@@ -1,0 +1,66 @@
+{
+    "name": "shadows of cats",
+    "url": "shadows-of-cats",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:39",
+    "albums": [
+        {
+            "albumName": "dreamless wanderer",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-12-30",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "shadows of cats",
+            "link": "https://youtu.be/J16N_9ivZAM",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "shadows of cats",
+            "link": "https://open.spotify.com/track/0uVF5mgoQe3NtuGsqIT57m?si=7cf1a013aaab491a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "shadows of cats",
+            "link": "https://music.apple.com/us/album/shadows-of-cats/1049711047?i=1049711061",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "shadows of cats",
+            "link": "https://cametek.bandcamp.com/track/shadows-of-cats",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "dreamless wanderer",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0010/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "dreamless wanderer",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000213&search=dreamless+wanderer&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "dreamless wanderer.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

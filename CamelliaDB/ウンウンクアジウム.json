@@ -1,0 +1,44 @@
+{
+    "name": "ウンウンクアジウム",
+    "url": "ウンウンクアジウム",
+    "altNames": null,
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:32",
+    "albums": [
+        {
+            "albumName": "Bubblegum Mimic!!/バブルガムミミック！！",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2011-10-30",
+            "albumReleaseEvent": "VOC@LOiD M@STER 13",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ウンウンクアジウム",
+            "link": "https://youtu.be/VvC6G3xwXFc",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "ウンウンクアジウム",
+            "link": "https://www.nicovideo.jp/watch/sm11387512",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Bubblegum Mimic!!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

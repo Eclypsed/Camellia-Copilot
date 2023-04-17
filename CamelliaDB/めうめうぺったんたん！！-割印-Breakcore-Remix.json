@@ -1,0 +1,45 @@
+{
+    "name": "めうめうぺったんたん！！ (割印[Breakcore] Remix)",
+    "url": "めうめうぺったんたん！！-割印-Breakcore-Remix",
+    "altNames": null,
+    "artists": [
+        "ARM [C]",
+        "Yuuno Yoshimi/夕野ヨシミ [L]",
+        "Meu Meu [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "めうめうぺったんたん！！",
+        "originalSongArtists": [
+            "日向美ビタースイーツ"
+        ],
+        "originalSongLink": "https://youtu.be/R0xgHQTVeJ4"
+    },
+    "duration": "2:04",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "REFLEC BEAT 悠久のリフレシア",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-03-13"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "めうめうぺったんたん！！ (割印[Breakcore] Remix)",
+            "link": "https://youtu.be/TiphO15zT9A",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "めうめうぺったんたん！！ (割印[Breakcore] Remix).png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

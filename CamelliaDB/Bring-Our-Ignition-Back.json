@@ -1,0 +1,66 @@
+{
+    "name": "Bring Our Ignition Back",
+    "url": "Bring-Our-Ignition-Back",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:16",
+    "albums": [
+        {
+            "albumName": "Voltage REIgnition",
+            "albumPublisher": "Movement on the FLOOR",
+            "albumReleaseDate": "2018-12-30",
+            "albumReleaseEvent": "Comiket 95",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Bring Our Ignition Back",
+            "link": "https://youtu.be/Xh6-0d4fvtY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Bring Our Ignition Back",
+            "link": "https://open.spotify.com/track/4cpaEg9FVI1opObDVWwlgQ?si=1db18806c0624cc9",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Bring Our Ignition Back",
+            "link": "https://music.apple.com/us/album/bring-our-ignition-back/1450126151?i=1450126158",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Bring Our Ignition Back",
+            "link": "https://tpazolite.bandcamp.com/track/bring-our-ignition-back",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Voltage REIgnition",
+            "link": "https://diverse.direct/c-h-s/motf-0009/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Voltage REIgnition",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001841&search=Voltage+REIgnition&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Voltage Reignition.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

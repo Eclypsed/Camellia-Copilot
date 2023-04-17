@@ -1,0 +1,66 @@
+{
+    "name": "Furry Cannon",
+    "url": "Furry-Cannon",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:31",
+    "albums": [
+        {
+            "albumName": "INVAIDAS FROM DA JUNGLE",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Furry Cannon",
+            "link": "https://youtu.be/kMoHrwNVQBk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Furry Cannon",
+            "link": "https://open.spotify.com/track/1ufzSZqjp99zTthChDtzD9?si=e0e886e87dc94125",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Furry Cannon",
+            "link": "https://music.apple.com/jp/album/furry-cannon/1278213773?i=1278213790&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Furry Cannon",
+            "link": "https://cametek.bandcamp.com/track/furry-cannon",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0016/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001208&search=INVAIDAS+FROM+DA+JUNGLE&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "INVAIDAS FROM DA JUNGLE.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

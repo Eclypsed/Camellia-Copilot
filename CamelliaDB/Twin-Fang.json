@@ -1,0 +1,83 @@
+{
+    "name": "Twin Fang",
+    "url": "Twin-Fang",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:44",
+    "albums": [
+        {
+            "albumName": "Massive CircleZ 5",
+            "albumPublisher": "Massive CircleZ",
+            "albumReleaseDate": "2015-10-25",
+            "albumReleaseEvent": "M3-36",
+            "albumType": "C"
+        },
+        {
+            "albumName": "Massive CircleZ Best",
+            "albumPublisher": "Massive CircleZ",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Twin Fang",
+            "link": "https://youtu.be/Qoj5MqBN0QI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Twin Fang",
+            "link": "https://open.spotify.com/track/4BoZk0iDXVW8jVK3VDEOz0?si=b9a835f57a4b468b",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Twin Fang",
+            "link": "https://music.apple.com/jp/album/twin-fang/1608681818?i=1608681837&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Twin Fang",
+            "link": "https://massivenewkrew.bandcamp.com/track/twin-fang-2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Massive Circlez 5",
+            "link": "https://diverse.direct/massive-circlez/mnfk-015/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Massive CircleZ Best",
+            "link": "https://diverse.direct/massive-circlez/mnfk-018/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Massive CircleZ 5",
+            "link": "https://www.tanocstore.net/shopdetail/000000000612/Massive_CircleZ/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Massive Circlez 5.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "Massive CircleZ Best.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

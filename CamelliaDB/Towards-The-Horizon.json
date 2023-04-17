@@ -1,0 +1,46 @@
+{
+    "name": "Towards The Horizon",
+    "url": "Towards-The-Horizon",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:03",
+    "albums": [
+        {
+            "albumName": "REFLEC BEAT 悠久のリフレシア＋VOLZZA ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2017-04-12",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "REFLEC BEAT 悠久のリフレシア",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-12-01"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Towards The Horizon",
+            "link": "https://youtu.be/D51BGsQCqqE",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Towards The Horizon.png",
+            "caption": null
+        },
+        {
+            "filename": "REFLEC BEAT 悠久のリフレシア.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

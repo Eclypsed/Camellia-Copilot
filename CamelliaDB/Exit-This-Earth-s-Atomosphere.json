@@ -1,0 +1,124 @@
+{
+    "name": "Exit This Earth's Atomosphere",
+    "url": "Exit-This-Earth-s-Atomosphere",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:32",
+    "albums": [
+        {
+            "albumName": "PLANET//SHAPER",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Beat Saber Camellia Pack",
+            "gamePublisher": "Beat Games",
+            "gameReleaseDate": "2019-07-25"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Exit This Earth's Atomosphere",
+            "link": "https://youtu.be/QsuAKlNe_rI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Exit This Earth's Atomosphere",
+            "link": "https://open.spotify.com/track/0Ww4xWSspmcAO6N8zzaR3d?si=0064c7b51d94407a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Exit This Earth's Atomosphere",
+            "link": "https://music.apple.com/us/album/exit-this-earths-atomosphere/1049686892?i=1049687858",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Exit This Earth's Atomosphere",
+            "link": "https://cametek.bandcamp.com/track/exit-this-earths-atomosphere",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "PLANET//SHAPER",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0011/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "PLANET//SHAPER",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002265&search=planet%2F%2Fshaper&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "PLANET SHAPER.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "Beat Saber Camellia Pack.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Exit This Earth's Atomosphere (Camellia's \"Planetary//200step\" Remix)",
+            "url": "Exit-This-Earth-s-Atomosphere-Camellia-s-Planetary-200step-Remix",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "6:44",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2018-08-10",
+                    "albumReleaseEvent": "Comiket 94",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Exit This Earth's Atomosphere (Camellia's \"Planetary//200step\" Remix)",
+                    "link": "https://youtu.be/u7gRr5MAp1c",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Remixes Summary VIPs 02.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

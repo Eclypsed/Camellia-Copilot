@@ -1,0 +1,66 @@
+{
+    "name": "Night Raid with a Dragon",
+    "url": "Night-Raid-with-a-Dragon",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:34",
+    "albums": [
+        {
+            "albumName": "Blackmagik Blazing",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2019-08-12",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Night Raid with a Dragon",
+            "link": "https://youtu.be/WNLBSarUluo",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Night Raid with a Dragon",
+            "link": "https://open.spotify.com/track/0SSBFh1Xmzu4IvSIJNEYmV?si=8723ed7cd103448a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Night Raid with a Dragon",
+            "link": "https://music.apple.com/jp/album/night-raid-with-a-dragon/1476530789?i=1476530799&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Night Raid with a Dragon",
+            "link": "https://cametek.bandcamp.com/track/night-raid-with-a-dragon",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Blackmagik Blazing",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0019/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Blackmagik Blazing",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002092&search=blackmagik&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Blackmagik Blazing.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

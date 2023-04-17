@@ -1,0 +1,54 @@
+{
+    "name": "Clouds in the Blue",
+    "url": "Clouds-in-the-Blue",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:48",
+    "albums": [
+        {
+            "albumName": "TF40K E.P.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2017-08-01",
+            "albumReleaseEvent": null,
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Clouds in the Blue",
+            "link": "https://youtu.be/X21dsemjoRA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Clouds in the Blue",
+            "link": "https://open.spotify.com/track/5u0eZJwDCNK9J8DDWTBbVy?si=b08b1e13653f4b0a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Clouds in the Blue",
+            "link": "https://music.apple.com/us/album/clouds-in-the-blue/1573551665?i=1573551901",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Clouds in the Blue",
+            "link": "https://cametek.bandcamp.com/track/clouds-in-the-blue",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "TF40KEP.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

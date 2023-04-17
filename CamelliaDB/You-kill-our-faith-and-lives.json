@@ -1,0 +1,72 @@
+{
+    "name": "You kill our faith and lives",
+    "url": "You-kill-our-faith-and-lives",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "Yuuno Yoshimi/夕野ヨシミ [L]",
+        "Aikapin/あいかぴん [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 幽夢　～ Inanimate Dream",
+            "touhouGame": "東方幻想郷　～ Lotus Land Story "
+        },
+        {
+            "touhouSong": " 今昔幻想郷　～ Flower Land",
+            "touhouGame": "東方花映塚　～ Phantasmagoria of Flower View"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:35",
+    "albums": [
+        {
+            "albumName": "Toho Warfare:BLACK",
+            "albumPublisher": "ユウノウミ",
+            "albumReleaseDate": "2012-08-11",
+            "albumReleaseEvent": "Comiket 82",
+            "albumType": "C"
+        },
+        {
+            "albumName": "Toho Warfare:BLACK I+II+III+EX",
+            "albumPublisher": "ユウノウミ",
+            "albumReleaseDate": "2014-12-29",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "You kill our faith and lives",
+            "link": "https://youtu.be/46X4ceV5jxk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "You kill our faith and lives",
+            "link": "https://open.spotify.com/track/4XvFsSJ9ofnB1Pb541cAnn?si=3f3973605e024f63",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "You kill our faith and lives",
+            "link": "https://music.apple.com/us/album/you-kill-our-faith-and-lives/1455309368?i=1455309370",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Toho Warfare BLACK.jpg",
+            "caption": null
+        },
+        {
+            "filename": "Toho Warfare BLACK I+II+III+EX.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

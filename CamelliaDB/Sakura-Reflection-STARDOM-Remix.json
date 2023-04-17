@@ -1,0 +1,51 @@
+{
+    "name": "Sakura Reflection (STARDOM Remix)",
+    "url": "Sakura-Reflection-STARDOM-Remix",
+    "altNames": null,
+    "artists": [
+        "Ryu☆ [C A]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Sakura Reflection",
+        "originalSongArtists": [
+            "Ryu☆"
+        ],
+        "originalSongLink": "https://youtu.be/ku_ZutKG9wM"
+    },
+    "duration": "1:55",
+    "albums": [
+        {
+            "albumName": "DANCERUSH STARDOM ORIGINAL SOUNDTRACK vol.2",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2022-11-16",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "DANCERUSH STARDOM",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-05-19"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Sakura Reflection (STARDOM Remix)",
+            "link": "https://youtu.be/ibpMm3zmyBw",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "DANCERUSH STARDOM ORIGINAL SOUNDTRACK vol.2.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

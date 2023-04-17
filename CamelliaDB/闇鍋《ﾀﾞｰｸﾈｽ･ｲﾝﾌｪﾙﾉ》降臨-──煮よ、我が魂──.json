@@ -1,0 +1,64 @@
+{
+    "name": "闇鍋《ﾀﾞｰｸﾈｽ･ｲﾝﾌｪﾙﾉ》降臨 ──煮よ、我が魂──",
+    "url": "闇鍋《ﾀﾞｰｸﾈｽ･ｲﾝﾌｪﾙﾉ》降臨-──煮よ、我が魂──",
+    "altNames": [
+        "Chaos Stew -Darkness Inferno- Summoned ~Simmer My Soul~"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:47",
+    "albums": [
+        {
+            "albumName": "GOIN'!/ごーいん！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2019-08-12",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "闇鍋《ﾀﾞｰｸﾈｽ･ｲﾝﾌｪﾙﾉ》降臨 ──煮よ、我が魂──",
+            "link": "https://youtu.be/AX4WF75NKOk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "闇鍋《ﾀﾞｰｸﾈｽ･ｲﾝﾌｪﾙﾉ》降臨 ──煮よ、我が魂──",
+            "link": "https://open.spotify.com/track/5DcLEtJhWeRi9NLdQUsX5m?si=b08f6ef85d1b4886",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "闇鍋《ﾀﾞｰｸﾈｽ･ｲﾝﾌｪﾙﾉ》降臨 ──煮よ、我が魂──",
+            "link": "https://music.apple.com/us/album/chaos-stew-darkness-inferno-summoned-simmer-my-soul/1476511365?i=1476511373",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ごーいん！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-007/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "ごーいん！",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002091&search=%A4%B4%A1%BC%A4%A4%A4%F3%A1%AA&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Goin!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

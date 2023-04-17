@@ -1,0 +1,45 @@
+{
+    "name": "灼熱Beach Side Bunny (かめりあ's \"Summertime D'n'B\" Remix)",
+    "url": "灼熱Beach-Side-Bunny-かめりあ-s-Summertime-D-n-B-Remix",
+    "altNames": null,
+    "artists": [
+        "DJ Mass MAD Izm* [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "灼熱Beach Side Bunny",
+        "originalSongArtists": [
+            "DJ Mass MAD Izm*"
+        ],
+        "originalSongLink": "https://youtu.be/C7PDvwvkZBk"
+    },
+    "duration": "4:36",
+    "albums": [
+        {
+            "albumName": "灰の羽搏",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2023-02-15",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "灼熱Beach Side Bunny (かめりあ's \"Summertime D'n'B\" Remix)",
+            "link": "https://youtu.be/XAcrgwzPHUo",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "灰の羽搏.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Exclusive bonus track available from preordering 灰の羽搏 from the Konami Style store.",
+    "variations": null
+}

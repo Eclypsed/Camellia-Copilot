@@ -1,0 +1,38 @@
+{
+    "name": "堕落 My Life",
+    "url": "堕落-My-Life",
+    "altNames": null,
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:00",
+    "albums": [
+        {
+            "albumName": "1 Minute Compilation/1分間コンピ",
+            "albumPublisher": null,
+            "albumReleaseDate": "2013-07-07",
+            "albumReleaseEvent": "VOC@LOiD M@STER 25",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "堕落 My Life",
+            "link": "https://youtu.be/F_dCTsRnp5I",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "1 Minute Compilation.jpg",
+            "caption": null
+        }
+    ],
+    "description": "1分間コンピ was a compilation album of about 68 tracks, each being around a minute in length. Some tracks were Vocaloid, some had standard vocals, some didn't feature any vocals at all.  I couldn't identify any one specific label, circle, or individual that was in charge of producing the album, the closest I could find was that かごめP mastered the album.",
+    "variations": null
+}

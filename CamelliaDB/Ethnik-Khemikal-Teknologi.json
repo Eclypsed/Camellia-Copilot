@@ -1,0 +1,66 @@
+{
+    "name": "Ethnik Khemikal Teknologi",
+    "url": "Ethnik-Khemikal-Teknologi",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "6:28",
+    "albums": [
+        {
+            "albumName": "INVAIDAS FROM DA JUNGLE",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Ethnik Khemikal Teknologi",
+            "link": "https://youtu.be/TA-aTQmckXc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Ethnik Khemikal Teknologi",
+            "link": "https://open.spotify.com/track/2Ry3gy3dpu6LsuR9bHmj52?si=bca85905ee174e71",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Ethnik Khemikal Teknologi",
+            "link": "https://music.apple.com/us/album/ethnik-khemikal-teknologi/1278213773?i=1278213782",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Ethnik Khemikal Teknologi",
+            "link": "https://cametek.bandcamp.com/track/ethnik-khemikal-teknologi",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0016/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001208&search=INVAIDAS+FROM+DA+JUNGLE&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "INVAIDAS FROM DA JUNGLE.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

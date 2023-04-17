@@ -1,0 +1,58 @@
+{
+    "name": "Spin Eternally",
+    "url": "Spin-Eternally",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:45",
+    "albums": [
+        {
+            "albumName": "Beat Saber Original Soundtrack Vol. 4",
+            "albumPublisher": "Beat Games",
+            "albumReleaseDate": "2021-03-18",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Beat Saber",
+            "gamePublisher": "Beat Games",
+            "gameReleaseDate": "2021-03-18"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Spin Eternally",
+            "link": "https://youtu.be/IuRwqB9NwVQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Spin Eternally",
+            "link": "https://open.spotify.com/track/1eXjWnz7I5y7Cek7bro07s?si=4b9efb4702f94e33",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Spin Eternally",
+            "link": "https://music.apple.com/us/album/spin-eternally/1558200138?i=1558200143",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Spin Eternally.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "Beat Saber Original Soundtrack Vol. 4.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

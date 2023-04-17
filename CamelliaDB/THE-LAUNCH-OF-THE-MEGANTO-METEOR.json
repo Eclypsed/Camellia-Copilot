@@ -1,0 +1,54 @@
+{
+    "name": "THE LAUNCH OF THE MEGANTO METEOR",
+    "url": "THE-LAUNCH-OF-THE-MEGANTO-METEOR",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:21",
+    "albums": [
+        {
+            "albumName": "MEGANTO METEOR",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-07-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "THE LAUNCH OF THE MEGANTO METEOR",
+            "link": "https://youtu.be/CxGRC-cFNyE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "THE LAUNCH OF THE MEGANTO METEOR",
+            "link": "https://music.apple.com/jp/album/the-launch-of-the-meganto-meteor/1127337029?i=1127337049&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://diverse.direct/edp/qwce-90001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MEGANTO METEOR",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000813&search=Bass+Weapon+LAZERFLAME&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "MEGANTO METEOR.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

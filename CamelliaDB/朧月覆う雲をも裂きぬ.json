@@ -1,0 +1,44 @@
+{
+    "name": "朧月覆う雲をも裂きぬ",
+    "url": "朧月覆う雲をも裂きぬ",
+    "altNames": null,
+    "artists": [
+        "Nakuru Aitsuki/藍月なくる [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:01",
+    "albums": [
+        {
+            "albumName": "pop'n music 解明リドルズ ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2021-02-25",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "pop'n music 解明リドルズ",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2020-12-09"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "朧月覆う雲をも裂きぬ",
+            "link": "https://youtu.be/ST1yxBR4WNI",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "pop_n music 解明リドルズ.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

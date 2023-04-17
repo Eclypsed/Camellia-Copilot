@@ -1,0 +1,42 @@
+{
+    "name": "TOMAHAWK",
+    "url": "TOMAHAWK",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:05",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 30 RESIDENT ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2023-03-15",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 29 CastHour",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-10-28"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "TOMAHAWK",
+            "link": "https://youtu.be/wzJwECFShCU",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 30 RESIDENT ORIGINAL SOUNDTRACK.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

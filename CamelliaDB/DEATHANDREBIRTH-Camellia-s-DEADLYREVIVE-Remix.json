@@ -1,0 +1,51 @@
+{
+    "name": "DEATHANDREBIRTH - Camellia's \"DEADLYREVIVE\" Remix",
+    "url": "DEATHANDREBIRTH-Camellia-s-DEADLYREVIVE-Remix",
+    "altNames": null,
+    "artists": [
+        "隣人 [A L]",
+        "nachi [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Touhou Arrangement, Remix",
+    "touhouOrigin": [
+        {
+            "touhouSong": "素敵な墓場で暮しましょ",
+            "touhouGame": "東方神霊廟　～ Ten Desires"
+        }
+    ],
+    "originalSong": {
+        "originalSongName": "DEATHANDREBIRTH",
+        "originalSongArtists": [
+            "ZYTOKINE"
+        ],
+        "originalSongLink": "https://youtu.be/379W3E0PYSM"
+    },
+    "duration": "5:35",
+    "albums": [
+        {
+            "albumName": "DEATH",
+            "albumPublisher": "ZYTOKINE",
+            "albumReleaseDate": "2014-10-12",
+            "albumReleaseEvent": "Touhou Kouroumu 10/東方紅楼夢10",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "DEATHANDREBIRTH - Camellia's \"DEADLYREVIVE\" Remix",
+            "link": "https://youtu.be/eW8vOjkfGu8",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "DEATH.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

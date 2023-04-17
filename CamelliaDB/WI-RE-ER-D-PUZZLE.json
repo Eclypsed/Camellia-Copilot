@@ -1,0 +1,62 @@
+{
+    "name": "WI[RE/ER]D PUZZLE",
+    "url": "WI-RE-ER-D-PUZZLE",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Mei Ayakura/綾倉盟 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "神さびた古戦場 ～ Suwa Foughten Field",
+            "touhouGame": "東方風神録　～ Mountain of Faith"
+        }
+    ],
+    "originalSong": null,
+    "duration": "5:30",
+    "albums": [
+        {
+            "albumName": "DOMINATED DANCEHALL",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2012-12-30",
+            "albumReleaseEvent": "Comiket 83",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "WI[RE/ER]D PUZZLE",
+            "link": "https://youtu.be/QA9OameisT4",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "WI[RE/ER]D PUZZLE",
+            "link": "https://open.spotify.com/track/0RW5YEe4vEeHIjccXFbv08?si=23436e0add8f4a55",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "WI[RE/ER]D PUZZLE",
+            "link": "https://music.apple.com/us/album/wi-re-ed-puzzle-feat-mei-ayakura-camellia/1613282828?i=1613282834",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "DOMINATED DANCEHALL",
+            "link": "https://diverse.direct/alstroemeria-records/arcd-0039/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "DOMINATED DANCEHALL.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

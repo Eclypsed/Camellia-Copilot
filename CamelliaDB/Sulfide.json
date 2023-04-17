@@ -1,0 +1,66 @@
+{
+    "name": "Sulfide",
+    "url": "Sulfide",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:49",
+    "albums": [
+        {
+            "albumName": "Reality Distortion",
+            "albumPublisher": "S2TB Recording",
+            "albumReleaseDate": "2016-12-31",
+            "albumReleaseEvent": "Comiket 91",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Sulfide",
+            "link": "https://youtu.be/GR8hqBM8Nsc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Sulfide",
+            "link": "https://open.spotify.com/track/6c2Xr8LmxOEK5fwweGqtLv?si=82bd7be2a3824c3c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Sulfide",
+            "link": "https://music.apple.com/jp/album/sulfide/1634838924?i=1634838926&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Sulfide",
+            "link": "https://shop.attackthemusic.com/track/sulfide",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Reality Distortion",
+            "link": "https://diverse.direct/s2tb-recording/s2tb-0019/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Reality Distortion",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001026&search=reality+distortion&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Reality Distortion.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

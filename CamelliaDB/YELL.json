@@ -1,0 +1,63 @@
+{
+    "name": "YELL!",
+    "url": "YELL",
+    "altNames": null,
+    "artists": [
+        "DJ Genki [C]",
+        "Moimoi (Mayumi Morinaga) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:07",
+    "albums": [
+        {
+            "albumName": "REVOLUTION OF HAPPY? #01",
+            "albumPublisher": "djgenki.net",
+            "albumReleaseDate": "2016-12-31",
+            "albumReleaseEvent": "Comiket 91",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "YELL!",
+            "link": "https://youtu.be/tdE3N1kgCP0",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "YELL!",
+            "link": "https://music.apple.com/jp/album/yell-feat-moimoi/1388848153?i=1388848986&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "YELL!",
+            "link": "https://genkianamei.bandcamp.com/track/yell",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "REVOLUTION OF HAPPY? #01",
+            "link": "https://diverse.direct/djgenki-net/gnkcd-001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "REVOLUTION OF HAPPY? #01",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001013&search=REVOLUTION+OF+HAPPY%3F+%2301&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Revolution Of Happy #01.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

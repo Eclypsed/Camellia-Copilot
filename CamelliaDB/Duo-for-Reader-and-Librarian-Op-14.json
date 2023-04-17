@@ -1,0 +1,54 @@
+{
+    "name": "Duo for Reader and Librarian, Op 14",
+    "url": "Duo-for-Reader-and-Librarian-Op-14",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:39",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Duo for Reader and Librarian, Op 14",
+            "link": "https://youtu.be/kJNJO02mKn0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Duo for Reader and Librarian, Op 14",
+            "link": "https://open.spotify.com/track/7iwqENlPhJhVg0oqDYyyCQ?si=8912d0da933a480d",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Duo for Reader and Librarian, Op 14",
+            "link": "https://music.apple.com/us/album/duo-for-reader-and-librarian-op-14/1522112127?i=1522112460",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Duo for Reader and Librarian, Op 14",
+            "link": "https://dwellersemptypath.bandcamp.com/track/duo-for-reader-and-librarian-op-14",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

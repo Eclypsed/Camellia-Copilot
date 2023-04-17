@@ -1,0 +1,48 @@
+{
+    "name": "Would This Track Be Okay With You?",
+    "url": "Would-This-Track-Be-Okay-With-You",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:24",
+    "albums": [
+        {
+            "albumName": "Massive Circlez 4",
+            "albumPublisher": "Massive CircleZ",
+            "albumReleaseDate": "2014-10-26",
+            "albumReleaseEvent": "M3-34",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Would This Track Be Okay With You?",
+            "link": "https://youtu.be/S7mAXVMzxIk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Would This Track Be Okay With You?",
+            "link": "https://open.spotify.com/track/2YEUakgDciNUZvmVeItFnI?si=e486f46182874ea7",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Would This Track Be Okay With You?",
+            "link": "https://music.apple.com/jp/album/would-this-track-be-okay-with-you/1618376530?i=1618376554&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Massive Circlez 4.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,66 @@
+{
+    "name": "/dev/null",
+    "url": "dev-null",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "6:18",
+    "albums": [
+        {
+            "albumName": "[diffraction]",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-04-27",
+            "albumReleaseEvent": "M3-33",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "/dev/null",
+            "link": "https://youtu.be/4dFMfqK8kOI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "/dev/null",
+            "link": "https://open.spotify.com/track/6QOi6zVAV6eTDl0CR9p41q?si=9ab0b7728fc449ed",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "/dev/null",
+            "link": "https://music.apple.com/jp/album/dev-null/1049609666?i=1049610513&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "/dev/null",
+            "link": "https://cametek.bandcamp.com/track/dev-null",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "[diffraction]",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0008/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "[diffraction]",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002263&search=diffraction&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "[diffraction].jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

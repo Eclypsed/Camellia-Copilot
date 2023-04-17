@@ -1,0 +1,54 @@
+{
+    "name": "Get Back to 64bit Cities",
+    "url": "Get-Back-to-64bit-Cities",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:44",
+    "albums": [
+        {
+            "albumName": "fig.4 -Adolescence-",
+            "albumPublisher": "Diverse System",
+            "albumReleaseDate": "2018-04-29",
+            "albumReleaseEvent": "M3-41",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Get Back to 64bit Cities",
+            "link": "https://youtu.be/O6Eq0V6zHps",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Get Back to 64bit Cities",
+            "link": "https://diversesystem.bandcamp.com/track/get-back-to-64bit-cities",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "fig.4 -Adolescence-",
+            "link": "https://diverse.direct/diverse-system/dvsp-0195/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "fig.4 -Adolescence-",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001535&search=Fig.4+-Adolescence-&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Fig.4 -Adolescence-.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

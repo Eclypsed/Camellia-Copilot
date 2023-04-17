@@ -1,0 +1,66 @@
+{
+    "name": "JDM (Jungle Dance Music)",
+    "url": "JDM-Jungle-Dance-Music",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:15",
+    "albums": [
+        {
+            "albumName": "INVAIDAS FROM DA JUNGLE",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "JDM (Jungle Dance Music)",
+            "link": "https://youtu.be/5IHlCoHjrYA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "JDM (Jungle Dance Music)",
+            "link": "https://open.spotify.com/track/1xYknXa54mS4NlzIp36a6T?si=645d49b1180e4cc0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "JDM (Jungle Dance Music)",
+            "link": "https://music.apple.com/us/album/jdm-jungle-dance-music/1278213773?i=1278213781",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "JDM (Jungle Dance Music)",
+            "link": "https://cametek.bandcamp.com/track/jdm-jungle-dance-music",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0016/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001208&search=INVAIDAS+FROM+DA+JUNGLE&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "INVAIDAS FROM DA JUNGLE.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

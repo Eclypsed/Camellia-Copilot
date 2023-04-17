@@ -1,0 +1,50 @@
+{
+    "name": "Fire Up!",
+    "url": "Fire-Up",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:52",
+    "albums": [
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Fire Up!",
+            "link": "https://youtu.be/Be1Ln6z77jI",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Fire Up!",
+            "link": "https://open.spotify.com/track/0EbX9oQKGs3H5onHgoZGlg?si=c931bd545e60417d",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Fire Up!",
+            "link": "https://music.apple.com/jp/album/fire-up/1389666121?i=1389666346&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

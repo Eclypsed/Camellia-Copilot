@@ -1,0 +1,54 @@
+{
+    "name": "Flash Me Back",
+    "url": "Flash-Me-Back",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:22",
+    "albums": [
+        {
+            "albumName": "Flash Me Back",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2022-08-11",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Flash Me Back",
+            "link": "https://youtu.be/2EDcoWKH25o",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Flash Me Back",
+            "link": "https://open.spotify.com/track/1ickaIxH7HoGVOcwg4V1Nz?si=3c58e33410db4b15",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Flash Me Back",
+            "link": "https://music.apple.com/jp/album/flash-me-back/1638571037?i=1638571038&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Flash Me Back",
+            "link": "https://cametek.bandcamp.com/track/flash-me-back-300k-subs-on-yt",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Flash Me Back.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

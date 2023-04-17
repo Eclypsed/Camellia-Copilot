@@ -1,0 +1,59 @@
+{
+    "name": "Love is Memory",
+    "url": "Love-is-Memory",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "Fancymat [L]",
+        "Chihiro Aihara/愛原千尋 [V]",
+        "Yuuki Aihara/愛原佑季 [V]",
+        "Mano Yukari/真野紫 [V]",
+        "mineko [V]",
+        "望月さくら [V]",
+        "みりん屋 [V]",
+        "まる [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 亡き王女の為のセプテット",
+            "touhouGame": "東方紅魔郷　～ the Embodiment of Scarlet Devil "
+        },
+        {
+            "touhouSong": " ネクロファンタジア",
+            "touhouGame": "東方妖々夢　～ Perfect Cherry Blossom "
+        },
+        {
+            "touhouSong": " 風神少女",
+            "touhouGame": "東方文花帖　～ Shoot the Bullet"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:39",
+    "albums": [
+        {
+            "albumName": "東方Little Bloom",
+            "albumPublisher": "Tennenjemini",
+            "albumReleaseDate": "2011-12-30",
+            "albumReleaseEvent": "Comiket 81",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Love is Memory",
+            "link": "https://youtu.be/VvE95u5lOhI",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Touhou Little Bloom.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

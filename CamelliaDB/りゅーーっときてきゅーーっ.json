@@ -1,0 +1,52 @@
+{
+    "name": "りゅーーっときてきゅーーっ!!!",
+    "url": "りゅーーっときてきゅーーっ",
+    "altNames": [
+        "It Comes Ryuuu And It Goes Kyuuu!!!"
+    ],
+    "artists": [
+        "UMISEA (Minato Aqua Houshou Marine Sakamata Chloe Ninomae Ina'nis Gawr Gura) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:50",
+    "albums": [
+        {
+            "albumName": "りゅーーっときてきゅーーっ!!!",
+            "albumPublisher": "COVER Corporation/カバー株式会社",
+            "albumReleaseDate": "2022-08-29",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "りゅーーっときてきゅーーっ!!!",
+            "link": "https://youtu.be/qATdCqJXLSc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "りゅーーっときてきゅーーっ!!!",
+            "link": "https://open.spotify.com/track/71Hql0UnvmdkjRKUJKtlUZ?si=7c9d9adb8de24148",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "りゅーーっときてきゅーーっ!!!",
+            "link": "https://music.apple.com/us/album/it-comes-ryuuu-and-it-goes-kyuuu/1641856195?i=1641856196",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "It Comes Ryuuu And It Goes Kyuuu.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on the release.",
+    "variations": null
+}

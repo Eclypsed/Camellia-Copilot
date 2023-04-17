@@ -1,0 +1,47 @@
+{
+    "name": "今宵もティーからホールインワン！",
+    "url": "今宵もティーからホールインワン！",
+    "altNames": [
+        "Another hole-in-one off the tee tonight!"
+    ],
+    "artists": [
+        "Camellia [A L]",
+        "月葉 [V]",
+        "Nanahira/ななひら [Voice]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "亡き王女の為のセプテット",
+            "touhouGame": "東方紅魔郷　～ the Embodiment of Scarlet Devil"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:51",
+    "albums": [
+        {
+            "albumName": "Remilia",
+            "albumPublisher": "Forestpireo/ふぉれすとぴれお",
+            "albumReleaseDate": "2013-05-26",
+            "albumReleaseEvent": "Reitaisai 10",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "今宵もティーからホールインワン！",
+            "link": "https://youtu.be/PSonCbeAl1s",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Remilia.jpg",
+            "caption": null
+        }
+    ],
+    "description": "From the albums page, 月葉 is credited with doing the vocals (ボーカル), but Nanahira is credited with doing the... voice (ボイス)? I don't really know what the difference is but from what I can tell there are in fact two distinct voices sing the lyrics in the song. Maybe the distinction is just because Nanahira only really did the shouty bits? Idk, it's all vocals in my book. If someone could let me know what the difference is I would appreciate it.",
+    "variations": null
+}

@@ -1,0 +1,104 @@
+{
+    "name": "You Make My Life 1UP",
+    "url": "You-Make-My-Life-1UP",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:58",
+    "albums": [
+        {
+            "albumName": "INVAIDAS FROM DA JUNGLE, Apprism (Bonus Track)",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Muse Dash",
+            "gamePublisher": "PeroPeroGames",
+            "gameReleaseDate": "2019-06-20"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "You Make My Life 1UP",
+            "link": "https://youtu.be/G6Wzg_V4YfA",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "You Make My Life 1UP.png",
+            "caption": null
+        },
+        {
+            "filename": "You Make My Life 1UP Bonus CD.png",
+            "caption": null
+        }
+    ],
+    "description": "Again, like ニワカ三年オタ八年、インターネッツはforever, at first glance it seems like the first appearance of You Make My Life 1UP was the \"X127 Long Ver.\" on ふぉーす！ at Comiket 93, but then if this was the first release then why specifically distiguish it as a Longer Version; what happended to the short version? As it turns out, the original short You Make My Life 1UP was a bonus CD you recieved if you purchased both Camellia's INVAIDAS FROM DA JUNGLE album and Nanahira's Apprism album at Comiket 92. The original short version was later added to Muse Dash as part of Nanahira Festival.",
+    "variations": [
+        {
+            "name": "You Make My Life 1UP (X127 Long Ver.)",
+            "url": "You-Make-My-Life-1UP-X127-Long-Ver",
+            "altNames": null,
+            "artists": [
+                "Nanahira/ななひら [V]"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:40",
+            "albums": [
+                {
+                    "albumName": "4orce!/ふぉーす！",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+                    "albumReleaseDate": "2017-12-29",
+                    "albumReleaseEvent": "Comiket 93",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "You Make My Life 1UP (X127 Long Ver.)",
+                    "link": "https://youtu.be/iNSWuZl_FzU",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "You Make My Life 1UP (X127 Long Ver.)",
+                    "link": "https://open.spotify.com/track/6Qx6YCgkFnxemNPlS7fyEA?si=2f3fe5407a1b4a75",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "You Make My Life 1UP (X127 Long Ver.)",
+                    "link": "https://music.apple.com/jp/album/you-make-my-life-1up-x127-long-ver/1552865093?i=1552865103&l=en",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "ふぉーす！",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-006/",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "4orce!.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

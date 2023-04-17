@@ -1,0 +1,50 @@
+{
+    "name": "This View We Live",
+    "url": "This-View-We-Live",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:01",
+    "albums": [
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "This View We Live",
+            "link": "https://youtu.be/BHrFkp0IVPM",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "This View We Live",
+            "link": "https://open.spotify.com/track/6fRVOXPX2eX1VIR2SgCwev?si=dfb3f51fdf88431c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "This View We Live",
+            "link": "https://music.apple.com/jp/album/this-view-we-live/1389666121?i=1389666342&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

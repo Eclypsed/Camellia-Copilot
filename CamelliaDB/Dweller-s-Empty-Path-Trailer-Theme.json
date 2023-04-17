@@ -1,0 +1,57 @@
+{
+    "name": "Dweller's Empty Path (Trailer Theme)",
+    "url": "Dweller-s-Empty-Path-Trailer-Theme",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]",
+        "Temmie Chang [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:30",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Dweller's Empty Path (Trailer Theme)",
+            "link": "https://youtu.be/1-HSpf14EfA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Dweller's Empty Path (Trailer Theme)",
+            "link": "https://open.spotify.com/track/5n65jqbzp1Ejq8gl13BEls?si=e28d1d0201e14dfe",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Dweller's Empty Path (Trailer Theme)",
+            "link": "https://music.apple.com/us/album/dwellers-empty-path-trailer-theme/1522112127?i=1522112134",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Dweller's Empty Path (Trailer Theme)",
+            "link": "https://dwellersemptypath.bandcamp.com/track/dwellers-empty-path-trailer-theme",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

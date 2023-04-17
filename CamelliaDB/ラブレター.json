@@ -1,0 +1,44 @@
+{
+    "name": "ラブレター",
+    "url": "ラブレター",
+    "altNames": null,
+    "artists": [
+        "Genki-kun Band/元気くんバンド (DJ Genki [Guitar] Camellia [Bass] JAVELIN [Drums] Yukacco [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:07",
+    "albums": [
+        {
+            "albumName": "Genki-kun Band EP2/元気くんバンドEP2",
+            "albumPublisher": "djgenki.net",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ラブレター",
+            "link": "https://youtu.be/hvPep15itHk",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "ラブレター",
+            "link": "https://genkianamei.bandcamp.com/track/--34",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "元気くんバンドEP2.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

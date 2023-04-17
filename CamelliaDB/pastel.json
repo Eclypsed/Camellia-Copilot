@@ -1,0 +1,61 @@
+{
+    "name": "pastel",
+    "url": "pastel",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "愛実 [L]",
+        "Chihiro Aihara/愛原千尋 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " ジャパニーズサーガ",
+            "touhouGame": "東方求聞史紀　～ Perfect Memento in Strict Sense "
+        },
+        {
+            "touhouSong": " 阿礼の子供",
+            "touhouGame": "東方求聞史紀　～ Perfect Memento in Strict Sense"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:49",
+    "albums": [
+        {
+            "albumName": "ENCYCLOPEDIA <人> human being",
+            "albumPublisher": "ユウノウミ",
+            "albumReleaseDate": "2012-05-27",
+            "albumReleaseEvent": "Reitaisai 9",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "pastel",
+            "link": "https://youtu.be/gKNQMjnOJDc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "pastel",
+            "link": "https://open.spotify.com/track/0StgbBaphu6WGYgsBMLxqQ?si=5903031f0f9f4830",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "pastel",
+            "link": "https://music.apple.com/us/album/pastel/1455308918?i=1455308919",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ENCYCLOPEDIA 人 human beings.jpg",
+            "caption": null
+        }
+    ],
+    "description": "The orginal songs for this Touhou arrangement didn't actually come from one of the games, but with a CD that came with 東方求聞史紀　～ Perfect Memento in Strict Sense, which was the second official Touhou book by ZUN.",
+    "variations": null
+}

@@ -1,0 +1,48 @@
+{
+    "name": "BeforAfter",
+    "url": "BeforAfter",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "nanano [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 法界の火",
+            "touhouGame": "東方星蓮船　～ Undefined Fantastic Object "
+        },
+        {
+            "touhouSong": " 感情の摩天楼　～ Cosmic Mind",
+            "touhouGame": "東方星蓮船　～ Undefined Fantastic Object"
+        }
+    ],
+    "originalSong": null,
+    "duration": "?",
+    "albums": [
+        {
+            "albumName": "Touhou Planet Exploration Group!/東方惑星探検隊！",
+            "albumPublisher": "Birdtune",
+            "albumReleaseDate": "2012-05-27",
+            "albumReleaseEvent": "Reitaisai 9",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "BeforAfter",
+            "link": "https://youtu.be/VtRCvjTGQsg",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Touhou Planet Exploration Group.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Off vocal version included in the release",
+    "variations": null
+}

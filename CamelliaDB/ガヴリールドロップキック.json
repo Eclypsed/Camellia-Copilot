@@ -1,0 +1,41 @@
+{
+    "name": "ガヴリールドロップキック",
+    "url": "ガヴリールドロップキック",
+    "altNames": [
+        "Gabriel Dropkick"
+    ],
+    "artists": [
+        "前山田健一 [C L]",
+        "Nanahira/ななひら [V]",
+        "Camellia [A R]"
+    ],
+    "songType": "Cover, Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "ガヴリールドロップキック",
+        "originalSongArtists": [
+            "ガヴリール、ヴィーネ、サターニャ、ラフィエル"
+        ],
+        "originalSongLink": "https://youtu.be/o-lz_Ug7L5w"
+    },
+    "duration": "2:00",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 27 HEROIC VERSE",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-10-16"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ガヴリールドロップキック",
+            "link": "https://youtu.be/QkV5-a_jtFw",
+            "unofficial": true
+        }
+    ],
+    "imgs": null,
+    "description": null,
+    "variations": null
+}

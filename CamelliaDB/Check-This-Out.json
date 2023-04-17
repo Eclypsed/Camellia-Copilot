@@ -1,0 +1,96 @@
+{
+    "name": "!!Check This Out",
+    "url": "Check-This-Out",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:36",
+    "albums": [
+        {
+            "albumName": "Raise Blaze in Fiction",
+            "albumPublisher": "Movement on the FLOOR",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "!!Check This Out",
+            "link": "https://youtu.be/xUHEZ7B_yVM",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "!!Check This Out",
+            "link": "https://tpazolite.bandcamp.com/track/check-this-out",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Raise Blaze in Fiction",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000637&search=Raise+Blaze+in+Fiction&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Raise Blaze in Fiction.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "التحقق من ذلك! - !!Check This Out",
+            "url": "التحقق-من-ذلك-Check-This-Out",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:38",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2017-04-30",
+                    "albumReleaseEvent": "M3-39",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "التحقق من ذلك! - !!Check This Out",
+                    "link": "https://youtu.be/z8C2mLj8GLs",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0015/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001152&search=Camellia+%22Guest+Tracks%22+Summary+%26+VIPs+01&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Guest Tracks Summary VIPs 01.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Bermuda Δ Triangle",
+    "url": "Bermuda-Δ-Triangle",
+    "altNames": null,
+    "artists": [
+        "The8BitDrummer [Drums]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:00",
+    "albums": [
+        {
+            "albumName": "U.U.F.O.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2021-07-11",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Bermuda Δ Triangle",
+            "link": "https://youtu.be/Ah73TCrIehg",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Bermuda Δ Triangle",
+            "link": "https://open.spotify.com/track/658IaKIiFzUZRfPs2qCKFs?si=9642294efa4f4f26",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Bermuda Δ Triangle",
+            "link": "https://music.apple.com/us/album/bermuda-triangle-feat-the8bitdrummer/1572224128?i=1572224364",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Bermuda Δ Triangle",
+            "link": "https://cametek.bandcamp.com/track/bermuda-triangle-feat-the8bitdrummer",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "U.U.F.O.",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0021-0022/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "U.U.F.O.",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002743&search=U.U.F.O.&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "U.U.F.O..jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

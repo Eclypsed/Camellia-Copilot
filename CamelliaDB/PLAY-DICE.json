@@ -1,0 +1,50 @@
+{
+    "name": "PLAY DICE!",
+    "url": "PLAY-DICE",
+    "altNames": null,
+    "artists": [
+        "Hakos Baelz [L V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:44",
+    "albums": [
+        {
+            "albumName": "Play Dice!",
+            "albumPublisher": "COVER Corporation/カバー株式会社",
+            "albumReleaseDate": "2022-03-01",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "PLAY DICE!",
+            "link": "https://youtu.be/na6bysYNuS0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "PLAY DICE!",
+            "link": "https://open.spotify.com/track/1OqSo4mjYjiGRVOCHYZw0x?si=a618859e540642dd",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "PLAY DICE!",
+            "link": "https://music.apple.com/us/album/play-dice/1611742082?i=1611742084",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "PLAY DICE!.png",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental Version included on the release",
+    "variations": null
+}

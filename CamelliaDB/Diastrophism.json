@@ -1,0 +1,105 @@
+{
+    "name": "Diastrophism",
+    "url": "Diastrophism",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:05",
+    "albums": [
+        {
+            "albumName": "jubeat festo ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2020-07-29",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "jubeat clan",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2018-02-10"
+        },
+        {
+            "gameName": "jubeat (2021)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-05-07"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Diastrophism",
+            "link": "https://youtu.be/yCNAOk-lHic",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Diastrophism",
+            "link": "https://music.apple.com/jp/album/diastrophism/1523966699?i=1523966701",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Diastrophism.png",
+            "caption": null
+        },
+        {
+            "filename": "jubeat festo ORIGINAL SOUNDTRACK.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Diastrophism (\"Anamorphism\" Long ver.)",
+            "url": "Diastrophism-Anamorphism-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:17",
+            "albums": [
+                {
+                    "albumName": "Xroniàl Xéro",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2020-03-18",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Diastrophism (\"Anamorphism\" Long ver.)",
+                    "link": "https://youtu.be/gkE96UdzQ48",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Xroniàl Xéro",
+                    "link": "https://diverse.direct/edp/pcca-04883/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Xroniàl Xéro",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002383&search=Xroni%26%23224%3Bl+X%26%23233%3Bro&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Xronial Xero.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "人工知能：あるふぁ～★GO!!",
+    "url": "人工知能：あるふぁ～★GO",
+    "altNames": [
+        "Artificial Intelligence: Alpha★GO!!"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:36",
+    "albums": [
+        {
+            "albumName": "Sleep!/すりーぷ！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "人工知能：あるふぁ～★GO!!",
+            "link": "https://youtu.be/sYRbe_nSycc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "人工知能：あるふぁ～★GO!!",
+            "link": "https://open.spotify.com/track/6ReFvLaA1S3EmcTSqVCNii?si=53b5a81935354652",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "人工知能：あるふぁ～★GO!!",
+            "link": "https://music.apple.com/us/album/artificial-intelligence-alpha-go/1554742814?i=1554742823",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "すりーぷ！",
+            "link": "https://diverse.direct/?s=%E3%81%99%E3%82%8A%E3%83%BC%E3%81%B7%EF%BC%81",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sleep!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

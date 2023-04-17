@@ -1,0 +1,80 @@
+{
+    "name": "サイクルヒット",
+    "url": "サイクルヒット",
+    "altNames": [
+        "Cycle Hit"
+    ],
+    "artists": [
+        "KASAI HARCORES/葛西ハーコーズ (DJ Genki Camellia & C-Show) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:18",
+    "albums": [
+        {
+            "albumName": "KASAI HARCORES EP2 ALL STARS/葛西ハーコーズEP2 オールスターズ",
+            "albumPublisher": "KASAI HARCORES/葛西ハーコーズ",
+            "albumReleaseDate": "2017-04-30",
+            "albumReleaseEvent": "M3-39",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Beat Saber Camellia Pack",
+            "gamePublisher": "Beat Games",
+            "gameReleaseDate": "2019-07-25"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "サイクルヒット",
+            "link": "https://youtu.be/mcIX5ps6RaA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "サイクルヒット",
+            "link": "https://open.spotify.com/track/6HrRFCbSJbwJ1b63UJe0rR?si=5a52cd16f88c462e",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "サイクルヒット",
+            "link": "https://music.apple.com/vn/album/cycle-hit/1479975915?i=1479975923",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "サイクルヒット",
+            "link": "https://genkianamei.bandcamp.com/track/--12",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "葛西ハーコーズEP2 オールスターズ",
+            "link": "https://diverse.direct/%e8%91%9b%e8%a5%bf%e3%83%8f%e3%83%bc%e3%82%b3%e3%83%bc%e3%82%ba/khcd-002/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "葛西ハーコーズEP2 オールスターズ",
+            "link": "https://www.tanocstore.net/shopdetail/000000001176/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Kasai Harcores EP2 All Stars.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "Beat Saber Camellia Pack.png",
+            "caption": null
+        }
+    ],
+    "description": "Included in Beat Saber's Camellia Song Pack, the album art for Cycle Hit that appears in game is incorrect. Despite it only being featured on KASAI HARCORES EP2, the in game art for Cycle Hit is that of KASAI HARCORES EP3.",
+    "variations": null
+}

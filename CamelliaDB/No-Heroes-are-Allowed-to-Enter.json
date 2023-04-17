@@ -1,0 +1,77 @@
+{
+    "name": "No Heroes are Allowed to Enter",
+    "url": "No-Heroes-are-Allowed-to-Enter",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:21",
+    "albums": [
+        {
+            "albumName": "No Heroes are Allowed to Enter",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2020-10-01",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        },
+        {
+            "albumName": "MEGATON KICK 2",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2021-01-04",
+            "albumReleaseEvent": "スーパーリリース21",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "No Heroes are Allowed to Enter",
+            "link": "https://youtu.be/OMvp5jzk3Nc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "No Heroes are Allowed to Enter",
+            "link": "https://open.spotify.com/track/4RzNByPJECtS4SYS82X44K?si=f34a6cf47bd8403e",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "No Heroes are Allowed to Enter",
+            "link": "https://music.apple.com/us/album/no-heroes-are-allowed-to-enter/1545594045?i=1545594638",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "No Heroes are Allowed to Enter",
+            "link": "https://tanoc.bandcamp.com/track/no-heroes-are-allowed-to-enter-2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "MEGATON KICK 2",
+            "link": "https://diverse.direct/hardcore-tanoc/tcplus-0043/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "MEGATON KICK 2",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002641&search=MEGATON+KICK+2&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "No Heroes are Allowed to Enter.jpg",
+            "caption": null
+        },
+        {
+            "filename": "MEGATON KICK 2.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,104 @@
+{
+    "name": "色を喪った街",
+    "url": "色を喪った街",
+    "altNames": [
+        "Town That Lost Color"
+    ],
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:00",
+    "albums": [
+        {
+            "albumName": "SOUND VOLTEX PERFECT ULTIMATE COMPLETE TRACKS ～Legend of KAC with Ω～",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2023-02-15",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX VIVID WAVE",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2020-02-27"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "色を喪った街",
+            "link": "https://youtu.be/Q_bT5uIYVbg",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "色を喪った街.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "色を喪った街　～遺街～",
+            "url": "色を喪った街　～遺街～",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:38",
+            "albums": [
+                {
+                    "albumName": "灰の羽搏",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2023-02-15",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "色を喪った街　～遺街～",
+                    "link": "https://youtu.be/5KWHWDJPdJE",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "色を喪った街　～遺街～",
+                    "link": "https://open.spotify.com/track/3e1FTueaDu6Gnr5OjEcXC0?si=b9008b972a2740d3",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "色を喪った街　～遺街～",
+                    "link": "https://music.apple.com/us/album/achromatic-city-lost-palette/1669477071?i=1669477073",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "灰の羽搏",
+                    "link": "https://diverse.direct/edp/pcca-06182/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "灰の羽搏",
+                    "link": "https://www.tanocstore.net/shopdetail/000000003212",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "灰の羽搏.jpg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "チルノのパーフェクトさんすう教室 (かめりあ's ⑨⑨⑨ Remix)",
+    "url": "チルノのパーフェクトさんすう教室-かめりあ-s-⑨⑨⑨-Remix",
+    "altNames": [
+        "Cirno's Perfect Math Class (Camellia's ⑨⑨⑨ Remix)"
+    ],
+    "artists": [
+        "ARM [A]",
+        "Yuuno Yoshimi/夕野ヨシミ [L]",
+        "miko [V]",
+        "quim [Voice]",
+        "Camellia [R]"
+    ],
+    "songType": "Touhou Arrangement, Remix",
+    "touhouOrigin": [
+        {
+            "touhouSong": "おてんば恋娘",
+            "touhouGame": "東方紅魔郷　～ the Embodiment of Scarlet Devil"
+        }
+    ],
+    "originalSong": {
+        "originalSongName": "チルノのパーフェクトさんすう教室",
+        "originalSongArtists": [
+            "IOSYS"
+        ],
+        "originalSongLink": "https://youtu.be/V_bQNPG2OyE"
+    },
+    "duration": "1:57",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "D4DJ Groovy Mix",
+            "gamePublisher": "Bushiroad",
+            "gameReleaseDate": "2021-10-18"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "チルノのパーフェクトさんすう教室 (かめりあ's ⑨⑨⑨ Remix)",
+            "link": "https://youtu.be/Wz7U2WqF7oI",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "チルノのパーフェクトさんすう教室 （かめりあ's ⑨⑨⑨ Remix）.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

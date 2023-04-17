@@ -1,0 +1,50 @@
+{
+    "name": "Tongue☆★Twi(n)-stars!!",
+    "url": "Tongue☆★Twi-n-stars",
+    "altNames": null,
+    "artists": [
+        "Lovelicot (Nanahira/ななひら KOKO/ココ) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:56",
+    "albums": [
+        {
+            "albumName": "Twin Crew Star",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2018-08-10",
+            "albumReleaseEvent": "Comiket 94",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Tongue☆★Twi(n)-stars!!",
+            "link": "https://youtu.be/5gMU7ErP5nU",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Tongue☆★Twi(n)-stars!!",
+            "link": "https://open.spotify.com/track/1Qwjhw97t3VcPwEhQrYUER?si=a773f91021a040b2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Tongue☆★Twi(n)-stars!!",
+            "link": "https://music.apple.com/jp/album/tongue-twi-n-stars/1422165535?i=1422166187&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Twin Crew Star.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

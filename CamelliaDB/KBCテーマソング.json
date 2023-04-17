@@ -1,0 +1,64 @@
+{
+    "name": "KBCテーマソング",
+    "url": "KBCテーマソング",
+    "altNames": [
+        "KBC Theme Song"
+    ],
+    "artists": [
+        "KASAI HARCORES (DJ Genki Camellia & C-Show) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:16",
+    "albums": [
+        {
+            "albumName": "KASAI HARCORES EP3 Kasai Baseball Classic/葛西ハーコーズEP3 Kasai Baseball Classic",
+            "albumPublisher": "KASAI HARCORES",
+            "albumReleaseDate": "2018-10-28",
+            "albumReleaseEvent": "M3-42",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "KBCテーマソング",
+            "link": "https://youtu.be/phwS5E3kAx0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "KBCテーマソング",
+            "link": "https://open.spotify.com/track/3QGofmyciVKtWoIS7a95Dc?si=a48da6b8128d461c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "KBCテーマソング",
+            "link": "https://music.apple.com/us/album/kbc-theme-song/1479957562?i=1479957811",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "KBCテーマソング",
+            "link": "https://genkianamei.bandcamp.com/track/kbc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "葛西ハーコーズEP3 Kasai Baseball Classic",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001740&search=%B3%EB%C0%BE%A5%CF%A1%BC%A5%B3%A1%BC%A5%BAEP3+Kasai+Baseball+Classic&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Kasai Harcores EP3 Kasai Baseball Classic.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

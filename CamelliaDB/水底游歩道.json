@@ -1,0 +1,46 @@
+{
+    "name": "水底游歩道",
+    "url": "水底游歩道",
+    "altNames": [
+        "Minazoko Yuhodo"
+    ],
+    "artists": [
+        "Reol [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:04",
+    "albums": [
+        {
+            "albumName": "極彩色",
+            "albumPublisher": "JVCKENWOOD Victor Entertainment",
+            "albumReleaseDate": "2015-07-29",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "水底游歩道",
+            "link": "https://youtu.be/w_4FyBdK8Bk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "水底游歩道",
+            "link": "https://open.spotify.com/track/2Y8MpEW37sCOqJjSUTaSCu?si=ef9833d53b9349fc",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "極彩色.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

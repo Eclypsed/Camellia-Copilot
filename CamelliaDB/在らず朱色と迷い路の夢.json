@@ -1,0 +1,62 @@
+{
+    "name": "在らず朱色と迷い路の夢",
+    "url": "在らず朱色と迷い路の夢",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:33",
+    "albums": [
+        {
+            "albumName": "いろは七不思議探訪記",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2021-04-25",
+            "albumReleaseEvent": "M3-47",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "在らず朱色と迷い路の夢",
+            "link": "https://youtu.be/Ap7n1XAYEc0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "在らず朱色と迷い路の夢",
+            "link": "https://open.spotify.com/track/6pQ3WA64IDOWq1LdOmmCmo?si=4814e43b5da244b4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "在らず朱色と迷い路の夢",
+            "link": "https://music.apple.com/us/album/illusory-vermilion-and-labyrinthine-dream/1571225756?i=1571226077",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "いろは七不思議探訪記",
+            "link": "https://diverse.direct/confetto/cfcd-0024/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "いろは七不思議探訪記",
+            "link": "https://www.tanocstore.net/shopdetail/000000002703/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "いろは七不思議探訪記.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

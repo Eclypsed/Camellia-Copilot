@@ -1,0 +1,114 @@
+{
+    "name": "∀N​Ø​MALY",
+    "url": "∀N​Ø​MALY",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:23",
+    "albums": [
+        {
+            "albumName": "WE ARE THE BOSS",
+            "albumPublisher": "Movement on the FLOOR",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "∀N​Ø​MALY",
+            "link": "https://youtu.be/pPkgh60S65Q",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "∀N​Ø​MALY",
+            "link": "https://open.spotify.com/track/3LwoUVcI7ehhwNNeuov2Wn?si=74d2a53bfff24703",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "∀N​Ø​MALY",
+            "link": "https://music.apple.com/us/album/anomaly/1182847946?i=1182848043",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "∀N​Ø​MALY",
+            "link": "https://tpazolite.bandcamp.com/track/n-maly",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "WE ARE THE BOSS",
+            "link": "https://diverse.direct/movement-on-the-floor/motf-0007/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "WE ARE THE BOSS",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000848&search=WE+ARE+THE+BOSS&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "WE ARE THE BOSS.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "∀N​Ø​MALY (かめりあ's \"MUT∀TION\" Schranz Remix)",
+            "url": "∀N​Ø​MALY-かめりあ-s-MUT∀TION-Schranz-Remix",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:57",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2018-08-10",
+                    "albumReleaseEvent": "Comiket 94",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "∀N​Ø​MALY (かめりあ's \"MUT∀TION\" Schranz Remix)",
+                    "link": "https://youtu.be/hhY6joKYaqg",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Remixes Summary VIPs 02.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Ōu Legends",
+    "url": "Ōu-Legends",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:02",
+    "albums": [
+        {
+            "albumName": "BEMANI PRO LEAGUE -SEASON 2- x EDP EP",
+            "albumPublisher": "Konami, EXIT TUNES",
+            "albumReleaseDate": "2022-10-15",
+            "albumReleaseEvent": null,
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 30 RESIDENT",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2022-11-10"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Ōu Legends",
+            "link": "https://youtu.be/vZU0A97Adeg",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "BEMANI PRO LEAGUE -SEASON 2- EP.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

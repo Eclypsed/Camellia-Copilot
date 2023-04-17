@@ -1,0 +1,54 @@
+{
+    "name": "Qyoh (Nine Stars)",
+    "url": "Qyoh-Nine-Stars",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "7:09",
+    "albums": [
+        {
+            "albumName": "Qyoh (Nine Stars)",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2020-07-12",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Qyoh (Nine Stars)",
+            "link": "https://youtu.be/yr00RAkG2H0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Qyoh (Nine Stars)",
+            "link": "https://open.spotify.com/track/5xM1Aa2i8CADAIQMSYekgH?si=396a3d5f6c3f4d38",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Qyoh (Nine Stars)",
+            "link": "https://music.apple.com/jp/album/qyoh-nine-stars/1522993539?i=1522993540&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Qyoh (Nine Stars)",
+            "link": "https://cametek.bandcamp.com/track/qyoh-nine-stars",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Qyoh.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

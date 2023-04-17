@@ -1,0 +1,69 @@
+{
+    "name": "Deeper Than Your Eyes, Farther Than Platinum Moon",
+    "url": "Deeper-Than-Your-Eyes-Farther-Than-Platinum-Moon",
+    "altNames": null,
+    "artists": [
+        "Masayoshi Minoshima [A]",
+        "Camellia [L]",
+        "Mei Ayakura/綾倉盟 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "竹取飛翔　～ Lunatic Princess",
+            "touhouGame": "東方妖々夢　～ Perfect Cherry Blossom"
+        }
+    ],
+    "originalSong": null,
+    "duration": "5:11",
+    "albums": [
+        {
+            "albumName": "POP|CULTURE 3",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2015-05-10",
+            "albumReleaseEvent": "Reitaisai 12",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Deeper Than Your Eyes, Farther Than Platinum Moon",
+            "link": "https://youtu.be/5KFBhseGWM0",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Deeper Than Your Eyes, Farther Than Platinum Moon",
+            "link": "https://open.spotify.com/track/04A4jtrtrsPVsll8W88Wa9?si=604e4e974e604cd1",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Deeper Than Your Eyes, Farther Than Platinum Moon",
+            "link": "https://music.apple.com/us/album/deeper-than-your-eyes-farther-than-platinum-moon-feat/1613281302?i=1613281308",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "POP|CULTURE 3",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0047/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "POP|CULTURE 3",
+            "link": "https://www.tanocstore.net/shopdetail/000000000300/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "POP CULTURE 3.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

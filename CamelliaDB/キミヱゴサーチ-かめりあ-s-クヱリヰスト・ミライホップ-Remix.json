@@ -1,0 +1,46 @@
+{
+    "name": "キミヱゴサーチ -かめりあ's\"クヱリヰスト・ミライホップ\"Remix-",
+    "url": "キミヱゴサーチ-かめりあ-s-クヱリヰスト・ミライホップ-Remix",
+    "altNames": null,
+    "artists": [
+        "sasakure.UK [C]",
+        "Coconatsu/ここなつ [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "キミヱゴサーチ",
+        "originalSongArtists": [
+            "ここなつ"
+        ],
+        "originalSongLink": "https://youtu.be/TKbnKXu8MCM"
+    },
+    "duration": "3:37",
+    "albums": [
+        {
+            "albumName": "ハレ トキドキ メランコリック",
+            "albumPublisher": "Konami Digital Entertainment",
+            "albumReleaseDate": "2020-03-18",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "キミヱゴサーチ -かめりあ's\"クヱリヰスト・ミライホップ\"Remix-",
+            "link": "https://youtu.be/2CRveOlCd10",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ハレ トキドキ メランコリック.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

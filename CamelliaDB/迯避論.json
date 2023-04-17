@@ -1,0 +1,59 @@
+{
+    "name": "迯避論",
+    "url": "迯避論",
+    "altNames": [
+        "Escapism Theory"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "Yoshi Tsuko/つこ [Gutiar Bass]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:35",
+    "albums": [
+        {
+            "albumName": "Sleep!/すりーぷ！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "迯避論",
+            "link": "https://youtu.be/o_m8bQmxGK0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "迯避論",
+            "link": "https://open.spotify.com/track/1wGmc0l6UwEO8WmIFI8a5o?si=4f345b2b62304e4d",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "迯避論",
+            "link": "https://music.apple.com/jp/album/escapism-theory/1554742814?i=1554742829&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "すりーぷ！",
+            "link": "https://diverse.direct/?s=%E3%81%99%E3%82%8A%E3%83%BC%E3%81%B7%EF%BC%81",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sleep!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

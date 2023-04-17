@@ -1,0 +1,102 @@
+{
+    "name": "flower of wilderness",
+    "url": "flower-of-wilderness",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:40",
+    "albums": [
+        {
+            "albumName": "The Morning Star: Destopia/明星デストピア",
+            "albumPublisher": "Binzokomegane Girls Union/瓶底眼鏡女子同盟",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "flower of wilderness",
+            "link": "https://youtu.be/6AYOTVYFVo0",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "flower of wilderness",
+            "link": "https://binzoko.bandcamp.com/track/flower-of-wilderness",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "明星デストピア",
+            "link": "https://diverse.direct/binzokomegane-girls-union/mgncd-002/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "明星デストピア",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000586&search=%CC%C0%C0%B1%A5%C7%A5%B9%A5%C8%A5%D4%A5%A2&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "明​星​デ​ス​ト​ピ​ア.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "flower of wilderness",
+            "url": "flower-of-wilderness-2",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remaster",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:38",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2017-04-30",
+                    "albumReleaseEvent": "M3-39",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "flower of wilderness",
+                    "link": "https://youtu.be/_MYFNR_dpUc",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0015/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001152&search=Camellia+%22Guest+Tracks%22+Summary+%26+VIPs+01&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Guest Tracks Summary VIPs 01.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "999 (\"666\" Camellia's Unofficial / Rejected Remix)",
+    "url": "999-666-Camellia-s-Unofficial-Rejected-Remix",
+    "altNames": null,
+    "artists": [
+        "Roughsketch [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "666",
+        "originalSongArtists": [
+            "Roughsketch"
+        ],
+        "originalSongLink": "https://youtu.be/uFa0z9etSR4"
+    },
+    "duration": "2:05",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "999 (\"666\" Camellia's Unofficial / Rejected Remix)",
+            "link": "https://youtu.be/sts2huKKzLU",
+            "unofficial": false
+        }
+    ],
+    "imgs": null,
+    "description": null,
+    "variations": null
+}

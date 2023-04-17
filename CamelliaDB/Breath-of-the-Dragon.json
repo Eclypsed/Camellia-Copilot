@@ -1,0 +1,56 @@
+{
+    "name": "Breath of the Dragon",
+    "url": "Breath-of-the-Dragon",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:36",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Breath of the Dragon",
+            "link": "https://youtu.be/kg33lmAouvk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Breath of the Dragon",
+            "link": "https://open.spotify.com/track/4NxpOqGhq0ZF8hn8E888jn?si=c7f14adda4324cc8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Breath of the Dragon",
+            "link": "https://music.apple.com/us/album/breath-of-the-dragon/1522112127?i=1522112595",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Breath of the Dragon",
+            "link": "https://dwellersemptypath.bandcamp.com/track/breath-of-the-dragon",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

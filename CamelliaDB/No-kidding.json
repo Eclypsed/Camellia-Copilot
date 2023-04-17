@@ -1,0 +1,66 @@
+{
+    "name": "No kidding?",
+    "url": "No-kidding",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:11",
+    "albums": [
+        {
+            "albumName": "sudden shower",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "No kidding?",
+            "link": "https://youtu.be/b6WegT8Gsjk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "No kidding?",
+            "link": "https://open.spotify.com/track/4r2pol4kfyxtSpgeOHMxgS?si=29f2e1b508494823",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "No kidding?",
+            "link": "https://music.apple.com/us/album/no-kidding/1049647153?i=1049647673",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "No kidding?",
+            "link": "https://cametek.bandcamp.com/track/no-kidding",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "sudden shower",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-009/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "sudden shower",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002264&search=sudden+shower&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sudden Shower.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

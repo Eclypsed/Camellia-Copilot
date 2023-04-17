@@ -1,0 +1,52 @@
+{
+    "name": "素数のコトをしらべよう！",
+    "url": "素数のコトをしらべよう！",
+    "altNames": [
+        "Let's Find Out What Prime Numbers Are!"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:24",
+    "albums": [
+        {
+            "albumName": "H.B.S.001",
+            "albumPublisher": "PHQUASE PHRASE",
+            "albumReleaseDate": "2015-10-25",
+            "albumReleaseEvent": "M3-36",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "素数のコトをしらべよう！",
+            "link": "https://youtu.be/tSKkjrLeMl0",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "H.B.S.001",
+            "link": "https://diverse.direct/phquase-phrase/phbs-0001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "H.B.S.001",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000621&search=H.B.S.001&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "HBS001.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

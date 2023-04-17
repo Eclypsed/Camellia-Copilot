@@ -1,0 +1,56 @@
+{
+    "name": "Volcanic Palace",
+    "url": "Volcanic-Palace",
+    "altNames": null,
+    "artists": [
+        "Temmie Chang [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:30",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Volcanic Palace",
+            "link": "https://youtu.be/lcjaHauvrkc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Volcanic Palace",
+            "link": "https://open.spotify.com/track/5wReZsR7G9mdykaLAjj6Gi?si=3544e66ad2994d6f",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Volcanic Palace",
+            "link": "https://music.apple.com/us/album/volcanic-palace/1522112127?i=1522112712",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Volcanic Palace",
+            "link": "https://dwellersemptypath.bandcamp.com/track/volcanic-palace",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

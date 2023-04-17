@@ -1,0 +1,58 @@
+{
+    "name": "一対半の狂爭曲《カプリシオ》 ～絶対に渡さない～",
+    "url": "一対半の狂爭曲《カプリシオ》-～絶対に渡さない～",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "mega [V]",
+        "nayuta [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:19",
+    "albums": [
+        {
+            "albumName": "Nanamega Kingom/ななめが王国",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2019-10-27",
+            "albumReleaseEvent": "M3-44",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "一対半の狂爭曲《カプリシオ》 ～絶対に渡さない～",
+            "link": "https://youtu.be/bl3sskT42CI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "一対半の狂爭曲《カプリシオ》 ～絶対に渡さない～",
+            "link": "https://open.spotify.com/track/5Fcq48528Zv6E5NDZI3CBL?si=2823e4d46154416c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "一対半の狂爭曲《カプリシオ》 ～絶対に渡さない～",
+            "link": "https://music.apple.com/us/album/capriccio-for-one-and-a-half-couples-shes-mine-feat-nayuta/1488241612?i=1488241618",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ななめが王国",
+            "link": "https://diverse.direct/confetto/confettomegalomania/comg-0001/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ななめが王国.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

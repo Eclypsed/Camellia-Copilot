@@ -1,0 +1,54 @@
+{
+    "name": "K.Y.A.F.A. (Kill You All Fucking Asshole)",
+    "url": "K-Y-A-F-A-Kill-You-All-Fucking-Asshole",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:05",
+    "albums": [
+        {
+            "albumName": "DRILL",
+            "albumPublisher": "Binzokomegane Girls Union/瓶底眼鏡女子同盟",
+            "albumReleaseDate": "2015-12-31",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "K.Y.A.F.A. (Kill You All Fucking Asshole)",
+            "link": "https://youtu.be/9JsGOlE1ZyU",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "K.Y.A.F.A. (Kill You All Fucking Asshole)",
+            "link": "https://binzoko.bandcamp.com/track/k-y-a-f-a-kill-you-all-fucking-asshole",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "DRILL",
+            "link": "https://diverse.direct/binzokomegane-girls-union/mntl-001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "DRILL",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000681&search=DRILL&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Drill.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

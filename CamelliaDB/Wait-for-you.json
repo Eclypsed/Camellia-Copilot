@@ -1,0 +1,38 @@
+{
+    "name": "Wait for you",
+    "url": "Wait-for-you",
+    "altNames": null,
+    "artists": [
+        "kradness [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:37",
+    "albums": [
+        {
+            "albumName": "COLORFUL",
+            "albumPublisher": "Riot of Color",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Wait for you",
+            "link": "https://youtu.be/_xhrZyDhhg8",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "COLORFUL.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

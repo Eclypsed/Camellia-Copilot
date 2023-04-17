@@ -1,0 +1,66 @@
+{
+    "name": "Introduction -ENTRANS OF DA JUNGLE-",
+    "url": "Introduction-ENTRANS-OF-DA-JUNGLE",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:56",
+    "albums": [
+        {
+            "albumName": "INVAIDAS FROM DA JUNGLE",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Introduction -ENTRANS OF DA JUNGLE-",
+            "link": "https://youtu.be/X0dRvz3TNZE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Introduction -ENTRANS OF DA JUNGLE-",
+            "link": "https://open.spotify.com/track/0Wk9yHkkHO3bQO80qEabI9?si=cdc1b8d8148f45ae",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Introduction -ENTRANS OF DA JUNGLE-",
+            "link": "https://music.apple.com/jp/album/introduction-entrans-of-da-jungle/1278213773?i=1278213778&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Introduction -ENTRANS OF DA JUNGLE-",
+            "link": "https://cametek.bandcamp.com/track/introduction-entrans-of-da-jungle",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0016/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001208&search=INVAIDAS+FROM+DA+JUNGLE&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "INVAIDAS FROM DA JUNGLE.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

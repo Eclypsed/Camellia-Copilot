@@ -1,0 +1,38 @@
+{
+    "name": "I want you ♥ 焼酎... ～ 情熱の熱燗とランデヴー ～",
+    "url": "I-want-you-♥-焼酎-～-情熱の熱燗とランデヴー-～",
+    "altNames": null,
+    "artists": [
+        "miko [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:14",
+    "albums": [
+        {
+            "albumName": "Petit Rhythm Kyun!/プチリズム キュン！",
+            "albumPublisher": "POYAHCHIO/ポヤッチオ",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "I want you ♥ 焼酎... ～ 情熱の熱燗とランデヴー ～",
+            "link": "https://youtu.be/ZUaJePrarsM",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "プチリズム キュン！.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

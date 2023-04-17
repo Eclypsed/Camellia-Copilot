@@ -1,0 +1,52 @@
+{
+    "name": "Ziqqurat (Camellia's \"Protoskyscraper\" Remix)",
+    "url": "Ziqqurat-Camellia-s-Protoskyscraper-Remix",
+    "altNames": null,
+    "artists": [
+        "Yunosuke/雄之助 [C]",
+        "Hatsune Miku/初音ミク [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Ziqqurat",
+        "originalSongArtists": [
+            "雄之助 feat. /初音ミク"
+        ],
+        "originalSongLink": "https://youtu.be/eu02EtwzYog"
+    },
+    "duration": "4:33",
+    "albums": [
+        {
+            "albumName": "HATSUNE MIKU Digital Stars 2021 Compilation",
+            "albumPublisher": "KARENT",
+            "albumReleaseDate": "2021-07-28",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Ziqqurat (Camellia's \"Protoskyscraper\" Remix)",
+            "link": "https://youtu.be/b3oz18ovZvU",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Ziqqurat (Camellia's \"Protoskyscraper\" Remix)",
+            "link": "https://digitalstars.bandcamp.com/track/ziqqurat-camellias-protoskyscraper-remix-yunosuke-feat-hatsune-miku",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "HATSUNE MIKU Digital Stars 2021 Compilation.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

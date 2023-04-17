@@ -1,0 +1,61 @@
+{
+    "name": "Crusaders In Virtuality",
+    "url": "Crusaders-In-Virtuality",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:52",
+    "albums": [
+        {
+            "albumName": "MIND HACK",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-09-07",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        },
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Crusaders In Virtuality",
+            "link": "https://youtu.be/ZP9Q_Ft7z_c",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Crusaders In Virtuality",
+            "link": "https://open.spotify.com/track/4Uigc5S6QhVmXfvgpXh856?si=241a902b07f34aa3",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Crusaders In Virtuality",
+            "link": "https://music.apple.com/vn/album/crusaders-in-virtuality/1389666121?i=1389666343",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Mind Hack.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

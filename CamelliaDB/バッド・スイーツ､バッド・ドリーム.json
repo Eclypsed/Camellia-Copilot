@@ -1,0 +1,52 @@
+{
+    "name": "バッド・スイーツ､バッド・ドリーム",
+    "url": "バッド・スイーツ､バッド・ドリーム",
+    "altNames": [
+        "Bad sweets, bad dreams"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:04",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 29 CastHour ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2022-03-16",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 28 BISTROVER",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-03-18"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "バッド・スイーツ､バッド・ドリーム",
+            "link": "https://youtu.be/qj4V6t5dtaA",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "バッド・スイーツ､バッド・ドリーム",
+            "link": "https://music.apple.com/jp/album/%E3%83%90%E3%83%83%E3%83%89-%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84-%E3%83%90%E3%83%83%E3%83%89-%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0-feat-%E3%81%AA%E3%81%AA%E3%81%B2%E3%82%89/1613636238?i=1613636432",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 29 CastHour OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

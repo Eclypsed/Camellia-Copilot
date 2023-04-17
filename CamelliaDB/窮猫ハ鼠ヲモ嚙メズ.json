@@ -1,0 +1,71 @@
+{
+    "name": "窮猫ハ鼠ヲモ嚙メズ",
+    "url": "窮猫ハ鼠ヲモ嚙メズ",
+    "altNames": null,
+    "artists": [
+        "Chuu-tan/チュウたん"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:08",
+    "albums": [
+        {
+            "albumName": "えとたまキャラクターソングミニアルバム④",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2015-07-01",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        },
+        {
+            "albumName": "THE BEST of ETOTAMAX",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2016-10-09",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "BeatStream",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-08-06"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "窮猫ハ鼠ヲモ嚙メズ",
+            "link": "https://youtu.be/763gUjRw0qM",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "窮猫ハ鼠ヲモ嚙メズ",
+            "link": "https://open.spotify.com/track/5Q283kawf2NjigNC4UGeU5?si=4f6f0efb2cd940d2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "窮猫ハ鼠ヲモ嚙メズ",
+            "link": "https://music.apple.com/jp/album/%E7%AA%AE%E7%8C%AB%E3%83%8F%E9%BC%A0%E3%83%B2%E3%83%A2%E5%99%9B%E3%83%A1%E3%82%BA/1005399196?i=1005399213",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "えとたまキャラクターソングミニアルバム④.jpg",
+            "caption": null
+        },
+        {
+            "filename": "The Best of Etotamax.jpg",
+            "caption": null
+        },
+        {
+            "filename": "窮猫ハ鼠ヲモ嚙メズ.png",
+            "caption": "The song's jacket in Beatstream"
+        }
+    ],
+    "description": "Trimmed down to 2:05 in BeatStream",
+    "variations": null
+}

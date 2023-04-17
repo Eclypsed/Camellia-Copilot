@@ -1,0 +1,54 @@
+{
+    "name": "Future Nyan Bass",
+    "url": "Future-Nyan-Bass",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:48",
+    "albums": [
+        {
+            "albumName": "Candy Star",
+            "albumPublisher": "SKETCH UP! Recordings",
+            "albumReleaseDate": "2015-04-26",
+            "albumReleaseEvent": "M3-35",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Future Nyan Bass",
+            "link": "https://youtu.be/AxIOmZ2QVSk",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Future Nyan Bass",
+            "link": "https://genkianamei.bandcamp.com/track/future-nyan-bass",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Candy Star",
+            "link": "https://diverse.direct/sketch-up-recordings/gecd-014/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Candy Star",
+            "link": "https://www.tanocstore.net/shopdetail/000000000386/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Candy Star.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

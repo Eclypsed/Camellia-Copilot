@@ -1,0 +1,58 @@
+{
+    "name": "ロウスタイル・ボム",
+    "url": "ロウスタイル・ボム",
+    "altNames": [
+        "Rawstyle Bomb"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:46",
+    "albums": [
+        {
+            "albumName": "GALAXY BURST",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-03-21",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ロウスタイル・ボム",
+            "link": "https://youtu.be/uJIRRzCsYi8",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ロウスタイル・ボム",
+            "link": "https://music.apple.com/jp/album/row-style-bomb-feat-nanahira/1362448097?i=1362449007&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "GALAXY BURST",
+            "link": "https://diverse.direct/edp/qwce-90016/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "GALAXY BURST",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001441&search=GALAXY+BURST&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GALAXY BURST.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

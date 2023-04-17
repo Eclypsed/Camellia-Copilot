@@ -1,0 +1,51 @@
+{
+    "name": "魔法使いの絵の具",
+    "url": "魔法使いの絵の具",
+    "altNames": null,
+    "artists": [
+        "Hatsune Miku/初音ミク [V]",
+        "Takanashi Toriko/タカナシトリコ [L]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:55",
+    "albums": [
+        {
+            "albumName": "mikUbiquity",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2011-10-30",
+            "albumReleaseEvent": "M3-28",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "魔法使いの絵の具",
+            "link": "https://youtu.be/ebhuqOi8LIU",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "mikUbiquity",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0003/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "mikUbiquity",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002259&search=mikubiquity&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "mikUbiquity.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

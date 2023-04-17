@@ -1,0 +1,56 @@
+{
+    "name": "Forgotten Memories",
+    "url": "Forgotten-Memories",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:20",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Forgotten Memories",
+            "link": "https://youtu.be/7cLK4rusQIU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Forgotten Memories",
+            "link": "https://open.spotify.com/track/4XBs7kb2rf7RMZ0pJxHPW3?si=efb380d6fad04872",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Forgotten Memories",
+            "link": "https://music.apple.com/us/album/forgotten-memories/1522112127?i=1522112603",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Forgotten Memories",
+            "link": "https://dwellersemptypath.bandcamp.com/track/forgotten-memories",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

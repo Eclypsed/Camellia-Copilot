@@ -1,0 +1,99 @@
+{
+    "name": "PSYCHO+HEROES",
+    "url": "PSYCHO-HEROES",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:00",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS コナステ",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-02-03"
+        },
+        {
+            "gameName": "SOUND VOLTEX EXCEED GEAR",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-04-28"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "PSYCHO+HEROES",
+            "link": "https://youtu.be/S5hORQHNFHY",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "PSYCHO+HEROES.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "PSYCHO+HEROES (“Foolholic” Long ver.)",
+            "url": "PSYCHO-HEROES-“Foolholic”-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:25",
+            "albums": [
+                {
+                    "albumName": "灰の羽搏",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2023-02-15",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "PSYCHO+HEROES (“Foolholic” Long ver.)",
+                    "link": "https://youtu.be/tPQRaRv_6xg",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "PSYCHO+HEROES (“Foolholic” Long ver.)",
+                    "link": "https://open.spotify.com/track/6gtzSqdumlQUvsvjFM8sM1?si=fede8c9e63d144d7",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "PSYCHO+HEROES (“Foolholic” Long ver.)",
+                    "link": "https://music.apple.com/us/album/psycho-heroes-foolholic-long-ver/1669477071?i=1669477075",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "灰の羽搏",
+                    "link": "https://diverse.direct/edp/pcca-06182/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "灰の羽搏",
+                    "link": "https://www.tanocstore.net/shopdetail/000000003212",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "灰の羽搏.jpg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

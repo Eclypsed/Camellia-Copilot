@@ -1,0 +1,56 @@
+{
+    "name": "Breezy Palace",
+    "url": "Breezy-Palace",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:09",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Breezy Palace",
+            "link": "https://youtu.be/TcEsdmfBP_w",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Breezy Palace",
+            "link": "https://open.spotify.com/track/2D3xGrOXSMAvCMcb8PxHTH?si=f2d12e178394438a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Breezy Palace",
+            "link": "https://music.apple.com/us/album/breezy-palace/1522112127?i=1522112731",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Breezy Palace",
+            "link": "https://dwellersemptypath.bandcamp.com/track/breezy-palace",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Sparkling",
+    "url": "Sparkling",
+    "altNames": null,
+    "artists": [
+        "Genki-kun Band/元気くんバンド (DJ Genki [Guitar] Camellia [Bass] JAVELIN [Drums] Yukacco [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:56",
+    "albums": [
+        {
+            "albumName": "Genki-kun Band EP2/元気くんバンドEP2",
+            "albumPublisher": "djgenki.net",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Sparkling",
+            "link": "https://youtu.be/Q7n0XsF0Vf4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Sparkling",
+            "link": "https://genkianamei.bandcamp.com/track/sparkling",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "元気くんバンドEP2.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

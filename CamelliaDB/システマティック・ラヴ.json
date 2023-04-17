@@ -1,0 +1,119 @@
+{
+    "name": "システマティック・ラヴ",
+    "url": "システマティック・ラヴ",
+    "altNames": [
+        "Systematic Love"
+    ],
+    "artists": [
+        "Satsuki ga Tenkomori/さつき が てんこもり [L]",
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:59",
+    "albums": [
+        {
+            "albumName": "Party Junkie",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2012-12-31",
+            "albumReleaseEvent": "Comiket 83",
+            "albumType": "C"
+        },
+        {
+            "albumName": "Stance On Wave",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2013-08-12",
+            "albumReleaseEvent": "Comiket 84",
+            "albumType": "A"
+        },
+        {
+            "albumName": "VOCA NICO☆PARTY",
+            "albumPublisher": "Sony Music Entertainment",
+            "albumReleaseDate": "2013-12-25",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        },
+        {
+            "albumName": "踊ボカ!! ~踊ってみたセレクション~",
+            "albumPublisher": "VOCALOID RECORDS",
+            "albumReleaseDate": "2014-03-12",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        },
+        {
+            "albumName": "EXIT TUNES PRESENTS Entrance Dream Music 2",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2015-12-16",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "システマティック・ラヴ",
+            "link": "https://youtu.be/_JPm6z7F3Co",
+            "unofficial": false
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "システマティック・ラヴ",
+            "link": "https://www.nicovideo.jp/watch/sm19626042",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "システマティック・ラヴ",
+            "link": "https://open.spotify.com/track/4vdUlcT5MBLITNBput9WBs?si=4882dd11bcdf4ec3",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "システマティック・ラヴ",
+            "link": "https://music.apple.com/jp/album/systematic-love/1064477375?i=1064477379&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Stance On Wave",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0006/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Stance On Wave",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002261&search=stance+on+wave&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Systematic Love.png",
+            "caption": null
+        },
+        {
+            "filename": "Party Junkie.jpg",
+            "caption": null
+        },
+        {
+            "filename": "Stance on Wave.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "VOCA NICO☆PARTY.jpg",
+            "caption": null
+        },
+        {
+            "filename": "踊ボカ!! ~踊ってみたセレクション~.jpg",
+            "caption": null
+        },
+        {
+            "filename": "EXIT TUNES PRESENTS Entrance Dream Music 2.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,60 @@
+{
+    "name": "A+B+L+E+P+S+I+A",
+    "url": "A-B-L-E-P-S-I-A",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:05",
+    "albums": [
+        {
+            "albumName": "BASS CHASERS",
+            "albumPublisher": "Lick Dom Records",
+            "albumReleaseDate": "2016-12-31",
+            "albumReleaseEvent": "Comiket 91",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "A+B+L+E+P+S+I+A",
+            "link": "https://youtu.be/jF4JZVcl94E",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "A+B+L+E+P+S+I+A",
+            "link": "https://open.spotify.com/track/1FdsYcqnUZrLmwBZLQ4Fhw?si=f538f71467534abf",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "A+B+L+E+P+S+I+A",
+            "link": "https://c-show.bandcamp.com/track/a-b-l-e-p-s-i-a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "BASS CHASERS",
+            "link": "https://diverse.direct/lick-dom-records/ldr-002/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "BASS CHASERS",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001020&search=BASS+CHASERS&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "BASS CHASERS.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

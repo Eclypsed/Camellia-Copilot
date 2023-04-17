@@ -1,0 +1,38 @@
+{
+    "name": "PAINLESS EXCITE",
+    "url": "PAINLESS-EXCITE",
+    "altNames": null,
+    "artists": [
+        "Merami Pop/めらみぽっぷ [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:14",
+    "albums": [
+        {
+            "albumName": "EMOTIVE BRILLIANCE -A State of Rock-",
+            "albumPublisher": "Sprite Recordings",
+            "albumReleaseDate": "2013-10-27",
+            "albumReleaseEvent": "M3-32",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "PAINLESS EXCITE",
+            "link": "https://youtu.be/a2I_xCvMBHY",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "EMOTIVE BRILLIANCE.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

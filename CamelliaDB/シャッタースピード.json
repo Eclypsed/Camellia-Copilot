@@ -1,0 +1,58 @@
+{
+    "name": "シャッタースピード",
+    "url": "シャッタースピード",
+    "altNames": [
+        "Shutter Speed"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:48",
+    "albums": [
+        {
+            "albumName": "Replay!/りぷれい！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "シャッタースピード",
+            "link": "https://youtu.be/ncYVNVN9vuQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "シャッタースピード",
+            "link": "https://open.spotify.com/track/0kMXzcJpXWBGkEWxC5yW5E?si=e811f2d9def54217",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "シャッタースピード",
+            "link": "https://music.apple.com/us/album/shutter-speed/1553655872?i=1553656223",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "りぷれい！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-003/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Replay!.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

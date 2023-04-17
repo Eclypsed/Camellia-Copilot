@@ -1,0 +1,44 @@
+{
+    "name": "Falling In The Future",
+    "url": "Falling-In-The-Future",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:07",
+    "albums": [
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "Spotify",
+            "displayName": "Falling In The Future",
+            "link": "https://open.spotify.com/track/1CSHzp28FunUzN8H4DbcuA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Falling In The Future",
+            "link": "https://music.apple.com/us/album/falling-in-the-future/1389666121?i=1389666349",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

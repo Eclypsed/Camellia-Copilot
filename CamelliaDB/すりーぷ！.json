@@ -1,0 +1,58 @@
+{
+    "name": "すりーぷ！",
+    "url": "すりーぷ！",
+    "altNames": [
+        "Sleep!"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:43",
+    "albums": [
+        {
+            "albumName": "Sleep!/すりーぷ！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "すりーぷ！",
+            "link": "https://youtu.be/KsOXuKOileU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "すりーぷ！",
+            "link": "https://open.spotify.com/track/3VxcXjbaLr5IZvDKU91z8m?si=77a782c940fc487d",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "すりーぷ！",
+            "link": "https://music.apple.com/jp/album/sleep/1554742814?i=1554742831&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "すりーぷ！ (Album)",
+            "link": "https://diverse.direct/?s=%E3%81%99%E3%82%8A%E3%83%BC%E3%81%B7%EF%BC%81",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sleep!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,62 @@
+{
+    "name": "フォビどぅん・ピザ！",
+    "url": "フォビどぅん・ピザ！",
+    "altNames": [
+        "FORBIDDEN-PIZZA!"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:31",
+    "albums": [
+        {
+            "albumName": "フォビどぅん・ピザ！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2022-12-24",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Muse Dash",
+            "gamePublisher": "PeroPeroGames",
+            "gameReleaseDate": "2022-12-23"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "フォビどぅん・ピザ！",
+            "link": "https://youtu.be/6YdZgtvxSwU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "フォビどぅん・ピザ！",
+            "link": "https://open.spotify.com/track/4oxbn7IRlkLADCzJWdYq8p?si=6a590d95d0e74231",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "フォビどぅん・ピザ！",
+            "link": "https://music.apple.com/us/album/forbidden-pizza/1660444522?i=1660444523",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "フォビどぅん・ピザ！.png",
+            "caption": null
+        },
+        {
+            "filename": "フォビどぅん・ピザ！.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Final Flash Flight",
+    "url": "Final-Flash-Flight",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:23",
+    "albums": [
+        {
+            "albumName": "ONGEKI Sound Collection 07 Memories of O.N.G.E.K.I.",
+            "albumPublisher": "KADOKAWA",
+            "albumReleaseDate": "2022-08-24",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "オンゲキ bright MEMORY",
+            "gamePublisher": "SEGA",
+            "gameReleaseDate": "2022-03-03"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Final Flash Flight",
+            "link": "https://youtu.be/H6_ci427FAo",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Final Flash Flight.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "ONGEKI Sound Collection 07 Memories of O.N.G.E.K.I..jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,56 @@
+{
+    "name": "senpai, notice me!",
+    "url": "senpai-notice-me",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:40",
+    "albums": [
+        {
+            "albumName": "4orce!/ふぉーす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2017-12-29",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "senpai, notice me!",
+            "link": "https://youtu.be/_bp8NX7BAB0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "senpai, notice me!",
+            "link": "https://open.spotify.com/track/3q6fwV911vTYbOq7CbdeVG?si=e89b777ccc49414a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "senpai, notice me!",
+            "link": "https://music.apple.com/us/album/senpai-notice-me/1552865093?i=1552865105",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ふぉーす！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-006/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "4orce!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

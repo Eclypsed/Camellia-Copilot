@@ -1,0 +1,76 @@
+{
+    "name": "Light it up",
+    "url": "Light-it-up",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "6:14",
+    "albums": [
+        {
+            "albumName": "crystallized",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2015-12-31",
+            "albumReleaseEvent": "Comiket 89",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Beat Saber Camellia Pack",
+            "gamePublisher": "Beat Games",
+            "gameReleaseDate": "2019-07-25"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Light it up",
+            "link": "https://youtu.be/eKyQvs6tCRM",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Light it up",
+            "link": "https://open.spotify.com/track/3MA7N8ALJzg4I696jxdk8d?si=6297782211df4fb7",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Light it up",
+            "link": "https://music.apple.com/us/album/light-it-up/1080230292?i=1080230442",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Light it up",
+            "link": "https://cametek.bandcamp.com/track/light-it-up",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "crystallized",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0012/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "crystallized",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000671&search=crystallized&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "crystallized.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "Beat Saber Camellia Pack.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

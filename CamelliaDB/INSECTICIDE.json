@@ -1,0 +1,62 @@
+{
+    "name": "INSECTICIDE",
+    "url": "INSECTICIDE",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:39",
+    "albums": [
+        {
+            "albumName": "Steel Chronicle The Original Soundtrack -LOST NIRVANA-",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2014-08-20",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Steel Chronicle VICTROOPERS",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2013-12-11"
+        },
+        {
+            "gameName": "SOUND VOLTEX II -infinite infection-",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-07-30"
+        },
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS コナステ",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-09-05"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "INSECTICIDE",
+            "link": "https://youtu.be/B5BewLWrZU8",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "INSECTICIDE",
+            "link": "https://music.apple.com/jp/album/insecticide/904574782?i=904578942",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Steel Chronicle The Original Soundtrack LOST NIRVANA.jpg",
+            "caption": null
+        },
+        {
+            "filename": "INSECTICIDE.png",
+            "caption": null
+        }
+    ],
+    "description": "INSECTICIDE was originally a BGM song in Konami's 3rd person shooter arcade game Steel Chronicle VICTROOPERS. A shortened version of the original INSECTICIDE (2:09) made for the SDVX series. It was a part of the POLICY BREAK event, where you needed to play 10 briefing missions in Steel Chronicle VICTROOPERS to unlock INSECTICIDE in the SDVX series.",
+    "variations": null
+}

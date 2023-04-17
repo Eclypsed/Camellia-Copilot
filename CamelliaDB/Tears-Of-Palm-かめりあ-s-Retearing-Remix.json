@@ -1,0 +1,58 @@
+{
+    "name": "Tears Of Palm (かめりあ's \"Retearing\" Remix)",
+    "url": "Tears-Of-Palm-かめりあ-s-Retearing-Remix",
+    "altNames": null,
+    "artists": [
+        "Clean Tears [C]",
+        "Hatsune Miku/初音ミク [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Tears of palm",
+        "originalSongArtists": [
+            "Clean Tears feat. Hatsune Miku/初音ミク"
+        ],
+        "originalSongLink": "https://youtu.be/sqSOclPJ7is"
+    },
+    "duration": "5:22",
+    "albums": [
+        {
+            "albumName": "Sound Collection - Another Original",
+            "albumPublisher": "S.C.X",
+            "albumReleaseDate": "2014-12-30",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Tears Of Palm (かめりあ's \"Retearing\" Remix)",
+            "link": "https://youtu.be/Vi6zwuIhV3o",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Tears Of Palm (かめりあ's \"Retearing\" Remix)",
+            "link": "https://open.spotify.com/track/2ZalgvdiJ4r1a1MZ6J5I8W?si=b2563bf7f6484685",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Tears Of Palm (かめりあ's \"Retearing\" Remix)",
+            "link": "https://music.apple.com/us/album/tears-of-palm-camellias-retearing-remix-feat-hatsune-miku/1109950778?i=1109950905",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "SOUND COLLECTION - ANOTHER ORIGINAL.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,126 @@
+{
+    "name": "WorkaHolic(Camellia's C-ounterfeit GlitchHop Remix)",
+    "url": "WorkaHolic-Camellia-s-C-ounterfeit-GlitchHop-Remix",
+    "altNames": null,
+    "artists": [
+        "C-Show [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Workaholic",
+        "originalSongArtists": [
+            "C-Show"
+        ],
+        "originalSongLink": "https://youtu.be/VO87b1XlVqg"
+    },
+    "duration": "4:33",
+    "albums": [
+        {
+            "albumName": "HOLIX",
+            "albumPublisher": "Lick Dom Records",
+            "albumReleaseDate": "2013-12-31",
+            "albumReleaseEvent": "Comiket 85",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "WorkaHolic(Camellia's C-ounterfeit GlitchHop Remix)",
+            "link": "https://youtu.be/DSQglbTKOVU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "WorkaHolic(Camellia's C-ounterfeit GlitchHop Remix)",
+            "link": "https://open.spotify.com/track/35rr1xigKl6YVamB5mw0uh?si=9d92762f1b17477b",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "WorkaHolic(Camellia's C-ounterfeit GlitchHop Remix)",
+            "link": "https://music.apple.com/jp/album/workaholic-camellias-c-ounterfeit-glitchhop-remix/1492978633?i=1492978654&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "WorkaHolic(Camellia's C-ounterfeit GlitchHop Remix)",
+            "link": "https://c-show.bandcamp.com/track/workaholic-camellias-c-ounterfeit-glitchhop-remix",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "HOLIX",
+            "link": "https://diverse.direct/%e3%81%9d%e3%81%ae%e4%bb%96/ldr-001/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "HOLIX.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Workaholic (Camellia's \"C-ounterfait\" GlitchHop Remix) [2018VIP]",
+            "url": "Workaholic-Camellia-s-C-ounterfait-GlitchHop-Remix-2018VIP",
+            "altNames": null,
+            "artists": [
+                "C-Show [C]",
+                "Camellia [R]"
+            ],
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": {
+                "originalSongName": "Workaholic",
+                "originalSongArtists": [
+                    "C-Show"
+                ],
+                "originalSongLink": "https://youtu.be/VO87b1XlVqg"
+            },
+            "duration": "4:36",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2018-08-10",
+                    "albumReleaseEvent": "Comiket 94",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Workaholic (Camellia's \"C-ounterfait\" GlitchHop Remix) [2018VIP]",
+                    "link": "https://youtu.be/MI6MZQDsiJU",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Remixes Summary VIPs 02.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

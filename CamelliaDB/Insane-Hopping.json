@@ -1,0 +1,48 @@
+{
+    "name": "Insane Hopping",
+    "url": "Insane-Hopping",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:05",
+    "albums": [
+        {
+            "albumName": "Frolic Rollick",
+            "albumPublisher": "Sound Ave.",
+            "albumReleaseDate": "2017-10-29",
+            "albumReleaseEvent": "M3-40",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Insane Hopping",
+            "link": "https://youtu.be/Tp5UKQ92tNA",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Frolic Rollick",
+            "link": "https://diverse.direct/sound-ave/sacd-0035/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Frolic Rollick",
+            "link": "https://www.tanocstore.net/shopdetail/000000001329/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Frolic Rollick.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,66 @@
+{
+    "name": "We obtain the future",
+    "url": "We-obtain-the-future",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "Fancymat [L]",
+        "Chihiro Aihara/愛原千尋 [V]",
+        "Yuuki Aihara/愛原佑季 [V]",
+        "Purple/パープル [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " 信仰は儚き人間の為に",
+            "touhouGame": "東方風神録　～ Mountain of Faith "
+        },
+        {
+            "touhouSong": " 神さびた古戦場　～ Suwa Foughten Field",
+            "touhouGame": "東方風神録　～ Mountain of Faith "
+        },
+        {
+            "touhouSong": " ネイティブフェイス",
+            "touhouGame": "東方風神録　～ Mountain of Faith"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:00",
+    "albums": [
+        {
+            "albumName": "Toho Warfare:RED",
+            "albumPublisher": "Tennenjemini",
+            "albumReleaseDate": "2012-08-11",
+            "albumReleaseEvent": "Comiket 82",
+            "albumType": "C"
+        },
+        {
+            "albumName": "Toho Warfare:RED I+II+III+EX",
+            "albumPublisher": "Tennenjemini",
+            "albumReleaseDate": "2014-12-29",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "We obtain the future",
+            "link": "https://youtu.be/0LsySHvREbE",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Toho Warfare RED.jpg",
+            "caption": null
+        },
+        {
+            "filename": "Toho Warfare RED I+II+III+EX.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included in the release",
+    "variations": null
+}

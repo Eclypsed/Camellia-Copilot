@@ -1,0 +1,62 @@
+{
+    "name": "Trinity Homerun",
+    "url": "Trinity-Homerun",
+    "altNames": null,
+    "artists": [
+        "KASAI HARCORES (DJ Genki Camellia & C-Show) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:11",
+    "albums": [
+        {
+            "albumName": "KASAI HARCORES EP3 Kasai Baseball Classic/葛西ハーコーズEP3 Kasai Baseball Classic",
+            "albumPublisher": "KASAI HARCORES",
+            "albumReleaseDate": "2018-10-28",
+            "albumReleaseEvent": "M3-42",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Trinity Homerun",
+            "link": "https://youtu.be/6ARJiZhoX3w",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Trinity Homerun",
+            "link": "https://open.spotify.com/track/3cNaaC4seMJ6FfntsHZ6RR?si=a810242f6ea347ae",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Trinity Homerun",
+            "link": "https://music.apple.com/jp/album/trinity-homerun/1479957562?i=1479957819&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Trinity Homerun",
+            "link": "https://genkianamei.bandcamp.com/track/trinity-homerun",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "葛西ハーコーズEP3 Kasai Baseball Classic",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001740&search=%B3%EB%C0%BE%A5%CF%A1%BC%A5%B3%A1%BC%A5%BAEP3+Kasai+Baseball+Classic&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Kasai Harcores EP3 Kasai Baseball Classic.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

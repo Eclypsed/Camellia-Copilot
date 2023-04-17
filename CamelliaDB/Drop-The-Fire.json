@@ -1,0 +1,62 @@
+{
+    "name": "Drop The Fire",
+    "url": "Drop-The-Fire",
+    "altNames": null,
+    "artists": [
+        "KASAI HARCORES (DJ Genki Camellia & C-Show) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:56",
+    "albums": [
+        {
+            "albumName": "KASAI HARCORES EP3 Kasai Baseball Classic/葛西ハーコーズEP3 Kasai Baseball Classic",
+            "albumPublisher": "KASAI HARCORES",
+            "albumReleaseDate": "2018-10-28",
+            "albumReleaseEvent": "M3-42",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Drop The Fire",
+            "link": "https://youtu.be/Su-b-8uHd6o",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Drop The Fire",
+            "link": "https://open.spotify.com/track/5vDX8jFRzfyju2cTxucxYV?si=b7dcc515c5ad4e5f",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Drop The Fire",
+            "link": "https://music.apple.com/us/album/drop-the-fire/1479957562?i=1479957813",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Drop The Fire",
+            "link": "https://genkianamei.bandcamp.com/track/drop-the-fire",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "葛西ハーコーズEP3 Kasai Baseball Classic",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001740&search=%B3%EB%C0%BE%A5%CF%A1%BC%A5%B3%A1%BC%A5%BAEP3+Kasai+Baseball+Classic&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Kasai Harcores EP3 Kasai Baseball Classic.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

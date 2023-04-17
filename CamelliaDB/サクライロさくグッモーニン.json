@@ -1,0 +1,50 @@
+{
+    "name": "サクライロさくグッモーニン",
+    "url": "サクライロさくグッモーニン",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:06",
+    "albums": [
+        {
+            "albumName": "The Seventh Seal",
+            "albumPublisher": "Binzokomegane Girls Union/瓶底眼鏡女子同盟",
+            "albumReleaseDate": "2016-10-30",
+            "albumReleaseEvent": "M3-38",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "サクライロさくグッモーニン",
+            "link": "https://youtu.be/ttPbbQvd1-I",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "The Seventh Seal",
+            "link": "https://diverse.direct/binzokomegane-girls-union/sgpc-007/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "The Seventh Seal",
+            "link": "https://www.tanocstore.net/shopdetail/000000000984",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "The Seventh Seal.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

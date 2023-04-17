@@ -1,0 +1,99 @@
+{
+    "name": "Proluvies",
+    "url": "Proluvies",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:52",
+    "albums": [
+        {
+            "albumName": "REFLEC BEAT groovin'!! + colette ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2014-10-08",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "REFLEC BEAT groovin'!!",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2014-09-12"
+        },
+        {
+            "gameName": "REFLEC BEAT plus",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-03-11"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Proluvies",
+            "link": "https://youtu.be/5GW0WgucTfw",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Proluvies.png",
+            "caption": null
+        },
+        {
+            "filename": "REFLEC BEAT groovin!! + colette ORIGINAL SOUNDTRACK.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Proluvies (\"abyssum oblivionis\" Long ver.)",
+            "url": "Proluvies-abyssum-oblivionis-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:22",
+            "albums": [
+                {
+                    "albumName": "Xroniàl Xéro",
+                    "albumPublisher": "PONY CANYON/ポニーキャニオン",
+                    "albumReleaseDate": "2020-03-18",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Proluvies (\"abyssum oblivionis\" Long ver.)",
+                    "link": "https://youtu.be/etuwiBSYXtg",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Xroniàl Xéro",
+                    "link": "https://diverse.direct/edp/pcca-04883/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Xroniàl Xéro",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002383&search=Xroni%26%23224%3Bl+X%26%23233%3Bro&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Xronial Xero.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

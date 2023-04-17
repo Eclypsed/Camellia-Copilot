@@ -1,0 +1,62 @@
+{
+    "name": "DENPA NEVER DIE",
+    "url": "DENPA-NEVER-DIE",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:05",
+    "albums": [
+        {
+            "albumName": "灰の羽搏",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2023-02-15",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "DENPA NEVER DIE",
+            "link": "https://youtu.be/8k2f3JKPZmM",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "DENPA NEVER DIE",
+            "link": "https://open.spotify.com/track/6zcQQPcA9GCrTWH24Ne3Qf?si=47ff9b5e81aa4d9f",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "DENPA NEVER DIE",
+            "link": "https://music.apple.com/us/album/denpa-never-die-feat-nanahira/1669477071?i=1669477081",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "灰の羽搏",
+            "link": "https://diverse.direct/edp/pcca-06182/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "灰の羽搏",
+            "link": "https://www.tanocstore.net/shopdetail/000000003212",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "灰の羽搏.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

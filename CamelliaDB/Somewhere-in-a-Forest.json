@@ -1,0 +1,57 @@
+{
+    "name": "Somewhere in a Forest",
+    "url": "Somewhere-in-a-Forest",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]",
+        "Temmie Chang [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:10",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Somewhere in a Forest",
+            "link": "https://youtu.be/PbeUPvN-9xo",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Somewhere in a Forest",
+            "link": "https://open.spotify.com/track/37TSenlTe0SJjDxgLseZ0h?si=22913a644b3f4de8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Somewhere in a Forest",
+            "link": "https://music.apple.com/us/album/somewhere-in-a-forest/1522112127?i=1522112436",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Somewhere in a Forest",
+            "link": "https://dwellersemptypath.bandcamp.com/track/somewhere-in-a-forest",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

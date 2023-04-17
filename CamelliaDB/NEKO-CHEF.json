@@ -1,0 +1,56 @@
+{
+    "name": "NEKO*CHEF",
+    "url": "NEKO-CHEF",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:20",
+    "albums": [
+        {
+            "albumName": "VERSUS!/ばーさす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "NEKO*CHEF",
+            "link": "https://youtu.be/U3SNwZ-bmAE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "NEKO*CHEF",
+            "link": "https://open.spotify.com/track/55AIEB4E8GfIKEyQyGO9UL?si=cb0ba7888f40433c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "NEKO*CHEF",
+            "link": "https://music.apple.com/jp/album/neko-chef/1554743724?i=1554744080&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ばーさす！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-001/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "VERSUS!.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Rude Buster (Camellia Remix)",
+    "url": "Rude-Buster-Camellia-Remix",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Rude Buster",
+        "originalSongArtists": [
+            "Toby Fox"
+        ],
+        "originalSongLink": "https://youtu.be/GPL5Hkl11IQ"
+    },
+    "duration": "5:52",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Rude Buster (Camellia Remix)",
+            "link": "https://youtu.be/lCwVr2s-pF0",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Rude Buster (Camellia Remix).jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

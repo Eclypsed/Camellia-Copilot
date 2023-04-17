@@ -1,0 +1,38 @@
+{
+    "name": "transparent",
+    "url": "transparent",
+    "altNames": null,
+    "artists": [
+        "GUMI/グミ [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:12",
+    "albums": [
+        {
+            "albumName": "ALL VOCALOID ATTACK #2",
+            "albumPublisher": "TamStar Records",
+            "albumReleaseDate": "2013-12-29",
+            "albumReleaseEvent": "Comiket 85",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "transparent",
+            "link": "https://youtu.be/BH8NK6VJf8o",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ALL VOCALOID ATTACK #2.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

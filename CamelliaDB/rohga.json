@@ -1,0 +1,66 @@
+{
+    "name": "rohga...",
+    "url": "rohga",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:13",
+    "albums": [
+        {
+            "albumName": "[diffraction]",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-04-27",
+            "albumReleaseEvent": "M3-33",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "rohga...",
+            "link": "https://youtu.be/0AJPUD8DE2c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "rohga...",
+            "link": "https://open.spotify.com/track/0O8wkmZTx5KholyhDh64xI?si=1d91b3a18b7e4aff",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "rohga...",
+            "link": "https://music.apple.com/us/album/rohga/1049609666?i=1049610505",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "rohga...",
+            "link": "https://cametek.bandcamp.com/track/rohga",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "[diffraction]",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0008/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "[diffraction]",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002263&search=diffraction&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "[diffraction].jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

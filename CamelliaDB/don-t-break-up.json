@@ -1,0 +1,61 @@
+{
+    "name": "don't break up",
+    "url": "don-t-break-up",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]",
+        "Yuuno Yoshimi/夕野ヨシミ [L]",
+        "Yuuki Aihara/愛原佑季 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " メイガスナイト",
+            "touhouGame": "妖精大戦争　～ 東方三月精 "
+        },
+        {
+            "touhouSong": " Dim. Dream",
+            "touhouGame": "東方夢時空　～ The Phantasmagoria of Dim.Dream"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:24",
+    "albums": [
+        {
+            "albumName": "ENCYCLOPEDIA <魔> magical beings",
+            "albumPublisher": "ユウノウミ",
+            "albumReleaseDate": "2012-05-27",
+            "albumReleaseEvent": "Reitaisai 9",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "don't break up",
+            "link": "https://youtu.be/OE6_4PcfkFU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "don't break up",
+            "link": "https://open.spotify.com/track/6sSwMFOXCTTY8BvFXQQAcC?si=d0e6074a05ed4721",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "don't break up",
+            "link": "https://music.apple.com/us/album/dont-break-up/1455309007?i=1455309008",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ENCYCLOPEDIA 魔 magical beings.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Off vocal version included in the release",
+    "variations": null
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Sharkventure!!",
+    "url": "Sharkventure",
+    "altNames": null,
+    "artists": [
+        "Gawr Gura [?]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:28",
+    "albums": [
+        {
+            "albumName": "Hololive English -Myth- Image Soundtrack",
+            "albumPublisher": "COVER Corporation/カバー株式会社",
+            "albumReleaseDate": "2021-03-14",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Sharkventure!!",
+            "link": "https://youtu.be/pCR8zw5pdbk",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Sharkventure!!",
+            "link": "https://open.spotify.com/track/4tX8tHJxTOZ0Dd9At2UIs8?si=3b1965085add4b2d",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Sharkventure!!",
+            "link": "https://music.apple.com/us/album/sharkventure/1557415273?i=1557415279",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Hololive English -Myth- Image Soundtrack.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

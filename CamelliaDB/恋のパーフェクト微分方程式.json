@@ -1,0 +1,63 @@
+{
+    "name": "恋のパーフェクト微分方程式",
+    "url": "恋のパーフェクト微分方程式",
+    "altNames": [
+        "Love of perfect differential equations"
+    ],
+    "artists": [
+        "Camellia [A]",
+        "Yuuno Yoshimi/夕野ヨシミ [L]",
+        "monotone/山本椛 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": " ルーネイトエルフ",
+            "touhouGame": "東方紅魔郷　～ the Embodiment of Scarlet Devil "
+        },
+        {
+            "touhouSong": " おてんば恋娘",
+            "touhouGame": "東方紅魔郷　～ the Embodiment of Scarlet Devil"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:16",
+    "albums": [
+        {
+            "albumName": "My Cirno Can't Be This Much of a Genius/俺のチルノがこんなに天才なわけがない",
+            "albumPublisher": "ユウノウミ",
+            "albumReleaseDate": "2011-08-13",
+            "albumReleaseEvent": "Comiket 80",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "恋のパーフェクト微分方程式",
+            "link": "https://youtu.be/M99ccmmeZr8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "恋のパーフェクト微分方程式",
+            "link": "https://open.spotify.com/track/77tJp6QZjaieDQtTcieIUx?si=42c33e8199334b8b",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "恋のパーフェクト微分方程式",
+            "link": "https://music.apple.com/us/album/koi-no-perfect-differential-equation/1455310649?i=1455310650",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "My Cirno Can't Be This Much of a Genius.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

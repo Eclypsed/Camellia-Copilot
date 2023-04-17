@@ -1,0 +1,57 @@
+{
+    "name": "Underground Path",
+    "url": "Underground-Path",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]",
+        "Temmie Chang [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:24",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Underground Path",
+            "link": "https://youtu.be/hV4Y-1Wkl1U",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Underground Path",
+            "link": "https://open.spotify.com/track/0XvwRx2kghTLuQ7tL5kLhP?si=4608b39f12114ffc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Underground Path",
+            "link": "https://music.apple.com/us/album/underground-path/1522112127?i=1522112589",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Underground Path",
+            "link": "https://dwellersemptypath.bandcamp.com/track/underground-path",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

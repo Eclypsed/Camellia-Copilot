@@ -1,0 +1,41 @@
+{
+    "name": "Ultimate Ascension",
+    "url": "Ultimate-Ascension",
+    "altNames": null,
+    "artists": [
+        "Camellia [A]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "Ultimate Truth/アルティメットトゥルース",
+            "touhouGame": "東方妖々夢 ～ Perfect Cherry Blossom"
+        }
+    ],
+    "originalSong": null,
+    "duration": "2:01",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX III -GRAVITY WARS-",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-06-30"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Ultimate Ascension",
+            "link": "https://youtu.be/gVeuslF-EAM",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Ultimate Ascension.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

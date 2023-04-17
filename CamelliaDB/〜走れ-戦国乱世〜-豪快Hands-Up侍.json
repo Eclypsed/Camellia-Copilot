@@ -1,0 +1,60 @@
+{
+    "name": "〜走れ!戦国乱世〜 豪快Hands Up侍",
+    "url": "〜走れ-戦国乱世〜-豪快Hands-Up侍",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:40",
+    "albums": [
+        {
+            "albumName": "ULTRA HANDZ UP BEST",
+            "albumPublisher": "Polyphonix",
+            "albumReleaseDate": "2017-10-29",
+            "albumReleaseEvent": "M3-40",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "〜走れ!戦国乱世〜 豪快Hands Up侍",
+            "link": "https://youtu.be/CmodIpPojrE",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "〜走れ!戦国乱世〜 豪快Hands Up侍",
+            "link": "https://open.spotify.com/track/3f8jKUsMfegGRtrMYOu6pq?si=09d09e960f314275",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "〜走れ!戦国乱世〜 豪快Hands Up侍",
+            "link": "https://polyphonixmusic.bandcamp.com/track/hands-up",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ULTRA HANDZ UP BEST",
+            "link": "https://diverse.direct/polyphonix/adsr-0011/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "ULTRA HANDZ UP BEST",
+            "link": "https://www.tanocstore.net/shopdetail/000000001291/M3_A_2017/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Ultra Handz Up Best.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

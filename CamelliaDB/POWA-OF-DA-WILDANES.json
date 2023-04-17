@@ -1,0 +1,66 @@
+{
+    "name": "POWA OF DA WILDANES",
+    "url": "POWA-OF-DA-WILDANES",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:38",
+    "albums": [
+        {
+            "albumName": "INVAIDAS FROM DA JUNGLE",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "POWA OF DA WILDANES",
+            "link": "https://youtu.be/Ldh1fSo1lGU",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "POWA OF DA WILDANES",
+            "link": "https://open.spotify.com/track/0n4qtFAs1lYklVa0StMtg0?si=d5c33ac1037346f4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "POWA OF DA WILDANES",
+            "link": "https://music.apple.com/us/album/powa-of-da-wildanes/1278213773?i=1278214305",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "POWA OF DA WILDANES",
+            "link": "https://cametek.bandcamp.com/track/powa-of-da-wildanes",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0016/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "INVAIDAS FROM DA JUNGLE",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001208&search=INVAIDAS+FROM+DA+JUNGLE&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "INVAIDAS FROM DA JUNGLE.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

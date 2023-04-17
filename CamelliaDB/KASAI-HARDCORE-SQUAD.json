@@ -1,0 +1,62 @@
+{
+    "name": "KASAI HARDCORE SQUAD",
+    "url": "KASAI-HARDCORE-SQUAD",
+    "altNames": null,
+    "artists": [
+        "KASAI HARCORES (DJ Genki Camellia & C-Show) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:23",
+    "albums": [
+        {
+            "albumName": "KASAI HARCORES EP3 Kasai Baseball Classic/葛西ハーコーズEP3 Kasai Baseball Classic",
+            "albumPublisher": "KASAI HARCORES",
+            "albumReleaseDate": "2018-10-28",
+            "albumReleaseEvent": "M3-42",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "KASAI HARDCORE SQUAD",
+            "link": "https://youtu.be/Lwia12jAOHA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "KASAI HARDCORE SQUAD",
+            "link": "https://open.spotify.com/track/1c7HNJpSdumZUMaLGYu8oO?si=3ca807d79cd94c5e",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "KASAI HARDCORE SQUAD",
+            "link": "https://music.apple.com/us/album/kasai-hardcore-squad/1479957562?i=1479957814",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "KASAI HARDCORE SQUAD",
+            "link": "https://genkianamei.bandcamp.com/track/kasai-hardcore-squad",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "葛西ハーコーズEP3 Kasai Baseball Classic",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001740&search=%B3%EB%C0%BE%A5%CF%A1%BC%A5%B3%A1%BC%A5%BAEP3+Kasai+Baseball+Classic&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Kasai Harcores EP3 Kasai Baseball Classic.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

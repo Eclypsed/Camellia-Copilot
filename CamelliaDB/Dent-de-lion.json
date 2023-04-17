@@ -1,0 +1,57 @@
+{
+    "name": "Dent de lion",
+    "url": "Dent-de-lion",
+    "altNames": null,
+    "artists": [
+        "kradness [C A L V]",
+        "Camellia [A]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:31",
+    "albums": [
+        {
+            "albumName": "Memento",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2021-02-17",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Dent de lion",
+            "link": "https://youtu.be/ujcCzC5DMH0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Dent de lion",
+            "link": "https://open.spotify.com/track/07VdeUNNQY8y9hh6KIL6FO?si=28ce05a746b8460d",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Dent de lion",
+            "link": "https://music.apple.com/us/album/dent-de-lion/1552666113?i=1552666296",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Memento",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002657&search=Memento&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Memento.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

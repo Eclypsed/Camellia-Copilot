@@ -1,0 +1,46 @@
+{
+    "name": "クレープ♥ちゅうどく",
+    "url": "クレープ♥ちゅうどく",
+    "altNames": [
+        "Crepe ♥ Addiction"
+    ],
+    "artists": [
+        "Camellia [A L]",
+        "みぃしゃ [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "プラスチックマインド",
+            "touhouGame": "東方怪綺談　～ Mystic Square"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:53",
+    "albums": [
+        {
+            "albumName": "T★GIRLS.04",
+            "albumPublisher": "Forestpireo/ふぉれすとぴれお",
+            "albumReleaseDate": "2014-05-11",
+            "albumReleaseEvent": "Reitaisai 11",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "クレープ♥ちゅうどく",
+            "link": "https://youtu.be/-y3cczkLxTc",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "T★GIRLS.04.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

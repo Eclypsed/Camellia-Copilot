@@ -1,0 +1,50 @@
+{
+    "name": "Infoholical",
+    "url": "Infoholical",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:10",
+    "albums": [
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Infoholical",
+            "link": "https://youtu.be/cZ6ViM8Us_c",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Infoholical",
+            "link": "https://open.spotify.com/track/4PlKbS4HGSqOJwEhi1voYd?si=18eeca4064ed425d",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Infoholical",
+            "link": "https://music.apple.com/us/album/infoholical/1389666121?i=1389666345",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,73 @@
+{
+    "name": "First Dawn, Amber Wind",
+    "url": "First-Dawn-Amber-Wind",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Toriko Takanashi/タカナシトリコ [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "狂気の瞳　～ Invisible Full Moon",
+            "touhouGame": "東方永夜抄　～ Imperishable Night"
+        }
+    ],
+    "originalSong": null,
+    "duration": "5:30",
+    "albums": [
+        {
+            "albumName": "DEGENERATE DANCEHALL",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2013-05-26",
+            "albumReleaseEvent": "Reitaisai 10",
+            "albumType": "C"
+        },
+        {
+            "albumName": "REBIRTH DANCEHALL",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2013-08-12",
+            "albumReleaseEvent": "Comiket 84",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "First Dawn, Amber Wind",
+            "link": "https://youtu.be/l27PEp4k5xg",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "First Dawn, Amber Wind",
+            "link": "https://open.spotify.com/track/2mYR1soZqMGiQNOw6rzfva?si=8952fde3c9444d2b",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "First Dawn, Amber Wind",
+            "link": "https://music.apple.com/us/album/first-dawn-amber-wind-feat-toriko-takanashi-camellia/1613281515?i=1613281521",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "DEGENERATE DANCEHALL",
+            "link": "https://www.tanocstore.net/shopdetail/000000000307/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "DEGENERATE DANCEHALL.jpg",
+            "caption": null
+        },
+        {
+            "filename": "REBIRTH DANCEHALL.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

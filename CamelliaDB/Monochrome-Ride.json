@@ -1,0 +1,50 @@
+{
+    "name": "Monochrome Ride",
+    "url": "Monochrome-Ride",
+    "altNames": null,
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:27",
+    "albums": [
+        {
+            "albumName": "TRIPPERS",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2011-05-01",
+            "albumReleaseEvent": "M3-27",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Monochrome Ride",
+            "link": "https://youtu.be/OgQ6v8jI7Kc",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "TRIPPERS",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0002/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "TRIPPERS",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002258&search=TRIPPERS&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Trippers.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

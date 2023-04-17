@@ -1,0 +1,96 @@
+{
+    "name": "kick the dance floor!!",
+    "url": "kick-the-dance-floor",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:58",
+    "albums": [
+        {
+            "albumName": "Spumonica",
+            "albumPublisher": "SKETCH UP! Recordings",
+            "albumReleaseDate": "2014-12-30",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "kick The dance floor!!",
+            "link": "https://youtu.be/BN57PKr3DFY",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "kick The dance floor!!",
+            "link": "https://genkianamei.bandcamp.com/track/kick-the-dance-floor",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Spumonica",
+            "link": "https://diverse.direct/sketch-up-recordings/gecd013/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Spumonica.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "kick the dance floor!!",
+            "url": "kick-the-dance-floor-2",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remaster",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:58",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2017-04-30",
+                    "albumReleaseEvent": "M3-39",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "kick the dance floor!!",
+                    "link": "https://youtu.be/UKXi454mPLo",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0015/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001152&search=Camellia+%22Guest+Tracks%22+Summary+%26+VIPs+01&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Guest Tracks Summary VIPs 01.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

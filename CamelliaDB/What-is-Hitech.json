@@ -1,0 +1,54 @@
+{
+    "name": "What is Hitech?",
+    "url": "What-is-Hitech",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "6:22",
+    "albums": [
+        {
+            "albumName": "Ultra Hitech 01",
+            "albumPublisher": "MEGAREX",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "What is Hitech?",
+            "link": "https://youtu.be/_Zhmgtbu1Oc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "What is Hitech?",
+            "link": "https://open.spotify.com/track/11i7C0gNgcQNjROCntF3OC?si=17ffde254a8441bc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "What is Hitech?",
+            "link": "https://music.apple.com/us/album/what-is-hitech/1462158591?i=1462158806",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Ultra Hitech 01",
+            "link": "https://diverse.direct/megarex/mrx-008/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Ultra Hitech 01.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

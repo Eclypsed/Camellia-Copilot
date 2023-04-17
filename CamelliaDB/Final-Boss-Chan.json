@@ -1,0 +1,58 @@
+{
+    "name": "Final-Boss-Chan",
+    "url": "Final-Boss-Chan",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:25",
+    "albums": [
+        {
+            "albumName": "Beat Saber Original Soundtrack Vol. 5",
+            "albumPublisher": "Beat Games",
+            "albumReleaseDate": "2022-03-08",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Beat Saber",
+            "gamePublisher": "Beat Games",
+            "gameReleaseDate": "2022-03-08"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Final-Boss-Chan",
+            "link": "https://youtu.be/_hzaNYYgQb0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Final-Boss-Chan",
+            "link": "https://open.spotify.com/track/3gFExqKMgK02cgBKxrB4SM?si=acf6aab19f5344d2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Final-Boss-Chan",
+            "link": "https://music.apple.com/us/album/final-boss-chan/1613460625?i=1613460626",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Final Boss Chan.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "Beat Saber Original Soundtrack Vol. 5.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,63 @@
+{
+    "name": "🧀🧀世界をチーズで食べちゃって！🧀🧀",
+    "url": "🧀🧀世界をチーズで食べちゃって！🧀🧀",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "Korone Pochi/ころねぽち [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:07",
+    "albums": [
+        {
+            "albumName": "Say Cheese!",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2021-10-31",
+            "albumReleaseEvent": "M3-48",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "🧀🧀世界をチーズで食べちゃって！🧀🧀",
+            "link": "https://youtu.be/9KNLxb3Xxdw",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "🧀🧀世界をチーズで食べちゃって！🧀🧀",
+            "link": "https://open.spotify.com/track/6vlJGzdKMlTjuvBaC6j5if?si=989c02b2547c4ec8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "🧀🧀世界をチーズで食べちゃって！🧀🧀",
+            "link": "https://music.apple.com/us/album/eat-the-world-dip-in-cheese/1591718658?i=1591718667",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Say Cheese!",
+            "link": "https://diverse.direct/confetto/nnpc-001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Say Cheese!",
+            "link": "https://www.tanocstore.net/shopdetail/000000002838/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Say Cheese!.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Thank You!",
+    "url": "Thank-You",
+    "altNames": null,
+    "artists": [
+        "Lovelicot (Nanahira/ななひら KOKO/ココ) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:49",
+    "albums": [
+        {
+            "albumName": "Primary*Step",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2016-10-30",
+            "albumReleaseEvent": "M3-38",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Thank You!",
+            "link": "https://www.youtube.com/watch?v=wDtBvFtzsYE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Thank You!",
+            "link": "https://open.spotify.com/track/4e3PPUGJTVe9lC5geLMh6V?si=5c8fcbd9b0eb4990",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Thank You!",
+            "link": "https://music.apple.com/us/album/thank-you/1567715584?i=1567716227",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Primary_Step.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

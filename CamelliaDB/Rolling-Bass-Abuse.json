@@ -1,0 +1,60 @@
+{
+    "name": "Rolling Bass Abuse",
+    "url": "Rolling-Bass-Abuse",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:37",
+    "albums": [
+        {
+            "albumName": "Bizzare Nation",
+            "albumPublisher": "MEGAREX",
+            "albumReleaseDate": "2017-12-29",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Rolling Bass Abuse",
+            "link": "https://youtu.be/MrO9Mnxn_yc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Rolling Bass Abuse",
+            "link": "https://open.spotify.com/track/6fs27kAH0ff0sZ2KEat6mj?si=51db9e4786ae4b9a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Rolling Bass Abuse",
+            "link": "https://music.apple.com/us/album/rolling-bass-abuse/1556987759?i=1556987765",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Bizzare Nation",
+            "link": "https://diverse.direct/bizzare-nation/bzr-002/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Bizzare Nation",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001414&search=bizzare+nation&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Bizzare Nation.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

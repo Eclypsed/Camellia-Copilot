@@ -1,0 +1,54 @@
+{
+    "name": "Hi-technology Droppers",
+    "url": "Hi-technology-Droppers",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "6:49",
+    "albums": [
+        {
+            "albumName": "Ultra Hitech 03",
+            "albumPublisher": "MEGAREX",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Hi-technology Droppers",
+            "link": "https://youtu.be/skpgFZzRsgA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Hi-technology Droppers",
+            "link": "https://open.spotify.com/track/16BaC5OF8Mmqi67zTNYCbj?si=89d21cfd5d6e43ba",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Hi-technology Droppers",
+            "link": "https://music.apple.com/us/album/hi-technology-droppers/1462749487?i=1462749501",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Ultra Hitech 03",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001201&search=Ultra+Hitech+03&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Ultra Hitech 03.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

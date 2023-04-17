@@ -1,0 +1,66 @@
+{
+    "name": "Do The Big Kick",
+    "url": "Do-The-Big-Kick",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:49",
+    "albums": [
+        {
+            "albumName": "INSANE INFLAME",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2016-04-24",
+            "albumReleaseEvent": "M3-37",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Do The Big Kick",
+            "link": "https://youtu.be/d3ZF-NlP5-4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Do The Big Kick",
+            "link": "https://open.spotify.com/track/2tN3vOAJoOYygsz6jN6TCp?si=dca46c7129e2482d",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Do The Big Kick",
+            "link": "https://music.apple.com/us/album/do-the-big-kick/1112554154?i=1112554445",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Do The Big Kick",
+            "link": "https://cametek.bandcamp.com/track/do-the-big-kick",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "INSANE INFLAME",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0013/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "INSANE INFLAME",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000770&search=insane+inflame&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "INSANE INFLAME.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

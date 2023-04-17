@@ -1,0 +1,47 @@
+{
+    "name": "恋色マジカルフライト",
+    "url": "恋色マジカルフライト",
+    "altNames": [
+        "Love-colored Magical Flight"
+    ],
+    "artists": [
+        "Satsuki ga Tenkomori/さつき が てんこもり [A L]",
+        "Camellia [A]",
+        "月葉 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "恋色マスタースパーク",
+            "touhouGame": "東方永夜抄　～ Imperishable Night"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:46",
+    "albums": [
+        {
+            "albumName": "Party Poche",
+            "albumPublisher": "Forestpireo/ふぉれすとぴれお",
+            "albumReleaseDate": "2011-05-08",
+            "albumReleaseEvent": "Reitaisai 8",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "恋色マジカルフライト",
+            "link": "https://youtu.be/A_O-pCgW3XU",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Party Poche.jpg",
+            "caption": null
+        }
+    ],
+    "description": "If you're confused as to why there is an almost 2 month difference between the release date of some Reitaisai 8 albums, it is because that on March 11th, 2011 Japan was hit by the Tōhoku earthquake and tsunami. The most severe earthquake in Japan's history, it was a magnitude 9.1 and the resultant tsunami caused the Fukushima Daiichi nuclear disaster. Because of this event, Reitaisai 8 was canceled and later rescheduled for May.",
+    "variations": null
+}

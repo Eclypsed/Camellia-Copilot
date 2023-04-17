@@ -1,0 +1,50 @@
+{
+    "name": "Petals",
+    "url": "Petals",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:46",
+    "albums": [
+        {
+            "albumName": "Secretale",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2016-12-31",
+            "albumReleaseEvent": "Comiket 91",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Petals",
+            "link": "https://youtu.be/ZtqdCbC1VVc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Petals",
+            "link": "https://open.spotify.com/track/0ix4vljkvwu8zRZvpGmrB9?si=b93c1936be5c4ffa",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Petals",
+            "link": "https://music.apple.com/us/album/petals/1566851650?i=1566851866",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Secretale.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Ragnarok",
+    "url": "Ragnarok",
+    "altNames": null,
+    "artists": [
+        "Gram [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:26",
+    "albums": [
+        {
+            "albumName": "The Requiem",
+            "albumPublisher": "djgenki.net",
+            "albumReleaseDate": "2017-10-29",
+            "albumReleaseEvent": "M3-40",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Ragnarok",
+            "link": "https://youtu.be/qBbqjV3ijo4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Ragnarok",
+            "link": "https://open.spotify.com/track/3jfmP62Y1tAcWDD8FB66pC?si=ff57ff4be2b74e90",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Ragnarok",
+            "link": "https://music.apple.com/us/album/ragnarok/1388825135?i=1388825416",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Ragnarok",
+            "link": "https://genkianamei.bandcamp.com/track/ragnarok",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "The Requiem",
+            "link": "https://diverse.direct/djgenki-net/gnkcd-004/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "The Requiem.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

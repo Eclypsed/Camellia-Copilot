@@ -1,0 +1,68 @@
+{
+    "name": "Engrasp",
+    "url": "Engrasp",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Mei Ayakura/綾倉盟 [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "プレインエイジア",
+            "touhouGame": "東方永夜抄　～ Imperishable Night"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:23",
+    "albums": [
+        {
+            "albumName": "POP|CULTURE 2",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2014-12-29",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Engrasp",
+            "link": "https://youtu.be/vze2xGVKQsY",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Engrasp",
+            "link": "https://open.spotify.com/track/4vAO2fYTdMSje6F5Goizyk?si=cce984a1a5a44ef2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Engrasp",
+            "link": "https://music.apple.com/us/album/engrasp-feat-mei-ayakura-camellia/1613282788?i=1613282791",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "POP|CULTURE 2",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0046/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "POP|CULTURE 2",
+            "link": "https://www.tanocstore.net/shopdetail/000000000301/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "POP CULTURE 2.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

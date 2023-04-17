@@ -1,0 +1,58 @@
+{
+    "name": "めいら～だえもん☆だもん",
+    "url": "めいら～だえもん☆だもん",
+    "altNames": [
+        "Mailer-Daemon ☆ Damon"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:20",
+    "albums": [
+        {
+            "albumName": "VERSUS!/ばーさす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "めいら～だえもん☆だもん",
+            "link": "https://youtu.be/vcm_p5-wRxA",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "めいら～だえもん☆だもん",
+            "link": "https://open.spotify.com/track/6eKedz0v2XxlbCVvc7ZEqH?si=3078db6d83b84a6a",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "めいら～だえもん☆だもん",
+            "link": "https://music.apple.com/us/album/mailer-daemon-damon/1554743724?i=1554743729",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ばーさす！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-001/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "VERSUS!.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

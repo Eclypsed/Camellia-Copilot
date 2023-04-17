@@ -1,0 +1,52 @@
+{
+    "name": "カフェモカしゅがー",
+    "url": "カフェモカしゅがー",
+    "altNames": [
+        "Café-Mocha-Sugar"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:11",
+    "albums": [
+        {
+            "albumName": "LOP STEP RABBITS!",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2014-12-30",
+            "albumReleaseEvent": "Comiket 87",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "カフェモカしゅがー",
+            "link": "https://youtu.be/FaTKzXosEvQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "カフェモカしゅがー",
+            "link": "https://open.spotify.com/track/6mCJlsy284ePKoZgJVkZ7R?si=babf9b4c9cce42e5",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "カフェモカしゅがー",
+            "link": "https://music.apple.com/us/album/caf%C3%A9-mocha-sugar/1554088641?i=1554088652",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Lop Step Rabbits!.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

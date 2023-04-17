@@ -1,0 +1,39 @@
+{
+    "name": "ゆめのかなたで",
+    "url": "ゆめのかなたで",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:07",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "jubeat festo",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2020-02-03"
+        },
+        {
+            "gameName": "jubeat (2021)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-05-07"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ゆめのかなたで",
+            "link": "https://youtu.be/w9HgYnJeTPc",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ゆめのかなたで.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

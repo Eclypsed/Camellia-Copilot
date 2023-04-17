@@ -1,0 +1,66 @@
+{
+    "name": "Welcome To The Cyphisonia",
+    "url": "Welcome-To-The-Cyphisonia",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:09",
+    "albums": [
+        {
+            "albumName": "Cyphisonia E.P.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2016-10-30",
+            "albumReleaseEvent": "M3-38",
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Welcome To The Cyphisonia",
+            "link": "https://youtu.be/M38bY0PPOK0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Welcome To The Cyphisonia",
+            "link": "https://open.spotify.com/track/7GMHtRBu9Q2v6d28yWD5hz?si=d05663dd67d64044",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Welcome To The Cyphisonia",
+            "link": "https://music.apple.com/us/album/welcome-to-the-cyphisonia/1176411990?i=1176412362",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Welcome To The Cyphisonia",
+            "link": "https://cametek.bandcamp.com/track/welcome-to-the-cyphisonia",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Cyphisonia E.P.",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0014/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Cyphisonia E.P.",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000958&search=cyphisonia&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Cyphisonia E.P.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

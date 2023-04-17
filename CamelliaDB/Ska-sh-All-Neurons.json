@@ -1,0 +1,44 @@
+{
+    "name": "Ska-sh All Neurons!!",
+    "url": "Ska-sh-All-Neurons",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:04",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 27 HEROIC VERSE ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2020-03-18",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 27 HEROIC VERSE",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-10-16"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Ska-sh All Neurons!!",
+            "link": "https://youtu.be/g46urWGGdfc",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 27 HEROIC VERSE OST.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

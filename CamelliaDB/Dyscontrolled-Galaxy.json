@@ -1,0 +1,106 @@
+{
+    "name": "Dyscontrolled Galaxy",
+    "url": "Dyscontrolled-Galaxy",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:11",
+    "albums": [
+        {
+            "albumName": "SOUND VOLTEX ULTIMATE TRACKS Dimension Gates Ω -Phase.1-",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2018-12-04",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        },
+        {
+            "albumName": "SOUND VOLTEX PERFECT ULTIMATE COMPLETE TRACKS ～Legend of KAC with Ω～",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2023-02-15",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "SOUND VOLTEX IV HEAVENLY HAVEN",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-08-10"
+        },
+        {
+            "gameName": "SOUND VOLTEX III GRAVITY WARS コナステ",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2019-08-01"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Dyscontrolled Galaxy",
+            "link": "https://youtu.be/vTsEhAn0NEg",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dyscontrolled Galaxy.png",
+            "caption": null
+        },
+        {
+            "filename": "SOUND VOLTEX ULTIMATE TRACKS Dimension Gates Ω -Phase.1-.png",
+            "caption": null
+        }
+    ],
+    "description": "Unlockable in SOUND VOLTEX IV HEAVENLY HAVEN from August 10th, 2017 as part of Phase 1 of the Ω Dimension unlock system. Added to SOUND VOLTEX III GRAVITY WARS コナステ's REGULAR course on August 1st, 2019.",
+    "variations": [
+        {
+            "name": "Dyscontrolled Galaxy (\"Apoptosis\" Long ver.)",
+            "url": "Dyscontrolled-Galaxy-Apoptosis-Long-ver",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:56",
+            "albums": [
+                {
+                    "albumName": "GALAXY BURST",
+                    "albumPublisher": "EXIT TUNES",
+                    "albumReleaseDate": "2018-03-21",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Dyscontrolled Galaxy (\"Apoptosis\" Long ver.)",
+                    "link": "https://youtu.be/u9r-FvRJ_yg",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "GALAXY BURST",
+                    "link": "https://diverse.direct/edp/qwce-90016/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "GALAXY BURST",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001441&search=GALAXY+BURST&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "GALAXY BURST.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

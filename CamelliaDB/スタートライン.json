@@ -1,0 +1,63 @@
+{
+    "name": "スタートライン",
+    "url": "スタートライン",
+    "altNames": [
+        "Start Line"
+    ],
+    "artists": [
+        "Lovelicot (Nanahira/ななひら KOKO/ココ) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:48",
+    "albums": [
+        {
+            "albumName": "Start Line/スタートライン",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2015-10-25",
+            "albumReleaseEvent": "M3-36",
+            "albumType": "S"
+        },
+        {
+            "albumName": "Primary*Step",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2016-10-30",
+            "albumReleaseEvent": "M3-38",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "スタートライン",
+            "link": "https://youtu.be/JCD8v45tm0s",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "スタートライン",
+            "link": "https://open.spotify.com/track/5Uj7n3me1ZsfWjsiIJvTKN?si=c487111d73664026",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "スタートライン",
+            "link": "https://music.apple.com/us/album/start-line/1554006052?i=1554006053",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "スタートライン.jpg",
+            "caption": null
+        },
+        {
+            "filename": "Primary_Step.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

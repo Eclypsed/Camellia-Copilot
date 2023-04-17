@@ -1,0 +1,66 @@
+{
+    "name": "TYPHOON 8",
+    "url": "TYPHOON-8",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:24",
+    "albums": [
+        {
+            "albumName": "sudden shower",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "TYPHOON 8",
+            "link": "https://youtu.be/sXIlCyMoTgI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "TYPHOON 8",
+            "link": "https://open.spotify.com/track/0U8lmaY5TKPhPLqQkUNcNO?si=96fdd69bed9e4b99",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "TYPHOON 8",
+            "link": "https://music.apple.com/jp/album/typhoon-8/1049647153?i=1049647160&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "TYPHOON 8",
+            "link": "https://cametek.bandcamp.com/track/typhoon-8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "sudden shower",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-009/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "sudden shower",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002264&search=sudden+shower&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sudden Shower.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

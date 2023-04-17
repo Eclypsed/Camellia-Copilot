@@ -1,0 +1,66 @@
+{
+    "name": "Sword Of Oblivion",
+    "url": "Sword-Of-Oblivion",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:31",
+    "albums": [
+        {
+            "albumName": "ISACCA 2",
+            "albumPublisher": "Japanese Stream Hardcore",
+            "albumReleaseDate": "2017-04-30",
+            "albumReleaseEvent": "M3-39",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Sword Of Oblivion",
+            "link": "https://youtu.be/-U8TeE_dvFg",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Sword Of Oblivion",
+            "link": "https://open.spotify.com/track/4GiTtc27g4358fEp4XanYk?si=97baa27894ec4e9b",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Sword Of Oblivion",
+            "link": "https://music.apple.com/jp/album/sword-of-oblivion/1246062587?i=1246062591&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Sword Of Oblivion",
+            "link": "https://japanesestreamhardcore.bandcamp.com/track/sword-of-oblivion",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ISACCA 2",
+            "link": "https://diverse.direct/japanese-stream-hardcore/%e3%80%90%e8%a7%a3%e7%a6%81%e6%b8%88%e3%81%bf%e3%80%91isacca-2/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "ISACCA 2",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001157&search=ISACCA+2&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ISACCA 2.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

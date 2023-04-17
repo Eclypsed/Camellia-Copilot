@@ -1,0 +1,57 @@
+{
+    "name": "君の声は",
+    "url": "君の声は",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "Yoshi Tsuko/つこ [Gutiar Bass]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:39",
+    "albums": [
+        {
+            "albumName": "Sleep!/すりーぷ！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "君の声は",
+            "link": "https://youtu.be/NpyWJZgWPi4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "君の声は",
+            "link": "https://open.spotify.com/track/6kLvBRlE4nffeH1nMFDoJh?si=2d059aba7bcc4788",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "君の声は",
+            "link": "https://music.apple.com/jp/album/your-voices-are/1554742814?i=1554742828&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "すりーぷ！",
+            "link": "https://diverse.direct/?s=%E3%81%99%E3%82%8A%E3%83%BC%E3%81%B7%EF%BC%81",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Sleep!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

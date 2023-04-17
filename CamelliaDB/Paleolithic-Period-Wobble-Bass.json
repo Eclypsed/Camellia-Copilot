@@ -1,0 +1,66 @@
+{
+    "name": "Paleolithic Period Wobble Bass",
+    "url": "Paleolithic-Period-Wobble-Bass",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:26",
+    "albums": [
+        {
+            "albumName": "PLANET//SHAPER",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Paleolithic Period Wobble Bass",
+            "link": "https://youtu.be/S-qReb28HiI",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Paleolithic Period Wobble Bass",
+            "link": "https://open.spotify.com/track/4ljMiVywNZCT57NZOgft18?si=5b22794f92ee46ed",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Paleolithic Period Wobble Bass",
+            "link": "https://music.apple.com/us/album/paleolithic-period-wobble-bass/1049686892?i=1049687405",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Paleolithic Period Wobble Bass",
+            "link": "https://cametek.bandcamp.com/track/paleolithic-period-wobble-bass",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "PLANET//SHAPER",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0011/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "PLANET//SHAPER",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002265&search=planet%2F%2Fshaper&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "PLANET SHAPER.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

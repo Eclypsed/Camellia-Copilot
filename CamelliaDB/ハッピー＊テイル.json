@@ -1,0 +1,63 @@
+{
+    "name": "ハッピー＊テイル",
+    "url": "ハッピー＊テイル",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "p19 [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:12",
+    "albums": [
+        {
+            "albumName": "Infiniti Mofulity/いんふぃにてぃもふりてぃ",
+            "albumPublisher": "practice",
+            "albumReleaseDate": "2017-12-31",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ハッピー＊テイル",
+            "link": "https://youtu.be/9Sle0tY626k",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "ハッピー＊テイル",
+            "link": "https://open.spotify.com/track/6TjatkSbUknSQof27ObMTw?si=268c3ef3017c4ccc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ハッピー＊テイル",
+            "link": "https://music.apple.com/us/album/happytaille-feat-nanahira/1483897806?i=1483897814",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "いんふぃにてぃもふりてぃ",
+            "link": "https://diverse.direct/practice/mofu-0001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "いんふぃにてぃもふりてぃ",
+            "link": "https://www.tanocstore.net/shopdetail/000000001432/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "いんふぃにてぃもふりてぃ！.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

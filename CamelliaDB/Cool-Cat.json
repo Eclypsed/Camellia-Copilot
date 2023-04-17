@@ -1,0 +1,57 @@
+{
+    "name": "Cool Cat",
+    "url": "Cool-Cat",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]",
+        "Temmie Chang [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:05",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Cool Cat",
+            "link": "https://youtu.be/SRExWFOuH_0",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Cool Cat",
+            "link": "https://open.spotify.com/track/6jT977770CDDwwyoxM4wls?si=21048647a5684dca",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Cool Cat",
+            "link": "https://music.apple.com/us/album/cool-cat/1522112127?i=1522112586",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Cool Cat",
+            "link": "https://dwellersemptypath.bandcamp.com/track/cool-cat",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

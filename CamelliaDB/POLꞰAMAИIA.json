@@ -1,0 +1,44 @@
+{
+    "name": "POLꞰAMAИIA",
+    "url": "POLꞰAMAИIA",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:58",
+    "albums": [
+        {
+            "albumName": "beatmania IIDX 28 BISTROVER ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2021-03-17",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 28 BISTROVER",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2020-10-28"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "POLꞰAMAИIA",
+            "link": "https://youtu.be/FYfcmqhcDDU",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatmania IIDX 28 BISTROVER OST.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

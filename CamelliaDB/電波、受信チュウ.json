@@ -1,0 +1,40 @@
+{
+    "name": "電波、受信チュウ...",
+    "url": "電波、受信チュウ",
+    "altNames": [
+        "Denpa, Jushin Chuu"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:09",
+    "albums": [
+        {
+            "albumName": "Schmick Trigger 2 -PsychoCrush A-POP!!-/シュミックトリガ2 -PsychoCrush A-POP!!-",
+            "albumPublisher": "beatlogic",
+            "albumReleaseDate": "2013-08-12",
+            "albumReleaseEvent": "Comiket 84",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "SoundCloud",
+            "displayName": "電波、受信チュウ...",
+            "link": "https://soundcloud.com/sumire-hikami2003/denpa-jushin-chuu",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Schmick Trigger 2 -PsychoCrush A-POP!!-.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,193 @@
+{
+    "name": "#1f1e33",
+    "url": "1f1e33",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:49",
+    "albums": [
+        {
+            "albumName": "Arcaea Sound Collection - Memories of Wrath",
+            "albumPublisher": "lowiro",
+            "albumReleaseDate": "2021-11-11",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "Arcaea",
+            "gamePublisher": "lowiro",
+            "gameReleaseDate": "2020-05-27"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "#1f1e33",
+            "link": "https://youtu.be/w4U9S5eX3eY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "#1f1e33",
+            "link": "https://open.spotify.com/track/6KjMvgPBb5r6yJWcMCpuoe?si=73d7e4f9ec924281",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "#1f1e33",
+            "link": "https://music.apple.com/us/album/1f1e33-single/1515524527",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Arcaea Sound Collection - Memories of Wrath",
+            "link": "https://diverse.direct/arcaea/irocd-005/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Arcaea Sound Collection - Memories of Wrath",
+            "link": "https://www.tanocstore.net/shopdetail/000000002879/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "#1f1e33 (Single).jpg",
+            "caption": null
+        },
+        {
+            "filename": "#1f1e33.jpeg",
+            "caption": null
+        },
+        {
+            "filename": "Arcaea Sound Collection - Memories of Wrath.jpg",
+            "caption": null
+        }
+    ],
+    "description": "First released as part of the Black Fate Main Story Pack in Arcaea on May 27, 2020, #1f1e33 marks Camellia’s first debut in the game.",
+    "variations": [
+        {
+            "name": "#1f1e33 (#00102g version)",
+            "url": "1f1e33-00102g-version",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:41",
+            "albums": [
+                {
+                    "albumName": "U.U.F.O.",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2021-07-11",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "#1f1e33 (#00102g version)",
+                    "link": "https://youtu.be/yq3uK54tG4Q",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "#1f1e33 (#00102g version)",
+                    "link": "https://open.spotify.com/track/4Aj7LHUhVmDNscTIxFCx61?si=e75af5618f5e4862",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "#1f1e33 (#00102g version)",
+                    "link": "https://music.apple.com/us/album/1f1e33-00102g-version/1572224128?i=1572224626",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Bandcamp",
+                    "displayName": "#1f1e33 (#00102g version)",
+                    "link": "https://cametek.bandcamp.com/track/bonus-track-4-1f1e33-00102g-version",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "U.U.F.O",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0021-0022/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "U.U.F.O",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002743&search=uufo&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "U.U.F.O..jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        },
+        {
+            "name": "#1f1e33 (Another long \"#ant1p01e\" version)",
+            "url": "1f1e33-Another-long-ant1p01e-version",
+            "altNames": null,
+            "artists": null,
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "6:22",
+            "albums": [
+                {
+                    "albumName": "Arcaea Sound Collection - Memories of Wrath",
+                    "albumPublisher": "lowiro",
+                    "albumReleaseDate": "2021-11-11",
+                    "albumReleaseEvent": null,
+                    "albumType": "OST"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "#1f1e33 (Another long \"#ant1p01e\" version)",
+                    "link": "https://youtu.be/ZTf4xFOyiKU",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "#1f1e33 (Another long \"#ant1p01e\" version)",
+                    "link": "https://open.spotify.com/track/77NdrRR5XnW8MQDzdTRyrX?si=8c7db6f99581466f",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Arcaea Sound Collection - Memories of Wrath",
+                    "link": "https://diverse.direct/arcaea/irocd-005/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Arcaea Sound Collection - Memories of Wrath",
+                    "link": "https://www.tanocstore.net/shopdetail/000000002879/",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Arcaea Sound Collection - Memories of Wrath.jpg",
+                    "caption": null
+                }
+            ],
+            "description": "Following the release of Black Fate, #1f1e33's official extension, #1f1e33 (Another long \"#ant1p01e\" version), was released on the Memories of Wrath Arcaea Sound Collection along with the original on November 11, 2021."
+        }
+    ]
+}

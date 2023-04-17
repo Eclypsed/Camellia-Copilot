@@ -1,0 +1,90 @@
+{
+    "name": "Eternally",
+    "url": "Eternally",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:16",
+    "albums": [
+        {
+            "albumName": "Thrill Purple",
+            "albumPublisher": "SKETCH UP! Recordings",
+            "albumReleaseDate": "2015-10-25",
+            "albumReleaseEvent": "M3-36",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Eternally",
+            "link": "https://youtu.be/v4w9UTdLrwc",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Thrill Purple",
+            "link": "https://diverse.direct/sketch-up-recordings/gecd-017/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Thrill Purple.jpg",
+            "caption": null
+        }
+    ],
+    "description": "The only service were you can \"officially\" stream the original Eternallly from Thrill Purple is djgenki.net's page on bandcamp. There the track is listed as being 4:56 long, and this is where we find a discrepancy, as discogs and all other uploads of the original Eternally on YouTube list it as being around 5:16. When played at the same time the Eternally on DJ Genki's offical bandcamp quickly becomes out of sync with the YT uploads of the original. Turns out, the identically named Eternally...uh...remaster(?) that Camellia put on Camellia \"Guest Tracks\" Summary & VIPs 01 is around 4:56 and syncs up perfectly with the \"original\" Eternally on DJ Genki's bandcamp. As a result I have come to the conclusion that DJ Genki actually has the wrong Eternally uploaded to bandcamp; instead of the original from Thrill Purple it's the version from Guest Tracks. It's unclear as to how this happened, but it is possible that Genki only uploaded the album to bandcamp after Camellia had released Guest Tracks. If this is the case, it is also possible that Genki had to request that Camellia send him Eternally's audio so he could add it to the album, and when Camellia sent it, he sent the version from Guest Tracks by mistake as they have identical names. Due to this discrepancy, I have chosen to omit the link to Eternally on Genki's bandcamp.",
+    "variations": [
+        {
+            "name": "Eternally",
+            "url": "Eternally-2",
+            "altNames": null,
+            "artists": null,
+            "songType": "Remaster",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:56",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2017-04-30",
+                    "albumReleaseEvent": "M3-39",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Eternally",
+                    "link": "https://youtu.be/U-CbIz2JejE",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0015/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001152&search=Camellia+%22Guest+Tracks%22+Summary+%26+VIPs+01&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Guest Tracks Summary VIPs 01.png",
+                    "caption": null
+                }
+            ],
+            "description": "I've also seen this version called \"Eternally (Camellia VIP)\", but I don't believe the track has ever been official referred to like this; all official documentation list it simply as \"Eternally\", identical to that of its original from Thrill Purple. This is possibly because the songs are nearly identical in sound, being one the tracks that Camellia just \"brushed up\" a bit for Guest Tracks. This however may have lead to a discrepancy with the original version (see original Eternally's description)."
+        }
+    ]
+}

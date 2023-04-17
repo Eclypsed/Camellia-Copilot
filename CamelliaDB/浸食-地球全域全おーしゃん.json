@@ -1,0 +1,84 @@
+{
+    "name": "浸食!! 地球全域全おーしゃん",
+    "url": "浸食-地球全域全おーしゃん",
+    "altNames": [
+        "Domination! All the World is an Ocean"
+    ],
+    "artists": [
+        "UMISEA (Minato Aqua Houshou Marine Ninomae Ina'nis Gawr Gura) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:56",
+    "albums": [
+        {
+            "albumName": "浸食!! 地球全域全おーしゃん",
+            "albumPublisher": "COVER Corporation/カバー株式会社",
+            "albumReleaseDate": "2021-09-19",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "浸食!! 地球全域全おーしゃん",
+            "link": "https://youtu.be/paFFFp01GsE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "浸食!! 地球全域全おーしゃん",
+            "link": "https://open.spotify.com/track/0518dysM27SLsdUuP4kNrJ?si=c8089408a96f45f2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "浸食!! 地球全域全おーしゃん",
+            "link": "https://music.apple.com/jp/album/domination-all-the-world-is-an-ocean/1586252440?i=1586252455&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "浸食!! 地球全域全おーしゃん.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Instrumental version included on the release.",
+    "variations": [
+        {
+            "name": "浸食!! 地球全域全おーしゃん (Short ver.)",
+            "url": "浸食-地球全域全おーしゃん-Short-ver",
+            "altNames": [
+                "Domination! All the World is an Ocean"
+            ],
+            "artists": [
+                "UMISEA (Minato Aqua Houshou Marine Ninomae Ina'nis Gawr Gura) [V]"
+            ],
+            "songType": "Trim",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "2:58",
+            "albums": null,
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "浸食!! 地球全域全おーしゃん (Short ver.)",
+                    "link": "https://youtu.be/MKEb-Ox1KEw",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "浸食!! 地球全域全おーしゃん.jpg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

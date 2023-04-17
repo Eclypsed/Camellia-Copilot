@@ -1,0 +1,40 @@
+{
+    "name": "センチメンタルキャンディ",
+    "url": "センチメンタルキャンディ",
+    "altNames": [
+        "Sentimental Candy"
+    ],
+    "artists": [
+        "yukacco [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:07",
+    "albums": [
+        {
+            "albumName": "WHiTE GiMMiCK!",
+            "albumPublisher": "SKETCH UP! Recordings",
+            "albumReleaseDate": "2015-04-26",
+            "albumReleaseEvent": "M3-35",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "センチメンタルキャンディ",
+            "link": "https://youtu.be/5i27fSpqUF4",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "WHiTE GiMMiCK!.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

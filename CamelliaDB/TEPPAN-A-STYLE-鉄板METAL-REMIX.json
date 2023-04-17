@@ -1,0 +1,45 @@
+{
+    "name": "TEPPAN!! -A-STYLE 鉄板METAL REMIX!!-",
+    "url": "TEPPAN-A-STYLE-鉄板METAL-REMIX",
+    "altNames": null,
+    "artists": [
+        "あいうえおか [C A]",
+        "イエティ吉澤 [C A]",
+        "イエティ吉澤 [L]",
+        "舞鶴よかと [V]",
+        "ふくぶちょー [Guitar]",
+        "雉玉かえし [Chorus]",
+        "めがね [Chorus]",
+        "スタッフ [Chorus]",
+        "Nanahira/ななひら [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix, Cover",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "TEPPAN!!",
+        "originalSongArtists": [
+            "どんどん亭"
+        ],
+        "originalSongLink": "https://youtu.be/VVIBgT_Miys"
+    },
+    "duration": "3:26",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "TEPPAN!! -A-STYLE 鉄板METAL REMIX!!-",
+            "link": "https://youtu.be/l-AM0RgqwZ4",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "TEPPAN ASTYLE 鉄板METAL REMIX.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,33 @@
+{
+    "name": "GO 温暖化",
+    "url": "GO-温暖化",
+    "altNames": [
+        "GO Global Warming"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]",
+        "DanGun [Guitar]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:21",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "niconico",
+            "displayName": "GO 温暖化",
+            "link": "https://www.nicovideo.jp/watch/sm12772341",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GO 温暖化.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

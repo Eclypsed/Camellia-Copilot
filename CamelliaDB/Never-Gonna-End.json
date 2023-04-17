@@ -1,0 +1,48 @@
+{
+    "name": "Never Gonna End",
+    "url": "Never-Gonna-End",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:45",
+    "albums": [
+        {
+            "albumName": "Funkacity 2",
+            "albumPublisher": "DA Recording",
+            "albumReleaseDate": "2018-10-28",
+            "albumReleaseEvent": "M3-42",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Never Gonna End",
+            "link": "https://youtu.be/a7YAupxrwcA",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Funkacity 2",
+            "link": "https://diverse.direct/da-recording/darc-007/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Funkacity 2",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001722&search=Funkacity+2&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Funkacity 2.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

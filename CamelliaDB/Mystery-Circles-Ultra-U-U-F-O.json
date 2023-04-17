@@ -1,0 +1,66 @@
+{
+    "name": "Mystery Circles Ultra / U.U.F.O.",
+    "url": "Mystery-Circles-Ultra-U-U-F-O",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:59",
+    "albums": [
+        {
+            "albumName": "U.U.F.O.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2021-07-11",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Mystery Circles Ultra / U.U.F.O.",
+            "link": "https://youtu.be/g5Yl07oDo4w",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Mystery Circles Ultra / U.U.F.O.",
+            "link": "https://open.spotify.com/track/2gFMKAx78BgyGsKgDy2N1Z?si=04063b7ad70047cc",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Mystery Circles Ultra / U.U.F.O.",
+            "link": "https://music.apple.com/jp/album/mystery-circles-ultra-u-u-f-o/1572224128?i=1572224132&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Mystery Circles Ultra / U.U.F.O.",
+            "link": "https://cametek.bandcamp.com/track/mystery-circles-ultra-u-u-f-o",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "U.U.F.O.",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0021-0022/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "U.U.F.O.",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002743&search=U.U.F.O.&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "U.U.F.O..jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,180 @@
+{
+    "name": "イーディーエム・ジャンパーズ",
+    "url": "イーディーエム・ジャンパーズ",
+    "altNames": [
+        "EDM jumpers"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:52",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "DanceDanceRevolution (2014)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2015-12-24"
+        },
+        {
+            "gameName": "jubeat plus + jubeat plus (Android)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-01-18"
+        },
+        {
+            "gameName": "REFLEC BEAT plus",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2017-01-18"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "イーディーエム・ジャンパーズ",
+            "link": "https://youtu.be/TJGBq-3GFSI",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "EDM jumpers.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "イーディーエム・ジャンパーズ",
+            "url": "イーディーエム・ジャンパーズ-2",
+            "altNames": [
+                "EDM jumpers"
+            ],
+            "artists": [
+                "Nanahira/ななひら [V]"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:14",
+            "albums": [
+                {
+                    "albumName": "EDM Extreme",
+                    "albumPublisher": "EXIT TUNES",
+                    "albumReleaseDate": "2015-07-01",
+                    "albumReleaseEvent": null,
+                    "albumType": "C"
+                },
+                {
+                    "albumName": "MEGANTO METEOR",
+                    "albumPublisher": "EXIT TUNES",
+                    "albumReleaseDate": "2016-07-06",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "イーディーエム・ジャンパーズ",
+                    "link": "https://youtu.be/ZdSFZLGguns",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "イーディーエム・ジャンパーズ",
+                    "link": "https://open.spotify.com/track/28GJ98WGn5D2MlESFOc826?si=56dd337851234405",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "イーディーエム・ジャンパーズ",
+                    "link": "https://music.apple.com/us/album/edm-jampers/1029366189?i=1029366431",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "EDM Extreme",
+                    "link": "https://diverse.direct/edp/qwce-00472/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "MEGANTO METEOR",
+                    "link": "https://diverse.direct/edp/qwce-90001/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "MEGANTO METEOR",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000813&search=Bass+Weapon+LAZERFLAME&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "EDM Extreme.jpg",
+                    "caption": null
+                },
+                {
+                    "filename": "MEGANTO METEOR.png",
+                    "caption": null
+                }
+            ],
+            "description": "Extended Version of the original EDM Jumpers with the exact same name that appears on EDM Extreme and MEGANTO METEOR"
+        },
+        {
+            "name": "イーディーエム・ジャンパーズ ({E+H}DM Reboot)",
+            "url": "イーディーエム・ジャンパーズ-E-H-DM-Reboot",
+            "altNames": [
+                "EDM jumpers"
+            ],
+            "artists": [
+                "Nanahira/ななひら [V]"
+            ],
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:13",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2017-04-30",
+                    "albumReleaseEvent": "M3-39",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "イーディーエム・ジャンパーズ ({E+H}DM Reboot)",
+                    "link": "https://youtu.be/Sbnz9uL4XE0",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0015/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Guest Tracks\" Summary & VIPs 01",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001152&search=Camellia+%22Guest+Tracks%22+Summary+%26+VIPs+01&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Guest Tracks Summary VIPs 01.png",
+                    "caption": null
+                }
+            ],
+            "description": "Remix of the extended EDM Jumpers featured on EDM Extreme and MEGANTO METEOR."
+        }
+    ]
+}

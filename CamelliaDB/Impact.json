@@ -1,0 +1,50 @@
+{
+    "name": "Impact",
+    "url": "Impact",
+    "altNames": null,
+    "artists": [
+        "GAT (Genki aran Tachibana) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "3:52",
+    "albums": [
+        {
+            "albumName": "GAT04",
+            "albumPublisher": "GAT",
+            "albumReleaseDate": "2015-04-26",
+            "albumReleaseEvent": "M3-35",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Impact",
+            "link": "https://youtu.be/Cbw52_FrKNQ",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "GAT04",
+            "link": "https://diverse.direct/gat/gatcd-005/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "GAT04",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000399&search=GAT04&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GAT04.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

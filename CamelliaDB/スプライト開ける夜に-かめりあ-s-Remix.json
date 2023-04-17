@@ -1,0 +1,41 @@
+{
+    "name": "スプライト開ける夜に(かめりあ's Remix)",
+    "url": "スプライト開ける夜に-かめりあ-s-Remix",
+    "altNames": null,
+    "artists": [
+        "つこ [C]",
+        "かなき [L]",
+        "和田たけあき [Guitar]",
+        "Nekomura Iroha/猫村いろは [V]",
+        "お餅 [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "スプライト開ける夜に",
+        "originalSongArtists": [
+            "つこ"
+        ],
+        "originalSongLink": "https://www.nicovideo.jp/watch/sm19174006"
+    },
+    "duration": "4:56",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "SoundCloud",
+            "displayName": "スプライト開ける夜に(かめりあ's Remix)",
+            "link": "https://soundcloud.com/cametek/p-s-remix",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "SoundCloud Logo.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

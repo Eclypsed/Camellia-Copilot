@@ -1,0 +1,56 @@
+{
+    "name": "Rainbow",
+    "url": "Rainbow",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:34",
+    "albums": [
+        {
+            "albumName": "VERSUS!/ばーさす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2014-08-17",
+            "albumReleaseEvent": "Comiket 86",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Rainbow",
+            "link": "https://youtu.be/w2HuXzDkgxY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Rainbow",
+            "link": "https://open.spotify.com/track/4ffr0Z0fVhXSXWajYEMcyl?si=f18bd20d72aa4d37",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Rainbow",
+            "link": "https://music.apple.com/us/album/rainbow/1554743724?i=1554744084",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ばーさす！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-001/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "VERSUS!.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

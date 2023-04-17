@@ -1,0 +1,66 @@
+{
+    "name": "STOMP KRUSHERS (WITH THE RAW)",
+    "url": "STOMP-KRUSHERS-WITH-THE-RAW",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:12",
+    "albums": [
+        {
+            "albumName": "HARDCORE SYNDROME X",
+            "albumPublisher": "HARDCORE TANO*C",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 90",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "STOMP KRUSHERS (WITH THE RAW)",
+            "link": "https://youtu.be/DshspWXwBAY",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "STOMP KRUSHERS (WITH THE RAW)",
+            "link": "https://open.spotify.com/track/0RznGpI75v49NnJW5kH1xz?si=3664873c0c4d44f5",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "STOMP KRUSHERS (WITH THE RAW)",
+            "link": "https://music.apple.com/us/album/stomp-krushers-with-the-raw/1657238404?i=1657241791",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "STOMP KRUSHERS (WITH THE RAW)",
+            "link": "https://tanoc.bandcamp.com/album/hardcore-syndrome-x",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "HARDCORE SYNDROME X",
+            "link": "https://diverse.direct/hardcore-tanoc/tanocd-0020/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "HARDCORE SYNDROME X",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000999&search=HARDCORE+SYNDROME+X&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "HARDCORE SYNDROME X.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "Funnily enough, HARDCORE SYNDROME X is listed under the wrong event on HARDCORE TANO*C's own storefront. On TANO*C STORE the album is listed as being released in April at M3-2016春 (M3-37) but it was actually released a few months later in August at Comic Market (Comiket) 90. Also, on Diverse Direct only disc 1 is included on the listing (STOMP KRUSHERS is on disc 2) so while I assume you do in fact get both discs with your purchase, and this is just a mistake, be aware of it.",
+    "variations": null
+}

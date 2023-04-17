@@ -1,0 +1,58 @@
+{
+    "name": "Hello Happiness (\"Jazzy Electro C&N Style\" Remix)",
+    "url": "Hello-Happiness-Jazzy-Electro-C-N-Style-Remix",
+    "altNames": null,
+    "artists": [
+        "P*light [C]",
+        "Nanahira/ななひら [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix, Cover",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Hello Happiness",
+        "originalSongArtists": [
+            "P*light feat. mow*2"
+        ],
+        "originalSongLink": "https://youtu.be/YJ913r7Kn-Q"
+    },
+    "duration": "4:41",
+    "albums": [
+        {
+            "albumName": "DECORATORZ",
+            "albumPublisher": "pichnopop",
+            "albumReleaseDate": "2016-12-31",
+            "albumReleaseEvent": "Comiket 91",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Hello Happiness (\"Jazzy Electro C&N Style\" Remix)",
+            "link": "https://youtu.be/PGyUcIzONMI",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "DECORATORZ",
+            "link": "https://diverse.direct/pichnopop/psolo-005/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "DECORATORZ",
+            "link": "https://www.tanocstore.net/shopdetail/000000001039",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "DECORATORZ.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

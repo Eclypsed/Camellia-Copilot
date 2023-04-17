@@ -1,0 +1,31 @@
+{
+    "name": "Undead life",
+    "url": "Undead-life",
+    "altNames": null,
+    "artists": [
+        "Aoki Lapis/蒼姫ラピス [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "?",
+    "albums": [
+        {
+            "albumName": "トキハカシノカミ",
+            "albumPublisher": "Ototone/オトトネ",
+            "albumReleaseDate": "2014-04-26",
+            "albumReleaseEvent": "VOC@LOiD M@STER 28",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": null,
+    "imgs": [
+        {
+            "filename": "トキハカシノカミ.jpg",
+            "caption": null
+        }
+    ],
+    "description": "The only original composition by Camellia that I have not been able to get a hold of.",
+    "variations": null
+}

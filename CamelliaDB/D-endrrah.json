@@ -1,0 +1,48 @@
+{
+    "name": "D`endrrah",
+    "url": "D-endrrah",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:33",
+    "albums": [
+        {
+            "albumName": "戴天ミソロジア",
+            "albumPublisher": "Binzokomegane Girls Union/瓶底眼鏡女子同盟",
+            "albumReleaseDate": "2018-08-10",
+            "albumReleaseEvent": "Comiket 94",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "D`endrrah",
+            "link": "https://youtu.be/m8oJr3WMKfc",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "戴天ミソロジア",
+            "link": "https://diverse.direct/binzokomegane-girls-union/mgncd-004/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "戴天ミソロジア",
+            "link": "https://www.tanocstore.net/shopdetail/000000001639/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "戴天ミソロジア.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

@@ -1,0 +1,114 @@
+{
+    "name": "千本桜 -かめりあ's \"KAIKASENGEN\" Remix-",
+    "url": "千本桜-かめりあ-s-KAIKASENGEN-Remix",
+    "altNames": [
+        "Senbonzakura -Camellia's \"KAIKASENGEN\" Remix-"
+    ],
+    "artists": [
+        "WhiteFlame/黒うさP [C]",
+        "Hatsune Miku/初音ミク [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "千本桜",
+        "originalSongArtists": [
+            "黒うさP"
+        ],
+        "originalSongLink": "https://youtu.be/shs0rAiwsGQ"
+    },
+    "duration": "4:10",
+    "albums": [
+        {
+            "albumName": "EXIT TUNES PRESENTS Entrance Dream Music 3",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2016-08-03",
+            "albumReleaseEvent": null,
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "千本桜 -かめりあ's \"KAIKASENGEN\" Remix-",
+            "link": "https://youtu.be/bZez2qBJJLY",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "千本桜 -かめりあ's \"KAIKASENGEN\" Remix-",
+            "link": "https://music.apple.com/jp/album/%E5%8D%83%E6%9C%AC%E6%A1%9C-%E3%81%8B%E3%82%81%E3%82%8A%E3%81%82s-kaikasengen-remix/1139067683?i=1139067691",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "EXIT TUNES PRESENTS Entrance Dream Music 3.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "千本桜 (かめりあ's \"KAIKASENGEN\" Remix) [Uncut Version]",
+            "url": "千本桜-かめりあ-s-KAIKASENGEN-Remix-Uncut-Version",
+            "altNames": [
+                "Senbonzakura (Camellia's \"KAIKASENGEN\" Remix) [Uncut Version]"
+            ],
+            "artists": [
+                "WhiteFlame/黒うさP [C]",
+                "Hatsune Miku/初音ミク [V]",
+                "Camellia [R]"
+            ],
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": {
+                "originalSongName": "千本桜",
+                "originalSongArtists": [
+                    "黒うさP"
+                ],
+                "originalSongLink": "https://youtu.be/shs0rAiwsGQ"
+            },
+            "duration": "4:42",
+            "albums": [
+                {
+                    "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "albumPublisher": "KamelCamellia/かめるかめりあ",
+                    "albumReleaseDate": "2018-08-10",
+                    "albumReleaseEvent": "Comiket 94",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "千本桜 (かめりあ's \"KAIKASENGEN\" Remix) [Uncut Version]",
+                    "link": "https://youtu.be/EiywzIKw30w",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Diverse Direct",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "TANO*C STORE",
+                    "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+                    "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Remixes Summary VIPs 02.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

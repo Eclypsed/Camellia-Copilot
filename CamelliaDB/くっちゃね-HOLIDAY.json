@@ -1,0 +1,50 @@
+{
+    "name": "くっちゃね ? HOLIDAY",
+    "url": "くっちゃね-HOLIDAY",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:07",
+    "albums": [
+        {
+            "albumName": "Wonder trick",
+            "albumPublisher": "Confetto",
+            "albumReleaseDate": "2016-08-14",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "くっちゃね ? HOLIDAY",
+            "link": "https://youtu.be/WHkXl6R5ErM",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "くっちゃね ? HOLIDAY",
+            "link": "https://open.spotify.com/track/74yfSofc6kxfKXncIW8di4?si=502c03918d104828",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "くっちゃね ? HOLIDAY",
+            "link": "https://music.apple.com/us/album/kutchane-holiday/1571239407?i=1571239724",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Wonder trick.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

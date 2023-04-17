@@ -1,0 +1,73 @@
+{
+    "name": "STAND UP!",
+    "url": "STAND-UP",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "遠野幻想物語",
+            "touhouGame": "東方妖々夢　～ Perfect Cherry Blossom"
+        }
+    ],
+    "originalSong": null,
+    "duration": "3:45",
+    "albums": [
+        {
+            "albumName": "ULTRA DANCEHALL",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2016-05-08",
+            "albumReleaseEvent": "Reitaisai 13",
+            "albumType": "C"
+        },
+        {
+            "albumName": "\"PODIUM\" EPISODE01 - IN THE MIX -",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2019-08-12",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "STAND UP!",
+            "link": "https://youtu.be/HX_lLHEOv8Q",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "STAND UP!",
+            "link": "https://open.spotify.com/track/1SejmvGGa8cTnWse3LwWYc?si=827ad4a9d3d348c4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "STAND UP!",
+            "link": "https://music.apple.com/us/album/stand-up/1437625279?i=1437625284",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ULTRA DANCEHALL",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0050/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ULTRA DANCEHALL.jpg",
+            "caption": null
+        },
+        {
+            "filename": "PODIUM EPISODE01 - IN THE MIX -.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

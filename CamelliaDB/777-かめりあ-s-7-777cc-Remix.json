@@ -1,0 +1,75 @@
+{
+    "name": "777 (かめりあ's \"7,777cc\" Remix)",
+    "url": "777-かめりあ-s-7-777cc-Remix",
+    "altNames": null,
+    "artists": [
+        "RoughSketch [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "777",
+        "originalSongArtists": [
+            "RoughSketch"
+        ],
+        "originalSongLink": "https://youtu.be/hguGOJX_MJ8"
+    },
+    "duration": "4:10",
+    "albums": [
+        {
+            "albumName": "DEVIL'S NIGHTMARE",
+            "albumPublisher": "Notebook Records",
+            "albumReleaseDate": "2022-10-30",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "777 (かめりあ's \"7,777cc\" Remix)",
+            "link": "https://youtu.be/YNFzZzdvwhE",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "777 (かめりあ's \"7,777cc\" Remix)",
+            "link": "https://open.spotify.com/track/1fC4V0VVFuSccy8YBwYE8x?si=cecde39577524444",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "777 (かめりあ's \"7,777cc\" Remix)",
+            "link": "https://music.apple.com/us/album/777-camellias-7-777cc-remix/1650167446?i=1650167457",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "777 (かめりあ's \"7,777cc\" Remix)",
+            "link": "https://notebookrecordsjp.bandcamp.com/track/777-camellias-7777cc-remix",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "DEVIL'S NIGHTMARE",
+            "link": "https://diverse.direct/notebookrecords/nbcd-047/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "DEVIL'S NIGHTMARE",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000003089&search=devil%27s+nightmare&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "DEVIL'S NIGHTMARE.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

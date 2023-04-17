@@ -1,0 +1,68 @@
+{
+    "name": "Restart",
+    "url": "Restart",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L]",
+        "Toriko Takanashi/タカナシトリコ [V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "少女綺想曲　～ Dream Battle",
+            "touhouGame": "東方永夜抄　～ Imperishable Night"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:21",
+    "albums": [
+        {
+            "albumName": "POP|CULTURE 4",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2015-08-14",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Restart",
+            "link": "https://youtu.be/f6Xsjq-UbLw",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Restart",
+            "link": "https://open.spotify.com/track/3KJvYg3C9vqP6uauSyKJao?si=7e7a5ca4fe9c4123",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Restart",
+            "link": "https://music.apple.com/us/album/restart/1437628481?i=1437628493",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "POP|CULTURE 4",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0048/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "POP|CULTURE 4",
+            "link": "https://www.tanocstore.net/shopdetail/000000000594/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "POP CULTURE 4.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

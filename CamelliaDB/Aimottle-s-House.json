@@ -1,0 +1,56 @@
+{
+    "name": "Aimottle's House",
+    "url": "Aimottle-s-House",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:15",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Aimottle's House",
+            "link": "https://youtu.be/vJLT5mI0y2E",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Aimottle's House",
+            "link": "https://open.spotify.com/track/7xYouW2zmAUeAyBohfzITx?si=d2ef4bfe21bb473d",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Aimottle's House",
+            "link": "https://music.apple.com/us/album/aimottles-house/1522112127?i=1522112449",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Aimottle's House",
+            "link": "https://dwellersemptypath.bandcamp.com/track/aimottles-house",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

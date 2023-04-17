@@ -1,0 +1,92 @@
+{
+    "name": "Your Lights",
+    "url": "Your-Lights",
+    "altNames": null,
+    "artists": [
+        "LiGHTs (Tiara Rosetta Lavie Ashley Lynette) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:31",
+    "albums": [
+        {
+            "albumName": "START the MAGIC HOUR",
+            "albumPublisher": "JVCKENWOOD Victor Entertainment",
+            "albumReleaseDate": "2020-02-05",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        },
+        {
+            "albumName": "Everlasting Magic",
+            "albumPublisher": "JVCKENWOOD Victor Entertainment",
+            "albumReleaseDate": "2022-10-26",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Your Lights",
+            "link": "https://youtu.be/jWd3-aTinz4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Your Lights",
+            "link": "https://open.spotify.com/track/2pRPcXufL0qAl9Ui94RMtU?si=f336736163924fba",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Your Lights",
+            "link": "https://music.apple.com/jp/album/your-lights/1495612735?i=1495612739&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "START the MAGIC HOUR.png",
+            "caption": null
+        },
+        {
+            "filename": "Everlasting Magic.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Your Lights (Camellia's \"Lapis Re:DENPA\" Remix)",
+            "url": "Your-Lights-Camellia-s-Lapis-Re-DENPA-Remix",
+            "altNames": null,
+            "artists": [
+                "LiGHTs (Tiara Rosetta Lavie Ashley Lynette) [V]"
+            ],
+            "songType": "Remix",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:07",
+            "albums": [
+                {
+                    "albumName": "Sound of the Bell / SUGAR×LEMONADE (Bonus Track)",
+                    "albumPublisher": "JVCKENWOOD Victor Entertainment",
+                    "albumReleaseDate": "2022-02-23",
+                    "albumReleaseEvent": null,
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": null,
+            "imgs": [
+                {
+                    "filename": "Sound of the Bell.png",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

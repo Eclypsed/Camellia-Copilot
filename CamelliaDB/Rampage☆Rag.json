@@ -1,0 +1,108 @@
+{
+    "name": "Rampage☆Rag",
+    "url": "Rampage☆Rag",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "1:59",
+    "albums": [
+        {
+            "albumName": "jubeat festo ORIGINAL SOUNDTRACK",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2020-07-29",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        },
+        {
+            "albumName": "NOSTALGIA Music Collection ~Op.3~",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2023-03-01",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "jubeat clan",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2018-06-07"
+        },
+        {
+            "gameName": "jubeat (2021)",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2021-05-07"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Rampage☆Rag",
+            "link": "https://youtu.be/SAdUspZB-js",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Rampage☆Rag.png",
+            "caption": null
+        },
+        {
+            "filename": "jubeat festo ORIGINAL SOUNDTRACK.png",
+            "caption": null
+        },
+        {
+            "filename": "NOSTALGIA Music Collection ~Op.3~.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "Rampage☆Rag (NOSTALGIA Style)",
+            "url": "Rampage☆Rag-NOSTALGIA-Style",
+            "altNames": null,
+            "artists": null,
+            "songType": "Arrangement",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "1:59",
+            "albums": [
+                {
+                    "albumName": "おとどけ！トロッコ大作戦",
+                    "albumPublisher": "Konami",
+                    "albumReleaseDate": "2020-02-12",
+                    "albumReleaseEvent": null,
+                    "albumType": "OST"
+                }
+            ],
+            "gameAppearances": [
+                {
+                    "gameName": "ノスタルジア Op.3",
+                    "gamePublisher": "Konami",
+                    "gameReleaseDate": "2018-06-07"
+                }
+            ],
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "Rampage☆Rag (NOSTALGIA Style)",
+                    "link": "https://youtu.be/sIrdTrjSa3c",
+                    "unofficial": true
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "Rampage☆Rag.png",
+                    "caption": null
+                },
+                {
+                    "filename": "おとどけ！トロッコ大作戦.jpg",
+                    "caption": null
+                }
+            ],
+            "description": "Slightly rearranged version of the original Rampage☆Rag."
+        }
+    ]
+}

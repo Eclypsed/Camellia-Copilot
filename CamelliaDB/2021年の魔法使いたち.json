@@ -1,0 +1,68 @@
+{
+    "name": "2021年の魔法使いたち",
+    "url": "2021年の魔法使いたち",
+    "altNames": [
+        "We Magicians Still Alive in 2021"
+    ],
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:30",
+    "albums": [
+        {
+            "albumName": "U.U.F.O.",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2021-07-11",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "2021年の魔法使いたち",
+            "link": "https://youtu.be/az-WrqWL6oo",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "2021年の魔法使いたち",
+            "link": "https://open.spotify.com/track/1vtpIOOXe7iq0kUXYcBn61?si=38208cb103824e27",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "2021年の魔法使いたち",
+            "link": "https://music.apple.com/us/album/we-magicians-still-alive-in-2021/1572224128?i=1572224361",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "2021年の魔法使いたち",
+            "link": "https://cametek.bandcamp.com/track/2021-we-magicians-still-alive-in-2021",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "U.U.F.O.",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0021-0022/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "U.U.F.O.",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002743&search=U.U.F.O.&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "U.U.F.O..jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

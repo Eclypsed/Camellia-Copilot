@@ -1,0 +1,37 @@
+{
+    "name": "Spider Dance (Camellia Remix)",
+    "url": "Spider-Dance-Camellia-Remix",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Spider Dance",
+        "originalSongArtists": [
+            "Toby Fox"
+        ],
+        "originalSongLink": "https://youtu.be/YZ3XjVVNagU"
+    },
+    "duration": "3:18",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Spider Dance (Camellia Remix)",
+            "link": "https://youtu.be/fr-xxBY_BdQ",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Spider Dance.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

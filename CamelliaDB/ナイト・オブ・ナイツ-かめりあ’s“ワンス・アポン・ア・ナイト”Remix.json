@@ -1,0 +1,92 @@
+{
+    "name": "ナイト・オブ・ナイツ (かめりあ’s“ワンス・アポン・ア・ナイト”Remix)",
+    "url": "ナイト・オブ・ナイツ-かめりあ’s“ワンス・アポン・ア・ナイト”Remix",
+    "altNames": [
+        "Night of Knights (Camellia's \"Once Upon a Night\" Remix)"
+    ],
+    "artists": [
+        "beatMARIO [A]",
+        "Camellia [R]"
+    ],
+    "songType": "Touhou Arrangement, Remix",
+    "touhouOrigin": [
+        {
+            "touhouSong": "フラワリングナイト",
+            "touhouGame": "東方花映塚　～ Phantasmagoria of Flower View"
+        }
+    ],
+    "originalSong": {
+        "originalSongName": "ナイト・オブ・ナイツ",
+        "originalSongArtists": [
+            "ビートまりお"
+        ],
+        "originalSongLink": "https://open.spotify.com/track/23COHsoGsY4zDb5xrSocJo?si=89e2983821924fbc"
+    },
+    "duration": "4:37",
+    "albums": [
+        {
+            "albumName": "All Night of Nights Lunatic/オールナイト・オブ・ナイツ ルナティック",
+            "albumPublisher": "COOL&CREATE",
+            "albumReleaseDate": "2019-12-31",
+            "albumReleaseEvent": "Comiket 97",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "WACCA",
+            "gamePublisher": "Marvelous",
+            "gameReleaseDate": "2020-01-22"
+        },
+        {
+            "gameName": "オンゲキ R.E.D.",
+            "gamePublisher": "SEGA",
+            "gameReleaseDate": "2020-11-26"
+        },
+        {
+            "gameName": "CHUNITHM NEW",
+            "gamePublisher": "SEGA",
+            "gameReleaseDate": "2021-11-04"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ナイト・オブ・ナイツ (かめりあ’s“ワンス・アポン・ア・ナイト”Remix)",
+            "link": "https://youtu.be/zGVC9_fYAEM",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "ナイト・オブ・ナイツ (かめりあ’s“ワンス・アポン・ア・ナイト”Remix)",
+            "link": "https://open.spotify.com/track/5dXMnfMcrBpefcHgsDKc16?si=60695c8cce2f47d1",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ナイト・オブ・ナイツ (かめりあ’s“ワンス・アポン・ア・ナイト”Remix)",
+            "link": "https://music.apple.com/us/album/night-of-knights-knight-of-nights-camellias-once/1503132495?i=1503132498",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "オールナイト・オブ・ナイツ ルナティック",
+            "link": "https://diverse.direct/coolcreate/cccd59/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "オールナイト・オブ・ナイツ ルナティック",
+            "link": "https://www.tanocstore.net/shopdetail/000000002330/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Night of Nights Lunatic.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Trimmed down to 2:30 for game appearances",
+    "variations": null
+}

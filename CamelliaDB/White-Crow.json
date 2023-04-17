@@ -1,0 +1,89 @@
+{
+    "name": "White Crow",
+    "url": "White-Crow",
+    "altNames": null,
+    "artists": [
+        "Camellia [A L V]"
+    ],
+    "songType": "Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "リバースイデオロギー",
+            "touhouGame": "東方輝針城　～ Double Dealing Character"
+        }
+    ],
+    "originalSong": null,
+    "duration": "4:07",
+    "albums": [
+        {
+            "albumName": "POP|CULTURE 7",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2017-12-29",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "C"
+        },
+        {
+            "albumName": "NON-STOP INTERCEPT Phase One",
+            "albumPublisher": "Alstroemeria Records, DiGiTAL WiNG",
+            "albumReleaseDate": "2018-10-14",
+            "albumReleaseEvent": "Fall Reitaisai 5",
+            "albumType": "C"
+        },
+        {
+            "albumName": "\"PODIUM\" EPISODE01 - IN THE MIX -",
+            "albumPublisher": "Alstroemeria Records",
+            "albumReleaseDate": "2019-08-12",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "White Crow",
+            "link": "https://youtu.be/Ao_f-GxZvfo",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "White Crow",
+            "link": "https://open.spotify.com/track/23FomAJrR428uVECx0cs0e?si=ad0369e3791348eb",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "White Crow",
+            "link": "https://music.apple.com/us/album/white-crow/1437628767?i=1437628779",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "POP|CULTURE 7",
+            "link": "https://diverse.direct/alstroemeria-records/arcd0063/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "POP|CULTURE 7",
+            "link": "https://www.tanocstore.net/shopdetail/000000001429/Alstroemeria_Records/page1/recommend/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "POP CULTURE 7.jpg",
+            "caption": null
+        },
+        {
+            "filename": "NON-STOP INTERCEPT Phase One.png",
+            "caption": null
+        },
+        {
+            "filename": "PODIUM EPISODE01 - IN THE MIX -.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

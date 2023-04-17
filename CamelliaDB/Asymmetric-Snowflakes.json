@@ -1,0 +1,66 @@
+{
+    "name": "Asymmetric Snowflakes",
+    "url": "Asymmetric-Snowflakes",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:33",
+    "albums": [
+        {
+            "albumName": "Flowers Unfold Re:Bloom",
+            "albumPublisher": "RaqesQue",
+            "albumReleaseDate": "2019-08-11",
+            "albumReleaseEvent": "Comiket 96",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Asymmetric Snowflakes",
+            "link": "https://youtu.be/wc3Q2-YyYf4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Asymmetric Snowflakes",
+            "link": "https://open.spotify.com/track/1tMSyU89Vf7P9c1xps5Wh5?si=20b15bfade444fe4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Asymmetric Snowflakes",
+            "link": "https://music.apple.com/us/album/asymmetric-snowflakes/1501462285?i=1501462289",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Asymmetric Snowflakes",
+            "link": "https://raqesque.bandcamp.com/track/asymmetric-snowflakes",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Flowers Unfold Re:Bloom",
+            "link": "https://diverse.direct/%e3%83%a9%e3%82%af%e3%82%a8%e3%82%b9%e3%82%af/rqcd-001r/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Flowers Unfold Re:Bloom",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002081&search=Flowers+Unfold+Re%3ABloom&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Flowers Unfold ReBloom.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

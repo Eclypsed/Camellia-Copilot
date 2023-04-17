@@ -1,0 +1,39 @@
+{
+    "name": "キオクノシズク Camellia's Drops of Amnesia Remix",
+    "url": "キオクノシズク-Camellia-s-Drops-of-Amnesia-Remix",
+    "altNames": null,
+    "artists": [
+        "KatahotoriP/かたほとりP [C]",
+        "Kagamine Rin/鏡音リン [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "キオクノシズク",
+        "originalSongArtists": [
+            "鏡音リン"
+        ],
+        "originalSongLink": "https://youtu.be/_VzB49kF6Xg"
+    },
+    "duration": "5:38",
+    "albums": [
+        {
+            "albumName": "メイドの星の物語。",
+            "albumPublisher": "POYAHCHIO/ポヤッチオ",
+            "albumReleaseDate": "2011-11-19",
+            "albumReleaseEvent": "THE VOC@LOiD M@STER 18",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": null,
+    "imgs": [
+        {
+            "filename": "メイドの星の物語.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

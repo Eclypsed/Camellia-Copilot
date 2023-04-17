@@ -1,0 +1,37 @@
+{
+    "name": "MEGALOVANIA (Camellia Remix)",
+    "url": "MEGALOVANIA-Camellia-Remix",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "MEGALOVANIA",
+        "originalSongArtists": [
+            "Toby Fox"
+        ],
+        "originalSongLink": "https://youtu.be/0FCvzsVlXpQ"
+    },
+    "duration": "6:20",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "MEGALOVANIA (Camellia Remix)",
+            "link": "https://youtu.be/9X7I3bW49S8",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "MEGALOVANIA (Camellia Remix).jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

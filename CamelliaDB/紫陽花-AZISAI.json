@@ -1,0 +1,80 @@
+{
+    "name": "紫陽花  -AZISAI-",
+    "url": "紫陽花-AZISAI",
+    "altNames": null,
+    "artists": [
+        "Expander [A]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:04",
+    "albums": null,
+    "gameAppearances": [
+        {
+            "gameName": "beatmania IIDX 23 copula",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2016-05-12"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "紫陽花  -AZISAI-",
+            "link": "https://youtu.be/3nKxMTMIuVU",
+            "unofficial": true
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "紫陽花  -AZISAI-.png",
+            "caption": "This jacket is not actually official, it is a concept jacket"
+        }
+    ],
+    "description": null,
+    "variations": [
+        {
+            "name": "紫陽花  -AZISAI- (Long Ver.)",
+            "url": "紫陽花-AZISAI-Long-Ver",
+            "altNames": null,
+            "artists": [
+                "Expander [A]"
+            ],
+            "songType": "Extension",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "5:36",
+            "albums": [
+                {
+                    "albumName": "beatmania IIDX 23 copula ORIGINAL SOUNDTRACK Vol.2",
+                    "albumPublisher": "Konami",
+                    "albumReleaseDate": "2016-10-19",
+                    "albumReleaseEvent": null,
+                    "albumType": "OST"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "紫陽花  -AZISAI- (Long Ver.)",
+                    "link": "https://youtu.be/3lhV0V883lM",
+                    "unofficial": true
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "紫陽花  -AZISAI- (Long Ver.)",
+                    "link": "https://music.apple.com/gb/album/azisai-long-ver/1163950793?i=1163951091",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "beatmania IIDX 23 copula vol2.jpeg",
+                    "caption": null
+                }
+            ],
+            "description": null
+        }
+    ]
+}

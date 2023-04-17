@@ -1,0 +1,53 @@
+{
+    "name": "祝色ブーケ(かめりあ Remix)",
+    "url": "祝色ブーケ-かめりあ-Remix",
+    "altNames": [
+        "Celebration Color Bouquet (Camellia Remix)"
+    ],
+    "artists": [
+        "PHQUASE [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "祝色ブーケ",
+        "originalSongArtists": [
+            "PHQUASE"
+        ],
+        "originalSongLink": "https://soundcloud.com/phquase/iwairo-bouquet"
+    },
+    "duration": "4:58",
+    "albums": [
+        {
+            "albumName": "PHESTIVAL",
+            "albumPublisher": "PHQUASE PHRASE",
+            "albumReleaseDate": "2013-08-12",
+            "albumReleaseEvent": "Comiket 84",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "祝色ブーケ(かめりあ Remix)",
+            "link": "https://youtu.be/RgQpuS_G5ms",
+            "unofficial": true
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "PHESTIVAL",
+            "link": "https://www.tanocstore.net/shopdetail/000000000354/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "PHESTIVAL.jpg",
+            "caption": null
+        }
+    ],
+    "description": "The original song was actually a song that PHQUASE made for his friend's wedding.",
+    "variations": null
+}

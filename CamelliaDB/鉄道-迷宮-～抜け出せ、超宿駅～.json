@@ -1,0 +1,56 @@
+{
+    "name": "鉄道??迷宮 ～抜け出せ、超宿駅～",
+    "url": "鉄道-迷宮-～抜け出せ、超宿駅～",
+    "altNames": null,
+    "artists": [
+        "Nanahira/ななひら [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:21",
+    "albums": [
+        {
+            "albumName": "4orce!/ふぉーす！",
+            "albumPublisher": "KamelCamellia/かめるかめりあ, Confetto",
+            "albumReleaseDate": "2017-12-29",
+            "albumReleaseEvent": "Comiket 93",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "鉄道??迷宮 ～抜け出せ、超宿駅～",
+            "link": "https://youtu.be/5MQnDbJD8fo",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "鉄道??迷宮 ～抜け出せ、超宿駅～",
+            "link": "https://open.spotify.com/track/0AN24q7I9JcAh06WMTUpwk?si=4f459f6c5ad847cb",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "鉄道??迷宮 ～抜け出せ、超宿駅～",
+            "link": "https://music.apple.com/jp/album/train-labyrinth-escape-from-super-shinjuku-sta/1552865093?i=1552865096&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "ふぉーす！",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/kccd-006/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "4orce!.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

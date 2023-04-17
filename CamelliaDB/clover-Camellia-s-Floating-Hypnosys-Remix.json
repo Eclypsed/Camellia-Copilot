@@ -1,0 +1,76 @@
+{
+    "name": "clover (Camellia's \"Floating Hypnosys\" Remix)",
+    "url": "clover-Camellia-s-Floating-Hypnosys-Remix",
+    "altNames": null,
+    "artists": [
+        "kamome sano [C]",
+        "伊ヶ崎綾香 [V]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "clover",
+        "originalSongArtists": [
+            "kamome sano feat. 伊ヶ崎綾香"
+        ],
+        "originalSongLink": "https://youtu.be/5VqPipfcrFA"
+    },
+    "duration": "6:49",
+    "albums": [
+        {
+            "albumName": "Goodbye, Friend",
+            "albumPublisher": "tatsuta recordings",
+            "albumReleaseDate": "2016-10-30",
+            "albumReleaseEvent": "M3-38",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "clover (Camellia's \"Floating Hypnosys\" Remix)",
+            "link": "https://youtu.be/7bz-ZF7ZD9c",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "clover (Camellia's \"Floating Hypnosys\" Remix)",
+            "link": "https://open.spotify.com/track/0Lx68NlvjdhoDE0GTFPYxg?si=786ff6e86f884ef1",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "clover (Camellia's \"Floating Hypnosys\" Remix)",
+            "link": "https://music.apple.com/us/album/clover-camellias-floating-hypnosys-remix-feat-ayaka/1172181595?i=1172182401",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "clover (Camellia's \"Floating Hypnosys\" Remix)",
+            "link": "https://kamomesano.bandcamp.com/track/clover-feat-ayaka-igasaki-camellias-floating-hypnosys-remix-2",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Goodbye, Friend",
+            "link": "https://diverse.direct/tatsuta-recordings/tzts-0001/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Goodbye, Friend",
+            "link": "https://www.tanocstore.net/shopdetail/000000000955/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Goodbye, Friend.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

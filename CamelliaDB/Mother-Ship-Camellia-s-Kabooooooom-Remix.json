@@ -1,0 +1,57 @@
+{
+    "name": "Mother Ship (Camellia's \"Kabooooooom!!\" Remix)",
+    "url": "Mother-Ship-Camellia-s-Kabooooooom-Remix",
+    "altNames": null,
+    "artists": [
+        "Sota Fujimori [C A]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "Mother Ship",
+        "originalSongArtists": [
+            "Sota Fujimori"
+        ],
+        "originalSongLink": "https://youtu.be/2kKDWQAl-J4"
+    },
+    "duration": "6:53",
+    "albums": [
+        {
+            "albumName": "Beatnation Rhyze Vs Hardcore Tano*C",
+            "albumPublisher": "Konami",
+            "albumReleaseDate": "2014-08-27",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Mother Ship (Camellia's \"Kabooooooom!!\" Remix)",
+            "link": "https://youtu.be/vTveZw9FzEc",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Mother Ship (Camellia's \"Kabooooooom!!\" Remix)",
+            "link": "https://music.apple.com/jp/album/mother-ship-camellias-kabooooooom-remix/906582716?i=906582742&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Beatnation Rhyze Vs Hardcore Tano*C",
+            "link": "https://www.tanocstore.net/shopdetail/000000000049/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "beatnation RHYZE vs HARDCORE TANOC.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

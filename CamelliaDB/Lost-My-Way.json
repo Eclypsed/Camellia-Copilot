@@ -1,0 +1,50 @@
+{
+    "name": "Lost My Way",
+    "url": "Lost-My-Way",
+    "altNames": null,
+    "artists": [
+        "GAT (Genki aran Tachibana) [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:14",
+    "albums": [
+        {
+            "albumName": "GAT Friends2",
+            "albumPublisher": "GAT",
+            "albumReleaseDate": "2015-10-25",
+            "albumReleaseEvent": "M3-36",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Lost My Way",
+            "link": "https://youtu.be/Rsoak6nBLZk",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "GAT Friends2",
+            "link": "https://diverse.direct/gat/gatcd-006/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "GAT Friends2",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000000633&search=gat+friends&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GAT Friends2.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

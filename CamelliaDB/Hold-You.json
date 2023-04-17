@@ -1,0 +1,54 @@
+{
+    "name": "Hold You",
+    "url": "Hold-You",
+    "altNames": null,
+    "artists": [
+        "Quarks (Camellia [C L] kradness [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:16",
+    "albums": [
+        {
+            "albumName": "Mira",
+            "albumPublisher": "EXIT TUNES",
+            "albumReleaseDate": "2018-06-06",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Hold You",
+            "link": "https://youtu.be/p0P538IYESo",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Hold You",
+            "link": "https://open.spotify.com/track/60IigTU2MPVY6cGVA6P4KU?si=26375b4f335e4b51",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Hold You",
+            "link": "https://music.apple.com/jp/album/hold-you/1389666121?i=1389666350&l=en",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Hold You.jpg",
+            "caption": null
+        },
+        {
+            "filename": "mira.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

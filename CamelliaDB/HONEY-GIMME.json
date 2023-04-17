@@ -1,0 +1,44 @@
+{
+    "name": "HONEY,GIMME",
+    "url": "HONEY-GIMME",
+    "altNames": null,
+    "artists": [
+        "Genki-kun Band/元気くんバンド (DJ Genki [Guitar] Camellia [Bass] JAVELIN [Drums] Yukacco [V])"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:11",
+    "albums": [
+        {
+            "albumName": "Genki-kun Band EP/元気くんバンドEP",
+            "albumPublisher": "djgenki.net",
+            "albumReleaseDate": "2015-04-26",
+            "albumReleaseEvent": "M3-35",
+            "albumType": "EP"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "HONEY,GIMME",
+            "link": "https://youtu.be/w8AsM0CHBFs",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "HONEY,GIMME",
+            "link": "https://genkianamei.bandcamp.com/track/honey-gimme",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "元気くんバンドEP.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

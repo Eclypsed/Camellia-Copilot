@@ -1,0 +1,68 @@
+{
+    "name": "The Rolling",
+    "url": "The-Rolling",
+    "altNames": null,
+    "artists": [
+        "kors k [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:41",
+    "albums": [
+        {
+            "albumName": "S2TB Files7: Battle Royale",
+            "albumPublisher": "S2TB Recording",
+            "albumReleaseDate": "2017-08-11",
+            "albumReleaseEvent": "Comiket 92",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "The Rolling",
+            "link": "https://youtu.be/O6jupVa9A6g",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "The Rolling",
+            "link": "https://open.spotify.com/track/3jSCo3FA7fU6QVjIBH4wbj?si=6d663125d5bc4366",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "The Rolling",
+            "link": "https://music.apple.com/jp/album/the-rolling/1505736914?i=1505736919&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "The Rolling",
+            "link": "https://s2tbdigital.bandcamp.com/track/the-rolling",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "S2TB Files7: Battle Royale",
+            "link": "https://diverse.direct/s2tb-recording/s2tb-0021/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "S2TB Files7: Battle Royale",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000001254&search=S2TB+Files7%3A+Battle+Royale&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Battle Royale.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

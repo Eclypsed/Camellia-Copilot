@@ -1,0 +1,36 @@
+{
+    "name": "Yellow Invitation",
+    "url": "Yellow-Invitation",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:49",
+    "albums": [
+        {
+            "albumName": "Mad Rat Dead Original Soundtrack",
+            "albumPublisher": "Nippon Ichi Software",
+            "albumReleaseDate": "2020-10-29",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Yellow Invitation",
+            "link": "https://youtu.be/0TlnKl2u92g",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Mad Rat Dead Original Soundtrack.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

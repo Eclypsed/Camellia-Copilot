@@ -1,0 +1,56 @@
+{
+    "name": "Nightmare",
+    "url": "Nightmare",
+    "altNames": null,
+    "artists": [
+        "Temmie Chang [C]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "0:39",
+    "albums": [
+        {
+            "albumName": "Dweller's Empty Path OST",
+            "albumPublisher": "Camellia, Temmie Chang & Toby Fox",
+            "albumReleaseDate": "2020-07-10",
+            "albumReleaseEvent": null,
+            "albumType": "OST"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Nightmare",
+            "link": "https://youtu.be/_deRJaWNOZs",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Nightmare",
+            "link": "https://open.spotify.com/track/553CitIDeP7RyT7A4jlf9f?si=229e65fa1ed84dba",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Nightmare",
+            "link": "https://music.apple.com/us/album/nightmare/1522112127?i=1522112711",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Nightmare",
+            "link": "https://dwellersemptypath.bandcamp.com/track/nightmare",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dweller's Empty Path OST.jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

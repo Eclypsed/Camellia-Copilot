@@ -1,0 +1,100 @@
+{
+    "name": "あめふり天気をGET AWAY!",
+    "url": "あめふり天気をGET-AWAY",
+    "altNames": [
+        "GET AWAY from the Rainy Weather!"
+    ],
+    "artists": [
+        "Nanahira/ななひら [V]",
+        "Haruka Nana/春歌ナナ [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:03",
+    "albums": [
+        {
+            "albumName": "ななみっくす！ -NANAMIX-",
+            "albumPublisher": "POYAHCHIO/ポヤッチオ",
+            "albumReleaseDate": "2012-08-11",
+            "albumReleaseEvent": "Comiket 82",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "あめふり天気をGET AWAY!",
+            "link": "https://youtu.be/C3cLN976fpo",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "あめふり天気をGET AWAY!",
+            "link": "https://www.nicovideo.jp/watch/sm18284474",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "NanaMix.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Haruka Nana/春歌ナナ is of course voiced by Nanahira so really there is only one vocalist in this song.",
+    "variations": [
+        {
+            "name": "あめふり天気をGET AWAY!",
+            "url": "あめふり天気をGET-AWAY-2",
+            "altNames": [
+                "GET AWAY from the Rainy Weather!"
+            ],
+            "artists": [
+                "Nanahira/ななひら [V]",
+                "KOKO/ココ [V]"
+            ],
+            "songType": "Cover",
+            "touhouOrigin": null,
+            "originalSong": null,
+            "duration": "4:06",
+            "albums": [
+                {
+                    "albumName": "Love Chu! 2/らぶちゅ！２",
+                    "albumPublisher": "Confetto",
+                    "albumReleaseDate": "2015-04-26",
+                    "albumReleaseEvent": "M3-35",
+                    "albumType": "A"
+                }
+            ],
+            "gameAppearances": null,
+            "links": [
+                {
+                    "linkSource": "YouTube",
+                    "displayName": "あめふり天気をGET AWAY!",
+                    "link": "https://youtu.be/MjelqMRlySI",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Spotify",
+                    "displayName": "あめふり天気をGET AWAY!",
+                    "link": "https://open.spotify.com/track/6B7l0MJ2iPlZalkWwd3v36?si=ac25be9de8f04b59",
+                    "unofficial": false
+                },
+                {
+                    "linkSource": "Apple Music",
+                    "displayName": "あめふり天気をGET AWAY!",
+                    "link": "https://music.apple.com/jp/album/get-away-from-rainy-weather/1554983155?i=1554983330&l=en",
+                    "unofficial": false
+                }
+            ],
+            "imgs": [
+                {
+                    "filename": "らぶちゅ！２.jpg",
+                    "caption": null
+                }
+            ],
+            "description": "Cover, remaster, whatever you want to call it, it's basically the exact same song but instead of Haruka Nana, KOKO is doing the vocals with Nanahira."
+        }
+    ]
+}

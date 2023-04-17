@@ -1,0 +1,60 @@
+{
+    "name": "=El=Dorado=",
+    "url": "El-Dorado",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:43",
+    "albums": [
+        {
+            "albumName": "Xroniàl Xéro",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2020-03-18",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "=El=Dorado=",
+            "link": "https://youtu.be/kSmDKl8s1EQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "=El=Dorado=",
+            "link": "https://open.spotify.com/track/7braJHSzr2WdY7kQCoL9gn?si=4658cb8723cb4c05",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "=El=Dorado=",
+            "link": "https://music.apple.com/us/album/el-dorado/1501314614?i=1501314616",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Xroniàl Xéro",
+            "link": "https://diverse.direct/edp/pcca-04883/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Xroniàl Xéro",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002383&search=Xroni%26%23224%3Bl+X%26%23233%3Bro&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Xronial Xero.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

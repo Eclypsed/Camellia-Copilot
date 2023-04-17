@@ -1,0 +1,79 @@
+{
+    "name": "Rip It Off (Now) Rip It Off",
+    "url": "Rip-It-Off-Now-Rip-It-Off",
+    "altNames": null,
+    "artists": [
+        "kradness [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:16",
+    "albums": [
+        {
+            "albumName": "Rip It Off (Now) Rip It Off",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2020-02-19",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        },
+        {
+            "albumName": "Xroniàl Xéro",
+            "albumPublisher": "PONY CANYON/ポニーキャニオン",
+            "albumReleaseDate": "2020-03-18",
+            "albumReleaseEvent": null,
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "DANCERUSH STARDOM",
+            "gamePublisher": "Konami",
+            "gameReleaseDate": "2020-02-19"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Rip It Off (Now) Rip It Off",
+            "link": "https://youtu.be/z_rmXl_ATZQ",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Rip It Off (Now) Rip It Off",
+            "link": "https://open.spotify.com/track/7EMAjbe0EdOzN1fJLUceTC?si=826cd7a374d84d4e",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Rip It Off (Now) Rip It Off",
+            "link": "https://music.apple.com/us/album/rip-it-off-now-rip-it-off/1498003620?i=1498003621",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Xroniàl Xéro",
+            "link": "https://diverse.direct/edp/pcca-04883/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Xroniàl Xéro",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002383&search=Xroni%26%23224%3Bl+X%26%23233%3Bro&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Rip It Off (Now) Rip It Off.jpg",
+            "caption": null
+        },
+        {
+            "filename": "Xronial Xero.jpeg",
+            "caption": null
+        }
+    ],
+    "description": "Trimmed down to 1:56 in DANCERUSH STARDOM",
+    "variations": null
+}

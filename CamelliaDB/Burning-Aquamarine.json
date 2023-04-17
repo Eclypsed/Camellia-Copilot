@@ -1,0 +1,54 @@
+{
+    "name": "Burning Aquamarine",
+    "url": "Burning-Aquamarine",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "6:03",
+    "albums": [
+        {
+            "albumName": "Burning Aquamarine",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2021-11-21",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "Burning Aquamarine",
+            "link": "https://youtu.be/4kcpZpytqEo",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "Burning Aquamarine",
+            "link": "https://open.spotify.com/track/2CQWKCQkbAhHErEi8cxYcU?si=49d42499e4054f24",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "Burning Aquamarine",
+            "link": "https://music.apple.com/us/album/burning-aquamarine/1595406607?i=1595406720",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "Burning Aquamarine",
+            "link": "https://cametek.bandcamp.com/track/burning-aquamarine",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Burning Aquamarine.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

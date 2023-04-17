@@ -1,0 +1,44 @@
+{
+    "name": "DON'T GIVE A FUCK",
+    "url": "DON-T-GIVE-A-FUCK",
+    "altNames": [
+        "DON'T GIVE A FxCK"
+    ],
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:59",
+    "albums": [
+        {
+            "albumName": "GAT Friends",
+            "albumPublisher": "GAT",
+            "albumReleaseDate": "2014-10-26",
+            "albumReleaseEvent": "M3-34",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "DON'T GIVE A FUCK",
+            "link": "https://youtu.be/H6Zb-DNnJPY",
+            "unofficial": true
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "GAT Friends",
+            "link": "https://diverse.direct/gat/gatcd-004/",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "GAT Friends.jpg",
+            "caption": null
+        }
+    ],
+    "description": "In both online distribution stores and as written by Camellia himself, the track name is \"DON'T GIVE A FxCK\", with a x censoring the last word. However the official album page and physical copies list the track as \"DON'T GIVE A FUCK\".",
+    "variations": null
+}

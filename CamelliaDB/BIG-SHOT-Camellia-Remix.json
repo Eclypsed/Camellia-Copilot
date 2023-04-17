@@ -1,0 +1,37 @@
+{
+    "name": "BIG SHOT (Camellia Remix)",
+    "url": "BIG-SHOT-Camellia-Remix",
+    "altNames": null,
+    "artists": [
+        "Toby Fox [C]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix",
+    "touhouOrigin": null,
+    "originalSong": {
+        "originalSongName": "BIG SHOT",
+        "originalSongArtists": [
+            "Toby Fox"
+        ],
+        "originalSongLink": "https://youtu.be/uivFFnCI8tM"
+    },
+    "duration": "4:52",
+    "albums": null,
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "BIG SHOT (Camellia Remix)",
+            "link": "https://youtu.be/o1OMXNJ9mHM",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "BIG SHOT (Camellia Remix).jpg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

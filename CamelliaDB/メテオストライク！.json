@@ -1,0 +1,46 @@
+{
+    "name": "メテオストライク！",
+    "url": "メテオストライク！",
+    "altNames": [
+        "Meteor Strike!"
+    ],
+    "artists": [
+        "Hatsune Miku/初音ミク [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "2:38",
+    "albums": [
+        {
+            "albumName": "Dive In The Garglebasin",
+            "albumPublisher": "Gunno-ne Sounds/ぐうのねサウンズ",
+            "albumReleaseDate": "2011-12-31",
+            "albumReleaseEvent": "Comiket 81",
+            "albumType": "C"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "メテオストライク！",
+            "link": "https://youtu.be/MLobLJW8wzs",
+            "unofficial": true
+        },
+        {
+            "linkSource": "niconico",
+            "displayName": "メテオストライク！",
+            "link": "https://www.nicovideo.jp/watch/sm15916828",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Dive In The Garglebasin.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

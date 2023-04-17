@@ -1,0 +1,60 @@
+{
+    "name": "ハジメテタヨリ☆",
+    "url": "ハジメテタヨリ☆",
+    "altNames": null,
+    "artists": [
+        "i金魚鉢たより(CV. 芹澤優) [V]"
+    ],
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "4:05",
+    "albums": [
+        {
+            "albumName": "ハジメテタヨリ☆",
+            "albumPublisher": "Tokiwaka Entertainment",
+            "albumReleaseDate": "2022-01-21",
+            "albumReleaseEvent": null,
+            "albumType": "S"
+        }
+    ],
+    "gameAppearances": [
+        {
+            "gameName": "D4DJ Groovy Mix/D4DJグルミク",
+            "gamePublisher": "Bushiroad",
+            "gameReleaseDate": "2022-04-22"
+        }
+    ],
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ハジメテタヨリ☆",
+            "link": "https://youtu.be/fzCBCvp4So4",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "ハジメテタヨリ☆",
+            "link": "https://open.spotify.com/track/5f7t7XkVy9sCQL5UpFudDM?si=c160f294bb73414f",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ハジメテタヨリ☆",
+            "link": "https://music.apple.com/us/album/hajimetetayori-feat-camellia/1604119382?i=1604119750",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "ハジメテタヨリ☆.jpg",
+            "caption": null
+        },
+        {
+            "filename": "ハジメテタヨリ☆.jpg",
+            "caption": null
+        }
+    ],
+    "description": "Nanahira also did a cover of this one  The song is trimmed down to around 2 minutes in D4DJ  Off-vocal version included in the release",
+    "variations": null
+}

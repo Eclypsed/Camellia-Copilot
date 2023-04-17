@@ -1,0 +1,85 @@
+{
+    "name": "#FairyJoke #CAMELLIAS_CHAFFANDTWERKANDCORE_REMIX",
+    "url": "FairyJoke-CAMELLIAS-CHAFFANDTWERKANDCORE-REMIX",
+    "altNames": null,
+    "artists": [
+        "Uno [A]",
+        "Camellia [R]"
+    ],
+    "songType": "Remix, Touhou Arrangement",
+    "touhouOrigin": [
+        {
+            "touhouSong": "Lunate Elf/ルーネイトエルフ",
+            "touhouGame": "東方紅魔郷　～ the Embodiment of Scarlet Devil"
+        }
+    ],
+    "originalSong": {
+        "originalSongName": "#FairyJoke",
+        "originalSongArtists": [
+            "Uno"
+        ],
+        "originalSongLink": "https://youtu.be/qthZ6WGS6OE"
+    },
+    "duration": "5:27",
+    "albums": [
+        {
+            "albumName": "Across Phantasm",
+            "albumPublisher": "IOSYS",
+            "albumReleaseDate": "2014-11-24",
+            "albumReleaseEvent": "Autumn Reitaisai",
+            "albumType": "C"
+        },
+        {
+            "albumName": "Camellia \"Remixes\" Summary & VIPs 02",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2018-08-10",
+            "albumReleaseEvent": "Comiket 94",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "#FairyJoke #CAMELLIAS_CHAFFANDTWERKANDCORE_REMIX",
+            "link": "https://youtu.be/u9--JlXloZM",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": " #FairyJoke #CAMELLIAS_CHAFFANDTWERKANDCORE_REMIX",
+            "link": "https://open.spotify.com/track/2eJvwkNg4EH7va7klj3hXG?si=e5c071382d8e4ba8",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": " #FairyJoke #CAMELLIAS_CHAFFANDTWERKANDCORE_REMIX",
+            "link": "https://music.apple.com/us/album/fairyjoke-camellias-chaffandtwerkandcore-remix/1437869273?i=1437869282",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0017/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "Camellia \"Remixes\" Summary & VIPs 02",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002266&search=Camellia+%22Remixes%22+Summary+%26+VIPs+02&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "Across Phantasm.jpg",
+            "caption": null
+        },
+        {
+            "filename": "Remixes Summary VIPs 02.png",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}

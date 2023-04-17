@@ -1,0 +1,66 @@
+{
+    "name": "ill intelligence",
+    "url": "ill-intelligence",
+    "altNames": null,
+    "artists": null,
+    "songType": "Original Song",
+    "touhouOrigin": null,
+    "originalSong": null,
+    "duration": "5:26",
+    "albums": [
+        {
+            "albumName": "PLANET//SHAPER",
+            "albumPublisher": "KamelCamellia/かめるかめりあ",
+            "albumReleaseDate": "2015-08-16",
+            "albumReleaseEvent": "Comiket 88",
+            "albumType": "A"
+        }
+    ],
+    "gameAppearances": null,
+    "links": [
+        {
+            "linkSource": "YouTube",
+            "displayName": "ill intelligence",
+            "link": "https://youtu.be/uRJMTckINpw",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Spotify",
+            "displayName": "ill intelligence",
+            "link": "https://open.spotify.com/track/3i96uHpH9OiUUVxlQg4Eze?si=7538af5ef12147d1",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Apple Music",
+            "displayName": "ill intelligence",
+            "link": "https://music.apple.com/jp/album/ill-intelligence/1049686892?i=1049687434&l=en",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Bandcamp",
+            "displayName": "ill intelligence",
+            "link": "https://cametek.bandcamp.com/track/ill-intelligence",
+            "unofficial": false
+        },
+        {
+            "linkSource": "Diverse Direct",
+            "displayName": "PLANET//SHAPER",
+            "link": "https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0011/",
+            "unofficial": false
+        },
+        {
+            "linkSource": "TANO*C STORE",
+            "displayName": "PLANET//SHAPER",
+            "link": "https://www.tanocstore.net/shop/shopdetail.html?brandcode=000000002265&search=planet%2F%2Fshaper&sort=",
+            "unofficial": false
+        }
+    ],
+    "imgs": [
+        {
+            "filename": "PLANET SHAPER.jpeg",
+            "caption": null
+        }
+    ],
+    "description": null,
+    "variations": null
+}
