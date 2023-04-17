@@ -8,18 +8,15 @@ from colorthief import ColorThief
 song_dict = {}
 
 class CamelliaDB:
-    def __init__(self, name, url, altNames, artists, songType, touhouOrigin, originalSong, duration, albums, gameAppearances, links, imgs, description, variations):
-        self.name = name
-        self.url = url
-        self.altNames = altNames
-        self.links = links
-        self.imgs = imgs
-        song_dict[f"{name}"] = self
+    def __init__(self, data):
+        for datapoint in data:
+            setattr(self, datapoint, data[datapoint])
+        song_dict[f"{data['name']}"] = self
 
 for file in os.listdir('CamelliaDB'):
     json_file = open(f'CamelliaDB/{file}', encoding='UTF-8')
     data = json.load(json_file)
-    CamelliaDB(**data)
+    CamelliaDB(data)
     json_file.close()
 
 intents = discord.Intents.default()
